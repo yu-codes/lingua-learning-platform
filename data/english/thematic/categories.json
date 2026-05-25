@@ -1,0 +1,142 @@
+{
+  "categories": [
+    {
+      "id": "daily-life",
+      "name": "日常生活",
+      "nameEn": "Daily Life Core",
+      "icon": "🟢",
+      "subcategories": [
+        { "id": "greetings", "name": "日常問候", "nameEn": "Greetings & Small Talk" },
+        { "id": "self-introduction", "name": "自我介紹", "nameEn": "Self Introduction" },
+        { "id": "daily-routine", "name": "日常行程", "nameEn": "Daily Routine" },
+        { "id": "family-life", "name": "家庭生活", "nameEn": "Family Life" },
+        { "id": "at-home", "name": "居家活動", "nameEn": "At Home" },
+        { "id": "shopping", "name": "購物", "nameEn": "Shopping" },
+        { "id": "dining-out", "name": "餐廳用餐", "nameEn": "Dining Out / Restaurant" },
+        { "id": "ordering-food", "name": "點餐", "nameEn": "Ordering Food" },
+        { "id": "payment", "name": "價格與付款", "nameEn": "Payment & Pricing" },
+        { "id": "time-date", "name": "時間與日期", "nameEn": "Time & Date" },
+        { "id": "weather", "name": "天氣", "nameEn": "Weather Talk" },
+        { "id": "health", "name": "身體狀況", "nameEn": "Health / Feeling / Symptoms" }
+      ]
+    },
+    {
+      "id": "transportation",
+      "name": "交通與旅遊",
+      "nameEn": "Transportation & Travel",
+      "icon": "🟡",
+      "subcategories": [
+        { "id": "public-transit", "name": "搭乘大眾運輸", "nameEn": "Bus / MRT / Train" },
+        { "id": "taxi", "name": "計程車 / Uber", "nameEn": "Taxi & Ride Sharing" },
+        { "id": "directions", "name": "問路", "nameEn": "Asking for Directions" },
+        { "id": "driving", "name": "開車相關", "nameEn": "Driving" },
+        { "id": "airport", "name": "機場流程", "nameEn": "Airport Procedures" },
+        { "id": "flights", "name": "飛行旅行", "nameEn": "Flights" },
+        { "id": "hotel", "name": "飯店住宿", "nameEn": "Hotel Check-in / Check-out" },
+        { "id": "sightseeing", "name": "旅遊行程", "nameEn": "Sightseeing / Itinerary" }
+      ]
+    },
+    {
+      "id": "work",
+      "name": "工作與職場",
+      "nameEn": "Work & Professional",
+      "icon": "🔵",
+      "subcategories": [
+        { "id": "office-routine", "name": "上班日常", "nameEn": "Office Routine" },
+        { "id": "meetings", "name": "會議", "nameEn": "Meetings" },
+        { "id": "email", "name": "電子郵件", "nameEn": "Email Communication" },
+        { "id": "presentation", "name": "報告與簡報", "nameEn": "Reporting / Presentation" },
+        { "id": "collaboration", "name": "專案合作", "nameEn": "Collaboration" },
+        { "id": "leave-scheduling", "name": "請假與排班", "nameEn": "Leave / Scheduling" },
+        { "id": "job-interview", "name": "面試", "nameEn": "Job Interview" },
+        { "id": "resume", "name": "履歷與自我介紹", "nameEn": "Resume / CV" },
+        { "id": "cross-team", "name": "跨部門溝通", "nameEn": "Cross-team Communication" },
+        { "id": "problem-solving", "name": "工作問題處理", "nameEn": "Problem Solving at Work" }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "社交與人際",
+      "nameEn": "Social Interaction",
+      "icon": "🟣",
+      "subcategories": [
+        { "id": "making-friends", "name": "交朋友", "nameEn": "Making Friends" },
+        { "id": "hobbies", "name": "談興趣", "nameEn": "Hobbies & Interests" },
+        { "id": "dating", "name": "約會", "nameEn": "Dating / Relationship" },
+        { "id": "emotions", "name": "談論感受", "nameEn": "Emotions" },
+        { "id": "politeness", "name": "禮貌用語", "nameEn": "Politeness / Requests" },
+        { "id": "apology-gratitude", "name": "道歉與感謝", "nameEn": "Apology / Gratitude" },
+        { "id": "small-talk", "name": "小聊天", "nameEn": "Small Talk Topics" }
+      ]
+    },
+    {
+      "id": "emergency",
+      "name": "緊急與問題處理",
+      "nameEn": "Emergency & Problems",
+      "icon": "🔴",
+      "subcategories": [
+        { "id": "medical", "name": "醫療緊急", "nameEn": "Medical Emergency" },
+        { "id": "lost-items", "name": "遺失物品", "nameEn": "Lost Items" },
+        { "id": "getting-lost", "name": "迷路", "nameEn": "Getting Lost" },
+        { "id": "police-help", "name": "報警 / 求助", "nameEn": "Police / Help Requests" },
+        { "id": "accidents", "name": "交通事故", "nameEn": "Accidents" },
+        { "id": "emergency-communication", "name": "緊急狀況溝通", "nameEn": "Emergency Communication" }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "教育與學習",
+      "nameEn": "Education & Learning",
+      "icon": "🟠",
+      "subcategories": [
+        { "id": "classroom", "name": "課堂互動", "nameEn": "Classroom English" },
+        { "id": "asking-questions", "name": "問問題", "nameEn": "Asking Questions" },
+        { "id": "study-discussion", "name": "學習討論", "nameEn": "Study Discussion" },
+        { "id": "exams", "name": "考試", "nameEn": "Exams / Tests" },
+        { "id": "online-learning", "name": "線上學習", "nameEn": "Online Learning" }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技與數位生活",
+      "nameEn": "Tech & Digital Life",
+      "icon": "🟤",
+      "subcategories": [
+        { "id": "computer", "name": "電腦操作", "nameEn": "Computer Use" },
+        { "id": "mobile-phone", "name": "手機使用", "nameEn": "Mobile Phone" },
+        { "id": "internet-social", "name": "網路與社群", "nameEn": "Internet / Social Media" },
+        { "id": "software", "name": "軟體使用", "nameEn": "Software Usage" },
+        { "id": "troubleshooting", "name": "技術問題", "nameEn": "Troubleshooting" },
+        { "id": "ai-tools", "name": "AI / 工具使用", "nameEn": "AI & Tools Interaction" }
+      ]
+    },
+    {
+      "id": "consumer",
+      "name": "消費與服務",
+      "nameEn": "Consumer & Services",
+      "icon": "⚫",
+      "subcategories": [
+        { "id": "banking", "name": "銀行與金融", "nameEn": "Banking" },
+        { "id": "customer-service", "name": "餐飲服務", "nameEn": "Customer Service" },
+        { "id": "returns", "name": "退換貨", "nameEn": "Returns / Refunds" },
+        { "id": "booking", "name": "預約服務", "nameEn": "Booking / Reservations" },
+        { "id": "telecom", "name": "電信服務", "nameEn": "Mobile / Internet Service" },
+        { "id": "delivery", "name": "物流與包裹", "nameEn": "Delivery / Shipping" }
+      ]
+    },
+    {
+      "id": "advanced",
+      "name": "進階溝通",
+      "nameEn": "Advanced Expression",
+      "icon": "🧠",
+      "subcategories": [
+        { "id": "opinions", "name": "表達意見", "nameEn": "Expressing Opinions" },
+        { "id": "agree-disagree", "name": "同意 / 反對", "nameEn": "Agree / Disagree" },
+        { "id": "explaining", "name": "推理與解釋", "nameEn": "Explaining Reasons" },
+        { "id": "comparisons", "name": "比較", "nameEn": "Comparisons" },
+        { "id": "advice", "name": "建議與意見", "nameEn": "Advice / Suggestions" },
+        { "id": "hypothetical", "name": "假設語氣", "nameEn": "If / Hypothetical Situations" }
+      ]
+    }
+  ]
+}

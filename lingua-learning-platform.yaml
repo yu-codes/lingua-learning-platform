@@ -1,0 +1,18 @@
+name: lingua-learning-platform
+description: "語言學習平台 - 提供多語言學習系統，包含日語50音、主題式英文等學習模組"
+framework: static
+languages:
+  - id: japanese
+    name: "日語"
+    icon: "🇯🇵"
+    systems:
+      - id: 50-sounds
+        name: "50音學習系統"
+        description: "學習日語平假名與片假名"
+  - id: english
+    name: "英語"
+    icon: "🇺🇸"
+    systems:
+      - id: thematic
+        name: "主題式英文學習系統"
+        description: "依照生活主題分類，學習實用英文句型"
