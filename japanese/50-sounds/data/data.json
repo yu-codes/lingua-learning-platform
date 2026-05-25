@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    {"kana": "あ", "romaji": "a"}, {"kana": "い", "romaji": "i"}, {"kana": "う", "romaji": "u"}, {"kana": "え", "romaji": "e"}, {"kana": "お", "romaji": "o"},
+    {"kana": "か", "romaji": "ka"}, {"kana": "き", "romaji": "ki"}, {"kana": "く", "romaji": "ku"}, {"kana": "け", "romaji": "ke"}, {"kana": "こ", "romaji": "ko"},
+    {"kana": "さ", "romaji": "sa"}, {"kana": "し", "romaji": "shi"}, {"kana": "す", "romaji": "su"}, {"kana": "せ", "romaji": "se"}, {"kana": "そ", "romaji": "so"},
+    {"kana": "た", "romaji": "ta"}, {"kana": "ち", "romaji": "chi"}, {"kana": "つ", "romaji": "tsu"}, {"kana": "て", "romaji": "te"}, {"kana": "と", "romaji": "to"},
+    {"kana": "な", "romaji": "na"}, {"kana": "に", "romaji": "ni"}, {"kana": "ぬ", "romaji": "nu"}, {"kana": "ね", "romaji": "ne"}, {"kana": "の", "romaji": "no"},
+    {"kana": "は", "romaji": "ha"}, {"kana": "ひ", "romaji": "hi"}, {"kana": "ふ", "romaji": "fu"}, {"kana": "へ", "romaji": "he"}, {"kana": "ほ", "romaji": "ho"},
+    {"kana": "ま", "romaji": "ma"}, {"kana": "み", "romaji": "mi"}, {"kana": "む", "romaji": "mu"}, {"kana": "め", "romaji": "me"}, {"kana": "も", "romaji": "mo"},
+    {"kana": "や", "romaji": "ya"}, {"kana": "", "romaji": ""}, {"kana": "ゆ", "romaji": "yu"}, {"kana": "", "romaji": ""}, {"kana": "よ", "romaji": "yo"},
+    {"kana": "ら", "romaji": "ra"}, {"kana": "り", "romaji": "ri"}, {"kana": "る", "romaji": "ru"}, {"kana": "れ", "romaji": "re"}, {"kana": "ろ", "romaji": "ro"},
+    {"kana": "わ", "romaji": "wa"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "を", "romaji": "wo"},
+    {"kana": "ん", "romaji": "n"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}
+  ],
+  "katakana": [
+    {"kana": "ア", "romaji": "a"}, {"kana": "イ", "romaji": "i"}, {"kana": "ウ", "romaji": "u"}, {"kana": "エ", "romaji": "e"}, {"kana": "オ", "romaji": "o"},
+    {"kana": "カ", "romaji": "ka"}, {"kana": "キ", "romaji": "ki"}, {"kana": "ク", "romaji": "ku"}, {"kana": "ケ", "romaji": "ke"}, {"kana": "コ", "romaji": "ko"},
+    {"kana": "サ", "romaji": "sa"}, {"kana": "シ", "romaji": "shi"}, {"kana": "ス", "romaji": "su"}, {"kana": "セ", "romaji": "se"}, {"kana": "ソ", "romaji": "so"},
+    {"kana": "タ", "romaji": "ta"}, {"kana": "チ", "romaji": "chi"}, {"kana": "ツ", "romaji": "tsu"}, {"kana": "テ", "romaji": "te"}, {"kana": "ト", "romaji": "to"},
+    {"kana": "ナ", "romaji": "na"}, {"kana": "ニ", "romaji": "ni"}, {"kana": "ヌ", "romaji": "nu"}, {"kana": "ネ", "romaji": "ne"}, {"kana": "ノ", "romaji": "no"},
+    {"kana": "ハ", "romaji": "ha"}, {"kana": "ヒ", "romaji": "hi"}, {"kana": "フ", "romaji": "fu"}, {"kana": "ヘ", "romaji": "he"}, {"kana": "ホ", "romaji": "ho"},
+    {"kana": "マ", "romaji": "ma"}, {"kana": "ミ", "romaji": "mi"}, {"kana": "ム", "romaji": "mu"}, {"kana": "メ", "romaji": "me"}, {"kana": "モ", "romaji": "mo"},
+    {"kana": "ヤ", "romaji": "ya"}, {"kana": "", "romaji": ""}, {"kana": "ユ", "romaji": "yu"}, {"kana": "", "romaji": ""}, {"kana": "ヨ", "romaji": "yo"},
+    {"kana": "ラ", "romaji": "ra"}, {"kana": "リ", "romaji": "ri"}, {"kana": "ル", "romaji": "ru"}, {"kana": "レ", "romaji": "re"}, {"kana": "ロ", "romaji": "ro"},
+    {"kana": "ワ", "romaji": "wa"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "ヲ", "romaji": "wo"},
+    {"kana": "ン", "romaji": "n"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}
+  ],
+  "dakuon_hiragana": [
+    {"kana": "が", "romaji": "ga"}, {"kana": "ぎ", "romaji": "gi"}, {"kana": "ぐ", "romaji": "gu"}, {"kana": "げ", "romaji": "ge"}, {"kana": "ご", "romaji": "go"},
+    {"kana": "ざ", "romaji": "za"}, {"kana": "じ", "romaji": "ji"}, {"kana": "ず", "romaji": "zu"}, {"kana": "ぜ", "romaji": "ze"}, {"kana": "ぞ", "romaji": "zo"},
+    {"kana": "だ", "romaji": "da"}, {"kana": "ぢ", "romaji": "di"}, {"kana": "づ", "romaji": "du"}, {"kana": "で", "romaji": "de"}, {"kana": "ど", "romaji": "do"},
+    {"kana": "ば", "romaji": "ba"}, {"kana": "び", "romaji": "bi"}, {"kana": "ぶ", "romaji": "bu"}, {"kana": "べ", "romaji": "be"}, {"kana": "ぼ", "romaji": "bo"}
+  ],
+  "handakuon_hiragana": [
+    {"kana": "ぱ", "romaji": "pa"}, {"kana": "ぴ", "romaji": "pi"}, {"kana": "ぷ", "romaji": "pu"}, {"kana": "ぺ", "romaji": "pe"}, {"kana": "ぽ", "romaji": "po"}
+  ],
+  "youon_hiragana": [
+    {"kana": "きゃ", "romaji": "kya"}, {"kana": "きゅ", "romaji": "kyu"}, {"kana": "きょ", "romaji": "kyo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "しゃ", "romaji": "sha"}, {"kana": "しゅ", "romaji": "shu"}, {"kana": "しょ", "romaji": "sho"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "ちゃ", "romaji": "cha"}, {"kana": "ちゅ", "romaji": "chu"}, {"kana": "ちょ", "romaji": "cho"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "にゃ", "romaji": "nya"}, {"kana": "にゅ", "romaji": "nyu"}, {"kana": "にょ", "romaji": "nyo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "ひゃ", "romaji": "hya"}, {"kana": "ひゅ", "romaji": "hyu"}, {"kana": "ひょ", "romaji": "hyo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "みゃ", "romaji": "mya"}, {"kana": "みゅ", "romaji": "myu"}, {"kana": "みょ", "romaji": "myo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "りゃ", "romaji": "rya"}, {"kana": "りゅ", "romaji": "ryu"}, {"kana": "りょ", "romaji": "ryo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "ぎゃ", "romaji": "gya"}, {"kana": "ぎゅ", "romaji": "gyu"}, {"kana": "ぎょ", "romaji": "gyo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "じゃ", "romaji": "ja"}, {"kana": "じゅ", "romaji": "ju"}, {"kana": "じょ", "romaji": "jo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "びゃ", "romaji": "bya"}, {"kana": "びゅ", "romaji": "byu"}, {"kana": "びょ", "romaji": "byo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""},
+    {"kana": "ぴゃ", "romaji": "pya"}, {"kana": "ぴゅ", "romaji": "pyu"}, {"kana": "ぴょ", "romaji": "pyo"}, {"kana": "", "romaji": ""}, {"kana": "", "romaji": ""}
+  ]
+}
