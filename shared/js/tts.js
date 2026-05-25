@@ -7,6 +7,7 @@ const TTS = (() => {
     let currentUtterance = null;
     let isSpeaking = false;
     let speakTimeout = null;
+    let speechRate = 1.0;
 
     function speak(text, lang = 'en-US', onEnd = null) {
         // Clear any pending speak
@@ -31,7 +32,7 @@ const TTS = (() => {
             speakTimeout = null;
             const utterance = new SpeechSynthesisUtterance(text);
             utterance.lang = lang;
-            utterance.rate = 0.85;
+            utterance.rate = speechRate;
             utterance.pitch = 1;
             utterance.volume = 1;
 
@@ -84,9 +85,17 @@ const TTS = (() => {
         }
     }
 
+    function setRate(r) {
+        speechRate = parseFloat(r) || 1.0;
+    }
+
+    function getRate() {
+        return speechRate;
+    }
+
     function getIsSpeaking() {
         return isSpeaking;
     }
 
-    return { speak, stop, pause, resume, getIsSpeaking };
+    return { speak, stop, pause, resume, setRate, getRate, getIsSpeaking };
 })();

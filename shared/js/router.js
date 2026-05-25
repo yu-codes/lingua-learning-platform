@@ -3,8 +3,6 @@
  * Handles hash-based navigation and delegates to appropriate module
  */
 const Router = (() => {
-    let expandedLang = null;
-
     const langData = {
         japanese: { name: '日語', label: 'Japanese', systems: [
             { id: '50-sounds', name: '50音學習系統', desc: '平假名與片假名基礎發音訓練' }
@@ -78,37 +76,55 @@ const Router = (() => {
 
     function renderLanguageCard(lang) {
         const data = langData[lang];
-        const isExpanded = expandedLang === lang;
-
-        const systemsHtml = isExpanded ? `
-            <div class="system-list">
-                ${data.systems.map(s => `
-                    <div class="system-item" onclick="event.stopPropagation(); Router.navigate('${lang}/${s.id}')">
-                        <div>
-                            <div class="system-name">${s.name}</div>
-                            <div class="system-desc">${s.desc}</div>
-                        </div>
-                        <span class="system-arrow">&#9654;</span>
-                    </div>
-                `).join('')}
-            </div>
-        ` : '';
 
         return `
-            <div class="language-card ${isExpanded ? 'expanded' : ''}" onclick="Router.toggleLang('${lang}')">
+            <div class="language-card" onclick="Router.showSystemModal('${lang}')">
                 <div class="card-label">${data.label}</div>
                 <div class="card-header">
                     <h3>${data.name}</h3>
                     <span class="card-arrow">&#9654;</span>
                 </div>
-                ${systemsHtml}
             </div>
         `;
     }
 
+    function showSystemModal(lang) {
+        // Remove existing modal if any
+        const existing = document.getElementById('lang-modal-overlay');
+        if (existing) { existing.remove(); return; }
+
+        const data = langData[lang];
+        const overlay = document.createElement('div');
+        overlay.id = 'lang-modal-overlay';
+        overlay.className = 'lang-modal-overlay';
+        overlay.addEventListener('click', (e) => {
+            if (e.target === overlay) overlay.remove();
+        });
+
+        overlay.innerHTML = `
+            <div class="lang-modal">
+                <div class="lang-modal-header">
+                    <span class="lang-modal-label">${data.label}</span>
+                    <span class="lang-modal-title">${data.name}</span>
+                    <span class="lang-modal-close" onclick="document.getElementById('lang-modal-overlay').remove()">&#10005;</span>
+                </div>
+                ${data.systems.map(s => `
+                    <div class="lang-modal-system-item" onclick="document.getElementById('lang-modal-overlay').remove(); Router.navigate('${lang}/${s.id}')">
+                        <div>
+                            <div class="lang-modal-system-name">${s.name}</div>
+                            <div class="lang-modal-system-desc">${s.desc}</div>
+                        </div>
+                        <span class="lang-modal-system-arrow">&#9654;</span>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+
+        document.body.appendChild(overlay);
+    }
+
     function toggleLang(lang) {
-        expandedLang = expandedLang === lang ? null : lang;
-        renderHome();
+        showSystemModal(lang);
     }
 
     function navigate(path) {
@@ -116,7 +132,7 @@ const Router = (() => {
         window.location.hash = path ? `#/${path}` : '#/';
     }
 
-    return { init, navigate, toggleLang, renderTopbar, langData };
+    return { init, navigate, toggleLang, showSystemModal, renderTopbar, langData };
 })();
 
 document.addEventListener('DOMContentLoaded', Router.init);

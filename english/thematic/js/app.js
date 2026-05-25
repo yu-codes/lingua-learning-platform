@@ -170,6 +170,14 @@ const EnglishThematic = (() => {
                     <option value="all">全部循環</option>
                     <option value="single">單句循環</option>
                 </select>
+                <select id="rate-select" onchange="EnglishThematic.setSpeechRate(this.value)" title="語速">
+                    <option value="0.5">0.5x</option>
+                    <option value="0.75">0.75x</option>
+                    <option value="1" selected>1x</option>
+                    <option value="1.25">1.25x</option>
+                    <option value="1.5">1.5x</option>
+                    <option value="2">2x</option>
+                </select>
                 <span class="player-status" id="player-status"></span>
             </div>
             <div class="sentence-list">
@@ -241,6 +249,10 @@ const EnglishThematic = (() => {
         Player.stop();
     }
 
+    function setSpeechRate(val) {
+        TTS.setRate(parseFloat(val));
+    }
+
     function setLoop(mode) {
         Player.setLoopMode(mode);
         const status = document.getElementById('player-status');
@@ -282,6 +294,6 @@ const EnglishThematic = (() => {
     return {
         render, toggleCategory,
         playerPlay, playerPause, playerStop,
-        setLoop, toggleSingleLoop, speakSingle
+        setLoop, setSpeechRate, toggleSingleLoop, speakSingle
     };
 })();
