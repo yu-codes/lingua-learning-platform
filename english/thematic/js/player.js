@@ -9,8 +9,9 @@ const Player = (() => {
     let isPlaying = false;
     let isPaused = false;
     let loopMode = 'none'; // 'none', 'all', 'single'
-    let singleLoopIndex = -1; // which sentence to loop in single mode
+    let singleLoopIndex = -1;
     let onStateChange = null;
+    let playGeneration = 0; // Used to invalidate stale callbacks
 
     function setSentences(data) {
         sentences = data;
@@ -46,6 +47,7 @@ const Player = (() => {
         isPlaying = true;
         isPaused = false;
         currentIndex = startIndex;
+        playGeneration++;
         speakCurrent();
         notifyStateChange();
     }
@@ -60,6 +62,7 @@ const Player = (() => {
     function resume() {
         if (!isPaused) return;
         isPaused = false;
+        playGeneration++;
         speakCurrent();
         notifyStateChange();
     }
@@ -67,9 +70,20 @@ const Player = (() => {
     function stop() {
         isPlaying = false;
         isPaused = false;
+        playGeneration++; // Invalidate any pending callbacks
         TTS.stop();
         currentIndex = -1;
         clearPlayingHighlight();
+        notifyStateChange();
+    }
+
+    function switchToSentence(index) {
+        // Safely switch to a different sentence during playback
+        if (!isPlaying) return;
+        playGeneration++; // Invalidate current callback
+        TTS.stop();
+        currentIndex = index;
+        speakCurrent();
         notifyStateChange();
     }
 
@@ -80,7 +94,10 @@ const Player = (() => {
         const sentence = sentences[currentIndex];
         highlightSentence(currentIndex);
 
+        const gen = playGeneration;
         TTS.speak(sentence.en, 'en-US', () => {
+            // Ignore callback if generation changed (stop/switch happened)
+            if (gen !== playGeneration) return;
             if (!isPlaying || isPaused) return;
             onSentenceEnd();
         });
@@ -88,7 +105,6 @@ const Player = (() => {
 
     function onSentenceEnd() {
         if (loopMode === 'single') {
-            // In single mode, loop the selected sentence
             const targetIdx = singleLoopIndex >= 0 ? singleLoopIndex : currentIndex;
             currentIndex = targetIdx;
             speakCurrent();
@@ -153,7 +169,7 @@ const Player = (() => {
     return {
         setSentences, setLoopMode, getLoopMode,
         setSingleLoopIndex, getSingleLoopIndex,
-        play, pause, resume, stop,
+        play, pause, resume, stop, switchToSentence,
         getState, setOnStateChange
     };
 })();

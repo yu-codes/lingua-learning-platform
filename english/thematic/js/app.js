@@ -24,16 +24,24 @@ const EnglishThematic = (() => {
             }
         }
 
+        // Build breadcrumbs
+        const breadcrumbs = [
+            { name: '首頁', path: '' },
+            { name: '英語', path: '' }
+        ];
+        if (categoryId && subcategoryId) {
+            const cat = categoriesData.categories.find(c => c.id === categoryId);
+            const sub = cat ? cat.subcategories.find(s => s.id === subcategoryId) : null;
+            breadcrumbs.push({ name: '主題式英文', path: 'english/thematic' });
+            if (sub) {
+                breadcrumbs.push({ name: sub.name, path: `english/thematic/${categoryId}/${subcategoryId}` });
+            }
+        } else {
+            breadcrumbs.push({ name: '主題式英文', path: 'english/thematic' });
+        }
+
         document.getElementById('app').innerHTML = `
-            <div class="header">
-                <button class="back-btn" onclick="Router.navigate('english')">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-                    返回
-                </button>
-                <div class="brand">
-                    <h1>主題式英文學習系統</h1>
-                </div>
-            </div>
+            ${Router.renderTopbar(breadcrumbs)}
             <div class="thematic-layout">
                 <div class="sidebar" id="sidebar"></div>
                 <div class="content-area" id="content-area"></div>
@@ -65,13 +73,12 @@ const EnglishThematic = (() => {
             'advanced': '#06b6d4'
         };
 
-        let globalSubIndex = 0;
         sidebar.innerHTML = categoriesData.categories.map(cat => {
             const isExpanded = cat.id === activeCategoryId;
             const color = colors[cat.id] || '#6b7280';
-            const subcatsHtml = cat.subcategories.map(sub => {
-                globalSubIndex++;
-                const num = String(globalSubIndex).padStart(2, '0');
+            // Per-category numbering: restart from 1 for each category
+            const subcatsHtml = cat.subcategories.map((sub, idx) => {
+                const num = String(idx + 1).padStart(2, '0');
                 return `
                     <div class="sidebar-subcategory ${sub.id === activeSubcategoryId ? 'active' : ''}"
                          onclick="Router.navigate('english/thematic/${cat.id}/${sub.id}')">
@@ -250,13 +257,10 @@ const EnglishThematic = (() => {
             Player.setLoopMode('single');
             Player.setSingleLoopIndex(index);
             document.getElementById('loop-select').value = 'single';
-            // If already playing, switch to this sentence
+            // If already playing, safely switch to this sentence
             const state = Player.getState();
             if (state.isPlaying) {
-                Player.stop();
-                Player.setLoopMode('single');
-                Player.setSingleLoopIndex(index);
-                Player.play(index);
+                Player.switchToSentence(index);
             }
         }
     }
