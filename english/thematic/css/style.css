@@ -357,3 +357,13 @@
         padding: 0.7rem;
     }
 }
+
+/* Comfortable hit areas on touch devices. Lives here rather than base.css
+   because this stylesheet loads last and would otherwise win. */
+@media (pointer: coarse), (max-width: 768px) {
+    .speak-btn { width: 40px; height: 40px; }
+    .sentence-item .loop-btn,
+    .sentence-item button { min-height: 40px; min-width: 40px; }
+    .player-btn { min-height: 42px; }
+    .player-controls select { min-height: 42px; }
+}
