@@ -64,8 +64,9 @@ const Router = (() => {
         document.getElementById('app').innerHTML = `
             ${renderTopbar()}
             <div class="home-container">
-                <h1 class="home-title">Lingua Learning Platform</h1>
-                <p class="home-subtitle">選擇語言，開始您的學習旅程</p>
+                <div class="home-eyebrow"><span class="dot"></span>Lingua Network</div>
+                <h1 class="home-title">Lingua <span class="grad">Learning</span> Platform</h1>
+                <p class="home-subtitle">在漂浮的語料星圖之間，選一條路徑開始。日語五十音、英語主題句型 — 內容清晰，背景安靜。</p>
                 <div class="language-grid">
                     ${renderLanguageCard('japanese')}
                     ${renderLanguageCard('english')}

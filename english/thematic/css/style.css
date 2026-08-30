@@ -34,7 +34,7 @@
 }
 
 .sidebar-category-title:hover {
-    background: rgba(59, 130, 246, 0.05);
+    background: rgba(34, 211, 238, 0.05);
     color: var(--text-primary);
 }
 
@@ -86,12 +86,12 @@
 }
 
 .sidebar-subcategory:hover {
-    background: rgba(59, 130, 246, 0.08);
+    background: rgba(34, 211, 238, 0.08);
     color: var(--text-primary);
 }
 
 .sidebar-subcategory.active {
-    background: rgba(59, 130, 246, 0.1);
+    background: rgba(34, 211, 238, 0.1);
     color: var(--accent);
     border-left-color: var(--accent);
     font-weight: 500;
@@ -217,7 +217,7 @@
 
 .sentence-item.playing {
     border-color: var(--accent);
-    background: rgba(59, 130, 246, 0.05);
+    background: rgba(34, 211, 238, 0.05);
     box-shadow: 0 0 0 1px var(--accent-glow);
 }
 

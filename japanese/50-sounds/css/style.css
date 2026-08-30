@@ -120,8 +120,8 @@
 
 .sound-card.playing {
     border-color: var(--accent);
-    background: rgba(59, 130, 246, 0.1);
-    box-shadow: 0 0 12px rgba(59, 130, 246, 0.15);
+    background: rgba(34, 211, 238, 0.1);
+    box-shadow: 0 0 12px rgba(34, 211, 238, 0.15);
 }
 
 .sound-card.empty {
