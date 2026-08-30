@@ -95,17 +95,20 @@ const ParticleField = (() => {
         ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
         sync();
         pairAge = 0;
-        if (paused || reduced) drawFrame();   // keep a static field visible
+        if (paused) drawFrame();   // keep a static field visible
     }
 
-    function step(dt) {
+    function step() {
         const t = performance.now() * 0.001;
+        // Honour reduce-motion by calming the field rather than freezing it.
+        const scale = reduced ? 0.35 : 1;
         for (const p of particles) {
-            p.x += p.vx;
-            p.y += p.vy;
-            p.alpha = p.baseAlpha + Math.sin(t * p.pulseSpeed + p.pulseOffset) * 0.1;
+            p.x += p.vx * scale;
+            p.y += p.vy * scale;
+            p.alpha = reduced ? p.baseAlpha
+                              : p.baseAlpha + Math.sin(t * p.pulseSpeed + p.pulseOffset) * 0.1;
 
-            if (mouse.x !== null) {
+            if (mouse.x !== null && !reduced) {
                 const dx = mouse.x - p.x;
                 const dy = mouse.y - p.y;
                 const d = Math.hypot(dx, dy);
@@ -183,7 +186,7 @@ const ParticleField = (() => {
             if (el) el.textContent = 'FPS ' + fps;
         }
 
-        if (!paused && !reduced) step();
+        if (!paused) step();
         drawFrame();
     }
 
@@ -250,7 +253,7 @@ const ParticleField = (() => {
 
     function init() {
         reduced = prefersReducedMotion();
-        paused = load('lingua-pf-paused', reduced);
+        paused = load('lingua-pf-paused', false);
         connections = load('lingua-pf-conn', true);
 
         canvas = document.createElement('canvas');
@@ -270,6 +273,10 @@ const ParticleField = (() => {
         document.addEventListener('visibilitychange', () => {
             if (document.hidden) stop(); else start();
         });
+        // Safari/Chrome on mobile restore from the bfcache without firing
+        // visibilitychange, which would leave the field frozen.
+        window.addEventListener('pageshow', start);
+        window.addEventListener('focus', start);
 
         start();
     }

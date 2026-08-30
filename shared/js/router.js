@@ -12,25 +12,6 @@ const Router = (() => {
             systems: [
                 { id: '50-sounds', name: '50音學習系統', desc: '平假名、片假名、濁音與拗音的發音訓練', tag: '發音' }
             ],
-            stats: [
-                { key: 'systems', label: '學習系統' },
-                { key: 'units', label: '假名' },
-                { key: 'groups', label: '音節分類' }
-            ],
-            async load() {
-                const d = await fetchJSON('japanese/50-sounds/data/data.json');
-                if (!d) return null;
-                const groups = Object.keys(d);
-                return {
-                    systems: this.systems.length,
-                    units: groups.reduce((n, k) => n + d[k].length, 0),
-                    groups: groups.length,
-                    topics: [
-                        { name: '平假名' }, { name: '片假名' }, { name: '濁音' },
-                        { name: '半濁音' }, { name: '拗音' }
-                    ]
-                };
-            }
         },
         english: {
             name: '英語', label: 'English', glyph: 'Aa',
@@ -38,34 +19,8 @@ const Router = (() => {
             systems: [
                 { id: 'thematic', name: '主題式英文學習系統', desc: '依照生活主題分類的實用英文句型', tag: '句型' }
             ],
-            stats: [
-                { key: 'systems', label: '學習系統' },
-                { key: 'units', label: '主題' },
-                { key: 'groups', label: '分類' }
-            ],
-            async load() {
-                const d = await fetchJSON('english/thematic/data/categories.json');
-                if (!d || !d.categories) return null;
-                return {
-                    systems: this.systems.length,
-                    units: d.categories.reduce((n, c) => n + (c.subcategories || []).length, 0),
-                    groups: d.categories.length,
-                    topics: d.categories.map(c => ({ name: c.name, path: `english/thematic/${c.id}` }))
-                };
-            }
         }
     };
-
-    const statsCache = {};
-
-    async function fetchJSON(url) {
-        try {
-            const r = await fetch(url);
-            return r.ok ? await r.json() : null;
-        } catch (e) {
-            return null;
-        }
-    }
 
     function init() {
         window.addEventListener('hashchange', handleRoute);
@@ -136,11 +91,6 @@ const Router = (() => {
                     <div class="home-eyebrow"><span class="dot"></span>Lingua Network</div>
                     <h1 class="home-title">讓每一種語言<br>都<span class="grad">練成直覺</span></h1>
                     <p class="home-subtitle">選一種語言，進入它的學習系統。發音、詞彙與句型都拆成可反覆練習的最小單位，隨時聽、隨時跟讀。</p>
-                    <div class="hero-stats" id="hero-stats">
-                        <div class="hero-stat"><b>${langs.length}</b><span>語言</span></div>
-                        <div class="hero-stat"><b id="hs-systems">—</b><span>學習系統</span></div>
-                        <div class="hero-stat"><b id="hs-topics">—</b><span>可練習單元</span></div>
-                    </div>
                 </header>
 
                 <div class="lang-grid">
@@ -148,16 +98,10 @@ const Router = (() => {
                 </div>
             </div>
         `;
-
-        hydrateHome();
     }
 
     function renderLanguagePanel(lang) {
         const d = langData[lang];
-        const stats = d.stats.map(s =>
-            `<div class="lang-stat"><b id="st-${lang}-${s.key}">—</b><span>${s.label}</span></div>`
-        ).join('');
-
         const systems = d.systems.map(s => `
             <button class="lang-system" type="button" onclick="Router.navigate('${lang}/${s.id}')">
                 <span class="lang-system-tag">${s.tag}</span>
@@ -179,50 +123,9 @@ const Router = (() => {
                         <p class="lang-tagline">${d.tagline}</p>
                     </div>
                 </div>
-                <div class="lang-stats">${stats}</div>
                 <div class="lang-systems">${systems}</div>
-                <div class="lang-topics" id="topics-${lang}"></div>
             </article>
         `;
-    }
-
-    async function hydrateHome() {
-        const langs = Object.keys(langData);
-        const results = await Promise.all(langs.map(async lang => {
-            if (!statsCache[lang]) statsCache[lang] = await langData[lang].load();
-            return [lang, statsCache[lang]];
-        }));
-
-        let systems = 0, topics = 0;
-
-        results.forEach(([lang, s]) => {
-            if (!s) return;
-            systems += s.systems || 0;
-            topics += s.units || 0;
-
-            langData[lang].stats.forEach(st => {
-                const el = document.getElementById(`st-${lang}-${st.key}`);
-                if (el && s[st.key] != null) el.textContent = s[st.key];
-            });
-
-            const host = document.getElementById(`topics-${lang}`);
-            if (!host || !s.topics || !s.topics.length) return;
-            const shown = s.topics.slice(0, 8);
-            host.innerHTML = `
-                <span class="lang-topics-cap">收錄主題</span>
-                <span class="lang-topics-list">
-                    ${shown.map(tp => tp.path
-                        ? `<button class="topic-chip is-link" type="button" onclick="Router.navigate('${tp.path}')">${tp.name}</button>`
-                        : `<span class="topic-chip">${tp.name}</span>`).join('')}
-                    ${s.topics.length > shown.length ? `<span class="topic-chip is-more">+${s.topics.length - shown.length}</span>` : ''}
-                </span>
-            `;
-        });
-
-        const a = document.getElementById('hs-systems');
-        const b = document.getElementById('hs-topics');
-        if (a) a.textContent = systems || '—';
-        if (b) b.textContent = topics || '—';
     }
 
     function showSystemModal(lang) {

@@ -43,12 +43,27 @@ const EnglishThematic = (() => {
         document.getElementById('app').innerHTML = `
             ${Router.renderTopbar(breadcrumbs)}
             <div class="thematic-layout">
+                <button class="topic-toggle" id="topic-toggle" type="button"
+                        aria-controls="sidebar" aria-expanded="false"
+                        onclick="EnglishThematic.toggleTopicMenu()">
+                    <span class="topic-toggle-icon" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                            <path d="M4 6h16M4 12h16M4 18h10"/>
+                        </svg>
+                    </span>
+                    <span class="topic-toggle-body">
+                        <span class="topic-toggle-cap">學習主題</span>
+                        <span class="topic-toggle-now" id="topic-toggle-now">選擇一個主題</span>
+                    </span>
+                    <span class="topic-toggle-arrow" aria-hidden="true">&#9662;</span>
+                </button>
                 <div class="sidebar" id="sidebar"></div>
                 <div class="content-area" id="content-area"></div>
             </div>
         `;
 
         renderSidebar(categoryId, subcategoryId);
+        setTopicMenu(!(categoryId && subcategoryId), currentSubName(categoryId, subcategoryId));
 
         if (categoryId && subcategoryId) {
             loadSubcategoryContent(categoryId, subcategoryId);
@@ -81,7 +96,7 @@ const EnglishThematic = (() => {
                 const num = String(idx + 1).padStart(2, '0');
                 return `
                     <div class="sidebar-subcategory ${sub.id === activeSubcategoryId ? 'active' : ''}"
-                         onclick="Router.navigate('english/thematic/${cat.id}/${sub.id}')">
+                         onclick="EnglishThematic.pickTopic('${cat.id}', '${sub.id}')">
                         <span class="sub-num">${num}</span>
                         ${sub.name}
                     </div>
@@ -102,6 +117,34 @@ const EnglishThematic = (() => {
                 </div>
             `;
         }).join('');
+    }
+
+    function currentSubName(categoryId, subcategoryId) {
+        if (!categoryId || !subcategoryId || !categoriesData) return null;
+        const cat = categoriesData.categories.find(c => c.id === categoryId);
+        const sub = cat && cat.subcategories.find(s => s.id === subcategoryId);
+        return sub ? `${cat.name} · ${sub.name}` : null;
+    }
+
+    function setTopicMenu(open, label) {
+        const sidebar = document.getElementById('sidebar');
+        const toggle = document.getElementById('topic-toggle');
+        const now = document.getElementById('topic-toggle-now');
+        if (!sidebar || !toggle) return;
+        sidebar.classList.toggle('is-open', open);
+        toggle.classList.toggle('is-open', open);
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (now && label) now.textContent = label;
+    }
+
+    function pickTopic(catId, subId) {
+        setTopicMenu(false);
+        Router.navigate(`english/thematic/${catId}/${subId}`);
+    }
+
+    function toggleTopicMenu() {
+        const sidebar = document.getElementById('sidebar');
+        if (sidebar) setTopicMenu(!sidebar.classList.contains('is-open'));
     }
 
     function toggleCategory(catId) {
@@ -294,6 +337,5 @@ const EnglishThematic = (() => {
     return {
         render, toggleCategory,
         playerPlay, playerPause, playerStop,
-        setLoop, setSpeechRate, toggleSingleLoop, speakSingle
-    };
+        setLoop, setSpeechRate, toggleSingleLoop, speakSingle, toggleTopicMenu, pickTopic };
 })();
