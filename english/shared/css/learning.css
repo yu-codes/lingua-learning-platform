@@ -417,3 +417,25 @@
     .gr-toc button { min-height: 42px; }
     .vocab-theme-card, .gr-part-card { min-height: 84px; }
 }
+
+
+/* ===== Japanese-specific: reading above the headword ===== */
+.vocab-headword { display: flex; flex-direction: column; gap: 0.05rem; }
+.vocab-reading { display: flex; align-items: baseline; gap: 0.4rem; line-height: 1.2; }
+.vocab-kana { font-size: 0.72rem; color: var(--accent); }
+.vocab-romaji { font-size: 0.66rem; color: var(--text-muted); font-family: var(--font-mono); }
+
+/* Thematic sentence list */
+.sent-kana { font-size: 0.78rem; line-height: 1.6; color: var(--accent); margin-top: 0.1rem; }
+.sent-num {
+    flex-shrink: 0;
+    align-self: flex-start;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    color: var(--text-muted);
+}
+.sent-item.playing {
+    border-color: rgba(34, 211, 238, 0.55);
+    background: rgba(34, 211, 238, 0.09);
+}
+.gr-ex-reading { font-size: 0.78rem; line-height: 1.6; color: var(--accent); margin-top: 0.1rem; }

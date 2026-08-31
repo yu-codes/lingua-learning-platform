@@ -10,7 +10,10 @@ const Router = (() => {
             name: '日語', label: 'Japanese', glyph: 'あ',
             tagline: '從假名開始，把發音練成反射動作。',
             systems: [
-                { id: '50-sounds', name: '50音學習系統', desc: '平假名、片假名、濁音與拗音的發音訓練', tag: '發音' }
+                { id: '50-sounds', name: '50音學習系統', desc: '平假名、片假名、濁音與拗音的發音訓練', tag: '發音' },
+                { id: 'thematic', name: '主題式日語學習系統', desc: '依生活場景分類的實用日語句型', tag: '句型' },
+                { id: 'vocabulary', name: '核心單字', desc: '依主題分類的高頻單字，附假名、羅馬字與例句', tag: '單字' },
+                { id: 'grammar', name: '日語文法體系', desc: '從助詞、動詞變化到敬語的完整文法架構', tag: '文法' }
             ],
         },
         english: {
@@ -37,6 +40,12 @@ const Router = (() => {
             renderHome();
         } else if (parts[0] === 'japanese' && parts[1] === '50-sounds') {
             JapaneseFiftySounds.render();
+        } else if (parts[0] === 'japanese' && parts[1] === 'vocabulary') {
+            JapaneseVocabulary.render(parts[2] || null);
+        } else if (parts[0] === 'japanese' && parts[1] === 'grammar') {
+            JapaneseGrammar.render(parts[2] || null);
+        } else if (parts[0] === 'japanese' && parts[1] === 'thematic') {
+            JapaneseThematic.render(parts[2] || null, parts[3] || null);
         } else if (parts[0] === 'english' && parts[1] === 'thematic') {
             const category = parts[2] || null;
             const subcategory = parts[3] || null;

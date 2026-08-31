@@ -1,0 +1,196 @@
+{
+ "categories": [
+  {
+   "id": "daily-life",
+   "name": "日常生活",
+   "nameEn": "Daily Life",
+   "color": "#34d399",
+   "subcategories": [
+    {
+     "id": "greetings",
+     "name": "挨拶"
+    },
+    {
+     "id": "self-intro",
+     "name": "自己紹介"
+    },
+    {
+     "id": "daily-routine",
+     "name": "一日の生活"
+    },
+    {
+     "id": "weather",
+     "name": "天気の話"
+    }
+   ]
+  },
+  {
+   "id": "dining",
+   "name": "餐飲",
+   "nameEn": "Dining",
+   "color": "#f59e0b",
+   "subcategories": [
+    {
+     "id": "restaurant",
+     "name": "レストランで"
+    },
+    {
+     "id": "ordering",
+     "name": "注文する"
+    },
+    {
+     "id": "cafe",
+     "name": "カフェ・コンビニ"
+    },
+    {
+     "id": "taste",
+     "name": "味と感想"
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "name": "旅遊交通",
+   "nameEn": "Travel",
+   "color": "#60a5fa",
+   "subcategories": [
+    {
+     "id": "station",
+     "name": "駅・電車"
+    },
+    {
+     "id": "directions",
+     "name": "道を聞く"
+    },
+    {
+     "id": "hotel",
+     "name": "ホテル"
+    },
+    {
+     "id": "sightseeing",
+     "name": "観光"
+    }
+   ]
+  },
+  {
+   "id": "shopping",
+   "name": "購物",
+   "nameEn": "Shopping",
+   "color": "#a78bfa",
+   "subcategories": [
+    {
+     "id": "browsing",
+     "name": "店で探す"
+    },
+    {
+     "id": "price",
+     "name": "値段と支払い"
+    },
+    {
+     "id": "fitting",
+     "name": "試着とサイズ"
+    },
+    {
+     "id": "returns",
+     "name": "交換と返品"
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "name": "職場",
+   "nameEn": "Workplace",
+   "color": "#22d3ee",
+   "subcategories": [
+    {
+     "id": "phone",
+     "name": "電話応対"
+    },
+    {
+     "id": "meeting",
+     "name": "会議"
+    },
+    {
+     "id": "reporting",
+     "name": "報告・連絡・相談"
+    },
+    {
+     "id": "requests",
+     "name": "依頼と調整"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "name": "人際",
+   "nameEn": "Social",
+   "color": "#f472b6",
+   "subcategories": [
+    {
+     "id": "inviting",
+     "name": "誘う・断る"
+    },
+    {
+     "id": "apology",
+     "name": "謝る・お礼"
+    },
+    {
+     "id": "smalltalk",
+     "name": "雑談"
+    },
+    {
+     "id": "compliment",
+     "name": "褒める・励ます"
+    }
+   ]
+  },
+  {
+   "id": "trouble",
+   "name": "問題處理",
+   "nameEn": "Trouble",
+   "color": "#f87171",
+   "subcategories": [
+    {
+     "id": "health",
+     "name": "体調不良"
+    },
+    {
+     "id": "lost",
+     "name": "落とし物・トラブル"
+    },
+    {
+     "id": "complaint",
+     "name": "苦情を言う"
+    },
+    {
+     "id": "help",
+     "name": "助けを求める"
+    }
+   ]
+  },
+  {
+   "id": "school",
+   "name": "學習",
+   "nameEn": "School",
+   "color": "#fbbf24",
+   "subcategories": [
+    {
+     "id": "class",
+     "name": "授業"
+    },
+    {
+     "id": "study",
+     "name": "勉強の相談"
+    },
+    {
+     "id": "campus",
+     "name": "キャンパス"
+    },
+    {
+     "id": "exam",
+     "name": "試験"
+    }
+   ]
+  }
+ ]
+}

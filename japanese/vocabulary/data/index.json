@@ -1,0 +1,124 @@
+{
+ "themes": [
+  {
+   "id": "basic-nouns",
+   "name": "基礎名詞",
+   "nameEn": "Basic Nouns",
+   "count": 101
+  },
+  {
+   "id": "basic-verbs",
+   "name": "基礎動詞",
+   "nameEn": "Basic Verbs",
+   "count": 100
+  },
+  {
+   "id": "adjectives",
+   "name": "形容詞",
+   "nameEn": "Adjectives",
+   "count": 92
+  },
+  {
+   "id": "people-family",
+   "name": "人物與家庭",
+   "nameEn": "People & Family",
+   "count": 54
+  },
+  {
+   "id": "time-date",
+   "name": "時間與日期",
+   "nameEn": "Time & Date",
+   "count": 60
+  },
+  {
+   "id": "numbers",
+   "name": "數字與量詞",
+   "nameEn": "Numbers & Counters",
+   "count": 46
+  },
+  {
+   "id": "body-health",
+   "name": "身體與健康",
+   "nameEn": "Body & Health",
+   "count": 49
+  },
+  {
+   "id": "food-drink",
+   "name": "食物與飲料",
+   "nameEn": "Food & Drink",
+   "count": 54
+  },
+  {
+   "id": "house-living",
+   "name": "居家生活",
+   "nameEn": "Home & Living",
+   "count": 51
+  },
+  {
+   "id": "clothing",
+   "name": "服飾與購物",
+   "nameEn": "Clothing & Shopping",
+   "count": 45
+  },
+  {
+   "id": "transport",
+   "name": "交通與旅行",
+   "nameEn": "Transport & Travel",
+   "count": 52
+  },
+  {
+   "id": "places",
+   "name": "城市與場所",
+   "nameEn": "Places",
+   "count": 45
+  },
+  {
+   "id": "school",
+   "name": "學校與學習",
+   "nameEn": "School & Study",
+   "count": 48
+  },
+  {
+   "id": "work-business",
+   "name": "職場與商務",
+   "nameEn": "Work & Business",
+   "count": 49
+  },
+  {
+   "id": "nature-weather",
+   "name": "自然與天氣",
+   "nameEn": "Nature & Weather",
+   "count": 52
+  },
+  {
+   "id": "emotions",
+   "name": "情緒與個性",
+   "nameEn": "Emotions & Personality",
+   "count": 54
+  },
+  {
+   "id": "communication",
+   "name": "溝通與表達",
+   "nameEn": "Communication",
+   "count": 52
+  },
+  {
+   "id": "society",
+   "name": "社會與媒體",
+   "nameEn": "Society & Media",
+   "count": 48
+  },
+  {
+   "id": "technology",
+   "name": "科技與工具",
+   "nameEn": "Technology & Tools",
+   "count": 48
+  },
+  {
+   "id": "adverbs",
+   "name": "副詞與接續詞",
+   "nameEn": "Adverbs & Connectives",
+   "count": 62
+  }
+ ]
+}

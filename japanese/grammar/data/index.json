@@ -1,0 +1,95 @@
+{
+ "parts": [
+  {
+   "id": "part-01",
+   "no": 1,
+   "title": "日語句子的基本結構",
+   "subtitle": "Sentence Structure",
+   "sections": 5
+  },
+  {
+   "id": "part-02",
+   "no": 2,
+   "title": "助詞（一）：は・が・を・に・で",
+   "subtitle": "Core Particles",
+   "sections": 5
+  },
+  {
+   "id": "part-03",
+   "no": 3,
+   "title": "助詞（二）：へ・と・も・から・まで・より",
+   "subtitle": "More Particles",
+   "sections": 5
+  },
+  {
+   "id": "part-04",
+   "no": 4,
+   "title": "名詞、指示詞與數量詞",
+   "subtitle": "Nouns, Demonstratives & Counters",
+   "sections": 4
+  },
+  {
+   "id": "part-05",
+   "no": 5,
+   "title": "形容詞：い形容詞與な形容詞",
+   "subtitle": "Adjectives",
+   "sections": 5
+  },
+  {
+   "id": "part-06",
+   "no": 6,
+   "title": "動詞分類與ます形",
+   "subtitle": "Verb Groups & the Masu Form",
+   "sections": 5
+  },
+  {
+   "id": "part-07",
+   "no": 7,
+   "title": "動詞變化（一）：て形",
+   "subtitle": "The Te-form",
+   "sections": 5
+  },
+  {
+   "id": "part-08",
+   "no": 8,
+   "title": "動詞變化（二）：辞書形・た形・可能形",
+   "subtitle": "Dictionary, Past & Potential Forms",
+   "sections": 5
+  },
+  {
+   "id": "part-09",
+   "no": 9,
+   "title": "被動・使役・授受表現",
+   "subtitle": "Passive, Causative & Giving-Receiving",
+   "sections": 5
+  },
+  {
+   "id": "part-10",
+   "no": 10,
+   "title": "條件表現：と・ば・たら・なら",
+   "subtitle": "Conditionals",
+   "sections": 5
+  },
+  {
+   "id": "part-11",
+   "no": 11,
+   "title": "子句與名詞修飾",
+   "subtitle": "Clauses & Noun Modification",
+   "sections": 5
+  },
+  {
+   "id": "part-12",
+   "no": 12,
+   "title": "敬語：尊敬語・謙讓語・丁寧語",
+   "subtitle": "Keigo",
+   "sections": 5
+  },
+  {
+   "id": "part-13",
+   "no": 13,
+   "title": "長句閱讀與實際應用",
+   "subtitle": "Parsing & Practical Use",
+   "sections": 5
+  }
+ ]
+}
