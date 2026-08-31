@@ -119,6 +119,240 @@
    "name": "副詞與接續詞",
    "nameEn": "Adverbs & Connectives",
    "count": 62
+  },
+  {
+   "id": "verbs-advanced",
+   "name": "進階動詞",
+   "nameEn": "Advanced Verbs",
+   "count": 102
+  },
+  {
+   "id": "adjectives-adv",
+   "name": "進階形容詞",
+   "nameEn": "Advanced Adjectives",
+   "count": 59
+  },
+  {
+   "id": "business-keigo",
+   "name": "商務敬語表現",
+   "nameEn": "Business Keigo",
+   "count": 54
+  },
+  {
+   "id": "money-finance",
+   "name": "金錢與金融",
+   "nameEn": "Money & Finance",
+   "count": 52
+  },
+  {
+   "id": "media-fun",
+   "name": "媒體與娛樂",
+   "nameEn": "Media & Entertainment",
+   "count": 51
+  },
+  {
+   "id": "sports-hobby",
+   "name": "運動與嗜好",
+   "nameEn": "Sports & Hobbies",
+   "count": 50
+  },
+  {
+   "id": "colors-shapes",
+   "name": "顏色與形狀",
+   "nameEn": "Colors & Shapes",
+   "count": 50
+  },
+  {
+   "id": "cooking",
+   "name": "食材與烹調",
+   "nameEn": "Ingredients & Cooking",
+   "count": 50
+  },
+  {
+   "id": "animals-plants",
+   "name": "動物與植物",
+   "nameEn": "Animals & Plants",
+   "count": 54
+  },
+  {
+   "id": "tools-materials",
+   "name": "工具與材料",
+   "nameEn": "Tools & Materials",
+   "count": 52
+  },
+  {
+   "id": "medical",
+   "name": "醫療與照護",
+   "nameEn": "Medical Care",
+   "count": 53
+  },
+  {
+   "id": "law-gov",
+   "name": "法律與行政",
+   "nameEn": "Law & Government",
+   "count": 51
+  },
+  {
+   "id": "computer-net",
+   "name": "電腦與網路",
+   "nameEn": "Computers & Internet",
+   "count": 52
+  },
+  {
+   "id": "travel-abroad",
+   "name": "海外旅行",
+   "nameEn": "Travel Abroad",
+   "count": 50
+  },
+  {
+   "id": "events",
+   "name": "活動與儀式",
+   "nameEn": "Events & Ceremonies",
+   "count": 50
+  },
+  {
+   "id": "art-culture",
+   "name": "藝術與文化",
+   "nameEn": "Art & Culture",
+   "count": 50
+  },
+  {
+   "id": "behavior",
+   "name": "行為與態度",
+   "nameEn": "Behavior & Attitude",
+   "count": 50
+  },
+  {
+   "id": "abstract",
+   "name": "抽象概念",
+   "nameEn": "Abstract Concepts",
+   "count": 49
+  },
+  {
+   "id": "onomatopoeia",
+   "name": "擬聲擬態語",
+   "nameEn": "Onomatopoeia",
+   "count": 42
+  },
+  {
+   "id": "set-phrases",
+   "name": "慣用表現",
+   "nameEn": "Set Phrases",
+   "count": 49
+  },
+  {
+   "id": "science-math",
+   "name": "科學與數學",
+   "nameEn": "Science & Math",
+   "count": 44
+  },
+  {
+   "id": "environment",
+   "name": "環境與能源",
+   "nameEn": "Environment & Energy",
+   "count": 45
+  },
+  {
+   "id": "construction",
+   "name": "建築與空間",
+   "nameEn": "Architecture & Space",
+   "count": 50
+  },
+  {
+   "id": "logistics",
+   "name": "物流與貿易",
+   "nameEn": "Logistics & Trade",
+   "count": 49
+  },
+  {
+   "id": "marketing",
+   "name": "行銷與銷售",
+   "nameEn": "Marketing & Sales",
+   "count": 50
+  },
+  {
+   "id": "hr-career",
+   "name": "人事與職涯",
+   "nameEn": "HR & Career",
+   "count": 50
+  },
+  {
+   "id": "meetings",
+   "name": "會議與簡報",
+   "nameEn": "Meetings & Presentations",
+   "count": 47
+  },
+  {
+   "id": "documents",
+   "name": "文書與資料",
+   "nameEn": "Documents & Data",
+   "count": 50
+  },
+  {
+   "id": "research",
+   "name": "研究與分析",
+   "nameEn": "Research & Analysis",
+   "count": 44
+  },
+  {
+   "id": "quality",
+   "name": "品質與生產",
+   "nameEn": "Quality & Production",
+   "count": 44
+  },
+  {
+   "id": "customer",
+   "name": "客服與售後",
+   "nameEn": "Customer Service",
+   "count": 44
+  },
+  {
+   "id": "news-politics",
+   "name": "新聞與時事",
+   "nameEn": "News & Current Affairs",
+   "count": 43
+  },
+  {
+   "id": "tradition",
+   "name": "傳統與習俗",
+   "nameEn": "Tradition & Custom",
+   "count": 44
+  },
+  {
+   "id": "person-desc",
+   "name": "人物描寫",
+   "nameEn": "Describing People",
+   "count": 35
+  },
+  {
+   "id": "daily-routine",
+   "name": "日常作息",
+   "nameEn": "Daily Routine",
+   "count": 31
+  },
+  {
+   "id": "position",
+   "name": "方位與位置",
+   "nameEn": "Position & Direction",
+   "count": 35
+  },
+  {
+   "id": "degree",
+   "name": "程度與數量表現",
+   "nameEn": "Degree & Quantity",
+   "count": 31
+  },
+  {
+   "id": "compound-verbs",
+   "name": "複合動詞",
+   "nameEn": "Compound Verbs",
+   "count": 39
+  },
+  {
+   "id": "loanwords",
+   "name": "外來語",
+   "nameEn": "Loanwords",
+   "count": 42
   }
  ]
 }
