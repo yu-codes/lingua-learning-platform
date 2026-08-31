@@ -1,0 +1,805 @@
+{
+"id": "daily-living",
+"name": "日常生活",
+"nameEn": "Daily Living",
+"words": [
+{
+"w": "affordable housing",
+"p": "n.",
+"zh": "平價住宅",
+"ex": "Affordable housing remains scarce.",
+"exZh": "平價住宅仍然稀缺。"
+},
+{
+"w": "alarm",
+"p": "n.",
+"zh": "鬧鐘；警報",
+"ex": "The alarm goes off at six.",
+"exZh": "鬧鐘六點響。"
+},
+{
+"w": "apartment",
+"p": "n.",
+"zh": "公寓",
+"ex": "The apartment has two bedrooms.",
+"exZh": "這間公寓有兩間臥室。"
+},
+{
+"w": "appliance",
+"p": "n.",
+"zh": "家電",
+"ex": "Kitchen appliances are included.",
+"exZh": "廚房家電包含在內。"
+},
+{
+"w": "attic",
+"p": "n.",
+"zh": "閣樓",
+"ex": "Old boxes are stored in the attic.",
+"exZh": "舊箱子存放在閣樓。"
+},
+{
+"w": "babysitter",
+"p": "n.",
+"zh": "保母",
+"ex": "A babysitter watches the kids on Fridays.",
+"exZh": "保母週五照顧孩子。"
+},
+{
+"w": "bakery",
+"p": "n.",
+"zh": "麵包店",
+"ex": "The bakery opens at seven.",
+"exZh": "麵包店七點開門。"
+},
+{
+"w": "balcony",
+"p": "n.",
+"zh": "陽台",
+"ex": "The balcony faces the park.",
+"exZh": "陽台面向公園。"
+},
+{
+"w": "basement",
+"p": "n.",
+"zh": "地下室",
+"ex": "The basement floods after heavy rain.",
+"exZh": "大雨後地下室會積水。"
+},
+{
+"w": "basket",
+"p": "n.",
+"zh": "籃子",
+"ex": "Put the fruit in the basket.",
+"exZh": "請把水果放進籃子。"
+},
+{
+"w": "bedding",
+"p": "n.",
+"zh": "寢具",
+"ex": "Fresh bedding is provided weekly.",
+"exZh": "每週提供乾淨寢具。"
+},
+{
+"w": "blanket",
+"p": "n.",
+"zh": "毯子",
+"ex": "An extra blanket is in the closet.",
+"exZh": "櫃子裡有一條備用毯子。"
+},
+{
+"w": "broom",
+"p": "n.",
+"zh": "掃把",
+"ex": "The broom is behind the door.",
+"exZh": "掃把在門後。"
+},
+{
+"w": "carpool",
+"p": "n.",
+"zh": "共乘",
+"ex": "We started a carpool to save fuel.",
+"exZh": "我們開始共乘以省油。"
+},
+{
+"w": "cashier",
+"p": "n.",
+"zh": "收銀員",
+"ex": "The cashier handed back the change.",
+"exZh": "收銀員找回了零錢。"
+},
+{
+"w": "ceiling fan",
+"p": "n.",
+"zh": "吊扇",
+"ex": "The ceiling fan needs cleaning.",
+"exZh": "吊扇需要清理。"
+},
+{
+"w": "childcare",
+"p": "n.",
+"zh": "托育",
+"ex": "Childcare costs rose again.",
+"exZh": "托育費用再度上漲。"
+},
+{
+"w": "chore",
+"p": "n.",
+"zh": "家事",
+"ex": "Household chores are shared evenly.",
+"exZh": "家事平均分擔。"
+},
+{
+"w": "chore list",
+"p": "n.",
+"zh": "家事清單",
+"ex": "The chore list is on the fridge.",
+"exZh": "家事清單貼在冰箱上。"
+},
+{
+"w": "closet",
+"p": "n.",
+"zh": "衣櫃",
+"ex": "Winter clothes are in the closet.",
+"exZh": "冬衣放在衣櫃裡。"
+},
+{
+"w": "convenience store",
+"p": "n.",
+"zh": "便利商店",
+"ex": "The convenience store is open all night.",
+"exZh": "便利商店整夜營業。"
+},
+{
+"w": "curbside",
+"p": "adj.",
+"zh": "路邊的",
+"ex": "Curbside pickup is available.",
+"exZh": "提供路邊取貨。"
+},
+{
+"w": "curtain",
+"p": "n.",
+"zh": "窗簾",
+"ex": "Draw the curtains before you leave.",
+"exZh": "離開前請拉上窗簾。"
+},
+{
+"w": "cushion",
+"p": "n.",
+"zh": "靠墊",
+"ex": "The cushions match the sofa.",
+"exZh": "靠墊與沙發相搭。"
+},
+{
+"w": "daycare",
+"p": "n.",
+"zh": "日托",
+"ex": "The daycare opens at seven thirty.",
+"exZh": "日托中心七點半開門。"
+},
+{
+"w": "detergent",
+"p": "n.",
+"zh": "清潔劑",
+"ex": "Use less detergent for small loads.",
+"exZh": "少量衣物請減少清潔劑。"
+},
+{
+"w": "discount card",
+"p": "n.",
+"zh": "折扣卡",
+"ex": "Show your discount card at checkout.",
+"exZh": "結帳時請出示折扣卡。"
+},
+{
+"w": "dishwasher",
+"p": "n.",
+"zh": "洗碗機",
+"ex": "The dishwasher runs at night.",
+"exZh": "洗碗機在晚上運轉。"
+},
+{
+"w": "doorbell",
+"p": "n.",
+"zh": "門鈴",
+"ex": "The doorbell rang twice.",
+"exZh": "門鈴響了兩次。"
+},
+{
+"w": "downstairs",
+"p": "adv.",
+"zh": "樓下",
+"ex": "The mailbox is downstairs.",
+"exZh": "信箱在樓下。"
+},
+{
+"w": "drawer",
+"p": "n.",
+"zh": "抽屜",
+"ex": "The keys are in the top drawer.",
+"exZh": "鑰匙在最上層抽屜。"
+},
+{
+"w": "driveway",
+"p": "n.",
+"zh": "車道",
+"ex": "Do not block the driveway.",
+"exZh": "請勿擋住車道。"
+},
+{
+"w": "dryer",
+"p": "n.",
+"zh": "烘乾機",
+"ex": "The dryer takes forty minutes.",
+"exZh": "烘乾機需要四十分鐘。"
+},
+{
+"w": "electricity",
+"p": "n.",
+"zh": "電力",
+"ex": "Electricity was restored by evening.",
+"exZh": "傍晚前恢復了供電。"
+},
+{
+"w": "errand",
+"p": "n.",
+"zh": "跑腿雜事",
+"ex": "I have a few errands to run.",
+"exZh": "我有幾件雜事要辦。"
+},
+{
+"w": "fabric",
+"p": "n.",
+"zh": "布料",
+"ex": "The fabric is machine washable.",
+"exZh": "這種布料可機洗。"
+},
+{
+"w": "faucet",
+"p": "n.",
+"zh": "水龍頭",
+"ex": "The faucet drips constantly.",
+"exZh": "水龍頭一直在滴水。"
+},
+{
+"w": "fence",
+"p": "n.",
+"zh": "圍籬",
+"ex": "The fence needs repainting.",
+"exZh": "圍籬需要重新上漆。"
+},
+{
+"w": "furnishing",
+"p": "n.",
+"zh": "家具擺設",
+"ex": "The furnishings were chosen carefully.",
+"exZh": "家具擺設經過細心挑選。"
+},
+{
+"w": "furniture",
+"p": "n.",
+"zh": "家具",
+"ex": "The furniture arrives on Thursday.",
+"exZh": "家具週四送到。"
+},
+{
+"w": "garage",
+"p": "n.",
+"zh": "車庫",
+"ex": "The garage fits two cars.",
+"exZh": "車庫可停兩輛車。"
+},
+{
+"w": "garage sale",
+"p": "n.",
+"zh": "舊物拍賣",
+"ex": "They held a garage sale on Saturday.",
+"exZh": "他們週六辦了舊物拍賣。"
+},
+{
+"w": "garbage",
+"p": "n.",
+"zh": "垃圾",
+"ex": "Garbage is collected on Tuesdays.",
+"exZh": "垃圾於週二收運。"
+},
+{
+"w": "gardening",
+"p": "n.",
+"zh": "園藝",
+"ex": "Gardening is her weekend hobby.",
+"exZh": "園藝是她週末的嗜好。"
+},
+{
+"w": "groceries",
+"p": "n.",
+"zh": "生鮮雜貨",
+"ex": "We buy groceries once a week.",
+"exZh": "我們每週採買一次生鮮雜貨。"
+},
+{
+"w": "grocery",
+"p": "n.",
+"zh": "雜貨",
+"ex": "I need to pick up a few groceries.",
+"exZh": "我需要買一些雜貨。"
+},
+{
+"w": "hallway",
+"p": "n.",
+"zh": "走廊",
+"ex": "The hallway light is broken.",
+"exZh": "走廊的燈壞了。"
+},
+{
+"w": "handyman",
+"p": "n.",
+"zh": "修繕工",
+"ex": "A handyman fixed the door.",
+"exZh": "修繕工修好了門。"
+},
+{
+"w": "heater",
+"p": "n.",
+"zh": "暖氣機",
+"ex": "The heater runs on gas.",
+"exZh": "暖氣機用瓦斯運作。"
+},
+{
+"w": "household",
+"p": "n.",
+"zh": "家庭",
+"ex": "The household budget was tightened.",
+"exZh": "家庭預算收緊了。"
+},
+{
+"w": "household appliance",
+"p": "n.",
+"zh": "家用電器",
+"ex": "Household appliances use most of the power.",
+"exZh": "家用電器耗用大部分電力。"
+},
+{
+"w": "insurance policy",
+"p": "n.",
+"zh": "保單",
+"ex": "The insurance policy renews annually.",
+"exZh": "保單每年續保。"
+},
+{
+"w": "kettle",
+"p": "n.",
+"zh": "水壺",
+"ex": "The kettle boils in two minutes.",
+"exZh": "水壺兩分鐘就煮開。"
+},
+{
+"w": "landlord",
+"p": "n.",
+"zh": "房東",
+"ex": "The landlord approved the repairs.",
+"exZh": "房東批准了維修。"
+},
+{
+"w": "lease agreement",
+"p": "n.",
+"zh": "租賃合約",
+"ex": "Read the lease agreement carefully.",
+"exZh": "請仔細閱讀租賃合約。"
+},
+{
+"w": "leftovers",
+"p": "n.",
+"zh": "剩菜",
+"ex": "We had leftovers for lunch.",
+"exZh": "我們午餐吃了剩菜。"
+},
+{
+"w": "leisure",
+"p": "n.",
+"zh": "休閒",
+"ex": "Leisure time is limited on weekdays.",
+"exZh": "平日休閒時間有限。"
+},
+{
+"w": "lightbulb",
+"p": "n.",
+"zh": "燈泡",
+"ex": "Replace the lightbulb in the hallway.",
+"exZh": "請更換走廊的燈泡。"
+},
+{
+"w": "mailbox",
+"p": "n.",
+"zh": "信箱",
+"ex": "The mailbox was overflowing.",
+"exZh": "信箱塞滿了。"
+},
+{
+"w": "maintenance fee",
+"p": "n.",
+"zh": "管理費",
+"ex": "The maintenance fee covers cleaning.",
+"exZh": "管理費涵蓋清潔費用。"
+},
+{
+"w": "maintenance request",
+"p": "n.",
+"zh": "報修申請",
+"ex": "A maintenance request was submitted.",
+"exZh": "已提交報修申請。"
+},
+{
+"w": "microwave",
+"p": "n.",
+"zh": "微波爐",
+"ex": "Reheat it in the microwave.",
+"exZh": "請用微波爐加熱。"
+},
+{
+"w": "mop",
+"p": "n./v.",
+"zh": "拖把",
+"ex": "Mop the floor after cooking.",
+"exZh": "烹飪後請拖地。"
+},
+{
+"w": "moving company",
+"p": "n.",
+"zh": "搬家公司",
+"ex": "The moving company arrived early.",
+"exZh": "搬家公司提早到了。"
+},
+{
+"w": "neighbor",
+"p": "n.",
+"zh": "鄰居",
+"ex": "Our neighbor watered the plants.",
+"exZh": "鄰居幫我們澆了花。"
+},
+{
+"w": "neighborhood",
+"p": "n.",
+"zh": "社區",
+"ex": "The neighborhood is quiet at night.",
+"exZh": "這個社區晚上很安靜。"
+},
+{
+"w": "oven",
+"p": "n.",
+"zh": "烤箱",
+"ex": "Preheat the oven to 180 degrees.",
+"exZh": "請將烤箱預熱至一百八十度。"
+},
+{
+"w": "pantry",
+"p": "n.",
+"zh": "食物儲藏室",
+"ex": "The pantry is fully stocked.",
+"exZh": "食物儲藏室備貨充足。"
+},
+{
+"w": "pest control",
+"p": "n.",
+"zh": "除蟲",
+"ex": "Pest control visits every quarter.",
+"exZh": "除蟲服務每季來一次。"
+},
+{
+"w": "pharmacy counter",
+"p": "n.",
+"zh": "藥局櫃檯",
+"ex": "Ask at the pharmacy counter.",
+"exZh": "請到藥局櫃檯詢問。"
+},
+{
+"w": "plumber",
+"p": "n.",
+"zh": "水電工",
+"ex": "A plumber came the same day.",
+"exZh": "水電工當天就來了。"
+},
+{
+"w": "plumbing",
+"p": "n.",
+"zh": "水管配管",
+"ex": "The plumbing was replaced last year.",
+"exZh": "水管配管於去年更換。"
+},
+{
+"w": "porch",
+"p": "n.",
+"zh": "門廊",
+"ex": "We sat on the porch after dinner.",
+"exZh": "晚餐後我們坐在門廊上。"
+},
+{
+"w": "property manager",
+"p": "n.",
+"zh": "物業經理",
+"ex": "The property manager handles complaints.",
+"exZh": "物業經理處理投訴。"
+},
+{
+"w": "recurring",
+"p": "adj.",
+"zh": "定期重複的",
+"ex": "Recurring payments were set up.",
+"exZh": "已設定定期扣款。"
+},
+{
+"w": "recycling bin",
+"p": "n.",
+"zh": "回收桶",
+"ex": "Paper goes in the recycling bin.",
+"exZh": "紙類請投入回收桶。"
+},
+{
+"w": "refrigerator",
+"p": "n.",
+"zh": "冰箱",
+"ex": "The refrigerator stopped cooling.",
+"exZh": "冰箱不冷了。"
+},
+{
+"w": "renovation",
+"p": "n.",
+"zh": "裝修",
+"ex": "The renovation took two months.",
+"exZh": "裝修花了兩個月。"
+},
+{
+"w": "rent",
+"p": "n./v.",
+"zh": "租金",
+"ex": "Rent is due on the first.",
+"exZh": "租金於每月一號到期。"
+},
+{
+"w": "roommate",
+"p": "n.",
+"zh": "室友",
+"ex": "My roommate works night shifts.",
+"exZh": "我的室友上夜班。"
+},
+{
+"w": "security deposit",
+"p": "n.",
+"zh": "保證金",
+"ex": "The security deposit equals one month's rent.",
+"exZh": "保證金相當於一個月租金。"
+},
+{
+"w": "shelf",
+"p": "n.",
+"zh": "架子",
+"ex": "Put the books on the top shelf.",
+"exZh": "請把書放到最上層架子。"
+},
+{
+"w": "shopping list",
+"p": "n.",
+"zh": "購物清單",
+"ex": "I forgot my shopping list.",
+"exZh": "我忘了帶購物清單。"
+},
+{
+"w": "sidewalk",
+"p": "n.",
+"zh": "人行道",
+"ex": "The sidewalk was icy this morning.",
+"exZh": "人行道今早結冰了。"
+},
+{
+"w": "sink",
+"p": "n.",
+"zh": "水槽",
+"ex": "The sink is clogged again.",
+"exZh": "水槽又堵住了。"
+},
+{
+"w": "staircase",
+"p": "n.",
+"zh": "樓梯間",
+"ex": "The staircase is well lit.",
+"exZh": "樓梯間照明充足。"
+},
+{
+"w": "stairs",
+"p": "n.",
+"zh": "樓梯",
+"ex": "Take the stairs to the second floor.",
+"exZh": "請走樓梯到二樓。"
+},
+{
+"w": "storage room",
+"p": "n.",
+"zh": "儲藏室",
+"ex": "Seasonal items go in the storage room.",
+"exZh": "季節用品放在儲藏室。"
+},
+{
+"w": "storage unit",
+"p": "n.",
+"zh": "倉儲空間",
+"ex": "We rented a small storage unit.",
+"exZh": "我們租了一個小倉儲空間。"
+},
+{
+"w": "sublet",
+"p": "v.",
+"zh": "轉租",
+"ex": "Subletting requires written permission.",
+"exZh": "轉租需要書面許可。"
+},
+{
+"w": "subscription box",
+"p": "n.",
+"zh": "訂閱盒",
+"ex": "The subscription box arrives monthly.",
+"exZh": "訂閱盒每月寄達。"
+},
+{
+"w": "supermarket",
+"p": "n.",
+"zh": "超市",
+"ex": "The supermarket closes at eleven.",
+"exZh": "超市十一點打烊。"
+},
+{
+"w": "switch",
+"p": "n.",
+"zh": "開關",
+"ex": "The switch is beside the door.",
+"exZh": "開關在門旁邊。"
+},
+{
+"w": "tap water",
+"p": "n.",
+"zh": "自來水",
+"ex": "Tap water here is safe to drink.",
+"exZh": "這裡的自來水可以生飲。"
+},
+{
+"w": "tenancy",
+"p": "n.",
+"zh": "租期",
+"ex": "The tenancy ends in August.",
+"exZh": "租期於八月結束。"
+},
+{
+"w": "tenant",
+"p": "n.",
+"zh": "房客",
+"ex": "The tenant renewed for another year.",
+"exZh": "房客又續租了一年。"
+},
+{
+"w": "thermostat",
+"p": "n.",
+"zh": "溫控器",
+"ex": "Set the thermostat to 22 degrees.",
+"exZh": "請把溫控器設在二十二度。"
+},
+{
+"w": "tidy",
+"p": "v./adj.",
+"zh": "整理；整潔的",
+"ex": "Please tidy the living room.",
+"exZh": "請整理客廳。"
+},
+{
+"w": "towel",
+"p": "n.",
+"zh": "毛巾",
+"ex": "Clean towels are in the cupboard.",
+"exZh": "乾淨毛巾在櫥櫃裡。"
+},
+{
+"w": "trash can",
+"p": "n.",
+"zh": "垃圾桶",
+"ex": "The trash can needs emptying.",
+"exZh": "垃圾桶需要清空。"
+},
+{
+"w": "upstairs",
+"p": "adv.",
+"zh": "樓上",
+"ex": "The bedrooms are upstairs.",
+"exZh": "臥室在樓上。"
+},
+{
+"w": "utility bill",
+"p": "n.",
+"zh": "水電費帳單",
+"ex": "Utility bills arrive monthly.",
+"exZh": "水電費帳單每月寄達。"
+},
+{
+"w": "utility provider",
+"p": "n.",
+"zh": "公用事業商",
+"ex": "We switched utility providers.",
+"exZh": "我們更換了公用事業商。"
+},
+{
+"w": "vacancy rate",
+"p": "n.",
+"zh": "空屋率",
+"ex": "The vacancy rate fell this year.",
+"exZh": "今年空屋率下降。"
+},
+{
+"w": "vacuum",
+"p": "v./n.",
+"zh": "吸塵",
+"ex": "I vacuum the carpet weekly.",
+"exZh": "我每週吸一次地毯。"
+},
+{
+"w": "vacuum cleaner",
+"p": "n.",
+"zh": "吸塵器",
+"ex": "The vacuum cleaner is quite loud.",
+"exZh": "吸塵器相當吵。"
+},
+{
+"w": "wallpaper",
+"p": "n.",
+"zh": "壁紙",
+"ex": "The wallpaper is peeling in places.",
+"exZh": "壁紙有些地方剝落了。"
+},
+{
+"w": "wardrobe",
+"p": "n.",
+"zh": "衣櫥",
+"ex": "The wardrobe barely fits the room.",
+"exZh": "衣櫥幾乎塞不進房間。"
+},
+{
+"w": "warranty card",
+"p": "n.",
+"zh": "保固卡",
+"ex": "Keep the warranty card safe.",
+"exZh": "請妥善保管保固卡。"
+},
+{
+"w": "washing machine",
+"p": "n.",
+"zh": "洗衣機",
+"ex": "The washing machine finished its cycle.",
+"exZh": "洗衣機完成了洗程。"
+},
+{
+"w": "water heater",
+"p": "n.",
+"zh": "熱水器",
+"ex": "The water heater was serviced today.",
+"exZh": "熱水器今天做了保養。"
+},
+{
+"w": "window frame",
+"p": "n.",
+"zh": "窗框",
+"ex": "The window frame needs sealing.",
+"exZh": "窗框需要密封。"
+},
+{
+"w": "wiring",
+"p": "n.",
+"zh": "電線配線",
+"ex": "The wiring was inspected for safety.",
+"exZh": "電線配線已做安全檢查。"
+},
+{
+"w": "yard",
+"p": "n.",
+"zh": "院子",
+"ex": "The yard needs mowing.",
+"exZh": "院子需要除草。"
+}
+]
+}

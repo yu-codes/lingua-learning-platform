@@ -1,0 +1,959 @@
+{
+"id": "science-nature",
+"name": "科學與自然",
+"nameEn": "Science & Nature",
+"words": [
+{
+"w": "absorption",
+"p": "n.",
+"zh": "吸收作用",
+"ex": "Absorption occurs in the small intestine.",
+"exZh": "吸收作用發生在小腸。"
+},
+{
+"w": "accumulation",
+"p": "n.",
+"zh": "堆積",
+"ex": "Snow accumulation reached forty centimeters.",
+"exZh": "積雪堆積達四十公分。"
+},
+{
+"w": "acidity",
+"p": "n.",
+"zh": "酸度",
+"ex": "Soil acidity affects plant growth.",
+"exZh": "土壤酸度影響植物生長。"
+},
+{
+"w": "altitude sickness",
+"p": "n.",
+"zh": "高山症",
+"ex": "Altitude sickness affects some climbers.",
+"exZh": "高山症影響部分登山者。"
+},
+{
+"w": "amphibian",
+"p": "n.",
+"zh": "兩棲類",
+"ex": "Amphibian populations are declining.",
+"exZh": "兩棲類族群正在減少。"
+},
+{
+"w": "anatomy",
+"p": "n.",
+"zh": "解剖構造",
+"ex": "The anatomy of the wing is complex.",
+"exZh": "翅膀的解剖構造很複雜。"
+},
+{
+"w": "ancestor species",
+"p": "n.",
+"zh": "祖先物種",
+"ex": "The ancestor species lived in forests.",
+"exZh": "該祖先物種生活在森林中。"
+},
+{
+"w": "aquatic life",
+"p": "n.",
+"zh": "水生生物",
+"ex": "Aquatic life recovered after cleanup.",
+"exZh": "清理後水生生物恢復了。"
+},
+{
+"w": "astronomy",
+"p": "n.",
+"zh": "天文學",
+"ex": "Astronomy relies on long observations.",
+"exZh": "天文學仰賴長期觀測。"
+},
+{
+"w": "atmosphere layer",
+"p": "n.",
+"zh": "大氣層",
+"ex": "The upper atmosphere layer is very thin.",
+"exZh": "上層大氣層非常稀薄。"
+},
+{
+"w": "atom",
+"p": "n.",
+"zh": "原子",
+"ex": "Every atom has a nucleus.",
+"exZh": "每個原子都有原子核。"
+},
+{
+"w": "axis",
+"p": "n.",
+"zh": "軸",
+"ex": "The planet tilts on its axis.",
+"exZh": "該行星繞其軸傾斜。"
+},
+{
+"w": "bacteria",
+"p": "n.",
+"zh": "細菌",
+"ex": "Some bacteria are beneficial.",
+"exZh": "有些細菌是有益的。"
+},
+{
+"w": "biology",
+"p": "n.",
+"zh": "生物學",
+"ex": "Marine biology is her specialty.",
+"exZh": "海洋生物學是她的專長。"
+},
+{
+"w": "biosphere",
+"p": "n.",
+"zh": "生物圈",
+"ex": "The biosphere supports all known life.",
+"exZh": "生物圈支撐所有已知生命。"
+},
+{
+"w": "botany",
+"p": "n.",
+"zh": "植物學",
+"ex": "Botany students collect field samples.",
+"exZh": "植物學學生採集田野樣本。"
+},
+{
+"w": "calculation",
+"p": "n.",
+"zh": "計算",
+"ex": "The calculation was verified independently.",
+"exZh": "該計算經獨立驗證。"
+},
+{
+"w": "canopy",
+"p": "n.",
+"zh": "樹冠層",
+"ex": "The canopy blocks most sunlight.",
+"exZh": "樹冠層阻擋了大部分陽光。"
+},
+{
+"w": "carbon",
+"p": "n.",
+"zh": "碳",
+"ex": "Carbon is stored in soil and trees.",
+"exZh": "碳儲存在土壤與樹木中。"
+},
+{
+"w": "catalyst",
+"p": "n.",
+"zh": "催化劑",
+"ex": "The catalyst speeds up the reaction.",
+"exZh": "催化劑加速了反應。"
+},
+{
+"w": "cell",
+"p": "n.",
+"zh": "細胞",
+"ex": "Each cell contains genetic material.",
+"exZh": "每個細胞都含有遺傳物質。"
+},
+{
+"w": "chemical",
+"p": "n.",
+"zh": "化學物質",
+"ex": "The chemical evaporates quickly.",
+"exZh": "該化學物質蒸發很快。"
+},
+{
+"w": "chromosome",
+"p": "n.",
+"zh": "染色體",
+"ex": "Humans have 46 chromosomes.",
+"exZh": "人類有四十六條染色體。"
+},
+{
+"w": "climate zone",
+"p": "n.",
+"zh": "氣候帶",
+"ex": "Three climate zones meet in this region.",
+"exZh": "三個氣候帶在此區交會。"
+},
+{
+"w": "colony",
+"p": "n.",
+"zh": "群落",
+"ex": "The colony numbers several thousand.",
+"exZh": "該群落數量達數千。"
+},
+{
+"w": "condensation",
+"p": "n.",
+"zh": "凝結",
+"ex": "Condensation forms on cold surfaces.",
+"exZh": "冷表面會形成凝結水。"
+},
+{
+"w": "conductivity",
+"p": "n.",
+"zh": "導電度",
+"ex": "Conductivity rises with temperature.",
+"exZh": "導電度隨溫度上升。"
+},
+{
+"w": "constellation",
+"p": "n.",
+"zh": "星座",
+"ex": "The constellation is visible in winter.",
+"exZh": "該星座在冬季可見。"
+},
+{
+"w": "contour",
+"p": "n.",
+"zh": "等高線",
+"ex": "Contours show the slope of the land.",
+"exZh": "等高線顯示土地的坡度。"
+},
+{
+"w": "decay",
+"p": "n./v.",
+"zh": "衰變；腐爛",
+"ex": "Radioactive decay is predictable.",
+"exZh": "放射性衰變是可預測的。"
+},
+{
+"w": "density",
+"p": "n.",
+"zh": "密度",
+"ex": "Ice is less dense than water.",
+"exZh": "冰的密度比水小。"
+},
+{
+"w": "deposit layer",
+"p": "n.",
+"zh": "沉積層",
+"ex": "Mineral deposit layers were mapped.",
+"exZh": "礦物沉積層已完成測繪。"
+},
+{
+"w": "diameter",
+"p": "n.",
+"zh": "直徑",
+"ex": "The crater is two kilometers in diameter.",
+"exZh": "該隕石坑直徑兩公里。"
+},
+{
+"w": "diameter measurement",
+"p": "n.",
+"zh": "直徑量測",
+"ex": "Diameter measurements were repeated.",
+"exZh": "直徑量測重複進行。"
+},
+{
+"w": "digestion",
+"p": "n.",
+"zh": "消化作用",
+"ex": "Digestion breaks food into nutrients.",
+"exZh": "消化作用把食物分解成養分。"
+},
+{
+"w": "dissolve",
+"p": "v.",
+"zh": "溶解",
+"ex": "Salt dissolves quickly in warm water.",
+"exZh": "鹽在溫水中很快溶解。"
+},
+{
+"w": "dormant",
+"p": "adj.",
+"zh": "休眠的",
+"ex": "The volcano has been dormant for centuries.",
+"exZh": "該火山已休眠數百年。"
+},
+{
+"w": "earthquake",
+"p": "n.",
+"zh": "地震",
+"ex": "The earthquake measured 6.2.",
+"exZh": "該地震規模為 6.2。"
+},
+{
+"w": "eclipse",
+"p": "n.",
+"zh": "食（日月）",
+"ex": "A solar eclipse occurs next April.",
+"exZh": "明年四月將有日食。"
+},
+{
+"w": "ecosystem service",
+"p": "n.",
+"zh": "生態系服務",
+"ex": "Ecosystem services include water filtration.",
+"exZh": "生態系服務包含水質過濾。"
+},
+{
+"w": "electron",
+"p": "n.",
+"zh": "電子",
+"ex": "Electrons orbit the nucleus.",
+"exZh": "電子環繞原子核運行。"
+},
+{
+"w": "element",
+"p": "n.",
+"zh": "元素",
+"ex": "Oxygen is the most abundant element here.",
+"exZh": "氧是這裡最豐富的元素。"
+},
+{
+"w": "emission spectrum",
+"p": "n.",
+"zh": "發射光譜",
+"ex": "The emission spectrum identifies the element.",
+"exZh": "發射光譜可辨識元素。"
+},
+{
+"w": "energy transfer",
+"p": "n.",
+"zh": "能量傳遞",
+"ex": "Energy transfer occurs through the food chain.",
+"exZh": "能量傳遞經由食物鏈進行。"
+},
+{
+"w": "enzyme",
+"p": "n.",
+"zh": "酵素",
+"ex": "The enzyme works best at 37 degrees.",
+"exZh": "該酵素在三十七度時效果最佳。"
+},
+{
+"w": "equator",
+"p": "n.",
+"zh": "赤道",
+"ex": "Temperatures are highest near the equator.",
+"exZh": "赤道附近溫度最高。"
+},
+{
+"w": "equilibrium",
+"p": "n.",
+"zh": "平衡",
+"ex": "The system reached equilibrium quickly.",
+"exZh": "該系統很快達到平衡。"
+},
+{
+"w": "erosion rate",
+"p": "n.",
+"zh": "侵蝕速率",
+"ex": "The erosion rate has accelerated.",
+"exZh": "侵蝕速率已經加快。"
+},
+{
+"w": "estuary",
+"p": "n.",
+"zh": "河口",
+"ex": "The estuary supports many bird species.",
+"exZh": "該河口孕育多種鳥類。"
+},
+{
+"w": "evaporate",
+"p": "v.",
+"zh": "蒸發",
+"ex": "Water evaporates faster in wind.",
+"exZh": "有風時水蒸發較快。"
+},
+{
+"w": "evolution",
+"p": "n.",
+"zh": "演化",
+"ex": "Evolution occurs over many generations.",
+"exZh": "演化歷經許多世代發生。"
+},
+{
+"w": "experiment",
+"p": "n.",
+"zh": "實驗",
+"ex": "The experiment was repeated three times.",
+"exZh": "該實驗重複了三次。"
+},
+{
+"w": "extinct",
+"p": "adj.",
+"zh": "絕種的",
+"ex": "The bird became extinct in 1890.",
+"exZh": "該鳥類於 1890 年絕種。"
+},
+{
+"w": "fauna",
+"p": "n.",
+"zh": "動物群",
+"ex": "The island fauna is unique.",
+"exZh": "該島的動物群相當獨特。"
+},
+{
+"w": "flora",
+"p": "n.",
+"zh": "植物群",
+"ex": "Alpine flora blooms in July.",
+"exZh": "高山植物群於七月開花。"
+},
+{
+"w": "food chain",
+"p": "n.",
+"zh": "食物鏈",
+"ex": "Pollutants move up the food chain.",
+"exZh": "污染物沿食物鏈向上累積。"
+},
+{
+"w": "formation",
+"p": "n.",
+"zh": "形成",
+"ex": "Cloud formation depends on humidity.",
+"exZh": "雲的形成取決於濕度。"
+},
+{
+"w": "fossil",
+"p": "n.",
+"zh": "化石",
+"ex": "The fossil is 60 million years old.",
+"exZh": "該化石有六千萬年歷史。"
+},
+{
+"w": "frequency band",
+"p": "n.",
+"zh": "頻段",
+"ex": "The frequency band is tightly regulated.",
+"exZh": "該頻段受到嚴格管制。"
+},
+{
+"w": "freshwater",
+"p": "n.",
+"zh": "淡水",
+"ex": "Freshwater sources are limited here.",
+"exZh": "此地淡水來源有限。"
+},
+{
+"w": "friction",
+"p": "n.",
+"zh": "摩擦力",
+"ex": "Friction slows the moving parts.",
+"exZh": "摩擦力減緩了運動部件。"
+},
+{
+"w": "galaxy",
+"p": "n.",
+"zh": "星系",
+"ex": "Our galaxy contains billions of stars.",
+"exZh": "我們的星系有數十億顆恆星。"
+},
+{
+"w": "genetic",
+"p": "adj.",
+"zh": "基因的",
+"ex": "Genetic variation aids survival.",
+"exZh": "基因變異有助生存。"
+},
+{
+"w": "germination",
+"p": "n.",
+"zh": "發芽",
+"ex": "Germination takes about ten days.",
+"exZh": "發芽約需十天。"
+},
+{
+"w": "glacier",
+"p": "n.",
+"zh": "冰川",
+"ex": "The glacier retreated 200 meters.",
+"exZh": "冰川後退了兩百公尺。"
+},
+{
+"w": "grassland",
+"p": "n.",
+"zh": "草原",
+"ex": "Grassland covers a third of the region.",
+"exZh": "草原佔該區三分之一。"
+},
+{
+"w": "gravity",
+"p": "n.",
+"zh": "重力",
+"ex": "Gravity keeps satellites in orbit.",
+"exZh": "重力使衛星維持在軌道上。"
+},
+{
+"w": "groundwater level",
+"p": "n.",
+"zh": "地下水位",
+"ex": "Groundwater levels are recorded weekly.",
+"exZh": "地下水位每週記錄。"
+},
+{
+"w": "habitat loss",
+"p": "n.",
+"zh": "棲地流失",
+"ex": "Habitat loss threatens many species.",
+"exZh": "棲地流失威脅許多物種。"
+},
+{
+"w": "hemisphere",
+"p": "n.",
+"zh": "半球",
+"ex": "Seasons reverse between hemispheres.",
+"exZh": "南北半球季節相反。"
+},
+{
+"w": "hibernate",
+"p": "v.",
+"zh": "冬眠",
+"ex": "Bears hibernate through the winter.",
+"exZh": "熊整個冬天冬眠。"
+},
+{
+"w": "humidity",
+"p": "n.",
+"zh": "濕度",
+"ex": "Humidity was high all week.",
+"exZh": "整週濕度都很高。"
+},
+{
+"w": "hypothesis testing",
+"p": "n.",
+"zh": "假設檢定",
+"ex": "Hypothesis testing requires a control group.",
+"exZh": "假設檢定需要對照組。"
+},
+{
+"w": "inhabit",
+"p": "v.",
+"zh": "棲息於",
+"ex": "Penguins inhabit the southern coast.",
+"exZh": "企鵝棲息於南岸。"
+},
+{
+"w": "insect",
+"p": "n.",
+"zh": "昆蟲",
+"ex": "Insect numbers fell sharply.",
+"exZh": "昆蟲數量大幅下降。"
+},
+{
+"w": "isotope",
+"p": "n.",
+"zh": "同位素",
+"ex": "The isotope decays over centuries.",
+"exZh": "該同位素歷經數世紀衰變。"
+},
+{
+"w": "laboratory test",
+"p": "n.",
+"zh": "實驗室檢測",
+"ex": "Laboratory tests confirmed the result.",
+"exZh": "實驗室檢測確認了結果。"
+},
+{
+"w": "larva",
+"p": "n.",
+"zh": "幼蟲",
+"ex": "The larva feeds on leaves.",
+"exZh": "幼蟲以葉子為食。"
+},
+{
+"w": "latitude",
+"p": "n.",
+"zh": "緯度",
+"ex": "Growing seasons vary by latitude.",
+"exZh": "生長季節因緯度而異。"
+},
+{
+"w": "lava",
+"p": "n.",
+"zh": "熔岩",
+"ex": "Lava flowed toward the valley.",
+"exZh": "熔岩流向山谷。"
+},
+{
+"w": "magnetic",
+"p": "adj.",
+"zh": "磁性的",
+"ex": "The magnetic field shifts slowly.",
+"exZh": "磁場緩慢移動。"
+},
+{
+"w": "magnitude",
+"p": "n.",
+"zh": "規模",
+"ex": "The magnitude was revised upward.",
+"exZh": "規模被上修。"
+},
+{
+"w": "mammal",
+"p": "n.",
+"zh": "哺乳類",
+"ex": "Whales are marine mammals.",
+"exZh": "鯨魚是海洋哺乳類。"
+},
+{
+"w": "mass",
+"p": "n.",
+"zh": "質量",
+"ex": "Mass remains constant regardless of location.",
+"exZh": "質量不因位置而改變。"
+},
+{
+"w": "microscope",
+"p": "n.",
+"zh": "顯微鏡",
+"ex": "The sample was viewed under a microscope.",
+"exZh": "樣本在顯微鏡下觀察。"
+},
+{
+"w": "migration route",
+"p": "n.",
+"zh": "遷徙路線",
+"ex": "The migration route spans two continents.",
+"exZh": "遷徙路線橫跨兩大洲。"
+},
+{
+"w": "mineral",
+"p": "n.",
+"zh": "礦物",
+"ex": "The rock contains three minerals.",
+"exZh": "該岩石含有三種礦物。"
+},
+{
+"w": "molecule",
+"p": "n.",
+"zh": "分子",
+"ex": "A water molecule has three atoms.",
+"exZh": "一個水分子有三個原子。"
+},
+{
+"w": "nocturnal",
+"p": "adj.",
+"zh": "夜行性的",
+"ex": "The species is strictly nocturnal.",
+"exZh": "該物種完全是夜行性的。"
+},
+{
+"w": "nutrient cycle",
+"p": "n.",
+"zh": "養分循環",
+"ex": "The nutrient cycle sustains the forest.",
+"exZh": "養分循環維繫著森林。"
+},
+{
+"w": "nutrient uptake",
+"p": "n.",
+"zh": "養分吸收",
+"ex": "Nutrient uptake slows in cold soil.",
+"exZh": "冷土中養分吸收會變慢。"
+},
+{
+"w": "orbit",
+"p": "n.",
+"zh": "軌道",
+"ex": "The satellite completes an orbit in 90 minutes.",
+"exZh": "該衛星九十分鐘繞行一圈。"
+},
+{
+"w": "organic matter",
+"p": "n.",
+"zh": "有機質",
+"ex": "Organic matter enriches the topsoil.",
+"exZh": "有機質豐富了表土。"
+},
+{
+"w": "organism",
+"p": "n.",
+"zh": "生物體",
+"ex": "The organism thrives in hot springs.",
+"exZh": "該生物體在溫泉中繁盛。"
+},
+{
+"w": "oxygen level",
+"p": "n.",
+"zh": "含氧量",
+"ex": "Oxygen levels fell in the deep water.",
+"exZh": "深層水的含氧量下降。"
+},
+{
+"w": "particle",
+"p": "n.",
+"zh": "粒子",
+"ex": "Particles were detected in the sample.",
+"exZh": "樣本中偵測到粒子。"
+},
+{
+"w": "photosynthesis",
+"p": "n.",
+"zh": "光合作用",
+"ex": "Photosynthesis converts light into energy.",
+"exZh": "光合作用把光轉換成能量。"
+},
+{
+"w": "planet",
+"p": "n.",
+"zh": "行星",
+"ex": "The planet orbits a distant star.",
+"exZh": "該行星繞著一顆遙遠的恆星運行。"
+},
+{
+"w": "pollination",
+"p": "n.",
+"zh": "授粉",
+"ex": "Bees are essential for pollination.",
+"exZh": "蜜蜂對授粉至關重要。"
+},
+{
+"w": "precipitation",
+"p": "n.",
+"zh": "降水",
+"ex": "Annual precipitation exceeds two meters.",
+"exZh": "年降水量超過兩公尺。"
+},
+{
+"w": "predator",
+"p": "n.",
+"zh": "掠食者",
+"ex": "The predator hunts at night.",
+"exZh": "該掠食者在夜間捕獵。"
+},
+{
+"w": "prey",
+"p": "n.",
+"zh": "獵物",
+"ex": "The bird's prey includes small fish.",
+"exZh": "該鳥類的獵物包括小魚。"
+},
+{
+"w": "radiation",
+"p": "n.",
+"zh": "輻射",
+"ex": "Radiation levels were within limits.",
+"exZh": "輻射量在限值內。"
+},
+{
+"w": "reaction",
+"p": "n.",
+"zh": "反應",
+"ex": "The reaction releases heat.",
+"exZh": "該反應釋放熱能。"
+},
+{
+"w": "reproduction",
+"p": "n.",
+"zh": "繁殖",
+"ex": "Reproduction occurs once a year.",
+"exZh": "繁殖每年一次。"
+},
+{
+"w": "research finding",
+"p": "n.",
+"zh": "研究結果",
+"ex": "The research finding was widely cited.",
+"exZh": "該研究結果被廣泛引用。"
+},
+{
+"w": "resistance",
+"p": "n.",
+"zh": "抗性",
+"ex": "The strain developed resistance quickly.",
+"exZh": "該菌株很快發展出抗性。"
+},
+{
+"w": "respiration",
+"p": "n.",
+"zh": "呼吸作用",
+"ex": "Respiration consumes oxygen.",
+"exZh": "呼吸作用消耗氧氣。"
+},
+{
+"w": "satellite",
+"p": "n.",
+"zh": "衛星",
+"ex": "The satellite transmits daily images.",
+"exZh": "該衛星每日傳送影像。"
+},
+{
+"w": "sediment layer",
+"p": "n.",
+"zh": "沉積層",
+"ex": "Each sediment layer marks a year.",
+"exZh": "每個沉積層代表一年。"
+},
+{
+"w": "seedling",
+"p": "n.",
+"zh": "幼苗",
+"ex": "Seedlings were planted in spring.",
+"exZh": "幼苗於春天種下。"
+},
+{
+"w": "soil",
+"p": "n.",
+"zh": "土壤",
+"ex": "The soil is rich in organic matter.",
+"exZh": "該土壤富含有機質。"
+},
+{
+"w": "solar system",
+"p": "n.",
+"zh": "太陽系",
+"ex": "The solar system has eight planets.",
+"exZh": "太陽系有八顆行星。"
+},
+{
+"w": "species diversity",
+"p": "n.",
+"zh": "物種多樣性",
+"ex": "Species diversity peaks in the tropics.",
+"exZh": "物種多樣性在熱帶最高。"
+},
+{
+"w": "specimen collection",
+"p": "n.",
+"zh": "標本蒐集",
+"ex": "Specimen collection took two seasons.",
+"exZh": "標本蒐集花了兩季。"
+},
+{
+"w": "spectrum",
+"p": "n.",
+"zh": "光譜",
+"ex": "The spectrum reveals the composition.",
+"exZh": "光譜揭示了組成成分。"
+},
+{
+"w": "sunlight",
+"p": "n.",
+"zh": "陽光",
+"ex": "Sunlight reaches the forest floor rarely.",
+"exZh": "陽光很少照到林地地面。"
+},
+{
+"w": "telescope",
+"p": "n.",
+"zh": "望遠鏡",
+"ex": "The telescope was upgraded last year.",
+"exZh": "望遠鏡去年升級了。"
+},
+{
+"w": "temperature range",
+"p": "n.",
+"zh": "溫差範圍",
+"ex": "The temperature range is extreme here.",
+"exZh": "此地溫差範圍極大。"
+},
+{
+"w": "terrain",
+"p": "n.",
+"zh": "地形",
+"ex": "The terrain is steep and rocky.",
+"exZh": "地形陡峭多岩。"
+},
+{
+"w": "theory",
+"p": "n.",
+"zh": "理論",
+"ex": "The theory explains both observations.",
+"exZh": "該理論解釋了兩項觀測。"
+},
+{
+"w": "tide",
+"p": "n.",
+"zh": "潮汐",
+"ex": "The tide turns twice a day.",
+"exZh": "潮汐每天轉向兩次。"
+},
+{
+"w": "tissue",
+"p": "n.",
+"zh": "組織",
+"ex": "The tissue sample was preserved.",
+"exZh": "組織樣本已保存。"
+},
+{
+"w": "trajectory",
+"p": "n.",
+"zh": "軌跡",
+"ex": "The probe followed a precise trajectory.",
+"exZh": "探測器沿精確軌跡飛行。"
+},
+{
+"w": "tropical",
+"p": "adj.",
+"zh": "熱帶的",
+"ex": "Tropical storms form over warm water.",
+"exZh": "熱帶風暴在暖水域形成。"
+},
+{
+"w": "universe",
+"p": "n.",
+"zh": "宇宙",
+"ex": "The universe continues to expand.",
+"exZh": "宇宙持續膨脹。"
+},
+{
+"w": "vapor",
+"p": "n.",
+"zh": "蒸氣",
+"ex": "Water vapor condenses into clouds.",
+"exZh": "水蒸氣凝結成雲。"
+},
+{
+"w": "vegetation",
+"p": "n.",
+"zh": "植被",
+"ex": "Vegetation recovered after the fire.",
+"exZh": "火災後植被恢復了。"
+},
+{
+"w": "velocity",
+"p": "n.",
+"zh": "速度",
+"ex": "Velocity increases as it descends.",
+"exZh": "下降時速度會增加。"
+},
+{
+"w": "vertebrate",
+"p": "n.",
+"zh": "脊椎動物",
+"ex": "Fish were the first vertebrates.",
+"exZh": "魚類是最早的脊椎動物。"
+},
+{
+"w": "volcano",
+"p": "n.",
+"zh": "火山",
+"ex": "The volcano erupted without warning.",
+"exZh": "火山無預警噴發。"
+},
+{
+"w": "wavelength",
+"p": "n.",
+"zh": "波長",
+"ex": "Different wavelengths carry different energy.",
+"exZh": "不同波長帶有不同能量。"
+},
+{
+"w": "weather station",
+"p": "n.",
+"zh": "氣象站",
+"ex": "The weather station reports hourly.",
+"exZh": "氣象站每小時回報。"
+},
+{
+"w": "wetland",
+"p": "n.",
+"zh": "濕地",
+"ex": "The wetland filters runoff naturally.",
+"exZh": "濕地自然過濾逕流。"
+},
+{
+"w": "wildlife corridor",
+"p": "n.",
+"zh": "生態廊道",
+"ex": "A wildlife corridor links the two forests.",
+"exZh": "生態廊道連接兩片森林。"
+},
+{
+"w": "zoology",
+"p": "n.",
+"zh": "動物學",
+"ex": "Zoology fieldwork lasted six weeks.",
+"exZh": "動物學田野工作持續六週。"
+}
+]
+}

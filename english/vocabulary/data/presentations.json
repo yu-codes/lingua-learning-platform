@@ -1,0 +1,805 @@
+{
+"id": "presentations",
+"name": "簡報與報告",
+"nameEn": "Presentations & Reports",
+"words": [
+{
+"w": "abbreviate",
+"p": "v.",
+"zh": "縮寫；縮短",
+"ex": "The title was abbreviated to fit the slide.",
+"exZh": "標題被縮短以配合投影片。"
+},
+{
+"w": "accompany",
+"p": "v.",
+"zh": "伴隨",
+"ex": "Notes accompany each slide.",
+"exZh": "每張投影片都附有註記。"
+},
+{
+"w": "accuracy",
+"p": "n.",
+"zh": "準確性",
+"ex": "Accuracy matters more than speed here.",
+"exZh": "在此準確性比速度重要。"
+},
+{
+"w": "accurate",
+"p": "adj.",
+"zh": "準確的",
+"ex": "Make sure the figures are accurate before publishing.",
+"exZh": "發布前請確保數字準確。"
+},
+{
+"w": "adapt",
+"p": "v.",
+"zh": "調整；改編",
+"ex": "She adapted the deck for a technical audience.",
+"exZh": "她為技術背景的聽眾調整了簡報。"
+},
+{
+"w": "adequate",
+"p": "adj.",
+"zh": "足夠的",
+"ex": "Allow adequate time for questions.",
+"exZh": "請留足夠時間提問。"
+},
+{
+"w": "alignment",
+"p": "n.",
+"zh": "對齊；一致",
+"ex": "Check the alignment of the chart labels.",
+"exZh": "請檢查圖表標籤的對齊。"
+},
+{
+"w": "analysis",
+"p": "n.",
+"zh": "分析",
+"ex": "The analysis covers three fiscal years.",
+"exZh": "該分析涵蓋三個會計年度。"
+},
+{
+"w": "annotate",
+"p": "v.",
+"zh": "加註",
+"ex": "He annotated the diagram with key figures.",
+"exZh": "他在圖表上加註了關鍵數字。"
+},
+{
+"w": "appendix",
+"p": "n.",
+"zh": "附錄",
+"ex": "Detailed tables are in the appendix.",
+"exZh": "詳細表格放在附錄。"
+},
+{
+"w": "approach",
+"p": "n./v.",
+"zh": "方法；著手",
+"ex": "We took a data-driven approach.",
+"exZh": "我們採取以數據為本的方法。"
+},
+{
+"w": "assertion",
+"p": "n.",
+"zh": "主張",
+"ex": "That assertion needs supporting evidence.",
+"exZh": "那項主張需要佐證。"
+},
+{
+"w": "attention",
+"p": "n.",
+"zh": "注意力",
+"ex": "The opening story captured everyone's attention.",
+"exZh": "開場故事抓住了所有人的注意力。"
+},
+{
+"w": "audible",
+"p": "adj.",
+"zh": "聽得見的",
+"ex": "Please speak loudly enough to be audible.",
+"exZh": "請說得夠大聲讓大家聽得見。"
+},
+{
+"w": "benchmark",
+"p": "n./v.",
+"zh": "基準；對標",
+"ex": "We benchmarked our results against the industry.",
+"exZh": "我們把成果與業界基準對照。"
+},
+{
+"w": "brevity",
+"p": "n.",
+"zh": "簡潔",
+"ex": "Brevity is valued in executive briefings.",
+"exZh": "高層簡報重視簡潔。"
+},
+{
+"w": "bullet",
+"p": "n.",
+"zh": "項目符號",
+"ex": "Limit each slide to five bullet points.",
+"exZh": "每張投影片限五個項目。"
+},
+{
+"w": "caption",
+"p": "n.",
+"zh": "圖說",
+"ex": "Every figure should have a caption.",
+"exZh": "每張圖都應該有圖說。"
+},
+{
+"w": "category",
+"p": "n.",
+"zh": "類別",
+"ex": "Expenses are grouped into four categories.",
+"exZh": "支出分為四個類別。"
+},
+{
+"w": "chart",
+"p": "n.",
+"zh": "圖表",
+"ex": "The chart shows a steady upward trend.",
+"exZh": "圖表顯示穩定的上升趨勢。"
+},
+{
+"w": "citation",
+"p": "n.",
+"zh": "引用出處",
+"ex": "Include a citation for every statistic.",
+"exZh": "每項統計都要附上出處。"
+},
+{
+"w": "clarity",
+"p": "n.",
+"zh": "清晰度",
+"ex": "The revision improved the clarity of the message.",
+"exZh": "修訂提升了訊息的清晰度。"
+},
+{
+"w": "coherence",
+"p": "n.",
+"zh": "連貫性",
+"ex": "The report lacks coherence between sections.",
+"exZh": "報告各章節之間缺乏連貫性。"
+},
+{
+"w": "column",
+"p": "n.",
+"zh": "欄",
+"ex": "The third column shows the variance.",
+"exZh": "第三欄顯示差異數。"
+},
+{
+"w": "compare",
+"p": "v.",
+"zh": "比較",
+"ex": "The slide compares last year with this year.",
+"exZh": "該投影片比較去年與今年。"
+},
+{
+"w": "comparison",
+"p": "n.",
+"zh": "比較",
+"ex": "A side-by-side comparison would help.",
+"exZh": "並排比較會很有幫助。"
+},
+{
+"w": "compelling",
+"p": "adj.",
+"zh": "有說服力的",
+"ex": "She made a compelling case for investment.",
+"exZh": "她提出了具說服力的投資理由。"
+},
+{
+"w": "component",
+"p": "n.",
+"zh": "組成部分",
+"ex": "Each component of the plan was explained.",
+"exZh": "計畫的每個組成部分都獲得說明。"
+},
+{
+"w": "comprehensible",
+"p": "adj.",
+"zh": "可理解的",
+"ex": "Keep the technical parts comprehensible.",
+"exZh": "請讓技術部分維持可理解。"
+},
+{
+"w": "confidence",
+"p": "n.",
+"zh": "信心",
+"ex": "She spoke with quiet confidence.",
+"exZh": "她說話時帶著沉穩的自信。"
+},
+{
+"w": "consistent",
+"p": "adj.",
+"zh": "一致的",
+"ex": "Use consistent units throughout.",
+"exZh": "全篇請使用一致的單位。"
+},
+{
+"w": "context",
+"p": "n.",
+"zh": "脈絡",
+"ex": "Provide context before showing numbers.",
+"exZh": "呈現數字前先提供脈絡。"
+},
+{
+"w": "convince",
+"p": "v.",
+"zh": "說服",
+"ex": "The demo convinced the skeptics.",
+"exZh": "展示說服了懷疑者。"
+},
+{
+"w": "correlation",
+"p": "n.",
+"zh": "相關性",
+"ex": "There is a strong correlation between the two.",
+"exZh": "兩者之間有強烈相關性。"
+},
+{
+"w": "credibility",
+"p": "n.",
+"zh": "可信度",
+"ex": "Citing sources builds credibility.",
+"exZh": "引用出處能建立可信度。"
+},
+{
+"w": "credible",
+"p": "adj.",
+"zh": "可信的",
+"ex": "The source is credible and well documented.",
+"exZh": "該來源可信且有完整佐證。"
+},
+{
+"w": "data",
+"p": "n.",
+"zh": "資料；數據",
+"ex": "The data supports our recommendation.",
+"exZh": "數據支持我們的建議。"
+},
+{
+"w": "decline",
+"p": "n./v.",
+"zh": "下降",
+"ex": "The chart shows a sharp decline in Q3.",
+"exZh": "圖表顯示第三季大幅下滑。"
+},
+{
+"w": "demonstrate",
+"p": "v.",
+"zh": "示範；證明",
+"ex": "He demonstrated the prototype on stage.",
+"exZh": "他在台上示範了原型。"
+},
+{
+"w": "depict",
+"p": "v.",
+"zh": "描繪",
+"ex": "The graph depicts quarterly revenue.",
+"exZh": "該圖描繪季度營收。"
+},
+{
+"w": "detail",
+"p": "n./v.",
+"zh": "細節；詳述",
+"ex": "The appendix details the methodology.",
+"exZh": "附錄詳述了方法論。"
+},
+{
+"w": "deviation",
+"p": "n.",
+"zh": "偏差",
+"ex": "A small deviation from the forecast is normal.",
+"exZh": "與預測有小幅偏差是正常的。"
+},
+{
+"w": "diagram",
+"p": "n.",
+"zh": "圖解",
+"ex": "The diagram explains the approval flow.",
+"exZh": "該圖解說明核准流程。"
+},
+{
+"w": "disclose",
+"p": "v.",
+"zh": "揭露",
+"ex": "We must disclose all material assumptions.",
+"exZh": "我們必須揭露所有重大假設。"
+},
+{
+"w": "estimate",
+"p": "n./v.",
+"zh": "估計",
+"ex": "Our estimate assumes stable demand.",
+"exZh": "我們的估計假設需求穩定。"
+},
+{
+"w": "evaluate",
+"p": "v.",
+"zh": "評估",
+"ex": "The panel will evaluate each submission.",
+"exZh": "評審小組將評估每份提交。"
+},
+{
+"w": "evidence",
+"p": "n.",
+"zh": "證據",
+"ex": "There is strong evidence of improvement.",
+"exZh": "有強力證據顯示情況改善。"
+},
+{
+"w": "exaggerate",
+"p": "v.",
+"zh": "誇大",
+"ex": "Avoid exaggerating the projected savings.",
+"exZh": "避免誇大預期節省。"
+},
+{
+"w": "exceed",
+"p": "v.",
+"zh": "超過",
+"ex": "Results exceeded the original target.",
+"exZh": "成果超過了原定目標。"
+},
+{
+"w": "excerpt",
+"p": "n.",
+"zh": "摘錄",
+"ex": "An excerpt from the report was quoted.",
+"exZh": "報告中的一段摘錄被引用。"
+},
+{
+"w": "exhibit",
+"p": "n./v.",
+"zh": "展示；展品",
+"ex": "Exhibit B lists the raw figures.",
+"exZh": "附件 B 列出原始數字。"
+},
+{
+"w": "figure",
+"p": "n.",
+"zh": "數字；圖",
+"ex": "Refer to figure three on page ten.",
+"exZh": "請參見第十頁的圖三。"
+},
+{
+"w": "finding",
+"p": "n.",
+"zh": "發現；結果",
+"ex": "The main finding surprised the committee.",
+"exZh": "主要發現令委員會意外。"
+},
+{
+"w": "fluctuate",
+"p": "v.",
+"zh": "波動",
+"ex": "Demand fluctuates with the season.",
+"exZh": "需求隨季節波動。"
+},
+{
+"w": "font",
+"p": "n.",
+"zh": "字型",
+"ex": "Use a larger font for the back rows.",
+"exZh": "請用較大字型讓後排看清楚。"
+},
+{
+"w": "forecast",
+"p": "n./v.",
+"zh": "預測",
+"ex": "The forecast assumes no price change.",
+"exZh": "預測假設價格不變。"
+},
+{
+"w": "format",
+"p": "n./v.",
+"zh": "格式",
+"ex": "Please format the tables consistently.",
+"exZh": "請讓表格格式一致。"
+},
+{
+"w": "fundamental",
+"p": "adj.",
+"zh": "基本的",
+"ex": "We start with two fundamental questions.",
+"exZh": "我們從兩個基本問題開始。"
+},
+{
+"w": "gesture",
+"p": "n.",
+"zh": "手勢",
+"ex": "Natural gestures make a talk more engaging.",
+"exZh": "自然的手勢讓演講更吸引人。"
+},
+{
+"w": "graph",
+"p": "n.",
+"zh": "圖表",
+"ex": "The graph plots cost against volume.",
+"exZh": "該圖表繪出成本與數量的關係。"
+},
+{
+"w": "horizontal",
+"p": "adj.",
+"zh": "水平的",
+"ex": "The horizontal axis shows time.",
+"exZh": "水平軸表示時間。"
+},
+{
+"w": "illustrate",
+"p": "v.",
+"zh": "說明；圖示",
+"ex": "This example illustrates the problem well.",
+"exZh": "這個例子清楚說明了問題。"
+},
+{
+"w": "implication",
+"p": "n.",
+"zh": "影響；意涵",
+"ex": "Consider the implications for staffing.",
+"exZh": "請考慮對人力配置的影響。"
+},
+{
+"w": "imply",
+"p": "v.",
+"zh": "暗示",
+"ex": "The data implies a shift in preference.",
+"exZh": "數據暗示偏好正在轉變。"
+},
+{
+"w": "inconsistent",
+"p": "adj.",
+"zh": "不一致的",
+"ex": "The two tables are inconsistent.",
+"exZh": "這兩張表格不一致。"
+},
+{
+"w": "indicate",
+"p": "v.",
+"zh": "顯示；指出",
+"ex": "The results indicate a downward trend.",
+"exZh": "結果顯示下降趨勢。"
+},
+{
+"w": "inference",
+"p": "n.",
+"zh": "推論",
+"ex": "That inference is not supported by the data.",
+"exZh": "該推論並未獲得數據支持。"
+},
+{
+"w": "interpret",
+"p": "v.",
+"zh": "解讀",
+"ex": "The figures can be interpreted two ways.",
+"exZh": "這些數字可以有兩種解讀。"
+},
+{
+"w": "introduction",
+"p": "n.",
+"zh": "引言",
+"ex": "Keep the introduction under two minutes.",
+"exZh": "引言請控制在兩分鐘內。"
+},
+{
+"w": "justification",
+"p": "n.",
+"zh": "理由",
+"ex": "Provide justification for each line item.",
+"exZh": "請為每個項目提供理由。"
+},
+{
+"w": "label",
+"p": "n./v.",
+"zh": "標籤；標示",
+"ex": "Label both axes clearly.",
+"exZh": "請清楚標示兩個座標軸。"
+},
+{
+"w": "legend",
+"p": "n.",
+"zh": "圖例",
+"ex": "The legend explains each color.",
+"exZh": "圖例說明了每種顏色。"
+},
+{
+"w": "margin",
+"p": "n.",
+"zh": "邊界；利潤",
+"ex": "Leave a wider margin for notes.",
+"exZh": "請留較寬的邊界供做筆記。"
+},
+{
+"w": "methodology",
+"p": "n.",
+"zh": "方法論",
+"ex": "The methodology section is quite technical.",
+"exZh": "方法論這一節相當技術性。"
+},
+{
+"w": "minimal",
+"p": "adj.",
+"zh": "極少的",
+"ex": "The change had a minimal impact.",
+"exZh": "該變更影響極小。"
+},
+{
+"w": "narrative",
+"p": "n.",
+"zh": "敘事；主軸",
+"ex": "Every deck needs a clear narrative.",
+"exZh": "每份簡報都需要清楚的敘事主軸。"
+},
+{
+"w": "noticeable",
+"p": "adj.",
+"zh": "明顯的",
+"ex": "There was a noticeable improvement.",
+"exZh": "有明顯的改善。"
+},
+{
+"w": "overstate",
+"p": "v.",
+"zh": "誇大",
+"ex": "Do not overstate the confidence level.",
+"exZh": "請勿誇大信心水準。"
+},
+{
+"w": "pace",
+"p": "n./v.",
+"zh": "節奏",
+"ex": "She kept a steady pace throughout.",
+"exZh": "她全程維持穩定的節奏。"
+},
+{
+"w": "percentage",
+"p": "n.",
+"zh": "百分比",
+"ex": "A small percentage of users reported issues.",
+"exZh": "少數比例的使用者回報了問題。"
+},
+{
+"w": "persuasive",
+"p": "adj.",
+"zh": "有說服力的",
+"ex": "The closing argument was persuasive.",
+"exZh": "結論的論證很有說服力。"
+},
+{
+"w": "pointer",
+"p": "n.",
+"zh": "指標；提示",
+"ex": "Use a pointer to highlight the trend line.",
+"exZh": "請用指標點出趨勢線。"
+},
+{
+"w": "preliminary",
+"p": "adj.",
+"zh": "初步的",
+"ex": "These are preliminary results only.",
+"exZh": "這些僅是初步結果。"
+},
+{
+"w": "presentation",
+"p": "n.",
+"zh": "簡報",
+"ex": "The presentation lasted forty minutes.",
+"exZh": "簡報進行了四十分鐘。"
+},
+{
+"w": "projector",
+"p": "n.",
+"zh": "投影機",
+"ex": "The projector needs a new bulb.",
+"exZh": "投影機需要換燈泡。"
+},
+{
+"w": "proportion",
+"p": "n.",
+"zh": "比例",
+"ex": "A large proportion of costs is fixed.",
+"exZh": "很大比例的成本是固定的。"
+},
+{
+"w": "prove",
+"p": "v.",
+"zh": "證明",
+"ex": "The pilot proved the concept viable.",
+"exZh": "試辦證明了這個概念可行。"
+},
+{
+"w": "query",
+"p": "n./v.",
+"zh": "疑問；查詢",
+"ex": "Please send any queries by email.",
+"exZh": "如有疑問請以郵件寄送。"
+},
+{
+"w": "quote",
+"p": "v./n.",
+"zh": "引述",
+"ex": "He quoted the CEO's remarks accurately.",
+"exZh": "他準確引述了執行長的話。"
+},
+{
+"w": "recommend",
+"p": "v.",
+"zh": "建議",
+"ex": "We recommend a phased rollout.",
+"exZh": "我們建議分階段推行。"
+},
+{
+"w": "rehearse",
+"p": "v.",
+"zh": "排練",
+"ex": "We rehearsed the demo three times.",
+"exZh": "我們把展示排練了三次。"
+},
+{
+"w": "reliable",
+"p": "adj.",
+"zh": "可靠的",
+"ex": "The sample size makes the result reliable.",
+"exZh": "樣本數讓結果可靠。"
+},
+{
+"w": "represent",
+"p": "v.",
+"zh": "代表",
+"ex": "Each bar represents one region.",
+"exZh": "每根長條代表一個地區。"
+},
+{
+"w": "respectively",
+"p": "adv.",
+"zh": "分別地",
+"ex": "Sales rose 5% and 8% respectively.",
+"exZh": "銷售分別成長 5% 與 8%。"
+},
+{
+"w": "reveal",
+"p": "v.",
+"zh": "揭示",
+"ex": "The breakdown reveals where costs rose.",
+"exZh": "明細揭示了成本上升的位置。"
+},
+{
+"w": "scope",
+"p": "n.",
+"zh": "範圍",
+"ex": "Define the scope before the deep dive.",
+"exZh": "深入之前先界定範圍。"
+},
+{
+"w": "segment",
+"p": "n.",
+"zh": "區隔；部分",
+"ex": "The premium segment grew fastest.",
+"exZh": "高階區隔成長最快。"
+},
+{
+"w": "significant",
+"p": "adj.",
+"zh": "顯著的",
+"ex": "The difference is statistically significant.",
+"exZh": "該差異在統計上顯著。"
+},
+{
+"w": "simplify",
+"p": "v.",
+"zh": "簡化",
+"ex": "Simplify the chart to one message.",
+"exZh": "把圖表簡化到只傳達一個訊息。"
+},
+{
+"w": "slide",
+"p": "n.",
+"zh": "投影片",
+"ex": "Go back one slide, please.",
+"exZh": "請往回一張投影片。"
+},
+{
+"w": "statistic",
+"p": "n.",
+"zh": "統計數字",
+"ex": "That statistic comes from a 2023 survey.",
+"exZh": "該統計數字來自 2023 年的調查。"
+},
+{
+"w": "substantial",
+"p": "adj.",
+"zh": "大量的；實質的",
+"ex": "There was a substantial increase in traffic.",
+"exZh": "流量有大幅增加。"
+},
+{
+"w": "sufficient",
+"p": "adj.",
+"zh": "足夠的",
+"ex": "We have sufficient data to conclude.",
+"exZh": "我們有足夠資料下結論。"
+},
+{
+"w": "summary",
+"p": "n.",
+"zh": "摘要",
+"ex": "The executive summary is one page long.",
+"exZh": "執行摘要長度為一頁。"
+},
+{
+"w": "supplement",
+"p": "v./n.",
+"zh": "補充",
+"ex": "Charts supplement the written analysis.",
+"exZh": "圖表補充了書面分析。"
+},
+{
+"w": "survey",
+"p": "n./v.",
+"zh": "調查",
+"ex": "We surveyed 400 customers last month.",
+"exZh": "我們上個月調查了 400 位客戶。"
+},
+{
+"w": "takeaway",
+"p": "n.",
+"zh": "重點結論",
+"ex": "The key takeaway is simple.",
+"exZh": "關鍵結論很簡單。"
+},
+{
+"w": "terminology",
+"p": "n.",
+"zh": "術語",
+"ex": "Define any unfamiliar terminology.",
+"exZh": "請定義任何不熟悉的術語。"
+},
+{
+"w": "transition",
+"p": "n.",
+"zh": "轉場；過渡",
+"ex": "The transition between sections felt abrupt.",
+"exZh": "各節之間的轉場顯得突兀。"
+},
+{
+"w": "trend",
+"p": "n.",
+"zh": "趨勢",
+"ex": "The upward trend continued into June.",
+"exZh": "上升趨勢延續到六月。"
+},
+{
+"w": "validate",
+"p": "v.",
+"zh": "驗證",
+"ex": "We validated the model against real data.",
+"exZh": "我們用實際資料驗證了模型。"
+},
+{
+"w": "variance",
+"p": "n.",
+"zh": "差異",
+"ex": "The variance was within acceptable limits.",
+"exZh": "差異在可接受範圍內。"
+},
+{
+"w": "vertical",
+"p": "adj.",
+"zh": "垂直的",
+"ex": "The vertical axis shows units sold.",
+"exZh": "垂直軸顯示售出單位數。"
+},
+{
+"w": "visual",
+"p": "n./adj.",
+"zh": "視覺素材；視覺的",
+"ex": "Strong visuals help the audience follow.",
+"exZh": "好的視覺素材幫助聽眾跟上。"
+}
+]
+}

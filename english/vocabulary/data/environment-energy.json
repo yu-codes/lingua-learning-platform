@@ -1,0 +1,707 @@
+{
+"id": "environment-energy",
+"name": "環境與能源",
+"nameEn": "Environment & Energy",
+"words": [
+{
+"w": "absorb",
+"p": "v.",
+"zh": "吸收",
+"ex": "Forests absorb large amounts of carbon.",
+"exZh": "森林吸收大量的碳。"
+},
+{
+"w": "acid rain",
+"p": "n.",
+"zh": "酸雨",
+"ex": "Acid rain damaged the forest canopy.",
+"exZh": "酸雨破壞了森林樹冠。"
+},
+{
+"w": "adaptation",
+"p": "n.",
+"zh": "調適",
+"ex": "Climate adaptation plans were funded.",
+"exZh": "氣候調適計畫獲得經費。"
+},
+{
+"w": "aquifer",
+"p": "n.",
+"zh": "含水層",
+"ex": "The aquifer recharges slowly.",
+"exZh": "該含水層補注緩慢。"
+},
+{
+"w": "atmosphere",
+"p": "n.",
+"zh": "大氣",
+"ex": "Carbon accumulates in the atmosphere.",
+"exZh": "碳在大氣中累積。"
+},
+{
+"w": "biodegradable",
+"p": "adj.",
+"zh": "可生物分解的",
+"ex": "The packaging is fully biodegradable.",
+"exZh": "該包裝完全可生物分解。"
+},
+{
+"w": "biodiversity",
+"p": "n.",
+"zh": "生物多樣性",
+"ex": "Biodiversity declined in the wetlands.",
+"exZh": "濕地的生物多樣性下降。"
+},
+{
+"w": "biomass",
+"p": "n.",
+"zh": "生質能",
+"ex": "Biomass supplies a tenth of the heat.",
+"exZh": "生質能供應十分之一的熱能。"
+},
+{
+"w": "byproduct",
+"p": "n.",
+"zh": "副產品",
+"ex": "Heat is a useful byproduct.",
+"exZh": "熱能是有用的副產品。"
+},
+{
+"w": "carbon footprint",
+"p": "n.",
+"zh": "碳足跡",
+"ex": "The firm halved its carbon footprint.",
+"exZh": "該公司將碳足跡減半。"
+},
+{
+"w": "carbon neutral",
+"p": "adj.",
+"zh": "碳中和的",
+"ex": "The campus aims to be carbon neutral.",
+"exZh": "該校園目標達成碳中和。"
+},
+{
+"w": "catchment",
+"p": "n.",
+"zh": "集水範圍",
+"ex": "The catchment covers 2,000 square kilometers.",
+"exZh": "集水範圍達兩千平方公里。"
+},
+{
+"w": "circular economy",
+"p": "n.",
+"zh": "循環經濟",
+"ex": "Circular economy models reduce waste.",
+"exZh": "循環經濟模式可減少廢棄物。"
+},
+{
+"w": "climate",
+"p": "n.",
+"zh": "氣候",
+"ex": "Climate patterns have shifted noticeably.",
+"exZh": "氣候模式已明顯改變。"
+},
+{
+"w": "coal",
+"p": "n.",
+"zh": "煤",
+"ex": "Coal use fell for the fifth year.",
+"exZh": "燃煤使用連續第五年下降。"
+},
+{
+"w": "coastal",
+"p": "adj.",
+"zh": "沿海的",
+"ex": "Coastal defenses were reinforced.",
+"exZh": "沿海防護設施已加固。"
+},
+{
+"w": "compost",
+"p": "n./v.",
+"zh": "堆肥",
+"ex": "Kitchen waste is composted on site.",
+"exZh": "廚餘在現場製成堆肥。"
+},
+{
+"w": "conservation",
+"p": "n.",
+"zh": "保育",
+"ex": "Conservation efforts protected the species.",
+"exZh": "保育工作保護了該物種。"
+},
+{
+"w": "consumption",
+"p": "n.",
+"zh": "消耗量",
+"ex": "Energy consumption dropped in winter.",
+"exZh": "冬季能源消耗量下降。"
+},
+{
+"w": "consumption rate",
+"p": "n.",
+"zh": "消耗速率",
+"ex": "The consumption rate exceeds replenishment.",
+"exZh": "消耗速率超過補充速率。"
+},
+{
+"w": "cultivate",
+"p": "v.",
+"zh": "耕作",
+"ex": "Farmers cultivate drought-resistant varieties.",
+"exZh": "農民耕種耐旱品種。"
+},
+{
+"w": "decarbonize",
+"p": "v.",
+"zh": "去碳化",
+"ex": "The sector plans to decarbonize by 2040.",
+"exZh": "該產業計畫在 2040 年前去碳化。"
+},
+{
+"w": "deforestation",
+"p": "n.",
+"zh": "森林砍伐",
+"ex": "Deforestation slowed after the ban.",
+"exZh": "禁令後森林砍伐趨緩。"
+},
+{
+"w": "degradation",
+"p": "n.",
+"zh": "劣化",
+"ex": "Soil degradation reduces crop yields.",
+"exZh": "土壤劣化降低作物產量。"
+},
+{
+"w": "depletion",
+"p": "n.",
+"zh": "耗竭",
+"ex": "Resource depletion is accelerating.",
+"exZh": "資源耗竭正在加速。"
+},
+{
+"w": "disposal",
+"p": "n.",
+"zh": "處置",
+"ex": "Safe disposal of batteries is required.",
+"exZh": "電池必須安全處置。"
+},
+{
+"w": "downstream",
+"p": "adj.",
+"zh": "下游的",
+"ex": "Downstream communities were warned.",
+"exZh": "下游社區已獲警示。"
+},
+{
+"w": "drought",
+"p": "n.",
+"zh": "乾旱",
+"ex": "The drought lasted three seasons.",
+"exZh": "乾旱持續了三季。"
+},
+{
+"w": "ecological",
+"p": "adj.",
+"zh": "生態的",
+"ex": "The project underwent ecological review.",
+"exZh": "該專案接受了生態審查。"
+},
+{
+"w": "ecosystem",
+"p": "n.",
+"zh": "生態系",
+"ex": "The reef ecosystem is recovering slowly.",
+"exZh": "珊瑚礁生態系正緩慢復原。"
+},
+{
+"w": "effluent",
+"p": "n.",
+"zh": "廢水",
+"ex": "Effluent quality is tested weekly.",
+"exZh": "廢水品質每週檢測。"
+},
+{
+"w": "emission standard",
+"p": "n.",
+"zh": "排放標準",
+"ex": "New emission standards apply to trucks.",
+"exZh": "新排放標準適用於卡車。"
+},
+{
+"w": "endangered",
+"p": "adj.",
+"zh": "瀕危的",
+"ex": "Several endangered species live here.",
+"exZh": "數種瀕危物種棲息於此。"
+},
+{
+"w": "energy",
+"p": "n.",
+"zh": "能源",
+"ex": "Renewable energy now supplies half the grid.",
+"exZh": "再生能源現供應電網一半電力。"
+},
+{
+"w": "energy grid",
+"p": "n.",
+"zh": "電網",
+"ex": "The energy grid was modernized.",
+"exZh": "電網已現代化。"
+},
+{
+"w": "environmental",
+"p": "adj.",
+"zh": "環境的",
+"ex": "An environmental assessment was required.",
+"exZh": "需要進行環境評估。"
+},
+{
+"w": "erosion",
+"p": "n.",
+"zh": "侵蝕",
+"ex": "Coastal erosion threatens the road.",
+"exZh": "海岸侵蝕威脅到道路。"
+},
+{
+"w": "extinction",
+"p": "n.",
+"zh": "滅絕",
+"ex": "Extinction rates are rising globally.",
+"exZh": "全球滅絕速率正在上升。"
+},
+{
+"w": "extraction",
+"p": "n.",
+"zh": "開採",
+"ex": "Water extraction was capped.",
+"exZh": "取水量已設上限。"
+},
+{
+"w": "flood",
+"p": "n.",
+"zh": "洪水",
+"ex": "Floods displaced thousands of residents.",
+"exZh": "洪水使數千居民流離失所。"
+},
+{
+"w": "footprint",
+"p": "n.",
+"zh": "環境足跡",
+"ex": "The building has a small footprint.",
+"exZh": "該建築的環境足跡很小。"
+},
+{
+"w": "fossil fuel",
+"p": "n.",
+"zh": "化石燃料",
+"ex": "Fossil fuel subsidies were reduced.",
+"exZh": "化石燃料補貼已削減。"
+},
+{
+"w": "fuel cell",
+"p": "n.",
+"zh": "燃料電池",
+"ex": "Fuel cells power the backup system.",
+"exZh": "燃料電池為備援系統供電。"
+},
+{
+"w": "generation",
+"p": "n.",
+"zh": "發電",
+"ex": "Generation peaked during the heatwave.",
+"exZh": "熱浪期間發電量達到高峰。"
+},
+{
+"w": "geothermal",
+"p": "adj.",
+"zh": "地熱的",
+"ex": "Geothermal plants run continuously.",
+"exZh": "地熱電廠持續運轉。"
+},
+{
+"w": "green",
+"p": "adj.",
+"zh": "綠色環保的",
+"ex": "Green procurement policies were adopted.",
+"exZh": "已採行綠色採購政策。"
+},
+{
+"w": "greenhouse gas",
+"p": "n.",
+"zh": "溫室氣體",
+"ex": "Greenhouse gas levels reached a record.",
+"exZh": "溫室氣體濃度創新高。"
+},
+{
+"w": "groundwater",
+"p": "n.",
+"zh": "地下水",
+"ex": "Groundwater levels are monitored monthly.",
+"exZh": "地下水位每月監測。"
+},
+{
+"w": "habitat",
+"p": "n.",
+"zh": "棲地",
+"ex": "The wetland habitat was restored.",
+"exZh": "該濕地棲地已復育。"
+},
+{
+"w": "harvest",
+"p": "v./n.",
+"zh": "採收",
+"ex": "Rainwater is harvested from the roof.",
+"exZh": "雨水自屋頂收集。"
+},
+{
+"w": "hazardous",
+"p": "adj.",
+"zh": "有害的",
+"ex": "Hazardous waste requires special handling.",
+"exZh": "有害廢棄物需特殊處理。"
+},
+{
+"w": "hydroelectric",
+"p": "adj.",
+"zh": "水力發電的",
+"ex": "A hydroelectric dam powers the region.",
+"exZh": "一座水力發電壩供應該區電力。"
+},
+{
+"w": "hydrogen",
+"p": "n.",
+"zh": "氫能",
+"ex": "Hydrogen is being tested as a fuel.",
+"exZh": "氫能正作為燃料進行測試。"
+},
+{
+"w": "insulation",
+"p": "n.",
+"zh": "隔熱層",
+"ex": "Better insulation cut heating bills.",
+"exZh": "更好的隔熱層降低了暖氣費。"
+},
+{
+"w": "irrigation",
+"p": "n.",
+"zh": "灌溉",
+"ex": "Drip irrigation saves 40 percent of water.",
+"exZh": "滴灌可節省四成用水。"
+},
+{
+"w": "kilowatt",
+"p": "n.",
+"zh": "千瓦",
+"ex": "The system produces 300 kilowatts.",
+"exZh": "該系統產出三百千瓦。"
+},
+{
+"w": "landfill",
+"p": "n.",
+"zh": "掩埋場",
+"ex": "Landfill capacity is nearly exhausted.",
+"exZh": "掩埋場容量幾乎用盡。"
+},
+{
+"w": "methane",
+"p": "n.",
+"zh": "甲烷",
+"ex": "Methane leaks were sealed promptly.",
+"exZh": "甲烷洩漏已迅速封堵。"
+},
+{
+"w": "mitigation",
+"p": "n.",
+"zh": "減緩措施",
+"ex": "Mitigation measures were required.",
+"exZh": "要求採取減緩措施。"
+},
+{
+"w": "nuclear",
+"p": "adj.",
+"zh": "核能的",
+"ex": "Nuclear output remained steady.",
+"exZh": "核能發電量維持穩定。"
+},
+{
+"w": "organic",
+"p": "adj.",
+"zh": "有機的",
+"ex": "Organic farming expanded in the region.",
+"exZh": "有機農業在該區擴展。"
+},
+{
+"w": "ozone",
+"p": "n.",
+"zh": "臭氧",
+"ex": "The ozone layer is slowly recovering.",
+"exZh": "臭氧層正緩慢復原。"
+},
+{
+"w": "ozone layer",
+"p": "n.",
+"zh": "臭氧層",
+"ex": "The ozone layer thinned over decades.",
+"exZh": "臭氧層數十年來變薄。"
+},
+{
+"w": "photovoltaic",
+"p": "adj.",
+"zh": "光伏的",
+"ex": "Photovoltaic panels cover the roof.",
+"exZh": "屋頂鋪滿光伏板。"
+},
+{
+"w": "pipeline",
+"p": "n.",
+"zh": "管線",
+"ex": "The pipeline carries natural gas.",
+"exZh": "該管線輸送天然氣。"
+},
+{
+"w": "plantation",
+"p": "n.",
+"zh": "人工林",
+"ex": "The plantation supplies certified timber.",
+"exZh": "該人工林供應認證木材。"
+},
+{
+"w": "pollutant",
+"p": "n.",
+"zh": "污染物",
+"ex": "The pollutant was traced to one plant.",
+"exZh": "該污染物追溯到一座工廠。"
+},
+{
+"w": "pollution",
+"p": "n.",
+"zh": "污染",
+"ex": "Air pollution eased after the rain.",
+"exZh": "降雨後空氣污染緩解。"
+},
+{
+"w": "preservation",
+"p": "n.",
+"zh": "保存",
+"ex": "Forest preservation is a national priority.",
+"exZh": "森林保存是國家優先事項。"
+},
+{
+"w": "purification",
+"p": "n.",
+"zh": "淨化",
+"ex": "Water purification removes heavy metals.",
+"exZh": "水質淨化可去除重金屬。"
+},
+{
+"w": "recyclable",
+"p": "adj.",
+"zh": "可回收的",
+"ex": "The container is fully recyclable.",
+"exZh": "該容器完全可回收。"
+},
+{
+"w": "recycling",
+"p": "n.",
+"zh": "回收",
+"ex": "Recycling rates rose to 60 percent.",
+"exZh": "回收率升至六成。"
+},
+{
+"w": "reduction",
+"p": "n.",
+"zh": "減量",
+"ex": "A 30 percent reduction was achieved.",
+"exZh": "達成了三成的減量。"
+},
+{
+"w": "reforestation",
+"p": "n.",
+"zh": "造林",
+"ex": "Reforestation covered 8,000 hectares.",
+"exZh": "造林面積達八千公頃。"
+},
+{
+"w": "renewable",
+"p": "adj.",
+"zh": "可再生的",
+"ex": "Renewable capacity doubled in five years.",
+"exZh": "可再生能源裝置容量五年內翻倍。"
+},
+{
+"w": "reservoir",
+"p": "n.",
+"zh": "水庫",
+"ex": "The reservoir fell to 30 percent.",
+"exZh": "水庫蓄水降至三成。"
+},
+{
+"w": "resilience",
+"p": "n.",
+"zh": "韌性",
+"ex": "Infrastructure resilience was improved.",
+"exZh": "基礎設施韌性獲得提升。"
+},
+{
+"w": "resource",
+"p": "n.",
+"zh": "資源",
+"ex": "Water resources are unevenly distributed.",
+"exZh": "水資源分布不均。"
+},
+{
+"w": "restoration",
+"p": "n.",
+"zh": "復育",
+"ex": "Habitat restoration began last spring.",
+"exZh": "棲地復育於去年春天開始。"
+},
+{
+"w": "retrofit",
+"p": "v.",
+"zh": "改裝翻新",
+"ex": "Older buildings were retrofitted for efficiency.",
+"exZh": "老舊建築經改裝以提升能效。"
+},
+{
+"w": "runoff",
+"p": "n.",
+"zh": "逕流",
+"ex": "Agricultural runoff polluted the stream.",
+"exZh": "農業逕流污染了溪流。"
+},
+{
+"w": "scarcity",
+"p": "n.",
+"zh": "稀缺",
+"ex": "Water scarcity affects the whole basin.",
+"exZh": "水資源稀缺影響整個流域。"
+},
+{
+"w": "sediment",
+"p": "n.",
+"zh": "沉積物",
+"ex": "Sediment build-up reduced capacity.",
+"exZh": "沉積物堆積降低了容量。"
+},
+{
+"w": "sewage",
+"p": "n.",
+"zh": "污水",
+"ex": "Sewage is treated before discharge.",
+"exZh": "污水在排放前先行處理。"
+},
+{
+"w": "smog",
+"p": "n.",
+"zh": "霧霾",
+"ex": "Smog levels exceeded safety limits.",
+"exZh": "霧霾濃度超過安全限值。"
+},
+{
+"w": "solar",
+"p": "adj.",
+"zh": "太陽能的",
+"ex": "Solar output peaks at midday.",
+"exZh": "太陽能發電在正午達到高峰。"
+},
+{
+"w": "solar farm",
+"p": "n.",
+"zh": "太陽能電廠",
+"ex": "The solar farm covers 200 hectares.",
+"exZh": "該太陽能電廠佔地兩百公頃。"
+},
+{
+"w": "species",
+"p": "n.",
+"zh": "物種",
+"ex": "The species was reclassified last year.",
+"exZh": "該物種去年重新分類。"
+},
+{
+"w": "sustainability",
+"p": "n.",
+"zh": "永續性",
+"ex": "Sustainability targets were published.",
+"exZh": "永續性目標已公布。"
+},
+{
+"w": "temperature",
+"p": "n.",
+"zh": "溫度",
+"ex": "Average temperatures rose by one degree.",
+"exZh": "平均溫度上升了一度。"
+},
+{
+"w": "toxic",
+"p": "adj.",
+"zh": "有毒的",
+"ex": "Toxic substances are stored separately.",
+"exZh": "有毒物質分開存放。"
+},
+{
+"w": "treatment plant",
+"p": "n.",
+"zh": "處理廠",
+"ex": "The treatment plant serves 80,000 people.",
+"exZh": "該處理廠服務八萬人。"
+},
+{
+"w": "turbine",
+"p": "n.",
+"zh": "渦輪機",
+"ex": "The turbine generates two megawatts.",
+"exZh": "該渦輪機發電兩百萬瓦。"
+},
+{
+"w": "volatile",
+"p": "adj.",
+"zh": "揮發性的",
+"ex": "Volatile compounds were detected.",
+"exZh": "偵測到揮發性化合物。"
+},
+{
+"w": "water table",
+"p": "n.",
+"zh": "地下水位",
+"ex": "The water table dropped sharply.",
+"exZh": "地下水位大幅下降。"
+},
+{
+"w": "watershed",
+"p": "n.",
+"zh": "集水區",
+"ex": "The watershed supplies three cities.",
+"exZh": "該集水區供應三座城市用水。"
+},
+{
+"w": "weatherproof",
+"p": "adj.",
+"zh": "耐候的",
+"ex": "The casing is fully weatherproof.",
+"exZh": "外殼完全耐候。"
+},
+{
+"w": "wildlife",
+"p": "n.",
+"zh": "野生動物",
+"ex": "Wildlife corridors reduce road deaths.",
+"exZh": "野生動物廊道減少了路殺。"
+},
+{
+"w": "wind power",
+"p": "n.",
+"zh": "風力發電",
+"ex": "Wind power supplied a third of demand.",
+"exZh": "風力發電供應三分之一的需求。"
+},
+{
+"w": "zoning",
+"p": "n.",
+"zh": "土地分區",
+"ex": "Zoning rules restrict industrial use.",
+"exZh": "土地分區規則限制工業使用。"
+}
+]
+}

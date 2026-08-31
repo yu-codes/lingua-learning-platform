@@ -1,0 +1,805 @@
+{
+"id": "manufacturing",
+"name": "生產與品管",
+"nameEn": "Manufacturing & Quality",
+"words": [
+{
+"w": "abrasion",
+"p": "n.",
+"zh": "磨損",
+"ex": "Abrasion resistance was tested.",
+"exZh": "已測試耐磨損性。"
+},
+{
+"w": "abrasive",
+"p": "adj./n.",
+"zh": "磨蝕的；研磨劑",
+"ex": "Abrasive materials wear the tooling quickly.",
+"exZh": "研磨材料會迅速磨損刀具。"
+},
+{
+"w": "adjustment",
+"p": "n.",
+"zh": "調校",
+"ex": "A minor adjustment fixed the alignment.",
+"exZh": "一次微調解決了對位問題。"
+},
+{
+"w": "alloy",
+"p": "n.",
+"zh": "合金",
+"ex": "The alloy resists corrosion well.",
+"exZh": "該合金抗腐蝕性良好。"
+},
+{
+"w": "apparatus",
+"p": "n.",
+"zh": "裝置",
+"ex": "The test apparatus was recalibrated.",
+"exZh": "測試裝置已重新校正。"
+},
+{
+"w": "assembly",
+"p": "n.",
+"zh": "組裝",
+"ex": "The assembly line runs two shifts.",
+"exZh": "組裝線採兩班制運作。"
+},
+{
+"w": "attachment",
+"p": "n.",
+"zh": "配件",
+"ex": "An attachment converts the drill for milling.",
+"exZh": "一個配件可讓鑽床轉為銑削用。"
+},
+{
+"w": "automation",
+"p": "n.",
+"zh": "自動化",
+"ex": "Automation cut cycle time by half.",
+"exZh": "自動化將週期時間縮短一半。"
+},
+{
+"w": "batch",
+"p": "n.",
+"zh": "批次",
+"ex": "Each batch carries a unique number.",
+"exZh": "每個批次都有專屬編號。"
+},
+{
+"w": "blueprint",
+"p": "n.",
+"zh": "藍圖",
+"ex": "The blueprint shows all tolerances.",
+"exZh": "藍圖標示了所有公差。"
+},
+{
+"w": "bottleneck",
+"p": "n.",
+"zh": "瓶頸",
+"ex": "The paint booth is the main bottleneck.",
+"exZh": "烤漆房是主要瓶頸。"
+},
+{
+"w": "calibrate",
+"p": "v.",
+"zh": "校正",
+"ex": "Instruments are calibrated every six months.",
+"exZh": "儀器每六個月校正一次。"
+},
+{
+"w": "casting",
+"p": "n.",
+"zh": "鑄件",
+"ex": "The casting is machined after cooling.",
+"exZh": "鑄件冷卻後進行加工。"
+},
+{
+"w": "cease",
+"p": "v.",
+"zh": "停止",
+"ex": "Production ceased during the inspection.",
+"exZh": "檢驗期間生產停止。"
+},
+{
+"w": "compound",
+"p": "n.",
+"zh": "複合材料",
+"ex": "The compound cures in twenty minutes.",
+"exZh": "該複合材料二十分鐘固化。"
+},
+{
+"w": "conformity",
+"p": "n.",
+"zh": "符合性",
+"ex": "Conformity is verified by sampling.",
+"exZh": "符合性透過抽樣驗證。"
+},
+{
+"w": "consistency",
+"p": "n.",
+"zh": "一致性",
+"ex": "Batch consistency improved with automation.",
+"exZh": "自動化提升了批次一致性。"
+},
+{
+"w": "constraint",
+"p": "n.",
+"zh": "限制條件",
+"ex": "Capacity is the binding constraint.",
+"exZh": "產能是關鍵限制條件。"
+},
+{
+"w": "contamination",
+"p": "n.",
+"zh": "污染",
+"ex": "Contamination was traced to the coolant.",
+"exZh": "污染源追溯到冷卻液。"
+},
+{
+"w": "conveyor",
+"p": "n.",
+"zh": "輸送帶",
+"ex": "The conveyor jammed during the night shift.",
+"exZh": "輸送帶在夜班時卡住。"
+},
+{
+"w": "corrosion",
+"p": "n.",
+"zh": "腐蝕",
+"ex": "Corrosion was found on the outer casing.",
+"exZh": "外殼發現腐蝕。"
+},
+{
+"w": "craftsmanship",
+"p": "n.",
+"zh": "工藝",
+"ex": "The craftsmanship is exceptional.",
+"exZh": "工藝水準出色。"
+},
+{
+"w": "cycle",
+"p": "n.",
+"zh": "週期",
+"ex": "The molding cycle is 42 seconds.",
+"exZh": "成型週期為 42 秒。"
+},
+{
+"w": "defect",
+"p": "n.",
+"zh": "瑕疵",
+"ex": "The defect rate dropped to 0.4 percent.",
+"exZh": "不良率降到 0.4%。"
+},
+{
+"w": "deform",
+"p": "v.",
+"zh": "變形",
+"ex": "The plate deformed under heat.",
+"exZh": "該板材受熱變形。"
+},
+{
+"w": "dimension",
+"p": "n.",
+"zh": "尺寸",
+"ex": "Critical dimensions are checked hourly.",
+"exZh": "關鍵尺寸每小時檢查一次。"
+},
+{
+"w": "discard",
+"p": "v.",
+"zh": "丟棄",
+"ex": "Damaged parts are discarded immediately.",
+"exZh": "受損零件立即丟棄。"
+},
+{
+"w": "downtime",
+"p": "n.",
+"zh": "停機時間",
+"ex": "Unplanned downtime cost two shifts.",
+"exZh": "非計畫停機損失了兩個班次。"
+},
+{
+"w": "durability",
+"p": "n.",
+"zh": "耐久性",
+"ex": "Durability tests ran for 500 hours.",
+"exZh": "耐久性測試進行了五百小時。"
+},
+{
+"w": "efficiency",
+"p": "n.",
+"zh": "效率",
+"ex": "Line efficiency improved after retooling.",
+"exZh": "換模後產線效率提升。"
+},
+{
+"w": "emission",
+"p": "n.",
+"zh": "排放",
+"ex": "Emission levels are monitored continuously.",
+"exZh": "排放量持續受到監測。"
+},
+{
+"w": "enclosure",
+"p": "n.",
+"zh": "外殼",
+"ex": "The enclosure is sealed against dust.",
+"exZh": "外殼經密封防塵。"
+},
+{
+"w": "ergonomic",
+"p": "adj.",
+"zh": "人體工學的",
+"ex": "Ergonomic tools reduced injury rates.",
+"exZh": "人體工學工具降低了傷害率。"
+},
+{
+"w": "fabricate",
+"p": "v.",
+"zh": "製造",
+"ex": "The brackets are fabricated in house.",
+"exZh": "支架由廠內自行製造。"
+},
+{
+"w": "fatigue",
+"p": "n.",
+"zh": "疲勞（材料）",
+"ex": "Metal fatigue caused the crack.",
+"exZh": "金屬疲勞造成了裂痕。"
+},
+{
+"w": "feasibility",
+"p": "n.",
+"zh": "可行性",
+"ex": "A feasibility study preceded the investment.",
+"exZh": "投資前進行了可行性研究。"
+},
+{
+"w": "flaw",
+"p": "n.",
+"zh": "缺陷",
+"ex": "A surface flaw was detected by camera.",
+"exZh": "相機偵測到表面缺陷。"
+},
+{
+"w": "gauge",
+"p": "n./v.",
+"zh": "量規；測量",
+"ex": "A digital gauge measures thickness.",
+"exZh": "數位量規測量厚度。"
+},
+{
+"w": "gear",
+"p": "n.",
+"zh": "齒輪",
+"ex": "The gear was replaced during maintenance.",
+"exZh": "齒輪在維護時更換。"
+},
+{
+"w": "grind",
+"p": "v.",
+"zh": "研磨",
+"ex": "The surface is ground to a fine finish.",
+"exZh": "表面經研磨達到細緻光潔度。"
+},
+{
+"w": "hazard",
+"p": "n.",
+"zh": "危害",
+"ex": "Chemical hazards are clearly labeled.",
+"exZh": "化學危害都有清楚標示。"
+},
+{
+"w": "hydraulic",
+"p": "adj.",
+"zh": "液壓的",
+"ex": "The hydraulic system lost pressure.",
+"exZh": "液壓系統失壓。"
+},
+{
+"w": "imperfection",
+"p": "n.",
+"zh": "不完美之處",
+"ex": "Minor imperfections are acceptable.",
+"exZh": "輕微的不完美是可接受的。"
+},
+{
+"w": "industrial",
+"p": "adj.",
+"zh": "工業的",
+"ex": "Industrial safety training is quarterly.",
+"exZh": "工業安全訓練每季舉行。"
+},
+{
+"w": "inspection",
+"p": "n.",
+"zh": "檢驗",
+"ex": "Incoming inspection rejected two lots.",
+"exZh": "進料檢驗退回了兩個批次。"
+},
+{
+"w": "inspector",
+"p": "n.",
+"zh": "檢驗員",
+"ex": "The inspector signed off the batch.",
+"exZh": "檢驗員簽核了該批次。"
+},
+{
+"w": "insulate",
+"p": "v.",
+"zh": "絕緣；隔熱",
+"ex": "The pipes are insulated to save energy.",
+"exZh": "管線經隔熱以節省能源。"
+},
+{
+"w": "intake",
+"p": "n.",
+"zh": "進料口",
+"ex": "The intake filter was clogged.",
+"exZh": "進料濾網堵塞了。"
+},
+{
+"w": "lathe",
+"p": "n.",
+"zh": "車床",
+"ex": "The lathe operates continuously.",
+"exZh": "車床持續運轉。"
+},
+{
+"w": "layout",
+"p": "n.",
+"zh": "佈局",
+"ex": "The new layout shortened material travel.",
+"exZh": "新佈局縮短了物料搬運距離。"
+},
+{
+"w": "lifecycle",
+"p": "n.",
+"zh": "生命週期",
+"ex": "Lifecycle costs were modeled carefully.",
+"exZh": "生命週期成本經過仔細模擬。"
+},
+{
+"w": "lubricant",
+"p": "n.",
+"zh": "潤滑劑",
+"ex": "The lubricant is changed every quarter.",
+"exZh": "潤滑劑每季更換。"
+},
+{
+"w": "machinery",
+"p": "n.",
+"zh": "機械",
+"ex": "Heavy machinery requires certified operators.",
+"exZh": "重型機械需要合格操作員。"
+},
+{
+"w": "maintenance",
+"p": "n.",
+"zh": "維護",
+"ex": "Preventive maintenance reduces breakdowns.",
+"exZh": "預防性維護可減少故障。"
+},
+{
+"w": "malfunction",
+"p": "n./v.",
+"zh": "故障",
+"ex": "A sensor malfunction halted production.",
+"exZh": "感測器故障使生產中斷。"
+},
+{
+"w": "manufacture",
+"p": "v./n.",
+"zh": "製造",
+"ex": "The units are manufactured in Vietnam.",
+"exZh": "這些產品在越南製造。"
+},
+{
+"w": "mechanism",
+"p": "n.",
+"zh": "機構",
+"ex": "The locking mechanism failed twice.",
+"exZh": "鎖定機構故障了兩次。"
+},
+{
+"w": "modular",
+"p": "adj.",
+"zh": "模組化的",
+"ex": "A modular design simplifies repair.",
+"exZh": "模組化設計簡化了維修。"
+},
+{
+"w": "mold",
+"p": "n.",
+"zh": "模具",
+"ex": "A new mold shortened the cycle.",
+"exZh": "新模具縮短了成型週期。"
+},
+{
+"w": "obsolete",
+"p": "adj.",
+"zh": "過時的",
+"ex": "The obsolete machine was replaced.",
+"exZh": "過時的機器已被更換。"
+},
+{
+"w": "operational",
+"p": "adj.",
+"zh": "運作中的",
+"ex": "The second line is now operational.",
+"exZh": "第二條產線現已運作。"
+},
+{
+"w": "optimize",
+"p": "v.",
+"zh": "最佳化",
+"ex": "We optimized the changeover procedure.",
+"exZh": "我們最佳化了換線程序。"
+},
+{
+"w": "output",
+"p": "n.",
+"zh": "產出",
+"ex": "Daily output reached 4,000 units.",
+"exZh": "日產出達四千件。"
+},
+{
+"w": "outsourcing",
+"p": "n.",
+"zh": "委外",
+"ex": "Outsourcing reduced fixed costs.",
+"exZh": "委外降低了固定成本。"
+},
+{
+"w": "overhaul",
+"p": "n./v.",
+"zh": "大修",
+"ex": "The press underwent a full overhaul.",
+"exZh": "沖床進行了全面大修。"
+},
+{
+"w": "overload",
+"p": "v./n.",
+"zh": "超載",
+"ex": "Do not overload the conveyor.",
+"exZh": "請勿使輸送帶超載。"
+},
+{
+"w": "pallet",
+"p": "n.",
+"zh": "棧板",
+"ex": "Each pallet holds forty cartons.",
+"exZh": "每個棧板可放四十箱。"
+},
+{
+"w": "particulate",
+"p": "n.",
+"zh": "微粒",
+"ex": "Particulate levels are within limits.",
+"exZh": "微粒濃度在限值內。"
+},
+{
+"w": "patent",
+"p": "n.",
+"zh": "專利",
+"ex": "The process is protected by patent.",
+"exZh": "該製程受專利保護。"
+},
+{
+"w": "plant",
+"p": "n.",
+"zh": "工廠",
+"ex": "The plant employs 600 workers.",
+"exZh": "該工廠雇用六百名員工。"
+},
+{
+"w": "polish",
+"p": "v.",
+"zh": "拋光",
+"ex": "Each unit is polished before packing.",
+"exZh": "每件產品包裝前都經拋光。"
+},
+{
+"w": "precision",
+"p": "n.",
+"zh": "精密度",
+"ex": "The part requires micron-level precision.",
+"exZh": "該零件要求微米級精密度。"
+},
+{
+"w": "prevention",
+"p": "n.",
+"zh": "預防",
+"ex": "Prevention is cheaper than rework.",
+"exZh": "預防比重工便宜。"
+},
+{
+"w": "processing",
+"p": "n.",
+"zh": "加工",
+"ex": "Heat processing hardens the surface.",
+"exZh": "熱加工使表面硬化。"
+},
+{
+"w": "protective",
+"p": "adj.",
+"zh": "防護的",
+"ex": "Protective gear is mandatory on site.",
+"exZh": "現場強制配戴防護裝備。"
+},
+{
+"w": "quality",
+"p": "n.",
+"zh": "品質",
+"ex": "Quality control rejected the lot.",
+"exZh": "品管退回了該批次。"
+},
+{
+"w": "raw material",
+"p": "n.",
+"zh": "原料",
+"ex": "Raw material prices doubled this year.",
+"exZh": "今年原料價格翻倍。"
+},
+{
+"w": "rejection",
+"p": "n.",
+"zh": "退件",
+"ex": "Rejection rates rose after the material change.",
+"exZh": "換料後退件率上升。"
+},
+{
+"w": "reliability",
+"p": "n.",
+"zh": "可靠度",
+"ex": "Reliability testing runs continuously.",
+"exZh": "可靠度測試持續進行。"
+},
+{
+"w": "repair",
+"p": "n./v.",
+"zh": "維修",
+"ex": "The repair took less than an hour.",
+"exZh": "維修花費不到一小時。"
+},
+{
+"w": "replicate",
+"p": "v.",
+"zh": "複製；重現",
+"ex": "The fault could not be replicated.",
+"exZh": "該故障無法重現。"
+},
+{
+"w": "residual",
+"p": "adj.",
+"zh": "殘餘的",
+"ex": "Residual stress affects fatigue life.",
+"exZh": "殘餘應力影響疲勞壽命。"
+},
+{
+"w": "residue",
+"p": "n.",
+"zh": "殘留物",
+"ex": "Residue must be removed before coating.",
+"exZh": "塗裝前必須清除殘留物。"
+},
+{
+"w": "retool",
+"p": "v.",
+"zh": "換裝生產線",
+"ex": "The plant retooled for the new model.",
+"exZh": "工廠為新機型換裝了產線。"
+},
+{
+"w": "rework",
+"p": "n./v.",
+"zh": "重工",
+"ex": "Rework added two days to the schedule.",
+"exZh": "重工使時程增加兩天。"
+},
+{
+"w": "robotics",
+"p": "n.",
+"zh": "機器人技術",
+"ex": "Robotics improved welding consistency.",
+"exZh": "機器人技術提升了焊接一致性。"
+},
+{
+"w": "sanitation",
+"p": "n.",
+"zh": "衛生",
+"ex": "Sanitation standards are audited annually.",
+"exZh": "衛生標準每年接受稽核。"
+},
+{
+"w": "scrap",
+"p": "n.",
+"zh": "廢料",
+"ex": "Scrap was reduced by better nesting.",
+"exZh": "透過更佳排版減少了廢料。"
+},
+{
+"w": "sensor",
+"p": "n.",
+"zh": "感測器",
+"ex": "The sensor detects misaligned parts.",
+"exZh": "感測器偵測錯位零件。"
+},
+{
+"w": "sequence",
+"p": "n.",
+"zh": "順序",
+"ex": "The assembly sequence was optimized.",
+"exZh": "組裝順序已最佳化。"
+},
+{
+"w": "shortage",
+"p": "n.",
+"zh": "短缺",
+"ex": "A chip shortage delayed production.",
+"exZh": "晶片短缺延誤了生產。"
+},
+{
+"w": "shutdown",
+"p": "n.",
+"zh": "停工",
+"ex": "An annual shutdown allows major repairs.",
+"exZh": "年度停工可進行大修。"
+},
+{
+"w": "solvent",
+"p": "n.",
+"zh": "溶劑",
+"ex": "The solvent must be handled with care.",
+"exZh": "該溶劑必須小心處理。"
+},
+{
+"w": "sophisticated",
+"p": "adj.",
+"zh": "精密的",
+"ex": "The line uses sophisticated vision systems.",
+"exZh": "該產線使用精密的視覺系統。"
+},
+{
+"w": "spare",
+"p": "adj./n.",
+"zh": "備用的；備品",
+"ex": "Spare parts are stocked on site.",
+"exZh": "備品在廠內備有庫存。"
+},
+{
+"w": "stack",
+"p": "v./n.",
+"zh": "堆疊",
+"ex": "Finished cartons are stacked on pallets.",
+"exZh": "成品紙箱堆疊在棧板上。"
+},
+{
+"w": "sterilize",
+"p": "v.",
+"zh": "滅菌",
+"ex": "Containers are sterilized before filling.",
+"exZh": "容器在充填前滅菌。"
+},
+{
+"w": "strain",
+"p": "n.",
+"zh": "應變；壓力",
+"ex": "Strain gauges monitor the frame.",
+"exZh": "應變規監測機架。"
+},
+{
+"w": "substrate",
+"p": "n.",
+"zh": "基材",
+"ex": "The coating adheres to the substrate.",
+"exZh": "塗層附著於基材上。"
+},
+{
+"w": "throughput",
+"p": "n.",
+"zh": "產能吞吐量",
+"ex": "Throughput increased after debottlenecking.",
+"exZh": "解除瓶頸後吞吐量增加。"
+},
+{
+"w": "tolerance",
+"p": "n.",
+"zh": "公差",
+"ex": "The tolerance is plus or minus 0.05 mm.",
+"exZh": "公差為正負 0.05 公釐。"
+},
+{
+"w": "tooling",
+"p": "n.",
+"zh": "模治具",
+"ex": "Tooling costs are amortized per unit.",
+"exZh": "模治具成本按件攤提。"
+},
+{
+"w": "traceability",
+"p": "n.",
+"zh": "追溯性",
+"ex": "Full traceability is required for audits.",
+"exZh": "稽核要求完整追溯性。"
+},
+{
+"w": "turnaround",
+"p": "n.",
+"zh": "周轉時間",
+"ex": "Repair turnaround averages two days.",
+"exZh": "維修周轉時間平均兩天。"
+},
+{
+"w": "utilization",
+"p": "n.",
+"zh": "稼動率",
+"ex": "Machine utilization rose to 88 percent.",
+"exZh": "機台稼動率升至 88%。"
+},
+{
+"w": "ventilation",
+"p": "n.",
+"zh": "通風",
+"ex": "Adequate ventilation is required.",
+"exZh": "需要足夠的通風。"
+},
+{
+"w": "vibration",
+"p": "n.",
+"zh": "振動",
+"ex": "Excessive vibration signals imbalance.",
+"exZh": "過度振動代表不平衡。"
+},
+{
+"w": "viscosity",
+"p": "n.",
+"zh": "黏度",
+"ex": "Viscosity is checked before mixing.",
+"exZh": "混合前先檢查黏度。"
+},
+{
+"w": "warehouse",
+"p": "n.",
+"zh": "廠內倉庫",
+"ex": "Finished goods move to the warehouse.",
+"exZh": "成品移往倉庫。"
+},
+{
+"w": "waste",
+"p": "n.",
+"zh": "廢棄物",
+"ex": "Waste is sorted for recycling.",
+"exZh": "廢棄物經分類回收。"
+},
+{
+"w": "weld",
+"p": "v./n.",
+"zh": "焊接",
+"ex": "The joints are welded and inspected.",
+"exZh": "接點經焊接並檢驗。"
+},
+{
+"w": "welding",
+"p": "n.",
+"zh": "焊接作業",
+"ex": "Welding fumes are extracted locally.",
+"exZh": "焊接煙塵在局部排除。"
+},
+{
+"w": "workmanship",
+"p": "n.",
+"zh": "作工",
+"ex": "Poor workmanship caused the return.",
+"exZh": "作工不良導致退貨。"
+},
+{
+"w": "workshop",
+"p": "n.",
+"zh": "工作間",
+"ex": "The tool workshop is next to assembly.",
+"exZh": "工具間在組裝區旁邊。"
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+ "id": "part-14",
+ "no": 14,
+ "title": "Part 7 長文閱讀策略",
+ "subtitle": "Reading Comprehension Tactics",
+ "summary": "Part 7 的分數不是靠讀得慢而細，是靠知道去哪裡找答案。這一章給你一套可執行的流程。",
+ "sections": [
+  {
+   "title": "標準作業流程",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "步驟一：看文件類型與標題，建立預期（這是通知？廣告？信件？）",
+      "步驟二：讀題目（不要讀選項），記住要找什麼",
+      "步驟三：回文章定位關鍵字，只讀相關段落",
+      "步驟四：確認選項是否為同義改寫，而非原文照抄"
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "多數正確選項是原文的「同義改寫」；一字不差照抄原文的選項，反而常是陷阱。"
+    }
+   ]
+  },
+  {
+   "title": "題型與定位方法",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "題型",
+      "問法",
+      "定位方法"
+     ],
+     "rows": [
+      [
+       "主旨題",
+       "What is the purpose of…?",
+       "看第一段與最後一段"
+      ],
+      [
+       "細節題",
+       "When / Where / How much…?",
+       "用數字、專有名詞定位"
+      ],
+      [
+       "推論題",
+       "What is suggested / implied…?",
+       "找依據，不可過度推論"
+      ],
+      [
+       "同義字題",
+       "The word X is closest in meaning to",
+       "回原句代入驗證"
+      ],
+      [
+       "NOT / EXCEPT",
+       "What is NOT mentioned?",
+       "三個能找到，剩下那個就是答案"
+      ],
+      [
+       "插入句題",
+       "In which position does the sentence belong?",
+       "看代名詞與連接詞銜接"
+      ],
+      [
+       "跨篇題",
+       "多文件對照",
+       "先確認資訊分別在哪一份"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "NOT 題最花時間，建議留到該篇最後再做。"
+    }
+   ]
+  },
+  {
+   "title": "跨篇對照題的解法",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "雙篇與三篇閱讀的關鍵題，答案一定同時牽涉兩份文件。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "常見組合一：公告的優惠條件 + 收據的實際金額 → 問是否符合資格",
+      "常見組合二：徵才啟事的條件 + 履歷 → 問申請人缺什麼",
+      "常見組合三：行程表 + 電子郵件的變更 → 問更改後的時間",
+      "常見組合四：價目表 + 訂單 → 問總金額或折扣後價格"
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "看到題目出現「根據兩份文件」或選項牽涉數字比對，就要有意識地在兩份文件間來回找。"
+    },
+    {
+     "type": "quiz",
+     "q": "A notice says members get 15% off; a receipt shows a $200 purchase with $30 deducted. What can be inferred?",
+     "options": [
+      "買方不是會員",
+      "買方是會員",
+      "折扣算錯了",
+      "價格已含稅"
+     ],
+     "answer": 1,
+     "explain": "200 的 15% 正是 30，折扣相符，可推論買方是會員。"
+    }
+   ]
+  },
+  {
+   "title": "時間與金額類細節題",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "這是最容易拿分、也最容易粗心的題型。掃描時要特別注意這些字。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "時間：effective, as of, starting, no later than, deadline, extended to, rescheduled",
+      "金額：fee, charge, rate, deposit, refund, surcharge, waived, inclusive of",
+      "條件：eligible, valid, subject to, excluding, applies only to, restrictions"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The promotion is valid through June 30 and excludes clearance items.",
+       "zh": "促銷有效期至六月三十日，不含出清商品。",
+       "note": "excludes 是關鍵：出清商品不適用",
+       "bad": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "時間分配與心態",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "區塊",
+      "題數",
+      "建議時間"
+     ],
+     "rows": [
+      [
+       "Part 5",
+       "30",
+       "10 分鐘"
+      ],
+      [
+       "Part 6",
+       "16",
+       "8 分鐘"
+      ],
+      [
+       "Part 7 單篇",
+       "29",
+       "26 分鐘"
+      ],
+      [
+       "Part 7 雙篇 / 三篇",
+       "25",
+       "31 分鐘"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "閱讀共 75 分鐘、100 題。前面省下的每一分鐘，都是留給最後多篇閱讀的資源。"
+    },
+    {
+     "type": "tip",
+     "value": "遇到完全看不懂的一篇，先跳過整篇而不是硬啃。一篇通常只配 4 到 5 題，卡在那裡會賠掉後面十題。"
+    }
+   ]
+  }
+ ]
+}

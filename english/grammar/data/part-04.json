@@ -1,0 +1,321 @@
+{
+ "id": "part-04",
+ "no": 4,
+ "title": "時態",
+ "subtitle": "Tenses",
+ "summary": "時態題的解法幾乎都藏在時間副詞裡。把「時間標記詞 → 時態」的對應表記熟，這一章就變成純送分。",
+ "sections": [
+  {
+   "title": "三種簡單式",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "時態",
+      "用法",
+      "時間標記詞"
+     ],
+     "rows": [
+      [
+       "現在簡單式",
+       "習慣、事實、時刻表、規定",
+       "usually, always, every day, generally"
+      ],
+      [
+       "過去簡單式",
+       "過去發生且已結束",
+       "yesterday, last week, in 2019, ago"
+      ],
+      [
+       "未來簡單式",
+       "預測、當下決定、承諾",
+       "tomorrow, next month, soon, shortly"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The office opens at 8:30 every weekday.",
+       "zh": "辦公室每個平日八點半開門。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "We launched the product in March.",
+       "zh": "我們在三月推出了產品。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The technician will arrive shortly.",
+       "zh": "技術人員很快就會到。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "時間或條件副詞子句裡，用現在式代替未來式：When the shipment arrives（不是 will arrive）, we will notify you."
+    }
+   ]
+  },
+  {
+   "title": "進行式",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "進行式 = be + V-ing，強調動作在某個時間點正在進行，或是暫時性的安排。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "時態",
+      "結構",
+      "例子"
+     ],
+     "rows": [
+      [
+       "現在進行",
+       "am/is/are + V-ing",
+       "She is reviewing the contract now."
+      ],
+      [
+       "過去進行",
+       "was/were + V-ing",
+       "They were negotiating when I called."
+      ],
+      [
+       "未來進行",
+       "will be + V-ing",
+       "I will be attending the conference next week."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "狀態動詞通常不用進行式：know, believe, own, belong, contain, consist, seem, need, prefer。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "This package contains fragile items.",
+       "zh": "這個包裹裝有易碎品。",
+       "note": "不說 is containing",
+       "bad": null
+      },
+      {
+       "en": "We are currently updating the database.",
+       "zh": "我們目前正在更新資料庫。",
+       "note": "currently 是進行式的標記詞",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Please be quiet; the committee _____ the final candidates right now.",
+     "options": [
+      "interviews",
+      "is interviewing",
+      "interviewed",
+      "has interviewed"
+     ],
+     "answer": 1,
+     "explain": "right now 表示動作正在進行，用現在進行式。"
+    }
+   ]
+  },
+  {
+   "title": "完成式",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "時態",
+      "結構",
+      "核心概念",
+      "標記詞"
+     ],
+     "rows": [
+      [
+       "現在完成",
+       "have/has + p.p.",
+       "過去到現在的累積或影響",
+       "since, for, already, yet, so far, recently"
+      ],
+      [
+       "過去完成",
+       "had + p.p.",
+       "過去某時間點之前就完成",
+       "by the time, before, after, previously"
+      ],
+      [
+       "未來完成",
+       "will have + p.p.",
+       "未來某時間點前將完成",
+       "by next year, by the end of"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "since + 時間點（since 2020），for + 一段時間（for three years）。看到 since 幾乎一定是完成式。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The company has operated in Asia since 2015.",
+       "zh": "公司自 2015 年起在亞洲營運。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "By the time we arrived, the meeting had ended.",
+       "zh": "我們抵達時，會議已經結束了。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "By next Friday, the team will have completed the migration.",
+       "zh": "到下週五，團隊將完成移轉。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "現在完成式不能和明確的過去時間點連用：We have signed the contract yesterday.（錯）→ We signed the contract yesterday."
+    },
+    {
+     "type": "quiz",
+     "q": "The firm _____ its headquarters three times since it was founded.",
+     "options": [
+      "relocates",
+      "relocated",
+      "has relocated",
+      "will relocate"
+     ],
+     "answer": 2,
+     "explain": "since 引導的時間範圍延續到現在，用現在完成式。"
+    }
+   ]
+  },
+  {
+   "title": "完成進行式",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "強調動作從過去持續到現在（或某時間點）且可能還會繼續，重點在「持續多久」。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "We have been waiting for the approval for two weeks.",
+       "zh": "我們已經等待核准兩週了。",
+       "note": "強調持續中",
+       "bad": null
+      },
+      {
+       "en": "She had been working there for a decade before she resigned.",
+       "zh": "她辭職前已在那裡工作十年。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "By June, they will have been operating the plant for five years.",
+       "zh": "到六月，他們營運這座廠將滿五年。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "have been + V-ing 強調過程與持續；have + p.p. 強調結果與完成。多益若句中有 for + 一段時間且動作仍在進行，優先考慮完成進行式。"
+    }
+   ]
+  },
+  {
+   "title": "時態一致與時間標記詞總表",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "看到這個詞",
+      "用這個時態"
+     ],
+     "rows": [
+      [
+       "every day / usually / generally",
+       "現在簡單式"
+      ],
+      [
+       "now / at the moment / currently",
+       "現在進行式"
+      ],
+      [
+       "ago / last… / yesterday / in + 過去年份",
+       "過去簡單式"
+      ],
+      [
+       "since / for / so far / already / recently / over the past…",
+       "現在完成式"
+      ],
+      [
+       "by the time + 過去句 / before + 過去句",
+       "過去完成式"
+      ],
+      [
+       "by + 未來時間 / by the end of next…",
+       "未來完成式"
+      ],
+      [
+       "when / after / as soon as / until（副詞子句）",
+       "用現在式代替未來式"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "主要子句與從屬子句的時態要相互配合：主要子句過去式，從屬子句通常也用過去相關時態。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The manager said that the shipment had already left the port.",
+       "zh": "經理說貨物已經離港。",
+       "note": "主句過去，從句用過去完成",
+       "bad": null
+      },
+      {
+       "en": "As soon as the invoice is approved, we will process the payment.",
+       "zh": "發票一核准，我們就會處理付款。",
+       "note": "時間子句用現在式",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The renovation _____ by the time the new tenants move in next month.",
+     "options": [
+      "completes",
+      "will complete",
+      "will have been completed",
+      "had been completed"
+     ],
+     "answer": 2,
+     "explain": "by the time + 現在式（表未來），主句用未來完成式；renovation 是被完成的，用被動 will have been completed。"
+    }
+   ]
+  }
+ ]
+}

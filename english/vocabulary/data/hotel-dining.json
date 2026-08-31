@@ -1,0 +1,777 @@
+{
+"id": "hotel-dining",
+"name": "飯店與餐飲",
+"nameEn": "Hotels & Dining",
+"words": [
+{
+"w": "allergy",
+"p": "n.",
+"zh": "過敏",
+"ex": "Please inform us of any allergies.",
+"exZh": "如有過敏請告知我們。"
+},
+{
+"w": "ambience",
+"p": "n.",
+"zh": "氛圍",
+"ex": "The restaurant has a relaxed ambience.",
+"exZh": "這家餐廳氛圍輕鬆。"
+},
+{
+"w": "amenity kit",
+"p": "n.",
+"zh": "盥洗包",
+"ex": "An amenity kit is provided in each room.",
+"exZh": "每間房都提供盥洗包。"
+},
+{
+"w": "aperitif",
+"p": "n.",
+"zh": "餐前酒",
+"ex": "An aperitif is served before dinner.",
+"exZh": "晚餐前供應餐前酒。"
+},
+{
+"w": "appetizer",
+"p": "n.",
+"zh": "開胃菜",
+"ex": "The appetizer platter serves four.",
+"exZh": "開胃菜拼盤可供四人享用。"
+},
+{
+"w": "baked",
+"p": "adj.",
+"zh": "烘烤的",
+"ex": "The baked salmon is a signature dish.",
+"exZh": "烤鮭魚是招牌菜。"
+},
+{
+"w": "banquet",
+"p": "n.",
+"zh": "宴會",
+"ex": "The banquet hall seats 300 guests.",
+"exZh": "宴會廳可容納三百位賓客。"
+},
+{
+"w": "banquet hall",
+"p": "n.",
+"zh": "宴會廳",
+"ex": "The banquet hall was decorated overnight.",
+"exZh": "宴會廳連夜完成布置。"
+},
+{
+"w": "bartender",
+"p": "n.",
+"zh": "調酒師",
+"ex": "The bartender suggested a local beer.",
+"exZh": "調酒師推薦了一款當地啤酒。"
+},
+{
+"w": "bellhop",
+"p": "n.",
+"zh": "行李員",
+"ex": "A bellhop carried the bags upstairs.",
+"exZh": "行李員把行李搬上樓。"
+},
+{
+"w": "beverage",
+"p": "n.",
+"zh": "飲料",
+"ex": "Beverages are charged separately.",
+"exZh": "飲料另行計費。"
+},
+{
+"w": "beverage list",
+"p": "n.",
+"zh": "飲料單",
+"ex": "The beverage list includes local wines.",
+"exZh": "飲料單含當地葡萄酒。"
+},
+{
+"w": "beverage service",
+"p": "n.",
+"zh": "飲料服務",
+"ex": "Beverage service begins after takeoff.",
+"exZh": "飲料服務於起飛後開始。"
+},
+{
+"w": "bill",
+"p": "n.",
+"zh": "帳單",
+"ex": "Could we have the bill, please?",
+"exZh": "可以給我們帳單嗎？"
+},
+{
+"w": "booking confirmation",
+"p": "n.",
+"zh": "訂房確認",
+"ex": "Print your booking confirmation.",
+"exZh": "請列印你的訂房確認。"
+},
+{
+"w": "booking fee",
+"p": "n.",
+"zh": "訂位費",
+"ex": "No booking fee is charged online.",
+"exZh": "線上訂位不收訂位費。"
+},
+{
+"w": "brunch",
+"p": "n.",
+"zh": "早午餐",
+"ex": "Sunday brunch is very popular.",
+"exZh": "週日早午餐非常受歡迎。"
+},
+{
+"w": "buffet",
+"p": "n.",
+"zh": "自助餐",
+"ex": "Breakfast buffet runs until ten.",
+"exZh": "自助早餐供應到十點。"
+},
+{
+"w": "cancellation policy",
+"p": "n.",
+"zh": "取消政策",
+"ex": "Read the cancellation policy carefully.",
+"exZh": "請仔細閱讀取消政策。"
+},
+{
+"w": "catering",
+"p": "n.",
+"zh": "外燴",
+"ex": "Catering was arranged for eighty people.",
+"exZh": "已為八十人安排外燴。"
+},
+{
+"w": "checkin",
+"p": "n.",
+"zh": "入住登記",
+"ex": "Check-in starts at three in the afternoon.",
+"exZh": "入住登記自下午三點開始。"
+},
+{
+"w": "checkroom",
+"p": "n.",
+"zh": "寄物處",
+"ex": "Leave your coat at the checkroom.",
+"exZh": "請將外套寄放在寄物處。"
+},
+{
+"w": "chef",
+"p": "n.",
+"zh": "主廚",
+"ex": "The chef trained in Lyon.",
+"exZh": "主廚曾在里昂受訓。"
+},
+{
+"w": "complaint form",
+"p": "n.",
+"zh": "意見表",
+"ex": "A complaint form is available at reception.",
+"exZh": "櫃檯備有意見表。"
+},
+{
+"w": "complimentary",
+"p": "adj.",
+"zh": "免費招待的",
+"ex": "Complimentary breakfast is included.",
+"exZh": "含免費招待早餐。"
+},
+{
+"w": "concierge",
+"p": "n.",
+"zh": "禮賓人員",
+"ex": "The concierge booked a taxi for us.",
+"exZh": "禮賓人員為我們叫了計程車。"
+},
+{
+"w": "condiment",
+"p": "n.",
+"zh": "調味料",
+"ex": "Condiments are on the side table.",
+"exZh": "調味料在旁邊的桌上。"
+},
+{
+"w": "courtesy call",
+"p": "n.",
+"zh": "禮貌性致電",
+"ex": "A courtesy call confirmed the booking.",
+"exZh": "一通禮貌性致電確認了訂房。"
+},
+{
+"w": "courtesy shuttle",
+"p": "n.",
+"zh": "禮賓接駁",
+"ex": "A courtesy shuttle serves the airport.",
+"exZh": "禮賓接駁往返機場。"
+},
+{
+"w": "courtyard",
+"p": "n.",
+"zh": "中庭",
+"ex": "Breakfast is served in the courtyard.",
+"exZh": "早餐在中庭供應。"
+},
+{
+"w": "crockery",
+"p": "n.",
+"zh": "陶瓷餐具",
+"ex": "The crockery is locally made.",
+"exZh": "陶瓷餐具為當地製造。"
+},
+{
+"w": "cuisine",
+"p": "n.",
+"zh": "料理",
+"ex": "The hotel serves regional cuisine.",
+"exZh": "飯店供應在地料理。"
+},
+{
+"w": "cutlery",
+"p": "n.",
+"zh": "刀叉餐具",
+"ex": "Clean cutlery was brought immediately.",
+"exZh": "立刻送上了乾淨的刀叉。"
+},
+{
+"w": "delicacy",
+"p": "n.",
+"zh": "美味佳餚",
+"ex": "The soup is a local delicacy.",
+"exZh": "這道湯是當地佳餚。"
+},
+{
+"w": "dessert",
+"p": "n.",
+"zh": "甜點",
+"ex": "Dessert is included in the set menu.",
+"exZh": "套餐含甜點。"
+},
+{
+"w": "dietary",
+"p": "adj.",
+"zh": "飲食的",
+"ex": "Dietary requirements should be noted.",
+"exZh": "飲食需求應予註明。"
+},
+{
+"w": "dine",
+"p": "v.",
+"zh": "用餐",
+"ex": "We dined at a rooftop restaurant.",
+"exZh": "我們在頂樓餐廳用餐。"
+},
+{
+"w": "dining",
+"p": "n.",
+"zh": "用餐",
+"ex": "Outdoor dining is available in summer.",
+"exZh": "夏季提供戶外用餐。"
+},
+{
+"w": "dining room",
+"p": "n.",
+"zh": "餐廳廳堂",
+"ex": "The dining room opens at six.",
+"exZh": "餐廳廳堂六點開放。"
+},
+{
+"w": "dish",
+"p": "n.",
+"zh": "菜餚",
+"ex": "Each dish is prepared to order.",
+"exZh": "每道菜都現點現做。"
+},
+{
+"w": "disposable",
+"p": "adj.",
+"zh": "拋棄式的",
+"ex": "Disposable cups were phased out.",
+"exZh": "拋棄式杯具已逐步淘汰。"
+},
+{
+"w": "double room",
+"p": "n.",
+"zh": "雙人房",
+"ex": "A double room costs ninety euros.",
+"exZh": "雙人房要價九十歐元。"
+},
+{
+"w": "early check-in",
+"p": "n.",
+"zh": "提早入住",
+"ex": "Early check-in is subject to availability.",
+"exZh": "提早入住視空房狀況而定。"
+},
+{
+"w": "en suite",
+"p": "adj.",
+"zh": "附衛浴的",
+"ex": "All rooms are en suite.",
+"exZh": "所有房間皆附衛浴。"
+},
+{
+"w": "entree",
+"p": "n.",
+"zh": "主菜",
+"ex": "The entree comes with two sides.",
+"exZh": "主菜附兩樣配菜。"
+},
+{
+"w": "flavor",
+"p": "n.",
+"zh": "風味",
+"ex": "The sauce has a rich flavor.",
+"exZh": "醬汁風味濃郁。"
+},
+{
+"w": "front desk",
+"p": "n.",
+"zh": "前檯",
+"ex": "The front desk is staffed overnight.",
+"exZh": "前檯有夜間人員值班。"
+},
+{
+"w": "full board",
+"p": "n.",
+"zh": "全膳",
+"ex": "Full board includes three meals.",
+"exZh": "全膳含三餐。"
+},
+{
+"w": "garnish",
+"p": "n./v.",
+"zh": "裝飾配菜",
+"ex": "The dish is garnished with herbs.",
+"exZh": "該道菜以香草裝飾。"
+},
+{
+"w": "gourmet",
+"p": "adj.",
+"zh": "美食的",
+"ex": "The gourmet menu changes weekly.",
+"exZh": "美食菜單每週更換。"
+},
+{
+"w": "gratuity",
+"p": "n.",
+"zh": "小費",
+"ex": "A gratuity is added for large parties.",
+"exZh": "大型團體會加收小費。"
+},
+{
+"w": "grilled",
+"p": "adj.",
+"zh": "燒烤的",
+"ex": "The grilled vegetables were excellent.",
+"exZh": "燒烤蔬菜非常美味。"
+},
+{
+"w": "guest",
+"p": "n.",
+"zh": "房客",
+"ex": "Guests receive a welcome drink.",
+"exZh": "房客可獲得迎賓飲品。"
+},
+{
+"w": "guest list",
+"p": "n.",
+"zh": "賓客名單",
+"ex": "The guest list was finalized Friday.",
+"exZh": "賓客名單於週五定案。"
+},
+{
+"w": "half board",
+"p": "n.",
+"zh": "半膳",
+"ex": "Half board covers breakfast and dinner.",
+"exZh": "半膳含早餐與晚餐。"
+},
+{
+"w": "hospitality industry",
+"p": "n.",
+"zh": "旅館餐飲業",
+"ex": "The hospitality industry recovered strongly.",
+"exZh": "旅館餐飲業強勁復甦。"
+},
+{
+"w": "housekeeping",
+"p": "n.",
+"zh": "房務",
+"ex": "Housekeeping cleans rooms by noon.",
+"exZh": "房務於中午前完成清潔。"
+},
+{
+"w": "hygiene",
+"p": "n.",
+"zh": "衛生",
+"ex": "Kitchen hygiene is inspected regularly.",
+"exZh": "廚房衛生定期受檢。"
+},
+{
+"w": "inclusive",
+"p": "adj.",
+"zh": "全包的",
+"ex": "The rate is inclusive of taxes.",
+"exZh": "該房價已含稅。"
+},
+{
+"w": "ingredient",
+"p": "n.",
+"zh": "食材",
+"ex": "All ingredients are sourced locally.",
+"exZh": "所有食材皆在地採購。"
+},
+{
+"w": "kitchenette",
+"p": "n.",
+"zh": "小廚房",
+"ex": "The room has a kitchenette.",
+"exZh": "房間附有小廚房。"
+},
+{
+"w": "late checkout",
+"p": "n.",
+"zh": "延遲退房",
+"ex": "Late checkout costs an extra fee.",
+"exZh": "延遲退房須加收費用。"
+},
+{
+"w": "laundry",
+"p": "n.",
+"zh": "洗衣服務",
+"ex": "Laundry service takes 24 hours.",
+"exZh": "洗衣服務需二十四小時。"
+},
+{
+"w": "linen",
+"p": "n.",
+"zh": "床單布巾",
+"ex": "Fresh linen is provided daily.",
+"exZh": "每日提供乾淨床單布巾。"
+},
+{
+"w": "lobby",
+"p": "n.",
+"zh": "大廳",
+"ex": "We met in the hotel lobby.",
+"exZh": "我們在飯店大廳碰面。"
+},
+{
+"w": "lodge",
+"p": "n.",
+"zh": "山莊旅館",
+"ex": "The lodge sits beside the lake.",
+"exZh": "該山莊旅館位於湖邊。"
+},
+{
+"w": "lodging tax",
+"p": "n.",
+"zh": "住宿稅",
+"ex": "A lodging tax is added to the bill.",
+"exZh": "帳單另加住宿稅。"
+},
+{
+"w": "main course",
+"p": "n.",
+"zh": "主餐",
+"ex": "The main course arrived promptly.",
+"exZh": "主餐很快就上桌了。"
+},
+{
+"w": "marinate",
+"p": "v.",
+"zh": "醃漬",
+"ex": "The beef is marinated overnight.",
+"exZh": "牛肉醃漬一整夜。"
+},
+{
+"w": "menu",
+"p": "n.",
+"zh": "菜單",
+"ex": "The menu changes with the season.",
+"exZh": "菜單隨季節更換。"
+},
+{
+"w": "minibar",
+"p": "n.",
+"zh": "迷你吧",
+"ex": "Minibar items are charged to the room.",
+"exZh": "迷你吧品項記入房帳。"
+},
+{
+"w": "nutrition",
+"p": "n.",
+"zh": "營養",
+"ex": "Nutrition information is on the menu.",
+"exZh": "菜單上有營養資訊。"
+},
+{
+"w": "overbooking",
+"p": "n.",
+"zh": "超額訂房",
+"ex": "Overbooking forced an upgrade.",
+"exZh": "超額訂房迫使飯店升等。"
+},
+{
+"w": "patio",
+"p": "n.",
+"zh": "露台",
+"ex": "The patio seats twenty people.",
+"exZh": "露台可坐二十人。"
+},
+{
+"w": "peak rate",
+"p": "n.",
+"zh": "旺季價",
+"ex": "Peak rates apply during festivals.",
+"exZh": "節慶期間適用旺季價。"
+},
+{
+"w": "portion",
+"p": "n.",
+"zh": "份量",
+"ex": "The portions are generous.",
+"exZh": "份量相當豐盛。"
+},
+{
+"w": "proprietor",
+"p": "n.",
+"zh": "業主",
+"ex": "The proprietor greeted every guest.",
+"exZh": "業主向每位客人打招呼。"
+},
+{
+"w": "reception",
+"p": "n.",
+"zh": "櫃檯",
+"ex": "Leave your key at reception.",
+"exZh": "請將鑰匙留在櫃檯。"
+},
+{
+"w": "receptionist",
+"p": "n.",
+"zh": "接待員",
+"ex": "The receptionist confirmed our booking.",
+"exZh": "接待員確認了我們的訂房。"
+},
+{
+"w": "recipe",
+"p": "n.",
+"zh": "食譜",
+"ex": "The recipe has been in the family for generations.",
+"exZh": "這道食譜在家族傳承數代。"
+},
+{
+"w": "refill",
+"p": "n./v.",
+"zh": "續杯",
+"ex": "Coffee refills are free.",
+"exZh": "咖啡免費續杯。"
+},
+{
+"w": "refreshing",
+"p": "adj.",
+"zh": "清爽的",
+"ex": "The salad was light and refreshing.",
+"exZh": "沙拉清爽爽口。"
+},
+{
+"w": "reservation desk",
+"p": "n.",
+"zh": "訂位櫃檯",
+"ex": "Call the reservation desk to modify.",
+"exZh": "請致電訂位櫃檯修改。"
+},
+{
+"w": "residence",
+"p": "n.",
+"zh": "住所",
+"ex": "The serviced residence suits long stays.",
+"exZh": "服務式住所適合長住。"
+},
+{
+"w": "restaurant",
+"p": "n.",
+"zh": "餐廳",
+"ex": "The restaurant is fully booked tonight.",
+"exZh": "餐廳今晚已訂滿。"
+},
+{
+"w": "room service",
+"p": "n.",
+"zh": "客房服務",
+"ex": "Room service runs until midnight.",
+"exZh": "客房服務營運至午夜。"
+},
+{
+"w": "seasoning",
+"p": "n.",
+"zh": "調味",
+"ex": "The seasoning was slightly heavy.",
+"exZh": "調味略重了些。"
+},
+{
+"w": "seating",
+"p": "n.",
+"zh": "座位安排",
+"ex": "Outdoor seating is first come, first served.",
+"exZh": "戶外座位先到先坐。"
+},
+{
+"w": "seating chart",
+"p": "n.",
+"zh": "座位表",
+"ex": "The seating chart was posted at the door.",
+"exZh": "座位表張貼在門口。"
+},
+{
+"w": "self-service",
+"p": "adj.",
+"zh": "自助式的",
+"ex": "A self-service coffee station is provided.",
+"exZh": "提供自助式咖啡吧。"
+},
+{
+"w": "service charge",
+"p": "n.",
+"zh": "服務費",
+"ex": "A ten percent service charge applies.",
+"exZh": "加收一成服務費。"
+},
+{
+"w": "serving",
+"p": "n.",
+"zh": "一份",
+"ex": "Each serving contains 300 calories.",
+"exZh": "每份含三百大卡。"
+},
+{
+"w": "side dish",
+"p": "n.",
+"zh": "配菜",
+"ex": "Choose two side dishes.",
+"exZh": "請選擇兩樣配菜。"
+},
+{
+"w": "single room",
+"p": "n.",
+"zh": "單人房",
+"ex": "Only single rooms remain.",
+"exZh": "僅剩單人房。"
+},
+{
+"w": "specialty",
+"p": "n.",
+"zh": "招牌菜",
+"ex": "Seafood stew is the house specialty.",
+"exZh": "海鮮燉湯是本店招牌。"
+},
+{
+"w": "starter",
+"p": "n.",
+"zh": "前菜",
+"ex": "The starter was served cold.",
+"exZh": "前菜是冷盤。"
+},
+{
+"w": "suite",
+"p": "n.",
+"zh": "套房",
+"ex": "The suite overlooks the harbor.",
+"exZh": "該套房俯瞰港口。"
+},
+{
+"w": "sustainable",
+"p": "adj.",
+"zh": "永續的",
+"ex": "The hotel uses sustainable materials.",
+"exZh": "飯店使用永續材料。"
+},
+{
+"w": "tableware",
+"p": "n.",
+"zh": "餐具",
+"ex": "Tableware is replaced between courses.",
+"exZh": "餐具在上菜之間更換。"
+},
+{
+"w": "takeout",
+"p": "n.",
+"zh": "外帶",
+"ex": "Takeout orders are ready in fifteen minutes.",
+"exZh": "外帶訂單十五分鐘備妥。"
+},
+{
+"w": "tasting",
+"p": "n.",
+"zh": "品嚐",
+"ex": "A wine tasting is held on Fridays.",
+"exZh": "每週五舉辦品酒。"
+},
+{
+"w": "tasting menu",
+"p": "n.",
+"zh": "套餐品嚐菜單",
+"ex": "The tasting menu has seven courses.",
+"exZh": "品嚐套餐共七道。"
+},
+{
+"w": "terrace",
+"p": "n.",
+"zh": "露天座",
+"ex": "The terrace overlooks the old town.",
+"exZh": "露天座俯瞰舊城區。"
+},
+{
+"w": "tip",
+"p": "n.",
+"zh": "小費",
+"ex": "A ten percent tip is customary.",
+"exZh": "一成小費是慣例。"
+},
+{
+"w": "turndown",
+"p": "n.",
+"zh": "夜床服務",
+"ex": "Turndown service is offered nightly.",
+"exZh": "每晚提供夜床服務。"
+},
+{
+"w": "utensil",
+"p": "n.",
+"zh": "餐具用品",
+"ex": "Disposable utensils are available.",
+"exZh": "備有免洗餐具。"
+},
+{
+"w": "valet",
+"p": "n.",
+"zh": "代客泊車",
+"ex": "Valet parking costs fifteen dollars.",
+"exZh": "代客泊車費用十五美元。"
+},
+{
+"w": "vegetarian",
+"p": "adj./n.",
+"zh": "素食的",
+"ex": "Vegetarian options are clearly marked.",
+"exZh": "素食選項有清楚標示。"
+},
+{
+"w": "waiter",
+"p": "n.",
+"zh": "服務員",
+"ex": "The waiter recommended the fish.",
+"exZh": "服務員推薦了魚料理。"
+},
+{
+"w": "waitstaff",
+"p": "n.",
+"zh": "服務人員",
+"ex": "The waitstaff were efficient and polite.",
+"exZh": "服務人員俐落有禮。"
+}
+]
+}

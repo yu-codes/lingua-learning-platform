@@ -1,0 +1,707 @@
+{
+"id": "law-regulation",
+"name": "法律與規範",
+"nameEn": "Law & Regulation",
+"words": [
+{
+"w": "abide by",
+"p": "v.",
+"zh": "遵守",
+"ex": "All members abide by the code.",
+"exZh": "所有成員都遵守該守則。"
+},
+{
+"w": "accusation",
+"p": "n.",
+"zh": "指控",
+"ex": "The accusation was later withdrawn.",
+"exZh": "該指控後來被撤回。"
+},
+{
+"w": "acquit",
+"p": "v.",
+"zh": "判決無罪",
+"ex": "The defendant was acquitted of all charges.",
+"exZh": "被告所有罪名均獲判無罪。"
+},
+{
+"w": "adjudicate",
+"p": "v.",
+"zh": "裁決",
+"ex": "An independent panel adjudicates disputes.",
+"exZh": "獨立小組裁決爭議。"
+},
+{
+"w": "affidavit",
+"p": "n.",
+"zh": "宣誓書",
+"ex": "She signed an affidavit before the hearing.",
+"exZh": "她在聽證前簽署了宣誓書。"
+},
+{
+"w": "allege",
+"p": "v.",
+"zh": "指稱",
+"ex": "The complaint alleges unfair dismissal.",
+"exZh": "申訴指稱不當解雇。"
+},
+{
+"w": "antitrust",
+"p": "adj.",
+"zh": "反壟斷的",
+"ex": "Antitrust regulators opened an inquiry.",
+"exZh": "反壟斷主管機關展開調查。"
+},
+{
+"w": "appellate",
+"p": "adj.",
+"zh": "上訴的",
+"ex": "The appellate court reversed the ruling.",
+"exZh": "上訴法院推翻了原判。"
+},
+{
+"w": "arbitrator",
+"p": "n.",
+"zh": "仲裁人",
+"ex": "The arbitrator issued a binding award.",
+"exZh": "仲裁人作出具拘束力的裁斷。"
+},
+{
+"w": "attorney",
+"p": "n.",
+"zh": "律師",
+"ex": "An attorney reviewed the settlement.",
+"exZh": "一位律師審閱了和解協議。"
+},
+{
+"w": "audit trail",
+"p": "n.",
+"zh": "稽核軌跡",
+"ex": "A complete audit trail is required.",
+"exZh": "必須留下完整的稽核軌跡。"
+},
+{
+"w": "breach of contract",
+"p": "n.",
+"zh": "違反契約",
+"ex": "The claim alleges breach of contract.",
+"exZh": "該求償主張違反契約。"
+},
+{
+"w": "bylaw",
+"p": "n.",
+"zh": "附則",
+"ex": "The bylaws govern board elections.",
+"exZh": "附則規範董事會選舉。"
+},
+{
+"w": "certification body",
+"p": "n.",
+"zh": "驗證機構",
+"ex": "A certification body audits annually.",
+"exZh": "驗證機構每年稽核。"
+},
+{
+"w": "civil",
+"p": "adj.",
+"zh": "民事的",
+"ex": "The dispute was settled in civil court.",
+"exZh": "該爭議在民事法庭解決。"
+},
+{
+"w": "claim",
+"p": "n.",
+"zh": "求償",
+"ex": "The claim was filed within the time limit.",
+"exZh": "求償在期限內提出。"
+},
+{
+"w": "code of conduct",
+"p": "n.",
+"zh": "行為守則",
+"ex": "The code of conduct was updated.",
+"exZh": "行為守則已更新。"
+},
+{
+"w": "comply",
+"p": "v.",
+"zh": "遵行",
+"ex": "Firms must comply within six months.",
+"exZh": "企業須於六個月內遵行。"
+},
+{
+"w": "confidential information",
+"p": "n.",
+"zh": "機密資訊",
+"ex": "Confidential information must be secured.",
+"exZh": "機密資訊必須妥善保護。"
+},
+{
+"w": "confidentiality clause",
+"p": "n.",
+"zh": "保密條款",
+"ex": "A confidentiality clause binds both sides.",
+"exZh": "保密條款拘束雙方。"
+},
+{
+"w": "conformance",
+"p": "n.",
+"zh": "符合性",
+"ex": "Conformance testing is mandatory.",
+"exZh": "符合性測試為強制規定。"
+},
+{
+"w": "constitution",
+"p": "n.",
+"zh": "憲法",
+"ex": "The right is protected by the constitution.",
+"exZh": "該權利受憲法保障。"
+},
+{
+"w": "contravene",
+"p": "v.",
+"zh": "違反",
+"ex": "The practice contravenes the directive.",
+"exZh": "該做法違反了該指令。"
+},
+{
+"w": "copyright",
+"p": "n.",
+"zh": "著作權",
+"ex": "Copyright lasts seventy years after death.",
+"exZh": "著作權於作者死後存續七十年。"
+},
+{
+"w": "counsel",
+"p": "n.",
+"zh": "法律顧問",
+"ex": "Outside counsel advised on the merger.",
+"exZh": "外部法律顧問就併購提供意見。"
+},
+{
+"w": "court",
+"p": "n.",
+"zh": "法院",
+"ex": "The court ruled in favor of the plaintiff.",
+"exZh": "法院判決原告勝訴。"
+},
+{
+"w": "damages",
+"p": "n.",
+"zh": "損害賠償金",
+"ex": "The court awarded substantial damages.",
+"exZh": "法院判給了鉅額損害賠償金。"
+},
+{
+"w": "defendant",
+"p": "n.",
+"zh": "被告",
+"ex": "The defendant denied the allegations.",
+"exZh": "被告否認了指控。"
+},
+{
+"w": "deposition",
+"p": "n.",
+"zh": "證詞筆錄",
+"ex": "The deposition lasted six hours.",
+"exZh": "證詞筆錄進行了六小時。"
+},
+{
+"w": "directive",
+"p": "n.",
+"zh": "指令",
+"ex": "A new directive takes effect in July.",
+"exZh": "新指令七月生效。"
+},
+{
+"w": "disclosure requirement",
+"p": "n.",
+"zh": "揭露義務",
+"ex": "Disclosure requirements were tightened.",
+"exZh": "揭露義務已趨嚴。"
+},
+{
+"w": "discretionary",
+"p": "adj.",
+"zh": "裁量的",
+"ex": "The penalty is discretionary.",
+"exZh": "該罰則屬裁量性質。"
+},
+{
+"w": "dispute resolution",
+"p": "n.",
+"zh": "爭議解決",
+"ex": "Dispute resolution begins with mediation.",
+"exZh": "爭議解決自調解開始。"
+},
+{
+"w": "due diligence",
+"p": "n.",
+"zh": "盡職調查",
+"ex": "Due diligence took eight weeks.",
+"exZh": "盡職調查花了八週。"
+},
+{
+"w": "enact",
+"p": "v.",
+"zh": "制定",
+"ex": "Parliament enacted the bill in May.",
+"exZh": "國會於五月制定該法案。"
+},
+{
+"w": "enforcement",
+"p": "n.",
+"zh": "執法",
+"ex": "Enforcement has been tightened recently.",
+"exZh": "近期執法趨嚴。"
+},
+{
+"w": "entity",
+"p": "n.",
+"zh": "法人實體",
+"ex": "The entity is registered in Ireland.",
+"exZh": "該法人實體在愛爾蘭註冊。"
+},
+{
+"w": "ethical",
+"p": "adj.",
+"zh": "合乎倫理的",
+"ex": "Ethical sourcing is now audited.",
+"exZh": "倫理採購現已納入稽核。"
+},
+{
+"w": "exemption",
+"p": "n.",
+"zh": "豁免",
+"ex": "Small firms qualify for an exemption.",
+"exZh": "小型企業符合豁免資格。"
+},
+{
+"w": "filing",
+"p": "n.",
+"zh": "申報",
+"ex": "The annual filing is due in March.",
+"exZh": "年度申報於三月到期。"
+},
+{
+"w": "fine",
+"p": "n.",
+"zh": "罰款",
+"ex": "The fine exceeded two million dollars.",
+"exZh": "罰款超過兩百萬美元。"
+},
+{
+"w": "fraud",
+"p": "n.",
+"zh": "詐欺",
+"ex": "The audit uncovered no fraud.",
+"exZh": "稽核未發現詐欺。"
+},
+{
+"w": "governance",
+"p": "n.",
+"zh": "治理",
+"ex": "Corporate governance was strengthened.",
+"exZh": "公司治理獲得強化。"
+},
+{
+"w": "grievance procedure",
+"p": "n.",
+"zh": "申訴程序",
+"ex": "A grievance procedure protects employees.",
+"exZh": "申訴程序保障員工。"
+},
+{
+"w": "guideline",
+"p": "n.",
+"zh": "準則",
+"ex": "The guidelines are updated annually.",
+"exZh": "準則每年更新。"
+},
+{
+"w": "hearing",
+"p": "n.",
+"zh": "聽證會",
+"ex": "The hearing was adjourned until Monday.",
+"exZh": "聽證會延至週一。"
+},
+{
+"w": "illegal",
+"p": "adj.",
+"zh": "非法的",
+"ex": "The practice was found illegal.",
+"exZh": "該做法被認定為非法。"
+},
+{
+"w": "infringe",
+"p": "v.",
+"zh": "侵害",
+"ex": "The design may infringe an existing patent.",
+"exZh": "該設計可能侵害既有專利。"
+},
+{
+"w": "injunction",
+"p": "n.",
+"zh": "禁制令",
+"ex": "The court granted a temporary injunction.",
+"exZh": "法院核發了暫時禁制令。"
+},
+{
+"w": "intellectual property",
+"p": "n.",
+"zh": "智慧財產",
+"ex": "Intellectual property is assigned to the employer.",
+"exZh": "智慧財產歸屬於雇主。"
+},
+{
+"w": "judgment",
+"p": "n.",
+"zh": "判決",
+"ex": "The judgment was delivered in writing.",
+"exZh": "判決以書面作成。"
+},
+{
+"w": "judiciary",
+"p": "n.",
+"zh": "司法機關",
+"ex": "The judiciary operates independently.",
+"exZh": "司法機關獨立運作。"
+},
+{
+"w": "jurisdictional",
+"p": "adj.",
+"zh": "管轄的",
+"ex": "A jurisdictional objection was raised.",
+"exZh": "提出了管轄權異議。"
+},
+{
+"w": "jury",
+"p": "n.",
+"zh": "陪審團",
+"ex": "The jury deliberated for two days.",
+"exZh": "陪審團審議了兩天。"
+},
+{
+"w": "lawsuit",
+"p": "n.",
+"zh": "訴訟",
+"ex": "The lawsuit was settled out of court.",
+"exZh": "該訴訟以庭外和解落幕。"
+},
+{
+"w": "legal entity",
+"p": "n.",
+"zh": "法律主體",
+"ex": "Each branch is a separate legal entity.",
+"exZh": "每個分支都是獨立的法律主體。"
+},
+{
+"w": "legislation",
+"p": "n.",
+"zh": "立法",
+"ex": "New legislation restricts single-use plastics.",
+"exZh": "新立法限制一次性塑膠。"
+},
+{
+"w": "legislative",
+"p": "adj.",
+"zh": "立法的",
+"ex": "The legislative process took two years.",
+"exZh": "立法程序歷時兩年。"
+},
+{
+"w": "legitimate",
+"p": "adj.",
+"zh": "正當的",
+"ex": "The company had a legitimate business reason.",
+"exZh": "該公司有正當的營業理由。"
+},
+{
+"w": "license agreement",
+"p": "n.",
+"zh": "授權協議",
+"ex": "The license agreement limits redistribution.",
+"exZh": "授權協議限制再散布。"
+},
+{
+"w": "litigation",
+"p": "n.",
+"zh": "訴訟程序",
+"ex": "Litigation costs mounted quickly.",
+"exZh": "訴訟成本迅速攀升。"
+},
+{
+"w": "mandate",
+"p": "n./v.",
+"zh": "法令要求",
+"ex": "The law mandates annual reporting.",
+"exZh": "法律要求每年申報。"
+},
+{
+"w": "mandatory disclosure",
+"p": "n.",
+"zh": "強制揭露",
+"ex": "Mandatory disclosure applies to listed firms.",
+"exZh": "強制揭露適用於上市公司。"
+},
+{
+"w": "misconduct",
+"p": "n.",
+"zh": "不當行為",
+"ex": "The investigation found serious misconduct.",
+"exZh": "調查發現嚴重不當行為。"
+},
+{
+"w": "negligence",
+"p": "n.",
+"zh": "過失",
+"ex": "The ruling found no negligence.",
+"exZh": "判決認定並無過失。"
+},
+{
+"w": "noncompliance",
+"p": "n.",
+"zh": "不遵行",
+"ex": "Noncompliance triggers automatic penalties.",
+"exZh": "不遵行將觸發自動罰則。"
+},
+{
+"w": "notary",
+"p": "n.",
+"zh": "公證人",
+"ex": "A notary witnessed the signature.",
+"exZh": "公證人見證了簽名。"
+},
+{
+"w": "ordinance",
+"p": "n.",
+"zh": "地方法規",
+"ex": "A city ordinance limits noise after ten.",
+"exZh": "市府法規限制十點後噪音。"
+},
+{
+"w": "patent application",
+"p": "n.",
+"zh": "專利申請",
+"ex": "The patent application is pending.",
+"exZh": "專利申請審查中。"
+},
+{
+"w": "petition",
+"p": "n.",
+"zh": "請願書",
+"ex": "A petition was filed with the court.",
+"exZh": "已向法院提出請願書。"
+},
+{
+"w": "plaintiff",
+"p": "n.",
+"zh": "原告",
+"ex": "The plaintiff sought damages.",
+"exZh": "原告請求損害賠償。"
+},
+{
+"w": "proceeding",
+"p": "n.",
+"zh": "程序",
+"ex": "Legal proceedings began in April.",
+"exZh": "法律程序於四月啟動。"
+},
+{
+"w": "prohibition",
+"p": "n.",
+"zh": "禁令",
+"ex": "The prohibition took effect immediately.",
+"exZh": "該禁令立即生效。"
+},
+{
+"w": "prosecute",
+"p": "v.",
+"zh": "起訴",
+"ex": "The office declined to prosecute.",
+"exZh": "該單位決定不起訴。"
+},
+{
+"w": "regulation",
+"p": "n.",
+"zh": "法規",
+"ex": "Regulations vary between jurisdictions.",
+"exZh": "法規因司法管轄區而異。"
+},
+{
+"w": "regulator",
+"p": "n.",
+"zh": "監理機關",
+"ex": "The regulator requested more information.",
+"exZh": "監理機關要求提供更多資訊。"
+},
+{
+"w": "regulatory",
+"p": "adj.",
+"zh": "法規的",
+"ex": "Regulatory approval is expected in June.",
+"exZh": "預計六月取得法規核准。"
+},
+{
+"w": "remediation",
+"p": "n.",
+"zh": "矯正措施",
+"ex": "Remediation must be completed in 90 days.",
+"exZh": "矯正措施須於九十天內完成。"
+},
+{
+"w": "requirement",
+"p": "n.",
+"zh": "法定要求",
+"ex": "The requirement applies to all vendors.",
+"exZh": "該要求適用於所有廠商。"
+},
+{
+"w": "ruling",
+"p": "n.",
+"zh": "裁定",
+"ex": "The ruling clarified the ambiguity.",
+"exZh": "該裁定釐清了模糊之處。"
+},
+{
+"w": "safeguard",
+"p": "n./v.",
+"zh": "保障措施",
+"ex": "Safeguards protect personal data.",
+"exZh": "保障措施保護個人資料。"
+},
+{
+"w": "sanction",
+"p": "n.",
+"zh": "制裁",
+"ex": "Sanctions were lifted last month.",
+"exZh": "制裁已於上月解除。"
+},
+{
+"w": "scrutiny",
+"p": "n.",
+"zh": "審查",
+"ex": "The deal faced intense regulatory scrutiny.",
+"exZh": "該交易面臨嚴格的法規審查。"
+},
+{
+"w": "sovereignty",
+"p": "n.",
+"zh": "主權",
+"ex": "The treaty respects national sovereignty.",
+"exZh": "該條約尊重國家主權。"
+},
+{
+"w": "statute",
+"p": "n.",
+"zh": "成文法",
+"ex": "The statute was amended last year.",
+"exZh": "該成文法去年經過修訂。"
+},
+{
+"w": "statutory",
+"p": "adj.",
+"zh": "法定的",
+"ex": "Statutory notice periods must be observed.",
+"exZh": "必須遵守法定通知期間。"
+},
+{
+"w": "subpoena",
+"p": "n.",
+"zh": "傳票",
+"ex": "A subpoena required the documents.",
+"exZh": "傳票要求提交這些文件。"
+},
+{
+"w": "supervisory",
+"p": "adj.",
+"zh": "監理的",
+"ex": "The supervisory board meets quarterly.",
+"exZh": "監理委員會每季開會。"
+},
+{
+"w": "suspension",
+"p": "n.",
+"zh": "停權",
+"ex": "A three-month suspension was imposed.",
+"exZh": "處以三個月停權。"
+},
+{
+"w": "testify",
+"p": "v.",
+"zh": "作證",
+"ex": "Two experts testified for the defense.",
+"exZh": "兩位專家為被告方作證。"
+},
+{
+"w": "testimony",
+"p": "n.",
+"zh": "證詞",
+"ex": "Her testimony proved decisive.",
+"exZh": "她的證詞具決定性。"
+},
+{
+"w": "treaty",
+"p": "n.",
+"zh": "條約",
+"ex": "The treaty enters into force next year.",
+"exZh": "該條約明年生效。"
+},
+{
+"w": "tribunal",
+"p": "n.",
+"zh": "裁決庭",
+"ex": "The tribunal issued its decision.",
+"exZh": "裁決庭作出了決定。"
+},
+{
+"w": "trustee",
+"p": "n.",
+"zh": "受託人",
+"ex": "A trustee manages the fund.",
+"exZh": "受託人管理該基金。"
+},
+{
+"w": "unlawful",
+"p": "adj.",
+"zh": "違法的",
+"ex": "The dismissal was declared unlawful.",
+"exZh": "該解雇被宣告違法。"
+},
+{
+"w": "uphold",
+"p": "v.",
+"zh": "維持原判",
+"ex": "The appeal court upheld the decision.",
+"exZh": "上訴法院維持了原判決。"
+},
+{
+"w": "verdict",
+"p": "n.",
+"zh": "裁決",
+"ex": "The verdict was announced Friday.",
+"exZh": "裁決於週五宣布。"
+},
+{
+"w": "violation",
+"p": "n.",
+"zh": "違規",
+"ex": "Repeated violations lead to suspension.",
+"exZh": "一再違規將導致停業。"
+},
+{
+"w": "whistleblower",
+"p": "n.",
+"zh": "吹哨者",
+"ex": "Whistleblower protections were expanded.",
+"exZh": "吹哨者保護已擴大。"
+},
+{
+"w": "witness",
+"p": "n.",
+"zh": "證人",
+"ex": "Three witnesses gave statements.",
+"exZh": "三位證人做了陳述。"
+}
+]
+}

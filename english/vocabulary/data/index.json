@@ -1,0 +1,166 @@
+{
+ "themes": [
+  {
+   "id": "office-basics",
+   "name": "職場基礎",
+   "nameEn": "Office Basics",
+   "count": 145
+  },
+  {
+   "id": "meetings",
+   "name": "會議與溝通",
+   "nameEn": "Meetings & Communication",
+   "count": 139
+  },
+  {
+   "id": "presentations",
+   "name": "簡報與報告",
+   "nameEn": "Presentations & Reports",
+   "count": 114
+  },
+  {
+   "id": "hr-recruiting",
+   "name": "人事與招募",
+   "nameEn": "HR & Recruiting",
+   "count": 142
+  },
+  {
+   "id": "finance",
+   "name": "財務與會計",
+   "nameEn": "Finance & Accounting",
+   "count": 134
+  },
+  {
+   "id": "marketing",
+   "name": "行銷與廣告",
+   "nameEn": "Marketing & Advertising",
+   "count": 124
+  },
+  {
+   "id": "sales-clients",
+   "name": "銷售與客戶",
+   "nameEn": "Sales & Client Service",
+   "count": 95
+  },
+  {
+   "id": "contracts",
+   "name": "採購與合約",
+   "nameEn": "Procurement & Contracts",
+   "count": 97
+  },
+  {
+   "id": "manufacturing",
+   "name": "生產與品管",
+   "nameEn": "Manufacturing & Quality",
+   "count": 114
+  },
+  {
+   "id": "logistics",
+   "name": "物流與倉儲",
+   "nameEn": "Logistics & Warehousing",
+   "count": 99
+  },
+  {
+   "id": "technology",
+   "name": "科技與資訊",
+   "nameEn": "Technology & IT",
+   "count": 126
+  },
+  {
+   "id": "media-internet",
+   "name": "網路與媒體",
+   "nameEn": "Internet & Media",
+   "count": 102
+  },
+  {
+   "id": "travel-transport",
+   "name": "旅遊與交通",
+   "nameEn": "Travel & Transportation",
+   "count": 106
+  },
+  {
+   "id": "hotel-dining",
+   "name": "飯店與餐飲",
+   "nameEn": "Hotels & Dining",
+   "count": 110
+  },
+  {
+   "id": "health-medical",
+   "name": "醫療與健康",
+   "nameEn": "Health & Medical",
+   "count": 111
+  },
+  {
+   "id": "education-research",
+   "name": "教育與研究",
+   "nameEn": "Education & Research",
+   "count": 90
+  },
+  {
+   "id": "law-regulation",
+   "name": "法律與規範",
+   "nameEn": "Law & Regulation",
+   "count": 100
+  },
+  {
+   "id": "environment-energy",
+   "name": "環境與能源",
+   "nameEn": "Environment & Energy",
+   "count": 100
+  },
+  {
+   "id": "daily-living",
+   "name": "日常生活",
+   "nameEn": "Daily Living",
+   "count": 114
+  },
+  {
+   "id": "society-culture",
+   "name": "社會與文化",
+   "nameEn": "Society & Culture",
+   "count": 93
+  },
+  {
+   "id": "common-verbs",
+   "name": "高頻動詞",
+   "nameEn": "High-Frequency Verbs",
+   "count": 112
+  },
+  {
+   "id": "descriptive",
+   "name": "描述與情緒",
+   "nameEn": "Description & Feelings",
+   "count": 110
+  },
+  {
+   "id": "time-quantity",
+   "name": "時間與數量",
+   "nameEn": "Time & Quantity",
+   "count": 118
+  },
+  {
+   "id": "food-cooking",
+   "name": "食物與烹飪",
+   "nameEn": "Food & Cooking",
+   "count": 120
+  },
+  {
+   "id": "sports-leisure",
+   "name": "運動與休閒",
+   "nameEn": "Sports & Leisure",
+   "count": 98
+  },
+  {
+   "id": "science-nature",
+   "name": "科學與自然",
+   "nameEn": "Science & Nature",
+   "count": 136
+  },
+  {
+   "id": "shopping-consumer",
+   "name": "消費與金融日常",
+   "nameEn": "Shopping & Consumer",
+   "count": 94
+  }
+ ]
+}

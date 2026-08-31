@@ -1,0 +1,637 @@
+{
+"id": "education-research",
+"name": "教育與研究",
+"nameEn": "Education & Research",
+"words": [
+{
+"w": "abstract",
+"p": "n.",
+"zh": "摘要",
+"ex": "The abstract summarizes the study in 200 words.",
+"exZh": "摘要以兩百字總結該研究。"
+},
+{
+"w": "academic",
+"p": "adj.",
+"zh": "學術的",
+"ex": "Academic standards were raised this year.",
+"exZh": "學術標準今年提高了。"
+},
+{
+"w": "accredit",
+"p": "v.",
+"zh": "認可",
+"ex": "The university was accredited in 2018.",
+"exZh": "該大學於 2018 年獲得認可。"
+},
+{
+"w": "accreditation body",
+"p": "n.",
+"zh": "認證機構",
+"ex": "An accreditation body reviews the program.",
+"exZh": "認證機構審查該學程。"
+},
+{
+"w": "achievement",
+"p": "n.",
+"zh": "學習成就",
+"ex": "Student achievement improved measurably.",
+"exZh": "學生學習成就有可測量的提升。"
+},
+{
+"w": "alumni",
+"p": "n.",
+"zh": "校友",
+"ex": "Alumni donations funded the new wing.",
+"exZh": "校友捐款資助了新側樓。"
+},
+{
+"w": "apprenticeship",
+"p": "n.",
+"zh": "學徒制",
+"ex": "The apprenticeship combines study and work.",
+"exZh": "學徒制結合學習與工作。"
+},
+{
+"w": "attendance record",
+"p": "n.",
+"zh": "出席紀錄",
+"ex": "Attendance records are kept electronically.",
+"exZh": "出席紀錄以電子方式保存。"
+},
+{
+"w": "autonomy",
+"p": "n.",
+"zh": "自主性",
+"ex": "Learner autonomy is encouraged.",
+"exZh": "鼓勵學習者的自主性。"
+},
+{
+"w": "bibliographical",
+"p": "adj.",
+"zh": "書目的",
+"ex": "Bibliographical details must be complete.",
+"exZh": "書目細節必須完整。"
+},
+{
+"w": "bibliography",
+"p": "n.",
+"zh": "參考書目",
+"ex": "The bibliography lists ninety sources.",
+"exZh": "參考書目列出九十筆來源。"
+},
+{
+"w": "campus",
+"p": "n.",
+"zh": "校園",
+"ex": "The campus covers forty hectares.",
+"exZh": "校園佔地四十公頃。"
+},
+{
+"w": "capstone",
+"p": "n.",
+"zh": "畢業專題",
+"ex": "The capstone project runs for a semester.",
+"exZh": "畢業專題為期一學期。"
+},
+{
+"w": "certificate program",
+"p": "n.",
+"zh": "學程證書",
+"ex": "The certificate program takes six months.",
+"exZh": "該學程證書需六個月。"
+},
+{
+"w": "cognitive",
+"p": "adj.",
+"zh": "認知的",
+"ex": "Cognitive skills improve with practice.",
+"exZh": "認知技能透過練習而提升。"
+},
+{
+"w": "colloquium",
+"p": "n.",
+"zh": "研討課",
+"ex": "The colloquium meets every Thursday.",
+"exZh": "研討課每週四聚會。"
+},
+{
+"w": "coursework",
+"p": "n.",
+"zh": "課堂作業",
+"ex": "Coursework accounts for 40 percent of the grade.",
+"exZh": "課堂作業佔成績四成。"
+},
+{
+"w": "criterion",
+"p": "n.",
+"zh": "評判標準",
+"ex": "Each criterion is weighted equally.",
+"exZh": "每項標準權重相同。"
+},
+{
+"w": "curriculum vitae",
+"p": "n.",
+"zh": "學術履歷",
+"ex": "Attach an updated curriculum vitae.",
+"exZh": "請附上最新的學術履歷。"
+},
+{
+"w": "data set",
+"p": "n.",
+"zh": "資料集",
+"ex": "The data set covers twelve years.",
+"exZh": "該資料集涵蓋十二年。"
+},
+{
+"w": "deadline extension",
+"p": "n.",
+"zh": "延期",
+"ex": "A deadline extension was granted.",
+"exZh": "已核准延期。"
+},
+{
+"w": "dean",
+"p": "n.",
+"zh": "院長",
+"ex": "The dean addressed incoming students.",
+"exZh": "院長對新生致詞。"
+},
+{
+"w": "degree",
+"p": "n.",
+"zh": "學位",
+"ex": "She holds a master's degree in economics.",
+"exZh": "她擁有經濟學碩士學位。"
+},
+{
+"w": "department head",
+"p": "n.",
+"zh": "系主任",
+"ex": "The department head approved the change.",
+"exZh": "系主任批准了這項變更。"
+},
+{
+"w": "didactic",
+"p": "adj.",
+"zh": "教學的",
+"ex": "The approach is less didactic than before.",
+"exZh": "這種做法比以往更少說教式教學。"
+},
+{
+"w": "dissemination",
+"p": "n.",
+"zh": "散播；推廣",
+"ex": "Dissemination of results took two years.",
+"exZh": "研究成果的推廣花了兩年。"
+},
+{
+"w": "dissertation",
+"p": "n.",
+"zh": "論文",
+"ex": "His dissertation examines urban policy.",
+"exZh": "他的論文探討都市政策。"
+},
+{
+"w": "distance learning",
+"p": "n.",
+"zh": "遠距學習",
+"ex": "Distance learning expanded access.",
+"exZh": "遠距學習擴大了受教機會。"
+},
+{
+"w": "doctorate",
+"p": "n.",
+"zh": "博士學位",
+"ex": "She completed her doctorate in four years.",
+"exZh": "她四年內完成博士學位。"
+},
+{
+"w": "elective",
+"p": "n.",
+"zh": "選修課",
+"ex": "Students choose two electives.",
+"exZh": "學生選修兩門選修課。"
+},
+{
+"w": "empirical",
+"p": "adj.",
+"zh": "實證的",
+"ex": "The claim lacks empirical support.",
+"exZh": "該主張缺乏實證支持。"
+},
+{
+"w": "enrichment",
+"p": "n.",
+"zh": "加深加廣",
+"ex": "Enrichment activities run after school.",
+"exZh": "加深加廣活動於課後進行。"
+},
+{
+"w": "enrollment",
+"p": "n.",
+"zh": "註冊人數",
+"ex": "Enrollment rose by 8 percent.",
+"exZh": "註冊人數成長 8%。"
+},
+{
+"w": "extracurricular",
+"p": "adj.",
+"zh": "課外的",
+"ex": "Extracurricular activities are encouraged.",
+"exZh": "鼓勵參與課外活動。"
+},
+{
+"w": "faculty",
+"p": "n.",
+"zh": "教職員",
+"ex": "The faculty voted on the proposal.",
+"exZh": "教職員就該提案投票。"
+},
+{
+"w": "faculty member",
+"p": "n.",
+"zh": "教師",
+"ex": "Three faculty members joined this term.",
+"exZh": "本學期有三位教師加入。"
+},
+{
+"w": "fellowship",
+"p": "n.",
+"zh": "研究獎助",
+"ex": "She received a two-year fellowship.",
+"exZh": "她獲得兩年研究獎助。"
+},
+{
+"w": "fieldwork",
+"p": "n.",
+"zh": "田野調查",
+"ex": "Fieldwork was conducted over six months.",
+"exZh": "田野調查進行了六個月。"
+},
+{
+"w": "findings",
+"p": "n.",
+"zh": "研究發現",
+"ex": "The findings were replicated independently.",
+"exZh": "研究發現獲得獨立重現。"
+},
+{
+"w": "framework",
+"p": "n.",
+"zh": "架構",
+"ex": "The theoretical framework draws on two models.",
+"exZh": "理論架構取自兩個模型。"
+},
+{
+"w": "funding",
+"p": "n.",
+"zh": "經費",
+"ex": "Research funding was renewed.",
+"exZh": "研究經費獲得續撥。"
+},
+{
+"w": "grading",
+"p": "n.",
+"zh": "評分",
+"ex": "Grading criteria are published in advance.",
+"exZh": "評分標準事先公布。"
+},
+{
+"w": "grading rubric",
+"p": "n.",
+"zh": "評分表",
+"ex": "The grading rubric is shared in advance.",
+"exZh": "評分表事先提供。"
+},
+{
+"w": "graduate",
+"p": "n./v.",
+"zh": "畢業生；畢業",
+"ex": "Graduates enter a competitive market.",
+"exZh": "畢業生進入競爭激烈的市場。"
+},
+{
+"w": "graduation",
+"p": "n.",
+"zh": "畢業典禮",
+"ex": "Graduation takes place in June.",
+"exZh": "畢業典禮於六月舉行。"
+},
+{
+"w": "grant proposal",
+"p": "n.",
+"zh": "計畫書",
+"ex": "The grant proposal was submitted on time.",
+"exZh": "計畫書準時提交。"
+},
+{
+"w": "handbook",
+"p": "n.",
+"zh": "手冊",
+"ex": "The student handbook explains the rules.",
+"exZh": "學生手冊說明了規則。"
+},
+{
+"w": "higher education",
+"p": "n.",
+"zh": "高等教育",
+"ex": "Higher education enrollment stabilized.",
+"exZh": "高等教育註冊人數趨於穩定。"
+},
+{
+"w": "hypothesis",
+"p": "n.",
+"zh": "假設",
+"ex": "The hypothesis was tested experimentally.",
+"exZh": "該假設經由實驗檢驗。"
+},
+{
+"w": "inquiry-based",
+"p": "adj.",
+"zh": "探究式的",
+"ex": "Inquiry-based learning improves retention.",
+"exZh": "探究式學習提升了記憶保留。"
+},
+{
+"w": "institute",
+"p": "n.",
+"zh": "研究院",
+"ex": "The institute focuses on renewable energy.",
+"exZh": "該研究院專注於再生能源。"
+},
+{
+"w": "instructor",
+"p": "n.",
+"zh": "授課教師",
+"ex": "The instructor posts slides weekly.",
+"exZh": "授課教師每週上傳投影片。"
+},
+{
+"w": "interdisciplinary",
+"p": "adj.",
+"zh": "跨領域的",
+"ex": "The center promotes interdisciplinary work.",
+"exZh": "該中心推動跨領域研究。"
+},
+{
+"w": "internship program",
+"p": "n.",
+"zh": "實習計畫",
+"ex": "The internship program partners with industry.",
+"exZh": "實習計畫與產業合作。"
+},
+{
+"w": "journal",
+"p": "n.",
+"zh": "期刊",
+"ex": "The article appeared in a leading journal.",
+"exZh": "該文章刊登於頂尖期刊。"
+},
+{
+"w": "lecture",
+"p": "n.",
+"zh": "講課",
+"ex": "The lecture was recorded for review.",
+"exZh": "講課錄影供複習使用。"
+},
+{
+"w": "lecturer",
+"p": "n.",
+"zh": "講師",
+"ex": "A visiting lecturer taught the module.",
+"exZh": "一位客座講師教授該單元。"
+},
+{
+"w": "literacy",
+"p": "n.",
+"zh": "識讀能力",
+"ex": "Digital literacy is now essential.",
+"exZh": "數位識讀能力如今不可或缺。"
+},
+{
+"w": "literature review",
+"p": "n.",
+"zh": "文獻回顧",
+"ex": "The literature review spans forty papers.",
+"exZh": "文獻回顧涵蓋四十篇論文。"
+},
+{
+"w": "mandatory course",
+"p": "n.",
+"zh": "必修課",
+"ex": "Statistics is a mandatory course.",
+"exZh": "統計學是必修課。"
+},
+{
+"w": "mentorship",
+"p": "n.",
+"zh": "師徒制",
+"ex": "Mentorship pairs seniors with freshmen.",
+"exZh": "師徒制將學長姐與新生配對。"
+},
+{
+"w": "pedagogy",
+"p": "n.",
+"zh": "教學法",
+"ex": "The pedagogy emphasizes collaboration.",
+"exZh": "該教學法強調協作。"
+},
+{
+"w": "peer review",
+"p": "n.",
+"zh": "同儕審查",
+"ex": "Peer review took four months.",
+"exZh": "同儕審查花了四個月。"
+},
+{
+"w": "placement test",
+"p": "n.",
+"zh": "分級測驗",
+"ex": "A placement test determines the level.",
+"exZh": "分級測驗決定程度分班。"
+},
+{
+"w": "plagiarism",
+"p": "n.",
+"zh": "抄襲",
+"ex": "Plagiarism results in a failing grade.",
+"exZh": "抄襲將導致不及格。"
+},
+{
+"w": "portfolio assessment",
+"p": "n.",
+"zh": "檔案評量",
+"ex": "Portfolio assessment replaced final exams.",
+"exZh": "檔案評量取代了期末考。"
+},
+{
+"w": "postgraduate",
+"p": "adj./n.",
+"zh": "研究所的",
+"ex": "Postgraduate applications close in March.",
+"exZh": "研究所申請於三月截止。"
+},
+{
+"w": "proficiency test",
+"p": "n.",
+"zh": "能力測驗",
+"ex": "A proficiency test is required for entry.",
+"exZh": "入學需要能力測驗成績。"
+},
+{
+"w": "qualitative",
+"p": "adj.",
+"zh": "質性的",
+"ex": "Qualitative interviews complemented the survey.",
+"exZh": "質性訪談補充了問卷調查。"
+},
+{
+"w": "quantitative",
+"p": "adj.",
+"zh": "量化的",
+"ex": "Quantitative data showed a clear pattern.",
+"exZh": "量化資料顯示明確的模式。"
+},
+{
+"w": "registrar",
+"p": "n.",
+"zh": "教務處",
+"ex": "Contact the registrar about transcripts.",
+"exZh": "成績單事宜請洽教務處。"
+},
+{
+"w": "research assistant",
+"p": "n.",
+"zh": "研究助理",
+"ex": "Two research assistants coded the data.",
+"exZh": "兩位研究助理進行資料編碼。"
+},
+{
+"w": "retention rate",
+"p": "n.",
+"zh": "留校率",
+"ex": "The retention rate improved to 92 percent.",
+"exZh": "留校率提升至 92%。"
+},
+{
+"w": "sample size",
+"p": "n.",
+"zh": "樣本數",
+"ex": "The sample size was too small to generalize.",
+"exZh": "樣本數太小無法推論。"
+},
+{
+"w": "scholar",
+"p": "n.",
+"zh": "學者",
+"ex": "Visiting scholars stay for one semester.",
+"exZh": "訪問學者停留一學期。"
+},
+{
+"w": "scholarly",
+"p": "adj.",
+"zh": "學術性的",
+"ex": "The book is a scholarly work.",
+"exZh": "這本書是學術性著作。"
+},
+{
+"w": "scholarship",
+"p": "n.",
+"zh": "獎學金",
+"ex": "The scholarship covers full tuition.",
+"exZh": "該獎學金涵蓋全額學費。"
+},
+{
+"w": "semester",
+"p": "n.",
+"zh": "學期",
+"ex": "The semester begins in September.",
+"exZh": "學期於九月開始。"
+},
+{
+"w": "statistics",
+"p": "n.",
+"zh": "統計學",
+"ex": "Statistics is required for all majors.",
+"exZh": "所有主修都必修統計學。"
+},
+{
+"w": "submission",
+"p": "n.",
+"zh": "繳交",
+"ex": "Late submissions lose ten percent.",
+"exZh": "遲交扣一成分數。"
+},
+{
+"w": "survey instrument",
+"p": "n.",
+"zh": "調查工具",
+"ex": "The survey instrument was piloted first.",
+"exZh": "調查工具先經試測。"
+},
+{
+"w": "syllabus",
+"p": "n.",
+"zh": "課程大綱",
+"ex": "The syllabus lists required readings.",
+"exZh": "課程大綱列出必讀書目。"
+},
+{
+"w": "tenure track",
+"p": "n.",
+"zh": "終身職軌道",
+"ex": "She joined on the tenure track.",
+"exZh": "她以終身職軌道加入。"
+},
+{
+"w": "textbook",
+"p": "n.",
+"zh": "教科書",
+"ex": "The textbook is updated every three years.",
+"exZh": "教科書每三年更新。"
+},
+{
+"w": "thesis",
+"p": "n.",
+"zh": "學位論文",
+"ex": "The thesis defense is next month.",
+"exZh": "論文口試在下個月。"
+},
+{
+"w": "tuition",
+"p": "n.",
+"zh": "學費",
+"ex": "Tuition increased modestly this year.",
+"exZh": "今年學費小幅調漲。"
+},
+{
+"w": "tutorial",
+"p": "n.",
+"zh": "輔導課",
+"ex": "Tutorials are held in small groups.",
+"exZh": "輔導課以小組方式進行。"
+},
+{
+"w": "undergraduate",
+"p": "n.",
+"zh": "大學生",
+"ex": "Undergraduates take a foundation course.",
+"exZh": "大學生須修基礎課程。"
+},
+{
+"w": "variable",
+"p": "n.",
+"zh": "變項",
+"ex": "Three variables were held constant.",
+"exZh": "三個變項被固定不變。"
+},
+{
+"w": "vocational training",
+"p": "n.",
+"zh": "職業訓練",
+"ex": "Vocational training leads to certification.",
+"exZh": "職業訓練可取得證照。"
+}
+]
+}

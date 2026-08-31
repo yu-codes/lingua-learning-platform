@@ -1,0 +1,721 @@
+{
+"id": "media-internet",
+"name": "網路與媒體",
+"nameEn": "Internet & Media",
+"words": [
+{
+"w": "accessible",
+"p": "adj.",
+"zh": "易取得的",
+"ex": "The archive is accessible to subscribers.",
+"exZh": "該檔案庫對訂戶開放取用。"
+},
+{
+"w": "account",
+"p": "n.",
+"zh": "帳號",
+"ex": "Create an account to save your progress.",
+"exZh": "建立帳號以儲存你的進度。"
+},
+{
+"w": "algorithmic",
+"p": "adj.",
+"zh": "演算法的",
+"ex": "Algorithmic feeds shape what users see.",
+"exZh": "演算法動態牆決定使用者看到什麼。"
+},
+{
+"w": "allegation",
+"p": "n.",
+"zh": "指控",
+"ex": "The allegation remains unproven.",
+"exZh": "該指控仍未獲證實。"
+},
+{
+"w": "anchor",
+"p": "n.",
+"zh": "主播",
+"ex": "The evening anchor interviewed the minister.",
+"exZh": "晚間主播訪問了部長。"
+},
+{
+"w": "anonymous",
+"p": "adj.",
+"zh": "匿名的",
+"ex": "An anonymous tip led to the story.",
+"exZh": "一則匿名線報促成了這篇報導。"
+},
+{
+"w": "article",
+"p": "n.",
+"zh": "報導；文章",
+"ex": "The article was shared thousands of times.",
+"exZh": "該篇報導被分享了數千次。"
+},
+{
+"w": "attribution",
+"p": "n.",
+"zh": "出處標註",
+"ex": "Proper attribution is required.",
+"exZh": "必須正確標註出處。"
+},
+{
+"w": "audience share",
+"p": "n.",
+"zh": "收視佔比",
+"ex": "Audience share slipped this season.",
+"exZh": "本季收視佔比下滑。"
+},
+{
+"w": "audio",
+"p": "n.",
+"zh": "音訊",
+"ex": "The audio quality was poor in places.",
+"exZh": "音訊品質有些地方不佳。"
+},
+{
+"w": "bias",
+"p": "n.",
+"zh": "偏見",
+"ex": "The report was accused of bias.",
+"exZh": "該報導被指控有偏見。"
+},
+{
+"w": "blog",
+"p": "n.",
+"zh": "部落格",
+"ex": "The company blog posts twice a week.",
+"exZh": "公司部落格每週發文兩次。"
+},
+{
+"w": "broadcast",
+"p": "v./n.",
+"zh": "播送",
+"ex": "The ceremony was broadcast live.",
+"exZh": "典禮進行了現場播送。"
+},
+{
+"w": "browsing",
+"p": "n.",
+"zh": "瀏覽",
+"ex": "Private browsing does not store history.",
+"exZh": "私密瀏覽不會儲存紀錄。"
+},
+{
+"w": "bulletin",
+"p": "n.",
+"zh": "快報",
+"ex": "A news bulletin interrupted the program.",
+"exZh": "一則新聞快報中斷了節目。"
+},
+{
+"w": "byline",
+"p": "n.",
+"zh": "署名",
+"ex": "Her byline appeared on the front page.",
+"exZh": "她的署名出現在頭版。"
+},
+{
+"w": "censorship",
+"p": "n.",
+"zh": "審查制度",
+"ex": "Censorship limited coverage of the protest.",
+"exZh": "審查制度限制了抗議的報導。"
+},
+{
+"w": "circulation figure",
+"p": "n.",
+"zh": "發行數字",
+"ex": "Circulation figures are audited annually.",
+"exZh": "發行數字每年接受稽核。"
+},
+{
+"w": "clickbait",
+"p": "n.",
+"zh": "標題黨",
+"ex": "Clickbait headlines erode trust.",
+"exZh": "標題黨式的標題侵蝕信任。"
+},
+{
+"w": "clickthrough",
+"p": "n.",
+"zh": "點擊率",
+"ex": "Clickthrough improved with clearer titles.",
+"exZh": "標題更清楚後點擊率提升。"
+},
+{
+"w": "clip",
+"p": "n.",
+"zh": "短片",
+"ex": "The clip was viewed a million times.",
+"exZh": "該短片被觀看了一百萬次。"
+},
+{
+"w": "comment section",
+"p": "n.",
+"zh": "留言區",
+"ex": "The comment section was closed.",
+"exZh": "留言區已關閉。"
+},
+{
+"w": "commentary",
+"p": "n.",
+"zh": "評論",
+"ex": "The commentary aired after the match.",
+"exZh": "評論在賽後播出。"
+},
+{
+"w": "content",
+"p": "n.",
+"zh": "內容",
+"ex": "Original content drives subscriptions.",
+"exZh": "原創內容帶動訂閱。"
+},
+{
+"w": "cookie",
+"p": "n.",
+"zh": "網站追蹤資料",
+"ex": "Cookies require user consent.",
+"exZh": "網站追蹤資料需要使用者同意。"
+},
+{
+"w": "correspondent",
+"p": "n.",
+"zh": "特派員",
+"ex": "Our correspondent reported from the border.",
+"exZh": "我們的特派員自邊境報導。"
+},
+{
+"w": "crawler",
+"p": "n.",
+"zh": "爬蟲程式",
+"ex": "Search crawlers index new pages daily.",
+"exZh": "搜尋爬蟲每日索引新頁面。"
+},
+{
+"w": "curate",
+"p": "v.",
+"zh": "策展；精選",
+"ex": "Editors curate the daily digest.",
+"exZh": "編輯精選每日摘要。"
+},
+{
+"w": "defamation",
+"p": "n.",
+"zh": "誹謗",
+"ex": "The suit alleged defamation.",
+"exZh": "該訴訟指控誹謗。"
+},
+{
+"w": "digest",
+"p": "n.",
+"zh": "摘要",
+"ex": "A weekly digest summarizes key stories.",
+"exZh": "每週摘要總結重點新聞。"
+},
+{
+"w": "disinformation",
+"p": "n.",
+"zh": "不實資訊",
+"ex": "Disinformation spreads faster than corrections.",
+"exZh": "不實資訊傳播得比更正快。"
+},
+{
+"w": "documentary",
+"p": "n.",
+"zh": "紀錄片",
+"ex": "The documentary won several awards.",
+"exZh": "該紀錄片獲得多項獎項。"
+},
+{
+"w": "editorial",
+"p": "n./adj.",
+"zh": "社論",
+"ex": "The editorial criticized the new policy.",
+"exZh": "社論批評了新政策。"
+},
+{
+"w": "engagement rate",
+"p": "n.",
+"zh": "互動率",
+"ex": "Engagement rate fell after the change.",
+"exZh": "變更後互動率下降。"
+},
+{
+"w": "episode",
+"p": "n.",
+"zh": "集",
+"ex": "The final episode airs next Sunday.",
+"exZh": "最後一集下週日播出。"
+},
+{
+"w": "feature story",
+"p": "n.",
+"zh": "特寫報導",
+"ex": "The feature story ran across four pages.",
+"exZh": "該特寫報導佔了四個版面。"
+},
+{
+"w": "feed",
+"p": "n.",
+"zh": "動態訊息",
+"ex": "Your feed updates in real time.",
+"exZh": "你的動態訊息即時更新。"
+},
+{
+"w": "follower",
+"p": "n.",
+"zh": "追蹤者",
+"ex": "The account gained 10,000 followers.",
+"exZh": "該帳號增加了一萬名追蹤者。"
+},
+{
+"w": "footage",
+"p": "n.",
+"zh": "影片片段",
+"ex": "Security footage confirmed the account.",
+"exZh": "監視影片證實了說法。"
+},
+{
+"w": "freelancer",
+"p": "n.",
+"zh": "自由撰稿人",
+"ex": "Freelancers contribute most reviews.",
+"exZh": "自由撰稿人貢獻了多數評論。"
+},
+{
+"w": "graphic",
+"p": "n.",
+"zh": "圖表；圖像",
+"ex": "An interactive graphic explains the data.",
+"exZh": "互動圖表說明了這些數據。"
+},
+{
+"w": "hashtag",
+"p": "n.",
+"zh": "主題標籤",
+"ex": "The hashtag trended nationwide.",
+"exZh": "該主題標籤在全國熱門。"
+},
+{
+"w": "headline",
+"p": "n.",
+"zh": "標題",
+"ex": "The headline was changed after publication.",
+"exZh": "該標題在刊出後被更改。"
+},
+{
+"w": "homepage",
+"p": "n.",
+"zh": "首頁",
+"ex": "The homepage was redesigned for mobile.",
+"exZh": "首頁為行動裝置重新設計。"
+},
+{
+"w": "host",
+"p": "n./v.",
+"zh": "主持人",
+"ex": "The podcast host interviewed two experts.",
+"exZh": "播客主持人訪問了兩位專家。"
+},
+{
+"w": "hyperlink",
+"p": "n.",
+"zh": "超連結",
+"ex": "Every citation includes a hyperlink.",
+"exZh": "每則引用都附有超連結。"
+},
+{
+"w": "influence",
+"p": "n.",
+"zh": "影響力",
+"ex": "The publication has considerable influence.",
+"exZh": "該刊物具有相當影響力。"
+},
+{
+"w": "investigative",
+"p": "adj.",
+"zh": "調查性的",
+"ex": "Investigative reporting takes months.",
+"exZh": "調查報導需要數月時間。"
+},
+{
+"w": "journalist",
+"p": "n.",
+"zh": "記者",
+"ex": "Two journalists covered the trial.",
+"exZh": "兩名記者採訪了該審判。"
+},
+{
+"w": "keyword",
+"p": "n.",
+"zh": "關鍵字",
+"ex": "Keyword research guides the content plan.",
+"exZh": "關鍵字研究指導內容規劃。"
+},
+{
+"w": "libel",
+"p": "n.",
+"zh": "文字誹謗",
+"ex": "The paper settled the libel claim.",
+"exZh": "該報和解了文字誹謗求償。"
+},
+{
+"w": "livestream",
+"p": "n./v.",
+"zh": "直播",
+"ex": "The launch was livestreamed globally.",
+"exZh": "上市發表會全球直播。"
+},
+{
+"w": "mainstream media",
+"p": "n.",
+"zh": "主流媒體",
+"ex": "Mainstream media covered it extensively.",
+"exZh": "主流媒體大幅報導此事。"
+},
+{
+"w": "manuscript",
+"p": "n.",
+"zh": "原稿",
+"ex": "The manuscript is under review.",
+"exZh": "原稿正在審閱中。"
+},
+{
+"w": "metadata",
+"p": "n.",
+"zh": "後設資料",
+"ex": "Metadata improves searchability.",
+"exZh": "後設資料提升可搜尋性。"
+},
+{
+"w": "moderate",
+"p": "v.",
+"zh": "審核",
+"ex": "Volunteers moderate the forum.",
+"exZh": "志工審核該論壇。"
+},
+{
+"w": "navigation",
+"p": "n.",
+"zh": "網站導覽",
+"ex": "Navigation was simplified to five items.",
+"exZh": "網站導覽簡化為五個項目。"
+},
+{
+"w": "newsletter",
+"p": "n.",
+"zh": "電子報",
+"ex": "The newsletter reaches 40,000 readers.",
+"exZh": "電子報觸及四萬名讀者。"
+},
+{
+"w": "newsroom",
+"p": "n.",
+"zh": "新聞編輯室",
+"ex": "The newsroom operates 24 hours.",
+"exZh": "新聞編輯室二十四小時運作。"
+},
+{
+"w": "op-ed",
+"p": "n.",
+"zh": "投書專欄",
+"ex": "An op-ed argued the opposite view.",
+"exZh": "一篇投書提出相反觀點。"
+},
+{
+"w": "paywall",
+"p": "n.",
+"zh": "付費牆",
+"ex": "Some articles sit behind a paywall.",
+"exZh": "部分文章位於付費牆之後。"
+},
+{
+"w": "periodical",
+"p": "n.",
+"zh": "期刊",
+"ex": "The library subscribes to 200 periodicals.",
+"exZh": "圖書館訂閱兩百種期刊。"
+},
+{
+"w": "photograph",
+"p": "n.",
+"zh": "照片",
+"ex": "The photograph was taken at dawn.",
+"exZh": "該照片攝於黎明。"
+},
+{
+"w": "podcast",
+"p": "n.",
+"zh": "播客",
+"ex": "The podcast releases weekly episodes.",
+"exZh": "該播客每週發布新集數。"
+},
+{
+"w": "portal",
+"p": "n.",
+"zh": "入口網站",
+"ex": "The portal aggregates regional news.",
+"exZh": "該入口網站彙整區域新聞。"
+},
+{
+"w": "post",
+"p": "n./v.",
+"zh": "貼文",
+"ex": "The post was pinned to the top.",
+"exZh": "該貼文被置頂。"
+},
+{
+"w": "press",
+"p": "n.",
+"zh": "新聞界",
+"ex": "The press was briefed beforehand.",
+"exZh": "新聞界事先獲得簡報。"
+},
+{
+"w": "press conference",
+"p": "n.",
+"zh": "記者會",
+"ex": "The press conference lasted an hour.",
+"exZh": "記者會進行了一小時。"
+},
+{
+"w": "propaganda",
+"p": "n.",
+"zh": "宣傳",
+"ex": "The film was dismissed as propaganda.",
+"exZh": "該影片被斥為宣傳品。"
+},
+{
+"w": "publication",
+"p": "n.",
+"zh": "刊物；出版",
+"ex": "Publication was delayed by a week.",
+"exZh": "出版延後了一週。"
+},
+{
+"w": "publish",
+"p": "v.",
+"zh": "發表",
+"ex": "The findings were published in a journal.",
+"exZh": "研究結果發表於期刊。"
+},
+{
+"w": "publisher",
+"p": "n.",
+"zh": "出版商",
+"ex": "The publisher announced a new imprint.",
+"exZh": "出版商宣布成立新書系。"
+},
+{
+"w": "ranking",
+"p": "n.",
+"zh": "排名",
+"ex": "Search ranking improved after the update.",
+"exZh": "更新後搜尋排名提升。"
+},
+{
+"w": "recording",
+"p": "n.",
+"zh": "錄音；錄影",
+"ex": "The recording is available on demand.",
+"exZh": "錄影可隨選觀看。"
+},
+{
+"w": "redirect",
+"p": "n./v.",
+"zh": "重新導向",
+"ex": "The old URL redirects automatically.",
+"exZh": "舊網址會自動重新導向。"
+},
+{
+"w": "registration",
+"p": "n.",
+"zh": "註冊",
+"ex": "Registration is free but required.",
+"exZh": "註冊免費但為必要。"
+},
+{
+"w": "reporter",
+"p": "n.",
+"zh": "記者",
+"ex": "A reporter questioned the spokesperson.",
+"exZh": "一名記者質詢了發言人。"
+},
+{
+"w": "rerun",
+"p": "n.",
+"zh": "重播",
+"ex": "Reruns fill the afternoon schedule.",
+"exZh": "重播填滿了午後時段。"
+},
+{
+"w": "retract",
+"p": "v.",
+"zh": "撤回",
+"ex": "The paper retracted the claim.",
+"exZh": "該報撤回了此一說法。"
+},
+{
+"w": "retraction",
+"p": "n.",
+"zh": "撤稿聲明",
+"ex": "A retraction appeared the next day.",
+"exZh": "撤稿聲明於隔日刊出。"
+},
+{
+"w": "rumor",
+"p": "n.",
+"zh": "傳聞",
+"ex": "The rumor was quickly denied.",
+"exZh": "該傳聞很快遭到否認。"
+},
+{
+"w": "scoop",
+"p": "n.",
+"zh": "獨家",
+"ex": "The reporter landed a major scoop.",
+"exZh": "該記者拿到了重大獨家。"
+},
+{
+"w": "screenshot",
+"p": "n.",
+"zh": "螢幕截圖",
+"ex": "A screenshot was attached as evidence.",
+"exZh": "附上了螢幕截圖作為證據。"
+},
+{
+"w": "sensational",
+"p": "adj.",
+"zh": "聳動的",
+"ex": "The coverage was criticized as sensational.",
+"exZh": "該報導被批評為聳動。"
+},
+{
+"w": "source",
+"p": "n.",
+"zh": "消息來源",
+"ex": "The source requested anonymity.",
+"exZh": "消息來源要求匿名。"
+},
+{
+"w": "spam",
+"p": "n.",
+"zh": "垃圾訊息",
+"ex": "Spam filters block most of it.",
+"exZh": "垃圾訊息過濾器擋下大部分。"
+},
+{
+"w": "spotlight",
+"p": "n.",
+"zh": "聚光焦點",
+"ex": "The issue is back in the spotlight.",
+"exZh": "該議題再度成為焦點。"
+},
+{
+"w": "streaming",
+"p": "n.",
+"zh": "串流",
+"ex": "Streaming now exceeds cable viewing.",
+"exZh": "串流收視已超越有線電視。"
+},
+{
+"w": "subscription model",
+"p": "n.",
+"zh": "訂閱模式",
+"ex": "The subscription model stabilized revenue.",
+"exZh": "訂閱模式穩定了營收。"
+},
+{
+"w": "subtitle",
+"p": "n.",
+"zh": "字幕",
+"ex": "Subtitles can be toggled on.",
+"exZh": "字幕可以開啟。"
+},
+{
+"w": "syndicate",
+"p": "v.",
+"zh": "聯合供稿",
+"ex": "The column is syndicated worldwide.",
+"exZh": "該專欄在全球聯合供稿。"
+},
+{
+"w": "tabloid",
+"p": "n.",
+"zh": "小報",
+"ex": "The tabloid ran a misleading photo.",
+"exZh": "該小報刊登了誤導性照片。"
+},
+{
+"w": "thread",
+"p": "n.",
+"zh": "討論串",
+"ex": "The thread attracted hundreds of replies.",
+"exZh": "該討論串吸引了數百則回覆。"
+},
+{
+"w": "traffic",
+"p": "n.",
+"zh": "流量",
+"ex": "Site traffic doubled after the feature.",
+"exZh": "該報導後網站流量翻倍。"
+},
+{
+"w": "transparency",
+"p": "n.",
+"zh": "透明度",
+"ex": "Funding transparency builds trust.",
+"exZh": "資金透明度能建立信任。"
+},
+{
+"w": "trending",
+"p": "adj.",
+"zh": "熱門的",
+"ex": "The topic stayed trending for days.",
+"exZh": "該話題連續數天保持熱門。"
+},
+{
+"w": "usability",
+"p": "n.",
+"zh": "易用性",
+"ex": "Usability testing found three problems.",
+"exZh": "易用性測試找出三個問題。"
+},
+{
+"w": "viewer",
+"p": "n.",
+"zh": "觀眾",
+"ex": "Viewers can submit questions live.",
+"exZh": "觀眾可即時提問。"
+},
+{
+"w": "viewership",
+"p": "n.",
+"zh": "收視人數",
+"ex": "Viewership peaked during the final.",
+"exZh": "收視人數在決賽時達到高峰。"
+},
+{
+"w": "watchdog",
+"p": "n.",
+"zh": "監督機構",
+"ex": "A media watchdog reviewed the complaint.",
+"exZh": "媒體監督機構審查了該申訴。"
+},
+{
+"w": "webcast",
+"p": "n.",
+"zh": "網路直播",
+"ex": "The webcast attracted 5,000 viewers.",
+"exZh": "網路直播吸引五千名觀眾。"
+},
+{
+"w": "webpage",
+"p": "n.",
+"zh": "網頁",
+"ex": "The webpage loads in under a second.",
+"exZh": "該網頁一秒內載入完成。"
+}
+]
+}

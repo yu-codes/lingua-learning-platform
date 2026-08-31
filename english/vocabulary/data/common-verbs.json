@@ -1,0 +1,791 @@
+{
+"id": "common-verbs",
+"name": "高頻動詞",
+"nameEn": "High-Frequency Verbs",
+"words": [
+{
+"w": "abolish",
+"p": "v.",
+"zh": "廢除",
+"ex": "The fee was abolished last year.",
+"exZh": "該費用於去年廢除。"
+},
+{
+"w": "accelerate",
+"p": "v.",
+"zh": "加速",
+"ex": "The plan accelerated hiring.",
+"exZh": "該計畫加速了招聘。"
+},
+{
+"w": "admire",
+"p": "v.",
+"zh": "欣賞",
+"ex": "Colleagues admire her patience.",
+"exZh": "同事欣賞她的耐心。"
+},
+{
+"w": "advance",
+"p": "v.",
+"zh": "推進",
+"ex": "The project advanced ahead of schedule.",
+"exZh": "專案進度超前推進。"
+},
+{
+"w": "affect",
+"p": "v.",
+"zh": "影響",
+"ex": "The strike affected all departments.",
+"exZh": "罷工影響了所有部門。"
+},
+{
+"w": "aim",
+"p": "v.",
+"zh": "以…為目標",
+"ex": "We aim to reduce waste by half.",
+"exZh": "我們目標是把廢棄物減半。"
+},
+{
+"w": "alter",
+"p": "v.",
+"zh": "更改",
+"ex": "The route was altered at short notice.",
+"exZh": "路線臨時更改。"
+},
+{
+"w": "announce",
+"p": "v.",
+"zh": "宣布",
+"ex": "The winner will be announced Friday.",
+"exZh": "得獎者將於週五宣布。"
+},
+{
+"w": "apply",
+"p": "v.",
+"zh": "申請；適用",
+"ex": "The rule applies to everyone.",
+"exZh": "該規則適用於每個人。"
+},
+{
+"w": "argue",
+"p": "v.",
+"zh": "主張",
+"ex": "She argued for a longer trial period.",
+"exZh": "她主張延長試用期。"
+},
+{
+"w": "arise",
+"p": "v.",
+"zh": "出現",
+"ex": "Problems arose during installation.",
+"exZh": "安裝過程中出現了問題。"
+},
+{
+"w": "assume",
+"p": "v.",
+"zh": "假定",
+"ex": "Do not assume the data is complete.",
+"exZh": "不要假定資料是完整的。"
+},
+{
+"w": "attain",
+"p": "v.",
+"zh": "達到",
+"ex": "She attained the highest score.",
+"exZh": "她達到了最高分。"
+},
+{
+"w": "attempt",
+"p": "v.",
+"zh": "嘗試",
+"ex": "We attempted three different methods.",
+"exZh": "我們嘗試了三種不同方法。"
+},
+{
+"w": "behave",
+"p": "v.",
+"zh": "表現",
+"ex": "The material behaves differently at low temperatures.",
+"exZh": "該材料在低溫下表現不同。"
+},
+{
+"w": "belong",
+"p": "v.",
+"zh": "屬於",
+"ex": "These files belong to the archive.",
+"exZh": "這些檔案屬於檔案庫。"
+},
+{
+"w": "boost",
+"p": "v.",
+"zh": "提升",
+"ex": "The discount boosted weekend sales.",
+"exZh": "折扣提升了週末銷售。"
+},
+{
+"w": "broaden",
+"p": "v.",
+"zh": "拓寬",
+"ex": "The course broadens your perspective.",
+"exZh": "這門課能拓寬你的視野。"
+},
+{
+"w": "challenge",
+"p": "v.",
+"zh": "質疑",
+"ex": "The finding was challenged by others.",
+"exZh": "該發現受到他人質疑。"
+},
+{
+"w": "classify",
+"p": "v.",
+"zh": "分類",
+"ex": "Documents are classified by year.",
+"exZh": "文件依年份分類。"
+},
+{
+"w": "combine",
+"p": "v.",
+"zh": "結合",
+"ex": "The tool combines two functions.",
+"exZh": "該工具結合了兩種功能。"
+},
+{
+"w": "comprise",
+"p": "v.",
+"zh": "包含",
+"ex": "The set comprises twelve pieces.",
+"exZh": "這組包含十二件。"
+},
+{
+"w": "conceal",
+"p": "v.",
+"zh": "隱瞞",
+"ex": "Nothing was concealed from the auditors.",
+"exZh": "沒有向稽核員隱瞞任何事。"
+},
+{
+"w": "consist",
+"p": "v.",
+"zh": "由…組成",
+"ex": "The panel consists of five members.",
+"exZh": "該小組由五名成員組成。"
+},
+{
+"w": "contain",
+"p": "v.",
+"zh": "包含",
+"ex": "The box contains fragile items.",
+"exZh": "箱內含有易碎品。"
+},
+{
+"w": "convert",
+"p": "v.",
+"zh": "轉換",
+"ex": "The file was converted to another format.",
+"exZh": "檔案被轉換成另一種格式。"
+},
+{
+"w": "cooperate",
+"p": "v.",
+"zh": "合作",
+"ex": "Both teams cooperated closely.",
+"exZh": "兩個團隊密切合作。"
+},
+{
+"w": "deem",
+"p": "v.",
+"zh": "認為",
+"ex": "The request was deemed reasonable.",
+"exZh": "該請求被認為合理。"
+},
+{
+"w": "deny",
+"p": "v.",
+"zh": "否認",
+"ex": "The company denied the allegations.",
+"exZh": "該公司否認了指控。"
+},
+{
+"w": "derive",
+"p": "v.",
+"zh": "衍生",
+"ex": "The estimate derives from two sources.",
+"exZh": "該估計衍生自兩個來源。"
+},
+{
+"w": "determine",
+"p": "v.",
+"zh": "決定",
+"ex": "Sales will determine the budget.",
+"exZh": "銷售將決定預算。"
+},
+{
+"w": "diminish",
+"p": "v.",
+"zh": "減少",
+"ex": "Interest diminished over time.",
+"exZh": "興趣隨時間減少。"
+},
+{
+"w": "discourage",
+"p": "v.",
+"zh": "勸阻",
+"ex": "High fees discourage new entrants.",
+"exZh": "高額費用勸退了新進者。"
+},
+{
+"w": "dismiss",
+"p": "v.",
+"zh": "駁回",
+"ex": "The complaint was dismissed.",
+"exZh": "該申訴遭到駁回。"
+},
+{
+"w": "displace",
+"p": "v.",
+"zh": "取代",
+"ex": "Automation displaced some roles.",
+"exZh": "自動化取代了部分職位。"
+},
+{
+"w": "dispose",
+"p": "v.",
+"zh": "處置",
+"ex": "Dispose of batteries responsibly.",
+"exZh": "請負責任地處置電池。"
+},
+{
+"w": "distinguish",
+"p": "v.",
+"zh": "區分",
+"ex": "It is hard to distinguish the two models.",
+"exZh": "這兩款很難區分。"
+},
+{
+"w": "distract",
+"p": "v.",
+"zh": "分散注意",
+"ex": "Notifications distract from deep work.",
+"exZh": "通知會分散深度工作的注意力。"
+},
+{
+"w": "diverge",
+"p": "v.",
+"zh": "分歧",
+"ex": "Opinions diverged sharply.",
+"exZh": "意見出現明顯分歧。"
+},
+{
+"w": "dominate",
+"p": "v.",
+"zh": "主導",
+"ex": "Two firms dominate the market.",
+"exZh": "兩家公司主導市場。"
+},
+{
+"w": "eliminate",
+"p": "v.",
+"zh": "消除",
+"ex": "The change eliminated duplicate work.",
+"exZh": "該變更消除了重複工作。"
+},
+{
+"w": "embrace",
+"p": "v.",
+"zh": "接納",
+"ex": "The team embraced the new process.",
+"exZh": "團隊接納了新流程。"
+},
+{
+"w": "emerge",
+"p": "v.",
+"zh": "浮現",
+"ex": "A pattern emerged after six months.",
+"exZh": "六個月後浮現了一種模式。"
+},
+{
+"w": "encounter",
+"p": "v.",
+"zh": "遭遇",
+"ex": "We encountered several obstacles.",
+"exZh": "我們遭遇了幾項阻礙。"
+},
+{
+"w": "enhance",
+"p": "v.",
+"zh": "增進",
+"ex": "Training enhanced overall accuracy.",
+"exZh": "訓練增進了整體準確度。"
+},
+{
+"w": "ensure",
+"p": "v.",
+"zh": "確保",
+"ex": "Checks ensure nothing is missed.",
+"exZh": "檢查確保沒有遺漏。"
+},
+{
+"w": "establish",
+"p": "v.",
+"zh": "建立",
+"ex": "The firm established a local office.",
+"exZh": "該公司設立了在地辦公室。"
+},
+{
+"w": "evolve",
+"p": "v.",
+"zh": "演變",
+"ex": "The role evolved over three years.",
+"exZh": "該職務在三年間演變。"
+},
+{
+"w": "exclude",
+"p": "v.",
+"zh": "排除",
+"ex": "Taxes are excluded from the price.",
+"exZh": "價格不含稅。"
+},
+{
+"w": "expand",
+"p": "v.",
+"zh": "擴大",
+"ex": "The company expanded into two markets.",
+"exZh": "公司擴展到兩個市場。"
+},
+{
+"w": "explore",
+"p": "v.",
+"zh": "探索",
+"ex": "We explored several alternatives.",
+"exZh": "我們探索了幾個替代方案。"
+},
+{
+"w": "extend",
+"p": "v.",
+"zh": "延長",
+"ex": "The offer was extended by a week.",
+"exZh": "該優惠延長了一週。"
+},
+{
+"w": "govern",
+"p": "v.",
+"zh": "規範",
+"ex": "These rules govern all transactions.",
+"exZh": "這些規則規範所有交易。"
+},
+{
+"w": "grasp",
+"p": "v.",
+"zh": "掌握",
+"ex": "She quickly grasped the concept.",
+"exZh": "她很快掌握了這個概念。"
+},
+{
+"w": "halt",
+"p": "v.",
+"zh": "中止",
+"ex": "Work halted for two days.",
+"exZh": "工作中止了兩天。"
+},
+{
+"w": "hinder",
+"p": "v.",
+"zh": "阻礙",
+"ex": "Poor weather hindered progress.",
+"exZh": "惡劣天氣阻礙了進度。"
+},
+{
+"w": "identify",
+"p": "v.",
+"zh": "辨識",
+"ex": "We identified three root causes.",
+"exZh": "我們辨識出三個根本原因。"
+},
+{
+"w": "ignore",
+"p": "v.",
+"zh": "忽視",
+"ex": "The warning was ignored.",
+"exZh": "該警告被忽視了。"
+},
+{
+"w": "impose",
+"p": "v.",
+"zh": "強加",
+"ex": "New limits were imposed in June.",
+"exZh": "六月起實施了新限制。"
+},
+{
+"w": "improve",
+"p": "v.",
+"zh": "改善",
+"ex": "Response times improved markedly.",
+"exZh": "回應時間明顯改善。"
+},
+{
+"w": "inhibit",
+"p": "v.",
+"zh": "抑制",
+"ex": "Cold weather inhibits the reaction.",
+"exZh": "低溫抑制該反應。"
+},
+{
+"w": "inspect",
+"p": "v.",
+"zh": "檢查",
+"ex": "Every unit is inspected before shipping.",
+"exZh": "每台出貨前都經檢查。"
+},
+{
+"w": "investigate",
+"p": "v.",
+"zh": "調查",
+"ex": "The incident is being investigated.",
+"exZh": "該事件正在調查中。"
+},
+{
+"w": "involve",
+"p": "v.",
+"zh": "涉及",
+"ex": "The process involves three approvals.",
+"exZh": "該流程涉及三道核准。"
+},
+{
+"w": "isolate",
+"p": "v.",
+"zh": "隔離出",
+"ex": "The fault was isolated to one module.",
+"exZh": "故障被隔離到單一模組。"
+},
+{
+"w": "limit",
+"p": "v.",
+"zh": "限制",
+"ex": "We limited access to two people.",
+"exZh": "我們把存取權限制在兩人。"
+},
+{
+"w": "minimize",
+"p": "v.",
+"zh": "最小化",
+"ex": "The redesign minimized manual steps.",
+"exZh": "改版把人工步驟降到最少。"
+},
+{
+"w": "modify",
+"p": "v.",
+"zh": "修改",
+"ex": "The template was slightly modified.",
+"exZh": "範本略作修改。"
+},
+{
+"w": "neglect",
+"p": "v.",
+"zh": "疏忽",
+"ex": "Maintenance was neglected for years.",
+"exZh": "維護多年遭到疏忽。"
+},
+{
+"w": "observe",
+"p": "v.",
+"zh": "觀察到",
+"ex": "Researchers observed a clear trend.",
+"exZh": "研究人員觀察到明顯趨勢。"
+},
+{
+"w": "occur",
+"p": "v.",
+"zh": "發生",
+"ex": "The error occurs intermittently.",
+"exZh": "該錯誤間歇性發生。"
+},
+{
+"w": "oppose",
+"p": "v.",
+"zh": "反對",
+"ex": "Two members opposed the motion.",
+"exZh": "兩位成員反對該動議。"
+},
+{
+"w": "overcome",
+"p": "v.",
+"zh": "克服",
+"ex": "The team overcame several setbacks.",
+"exZh": "團隊克服了數次挫折。"
+},
+{
+"w": "oversee",
+"p": "v.",
+"zh": "監督",
+"ex": "She oversees three regional teams.",
+"exZh": "她監督三個區域團隊。"
+},
+{
+"w": "participate",
+"p": "v.",
+"zh": "參加",
+"ex": "All staff participated in the survey.",
+"exZh": "全體員工都參加了問卷。"
+},
+{
+"w": "perceive",
+"p": "v.",
+"zh": "感知",
+"ex": "Customers perceive the brand as reliable.",
+"exZh": "顧客認為該品牌可靠。"
+},
+{
+"w": "persist",
+"p": "v.",
+"zh": "持續存在",
+"ex": "The issue persisted after the update.",
+"exZh": "更新後問題仍持續存在。"
+},
+{
+"w": "possess",
+"p": "v.",
+"zh": "擁有",
+"ex": "The candidate possesses rare skills.",
+"exZh": "該候選人擁有罕見技能。"
+},
+{
+"w": "precede",
+"p": "v.",
+"zh": "先於",
+"ex": "A briefing precedes every session.",
+"exZh": "每場活動前都有簡報。"
+},
+{
+"w": "predict",
+"p": "v.",
+"zh": "預測",
+"ex": "Analysts predict slower growth.",
+"exZh": "分析師預測成長放緩。"
+},
+{
+"w": "prevent",
+"p": "v.",
+"zh": "預防",
+"ex": "Regular checks prevent failures.",
+"exZh": "定期檢查可預防故障。"
+},
+{
+"w": "promote",
+"p": "v.",
+"zh": "推廣",
+"ex": "The event promoted local businesses.",
+"exZh": "該活動推廣了在地商家。"
+},
+{
+"w": "pursue",
+"p": "v.",
+"zh": "追求",
+"ex": "She pursued a career in research.",
+"exZh": "她追求研究方面的職涯。"
+},
+{
+"w": "recognize",
+"p": "v.",
+"zh": "認可",
+"ex": "The certificate is recognized abroad.",
+"exZh": "該證書在國外獲得認可。"
+},
+{
+"w": "reduce",
+"p": "v.",
+"zh": "降低",
+"ex": "The change reduced errors by half.",
+"exZh": "該變更讓錯誤減半。"
+},
+{
+"w": "refine",
+"p": "v.",
+"zh": "精進",
+"ex": "The model was refined over months.",
+"exZh": "該模型歷經數月精進。"
+},
+{
+"w": "reflect",
+"p": "v.",
+"zh": "反映",
+"ex": "The figures reflect seasonal demand.",
+"exZh": "這些數字反映季節性需求。"
+},
+{
+"w": "regulate",
+"p": "v.",
+"zh": "管制",
+"ex": "The industry is tightly regulated.",
+"exZh": "該產業受到嚴格管制。"
+},
+{
+"w": "reinforce",
+"p": "v.",
+"zh": "強化",
+"ex": "The results reinforce earlier findings.",
+"exZh": "結果強化了先前的發現。"
+},
+{
+"w": "reject",
+"p": "v.",
+"zh": "拒絕",
+"ex": "The proposal was rejected twice.",
+"exZh": "該提案被拒絕了兩次。"
+},
+{
+"w": "relieve",
+"p": "v.",
+"zh": "緩解",
+"ex": "The fan relieved the heat.",
+"exZh": "風扇緩解了熱度。"
+},
+{
+"w": "rely",
+"p": "v.",
+"zh": "依賴",
+"ex": "We rely on a single supplier.",
+"exZh": "我們依賴單一供應商。"
+},
+{
+"w": "remove",
+"p": "v.",
+"zh": "移除",
+"ex": "Old entries were removed automatically.",
+"exZh": "舊項目被自動移除。"
+},
+{
+"w": "replace",
+"p": "v.",
+"zh": "更換",
+"ex": "The part was replaced free of charge.",
+"exZh": "該零件免費更換。"
+},
+{
+"w": "resemble",
+"p": "v.",
+"zh": "類似",
+"ex": "The design resembles an earlier model.",
+"exZh": "該設計類似於早期機型。"
+},
+{
+"w": "resist",
+"p": "v.",
+"zh": "抵抗",
+"ex": "The coating resists scratches.",
+"exZh": "該塗層抗刮。"
+},
+{
+"w": "restrict",
+"p": "v.",
+"zh": "限制",
+"ex": "Access is restricted to staff.",
+"exZh": "存取權限限員工使用。"
+},
+{
+"w": "reverse",
+"p": "v.",
+"zh": "逆轉",
+"ex": "The decision was later reversed.",
+"exZh": "該決定後來被逆轉。"
+},
+{
+"w": "seek",
+"p": "v.",
+"zh": "尋求",
+"ex": "We seek a long-term partner.",
+"exZh": "我們尋求長期夥伴。"
+},
+{
+"w": "select",
+"p": "v.",
+"zh": "挑選",
+"ex": "Three finalists were selected.",
+"exZh": "挑選出三位入圍者。"
+},
+{
+"w": "separate",
+"p": "v.",
+"zh": "分開",
+"ex": "Please separate recyclables from waste.",
+"exZh": "請將可回收物與垃圾分開。"
+},
+{
+"w": "simulate",
+"p": "v.",
+"zh": "模擬",
+"ex": "The software simulates real conditions.",
+"exZh": "該軟體模擬真實條件。"
+},
+{
+"w": "strengthen",
+"p": "v.",
+"zh": "加強",
+"ex": "We strengthened the review process.",
+"exZh": "我們加強了審查流程。"
+},
+{
+"w": "substitute",
+"p": "v.",
+"zh": "替代",
+"ex": "Almond milk can be substituted.",
+"exZh": "可用杏仁奶替代。"
+},
+{
+"w": "sustain",
+"p": "v.",
+"zh": "維持",
+"ex": "The pace cannot be sustained.",
+"exZh": "這個步調無法維持。"
+},
+{
+"w": "tackle",
+"p": "v.",
+"zh": "著手處理",
+"ex": "The team tackled the backlog first.",
+"exZh": "團隊先著手處理積壓。"
+},
+{
+"w": "tolerate",
+"p": "v.",
+"zh": "容忍",
+"ex": "The system tolerates brief outages.",
+"exZh": "該系統可容忍短暫中斷。"
+},
+{
+"w": "transform",
+"p": "v.",
+"zh": "轉變",
+"ex": "Digital tools transformed the workflow.",
+"exZh": "數位工具轉變了工作流程。"
+},
+{
+"w": "undermine",
+"p": "v.",
+"zh": "削弱",
+"ex": "Delays undermined confidence.",
+"exZh": "延誤削弱了信心。"
+},
+{
+"w": "utilize",
+"p": "v.",
+"zh": "運用",
+"ex": "We utilize existing infrastructure.",
+"exZh": "我們運用既有的基礎設施。"
+},
+{
+"w": "vary",
+"p": "v.",
+"zh": "變動",
+"ex": "Prices vary by season.",
+"exZh": "價格隨季節變動。"
+},
+{
+"w": "withstand",
+"p": "v.",
+"zh": "承受",
+"ex": "The frame withstands heavy loads.",
+"exZh": "該框架可承受重載。"
+}
+]
+}

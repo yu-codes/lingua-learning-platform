@@ -1,0 +1,392 @@
+{
+ "id": "part-02",
+ "no": 2,
+ "title": "名詞與代詞",
+ "subtitle": "Nouns & Pronouns",
+ "summary": "名詞題在多益的比重極高：可數不可數、單複數、冠詞、複合名詞，全部都是送分題——只要規則記得清楚。",
+ "sections": [
+  {
+   "title": "可數與不可數名詞",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "英文把名詞分成可數與不可數，決定了要不要加 s、能不能加 a/an、以及要搭配哪一種數量詞。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "類別",
+      "數量詞",
+      "例子"
+     ],
+     "rows": [
+      [
+       "可數（複數）",
+       "many / few / a few / several / a number of",
+       "many employees"
+      ],
+      [
+       "不可數",
+       "much / little / a little / a great deal of / an amount of",
+       "much information"
+      ],
+      [
+       "兩者皆可",
+       "some / any / a lot of / plenty of / most / all",
+       "a lot of work / a lot of tasks"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "多益高頻的不可數名詞要特別記，它們在中文裡感覺可數，但英文不可數。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "information 資訊、equipment 設備、furniture 傢俱、luggage 行李、machinery 機械",
+      "advice 建議、access 使用權、research 研究、evidence 證據、feedback 意見",
+      "merchandise 商品、stationery 文具、clothing 衣物、traffic 交通、permission 許可"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "We need more information about the vendor.",
+       "zh": "我們需要更多關於該廠商的資訊。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "We received many informations.",
+       "zh": "",
+       "note": "information 不可數，不能加 s 也不能用 many",
+       "bad": true
+      },
+      {
+       "en": "We received a great deal of feedback.",
+       "zh": "我們收到大量意見回饋。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "有些字可數與不可數意思不同：work（工作，不可數）／works（作品、工廠）；paper（紙，不可數）／papers（文件、論文）；experience（經驗，不可數）／experiences（經歷）。"
+    },
+    {
+     "type": "quiz",
+     "q": "The technician brought all the necessary _____ to the site.",
+     "options": [
+      "equipments",
+      "equipment",
+      "an equipment",
+      "equipment's"
+     ],
+     "answer": 1,
+     "explain": "equipment 是不可數名詞，永遠不加 s，也不加 a/an。"
+    }
+   ]
+  },
+  {
+   "title": "冠詞 a / an / the 與零冠詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "用法",
+      "時機",
+      "例子"
+     ],
+     "rows": [
+      [
+       "a / an",
+       "單數可數、首次提到、泛指一個",
+       "We hired a consultant."
+      ],
+      [
+       "the",
+       "雙方都知道、前文提過、獨一無二、最高級、序數",
+       "The consultant we hired is excellent."
+      ],
+      [
+       "零冠詞",
+       "複數泛指、不可數泛指、專有名詞",
+       "Consultants are expensive."
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "a 或 an 看的是「發音」不是拼字：a university（發 /juː/）、an hour（h 不發音）、an MBA（唸 em）。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "She was promoted to a senior position last month.",
+       "zh": "她上個月被升到資深職位。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Please submit the report by the end of the day.",
+       "zh": "請在今天結束前交出報告。",
+       "note": "the end of… 是特指",
+       "bad": null
+      },
+      {
+       "en": "Access to the building requires an ID card.",
+       "zh": "進入大樓需要識別證。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "多益常考固定搭配的冠詞：in the morning / at night（無 the）、on time（準時）vs in time（及時）、in charge of、on average、in advance。"
+    },
+    {
+     "type": "quiz",
+     "q": "_____ number of applicants has increased significantly this year.",
+     "options": [
+      "A",
+      "The",
+      "An",
+      "（不填）"
+     ],
+     "answer": 1,
+     "explain": "the number of + 複數名詞 = 「…的數量」，動詞用單數；a number of = 「許多」，動詞用複數。這裡動詞是 has，所以選 The。"
+    }
+   ]
+  },
+  {
+   "title": "複合名詞與名詞化",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "兩個名詞連在一起時，前面那個當形容詞用，通常保持單數。多益很愛考這類「名詞＋名詞」的搭配。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "application form 申請表、customer satisfaction 顧客滿意度、safety regulations 安全規範",
+      "expiration date 到期日、performance review 績效考核、production facility 生產廠房",
+      "sales representative 業務代表、job opening 職缺、travel expenses 差旅費用"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Please complete the application form.",
+       "zh": "請填寫申請表。",
+       "note": "application 當形容詞用，保持單數",
+       "bad": null
+      },
+      {
+       "en": "All sales representatives must submit travel expenses monthly.",
+       "zh": "所有業務代表必須每月提交差旅費用。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "空格前面已經有形容詞時，答案通常是名詞而不是另一個形容詞：a comprehensive _____ → 名詞。但若空格在兩個名詞之間，仍可能要形容詞，要看語意。"
+    },
+    {
+     "type": "quiz",
+     "q": "The company offers competitive _____ packages to attract talent.",
+     "options": [
+      "compensate",
+      "compensated",
+      "compensation",
+      "compensatory"
+     ],
+     "answer": 2,
+     "explain": "packages 是名詞，前面需要一個名詞當修飾語構成複合名詞 compensation packages（薪酬方案）。"
+    }
+   ]
+  },
+  {
+   "title": "人稱代詞、所有格與反身代詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "主格",
+      "受格",
+      "所有格形容詞",
+      "所有格代名詞",
+      "反身代詞"
+     ],
+     "rows": [
+      [
+       "I",
+       "me",
+       "my",
+       "mine",
+       "myself"
+      ],
+      [
+       "you",
+       "you",
+       "your",
+       "yours",
+       "yourself / yourselves"
+      ],
+      [
+       "he / she / it",
+       "him / her / it",
+       "his / her / its",
+       "his / hers / —",
+       "himself / herself / itself"
+      ],
+      [
+       "we",
+       "us",
+       "our",
+       "ours",
+       "ourselves"
+      ],
+      [
+       "they",
+       "them",
+       "their",
+       "theirs",
+       "themselves"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "主詞位置用主格，動詞或介系詞之後用受格，名詞前面用所有格形容詞，名詞後面單獨使用用所有格代名詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The award was given to her and me.",
+       "zh": "獎項頒給了她和我。",
+       "note": "介系詞 to 之後用受格",
+       "bad": null
+      },
+      {
+       "en": "Between you and I…",
+       "zh": "",
+       "note": "介系詞 between 之後要用受格 me",
+       "bad": true
+      },
+      {
+       "en": "The decision is theirs to make.",
+       "zh": "這個決定由他們來做。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "He completed the audit himself.",
+       "zh": "他親自完成了稽核。",
+       "note": "反身代詞加強語氣",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "its（它的，所有格）和 it's（it is / it has）在多益常互換設陷阱。其次是 their / there / they're。"
+    },
+    {
+     "type": "quiz",
+     "q": "Employees should submit _____ timesheets by Friday.",
+     "options": [
+      "they",
+      "them",
+      "their",
+      "theirs"
+     ],
+     "answer": 2,
+     "explain": "timesheets 是名詞，前面要用所有格形容詞 their。"
+    }
+   ]
+  },
+  {
+   "title": "不定代詞與 one / it / that 的替代",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "代詞",
+      "接單數或複數",
+      "例子"
+     ],
+     "rows": [
+      [
+       "each / every / either / neither",
+       "單數",
+       "Each of the reports is complete."
+      ],
+      [
+       "both / few / several / many",
+       "複數",
+       "Both of the proposals are viable."
+      ],
+      [
+       "some / any / all / most / none",
+       "看後面名詞",
+       "Most of the budget has been spent."
+      ],
+      [
+       "one another / each other",
+       "彼此",
+       "The teams support each other."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "避免重複名詞時，可數單數用 one / ones，不可數或整件事用 it / that / those。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "This printer is faster than the one on the second floor.",
+       "zh": "這台印表機比二樓那台快。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The revenue of this quarter exceeds that of last year.",
+       "zh": "本季營收超過去年同期。",
+       "note": "that 代替不可數的 revenue",
+       "bad": null
+      },
+      {
+       "en": "The costs in Asia are lower than those in Europe.",
+       "zh": "亞洲的成本低於歐洲。",
+       "note": "those 代替複數 costs",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Neither of the candidates _____ the required certification.",
+     "options": [
+      "have",
+      "has",
+      "are having",
+      "were having"
+     ],
+     "answer": 1,
+     "explain": "Neither of + 複數名詞，動詞仍用單數 has。"
+    }
+   ]
+  }
+ ]
+}

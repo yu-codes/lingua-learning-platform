@@ -17,7 +17,9 @@ const Router = (() => {
             name: '英語', label: 'English', glyph: 'Aa',
             tagline: '依生活情境分類，練的是真的用得上的句子。',
             systems: [
-                { id: 'thematic', name: '主題式英文學習系統', desc: '依照生活主題分類的實用英文句型', tag: '句型' }
+                { id: 'thematic', name: '主題式英文學習系統', desc: '依照生活主題分類的實用英文句型', tag: '句型' },
+                { id: 'vocabulary', name: '核心單字', desc: '依主題分類的高頻單字，附解釋與例句', tag: '單字' },
+                { id: 'grammar', name: '讓人多益滿分的句型與文法', desc: '從句子結構到長句閱讀的完整文法體系', tag: '文法' }
             ],
         }
     };
@@ -39,6 +41,10 @@ const Router = (() => {
             const category = parts[2] || null;
             const subcategory = parts[3] || null;
             EnglishThematic.render(category, subcategory);
+        } else if (parts[0] === 'english' && parts[1] === 'vocabulary') {
+            EnglishVocabulary.render(parts[2] || null);
+        } else if (parts[0] === 'english' && parts[1] === 'grammar') {
+            EnglishGrammar.render(parts[2] || null);
         } else {
             renderHome();
         }

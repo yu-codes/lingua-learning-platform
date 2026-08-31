@@ -1,0 +1,889 @@
+{
+"id": "technology",
+"name": "科技與資訊",
+"nameEn": "Technology & IT",
+"words": [
+{
+"w": "accessibility",
+"p": "n.",
+"zh": "無障礙性",
+"ex": "Accessibility was tested with screen readers.",
+"exZh": "無障礙性以螢幕閱讀器測試。"
+},
+{
+"w": "activate",
+"p": "v.",
+"zh": "啟用",
+"ex": "Activate the license within thirty days.",
+"exZh": "請於三十天內啟用授權。"
+},
+{
+"w": "adapter",
+"p": "n.",
+"zh": "轉接器",
+"ex": "A USB adapter is included.",
+"exZh": "內附一個 USB 轉接器。"
+},
+{
+"w": "administrator",
+"p": "n.",
+"zh": "管理員",
+"ex": "Contact the administrator for access.",
+"exZh": "請聯繫管理員申請存取權。"
+},
+{
+"w": "algorithm",
+"p": "n.",
+"zh": "演算法",
+"ex": "The algorithm ranks results by relevance.",
+"exZh": "該演算法依相關性排序結果。"
+},
+{
+"w": "analytics",
+"p": "n.",
+"zh": "分析工具",
+"ex": "Web analytics revealed a drop-off point.",
+"exZh": "網站分析找出了流失點。"
+},
+{
+"w": "antivirus",
+"p": "n.",
+"zh": "防毒軟體",
+"ex": "Antivirus definitions update automatically.",
+"exZh": "防毒定義檔會自動更新。"
+},
+{
+"w": "architecture",
+"p": "n.",
+"zh": "架構",
+"ex": "The system architecture was redesigned.",
+"exZh": "系統架構經過重新設計。"
+},
+{
+"w": "archive",
+"p": "v./n.",
+"zh": "封存",
+"ex": "Old logs are archived monthly.",
+"exZh": "舊日誌每月封存。"
+},
+{
+"w": "attribute",
+"p": "n.",
+"zh": "屬性",
+"ex": "Each record has ten attributes.",
+"exZh": "每筆紀錄有十個屬性。"
+},
+{
+"w": "authentication",
+"p": "n.",
+"zh": "身分驗證",
+"ex": "Two-factor authentication is now required.",
+"exZh": "現在需要雙因素驗證。"
+},
+{
+"w": "automate",
+"p": "v.",
+"zh": "自動化",
+"ex": "We automated the nightly backup.",
+"exZh": "我們把夜間備份自動化了。"
+},
+{
+"w": "backup",
+"p": "n./v.",
+"zh": "備份",
+"ex": "A full backup runs every Sunday.",
+"exZh": "完整備份每週日執行。"
+},
+{
+"w": "bandwidth",
+"p": "n.",
+"zh": "頻寬",
+"ex": "Video streaming consumes significant bandwidth.",
+"exZh": "影片串流消耗大量頻寬。"
+},
+{
+"w": "browser",
+"p": "n.",
+"zh": "瀏覽器",
+"ex": "The site supports all modern browsers.",
+"exZh": "該網站支援所有現代瀏覽器。"
+},
+{
+"w": "buffer",
+"p": "n./v.",
+"zh": "緩衝",
+"ex": "The video buffers on slow connections.",
+"exZh": "連線慢時影片會緩衝。"
+},
+{
+"w": "bug",
+"p": "n.",
+"zh": "程式錯誤",
+"ex": "The bug was fixed in the latest patch.",
+"exZh": "該錯誤已在最新修補中修正。"
+},
+{
+"w": "cache",
+"p": "n./v.",
+"zh": "快取",
+"ex": "Clearing the cache resolved the issue.",
+"exZh": "清除快取解決了問題。"
+},
+{
+"w": "compatibility",
+"p": "n.",
+"zh": "相容性",
+"ex": "Compatibility was tested on six devices.",
+"exZh": "相容性在六種裝置上測試。"
+},
+{
+"w": "compatible",
+"p": "adj.",
+"zh": "相容的",
+"ex": "The driver is compatible with version 11.",
+"exZh": "該驅動程式與第 11 版相容。"
+},
+{
+"w": "compression",
+"p": "n.",
+"zh": "壓縮",
+"ex": "Compression reduced file size by 60 percent.",
+"exZh": "壓縮讓檔案縮小六成。"
+},
+{
+"w": "computing",
+"p": "n.",
+"zh": "運算",
+"ex": "Edge computing reduces round trips.",
+"exZh": "邊緣運算減少往返次數。"
+},
+{
+"w": "configuration",
+"p": "n.",
+"zh": "設定",
+"ex": "The default configuration works for most users.",
+"exZh": "預設設定適用於多數使用者。"
+},
+{
+"w": "connect",
+"p": "v.",
+"zh": "連線",
+"ex": "The device connects over Bluetooth.",
+"exZh": "該裝置透過藍牙連線。"
+},
+{
+"w": "connectivity",
+"p": "n.",
+"zh": "連線能力",
+"ex": "Poor connectivity disrupted the call.",
+"exZh": "連線不佳中斷了通話。"
+},
+{
+"w": "console",
+"p": "n.",
+"zh": "主控台",
+"ex": "Errors appear in the developer console.",
+"exZh": "錯誤顯示在開發者主控台。"
+},
+{
+"w": "corrupt",
+"p": "adj./v.",
+"zh": "毀損的",
+"ex": "The file appears to be corrupt.",
+"exZh": "該檔案似乎已毀損。"
+},
+{
+"w": "crash",
+"p": "v./n.",
+"zh": "當機",
+"ex": "The app crashed on startup.",
+"exZh": "該應用程式啟動時當機。"
+},
+{
+"w": "customization",
+"p": "n.",
+"zh": "客製化設定",
+"ex": "Customization options are limited.",
+"exZh": "客製化選項有限。"
+},
+{
+"w": "cybersecurity",
+"p": "n.",
+"zh": "網路安全",
+"ex": "Cybersecurity training is mandatory.",
+"exZh": "網路安全訓練為強制參加。"
+},
+{
+"w": "dashboard",
+"p": "n.",
+"zh": "儀表板",
+"ex": "The dashboard shows real-time metrics.",
+"exZh": "儀表板顯示即時指標。"
+},
+{
+"w": "database",
+"p": "n.",
+"zh": "資料庫",
+"ex": "The database holds ten million records.",
+"exZh": "該資料庫存有一千萬筆紀錄。"
+},
+{
+"w": "debug",
+"p": "v.",
+"zh": "除錯",
+"ex": "It took a day to debug the module.",
+"exZh": "除錯該模組花了一天。"
+},
+{
+"w": "delete",
+"p": "v.",
+"zh": "刪除",
+"ex": "Deleted items stay in the bin for 30 days.",
+"exZh": "刪除項目會在回收桶保留三十天。"
+},
+{
+"w": "detect",
+"p": "v.",
+"zh": "偵測",
+"ex": "The system detects unusual login attempts.",
+"exZh": "系統會偵測異常登入嘗試。"
+},
+{
+"w": "device",
+"p": "n.",
+"zh": "裝置",
+"ex": "The app syncs across all your devices.",
+"exZh": "該應用程式可在你所有裝置間同步。"
+},
+{
+"w": "diagnostic",
+"p": "n./adj.",
+"zh": "診斷",
+"ex": "Run a diagnostic before replacing parts.",
+"exZh": "更換零件前請先執行診斷。"
+},
+{
+"w": "digital",
+"p": "adj.",
+"zh": "數位的",
+"ex": "The archive was fully digital by 2020.",
+"exZh": "該檔案庫在 2020 年前已全面數位化。"
+},
+{
+"w": "disable",
+"p": "v.",
+"zh": "停用",
+"ex": "Disable notifications during presentations.",
+"exZh": "簡報期間請停用通知。"
+},
+{
+"w": "domain",
+"p": "n.",
+"zh": "網域",
+"ex": "The domain expires in September.",
+"exZh": "該網域於九月到期。"
+},
+{
+"w": "download",
+"p": "v./n.",
+"zh": "下載",
+"ex": "The download completed in two minutes.",
+"exZh": "下載在兩分鐘內完成。"
+},
+{
+"w": "enable",
+"p": "v.",
+"zh": "啟用",
+"ex": "Enable two-step verification today.",
+"exZh": "請今天啟用兩步驟驗證。"
+},
+{
+"w": "encrypt",
+"p": "v.",
+"zh": "加密",
+"ex": "Sensitive fields are encrypted at rest.",
+"exZh": "敏感欄位在靜態時加密。"
+},
+{
+"w": "encryption",
+"p": "n.",
+"zh": "加密",
+"ex": "All traffic uses end-to-end encryption.",
+"exZh": "所有流量都採端對端加密。"
+},
+{
+"w": "enhancement",
+"p": "n.",
+"zh": "功能增強",
+"ex": "Several enhancements shipped this month.",
+"exZh": "本月推出了數項功能增強。"
+},
+{
+"w": "error",
+"p": "n.",
+"zh": "錯誤",
+"ex": "An error code appeared on screen.",
+"exZh": "畫面上出現錯誤代碼。"
+},
+{
+"w": "export",
+"p": "v.",
+"zh": "匯出",
+"ex": "Export the report as a spreadsheet.",
+"exZh": "請將報表匯出為試算表。"
+},
+{
+"w": "field",
+"p": "n.",
+"zh": "欄位",
+"ex": "Required fields are marked with an asterisk.",
+"exZh": "必填欄位以星號標示。"
+},
+{
+"w": "filter",
+"p": "v./n.",
+"zh": "篩選",
+"ex": "Filter the list by department.",
+"exZh": "請依部門篩選清單。"
+},
+{
+"w": "firewall",
+"p": "n.",
+"zh": "防火牆",
+"ex": "The firewall blocked the connection.",
+"exZh": "防火牆封鎖了該連線。"
+},
+{
+"w": "firmware",
+"p": "n.",
+"zh": "韌體",
+"ex": "A firmware update fixed the sensor.",
+"exZh": "韌體更新修好了感測器。"
+},
+{
+"w": "functionality",
+"p": "n.",
+"zh": "功能性",
+"ex": "The beta adds offline functionality.",
+"exZh": "測試版新增了離線功能。"
+},
+{
+"w": "gateway",
+"p": "n.",
+"zh": "閘道",
+"ex": "The payment gateway timed out.",
+"exZh": "付款閘道逾時。"
+},
+{
+"w": "hardware",
+"p": "n.",
+"zh": "硬體",
+"ex": "Hardware upgrades are scheduled for June.",
+"exZh": "硬體升級排定在六月。"
+},
+{
+"w": "hosting",
+"p": "n.",
+"zh": "代管",
+"ex": "Hosting was migrated to the cloud.",
+"exZh": "代管服務已遷移到雲端。"
+},
+{
+"w": "implementation",
+"p": "n.",
+"zh": "導入",
+"ex": "Implementation takes about six weeks.",
+"exZh": "導入約需六週。"
+},
+{
+"w": "index",
+"p": "n./v.",
+"zh": "索引",
+"ex": "Indexing improved search speed.",
+"exZh": "建立索引提升了搜尋速度。"
+},
+{
+"w": "infrastructure",
+"p": "n.",
+"zh": "基礎架構",
+"ex": "Cloud infrastructure scales on demand.",
+"exZh": "雲端基礎架構可依需求擴展。"
+},
+{
+"w": "install",
+"p": "v.",
+"zh": "安裝",
+"ex": "Install the patch before restarting.",
+"exZh": "重新啟動前請安裝修補程式。"
+},
+{
+"w": "instance",
+"p": "n.",
+"zh": "執行個體",
+"ex": "A second instance handles overflow traffic.",
+"exZh": "第二個執行個體處理溢出流量。"
+},
+{
+"w": "integrate",
+"p": "v.",
+"zh": "整合",
+"ex": "The tool integrates with our calendar.",
+"exZh": "該工具可與我們的行事曆整合。"
+},
+{
+"w": "integration",
+"p": "n.",
+"zh": "整合",
+"ex": "The integration syncs both systems.",
+"exZh": "該整合讓兩套系統同步。"
+},
+{
+"w": "interface",
+"p": "n.",
+"zh": "介面",
+"ex": "The interface was simplified for tablets.",
+"exZh": "介面已為平板簡化。"
+},
+{
+"w": "lag",
+"p": "n.",
+"zh": "延遲卡頓",
+"ex": "Users reported noticeable lag.",
+"exZh": "使用者回報明顯卡頓。"
+},
+{
+"w": "latency",
+"p": "n.",
+"zh": "延遲",
+"ex": "Network latency affects video quality.",
+"exZh": "網路延遲影響影片品質。"
+},
+{
+"w": "legacy",
+"p": "adj.",
+"zh": "舊有的",
+"ex": "Legacy systems will be retired next year.",
+"exZh": "舊系統將於明年退役。"
+},
+{
+"w": "log",
+"p": "n./v.",
+"zh": "日誌",
+"ex": "Access logs are retained for a year.",
+"exZh": "存取日誌保留一年。"
+},
+{
+"w": "malware",
+"p": "n.",
+"zh": "惡意軟體",
+"ex": "The scan detected no malware.",
+"exZh": "掃描未偵測到惡意軟體。"
+},
+{
+"w": "migrate",
+"p": "v.",
+"zh": "遷移",
+"ex": "We migrated to a new provider.",
+"exZh": "我們遷移到新的服務商。"
+},
+{
+"w": "migration",
+"p": "n.",
+"zh": "遷移",
+"ex": "Data migration finished ahead of plan.",
+"exZh": "資料遷移提前完成。"
+},
+{
+"w": "module",
+"p": "n.",
+"zh": "模組",
+"ex": "A reporting module was added.",
+"exZh": "新增了一個報表模組。"
+},
+{
+"w": "monitor",
+"p": "v.",
+"zh": "監控",
+"ex": "The team monitors uptime continuously.",
+"exZh": "團隊持續監控可用時間。"
+},
+{
+"w": "navigate",
+"p": "v.",
+"zh": "導覽",
+"ex": "Users navigate with the side menu.",
+"exZh": "使用者以側邊選單導覽。"
+},
+{
+"w": "network",
+"p": "n.",
+"zh": "網路",
+"ex": "The office network was upgraded.",
+"exZh": "辦公室網路已升級。"
+},
+{
+"w": "offline",
+"p": "adj.",
+"zh": "離線的",
+"ex": "The editor works offline.",
+"exZh": "該編輯器可離線使用。"
+},
+{
+"w": "operating system",
+"p": "n.",
+"zh": "作業系統",
+"ex": "The operating system requires 8 GB of memory.",
+"exZh": "該作業系統需要 8GB 記憶體。"
+},
+{
+"w": "optimization",
+"p": "n.",
+"zh": "最佳化",
+"ex": "Query optimization halved load times.",
+"exZh": "查詢最佳化讓載入時間減半。"
+},
+{
+"w": "outage",
+"p": "n.",
+"zh": "中斷事故",
+"ex": "A brief outage affected three regions.",
+"exZh": "一次短暫中斷影響了三個地區。"
+},
+{
+"w": "overwrite",
+"p": "v.",
+"zh": "覆寫",
+"ex": "Saving will overwrite the original file.",
+"exZh": "儲存將覆寫原始檔案。"
+},
+{
+"w": "password",
+"p": "n.",
+"zh": "密碼",
+"ex": "Passwords must be changed quarterly.",
+"exZh": "密碼必須每季更換。"
+},
+{
+"w": "password manager",
+"p": "n.",
+"zh": "密碼管理器",
+"ex": "A password manager is provided to staff.",
+"exZh": "公司提供密碼管理器給員工。"
+},
+{
+"w": "patch",
+"p": "n./v.",
+"zh": "修補程式",
+"ex": "A security patch was released today.",
+"exZh": "今天發布了安全修補程式。"
+},
+{
+"w": "platform",
+"p": "n.",
+"zh": "平台",
+"ex": "The platform supports third-party plugins.",
+"exZh": "該平台支援第三方外掛。"
+},
+{
+"w": "plugin",
+"p": "n.",
+"zh": "外掛程式",
+"ex": "Install the plugin from the marketplace.",
+"exZh": "請從市集安裝該外掛程式。"
+},
+{
+"w": "processor",
+"p": "n.",
+"zh": "處理器",
+"ex": "The processor runs at 3.2 gigahertz.",
+"exZh": "處理器運行於 3.2 GHz。"
+},
+{
+"w": "protocol",
+"p": "n.",
+"zh": "通訊協定",
+"ex": "The protocol encrypts every packet.",
+"exZh": "該協定加密每個封包。"
+},
+{
+"w": "recover",
+"p": "v.",
+"zh": "復原",
+"ex": "The account can be recovered by email.",
+"exZh": "帳號可透過電子郵件復原。"
+},
+{
+"w": "refresh",
+"p": "v.",
+"zh": "重新整理",
+"ex": "Refresh the page to see updates.",
+"exZh": "請重新整理頁面以查看更新。"
+},
+{
+"w": "remote",
+"p": "adj.",
+"zh": "遠端的",
+"ex": "Remote access requires a VPN.",
+"exZh": "遠端存取需要虛擬私人網路。"
+},
+{
+"w": "render",
+"p": "v.",
+"zh": "渲染",
+"ex": "The page renders in under a second.",
+"exZh": "頁面在一秒內完成渲染。"
+},
+{
+"w": "repository",
+"p": "n.",
+"zh": "程式庫",
+"ex": "The code lives in a private repository.",
+"exZh": "程式碼存放在私有程式庫中。"
+},
+{
+"w": "reset",
+"p": "v.",
+"zh": "重設",
+"ex": "Reset the router if the issue persists.",
+"exZh": "問題持續請重設路由器。"
+},
+{
+"w": "restore",
+"p": "v.",
+"zh": "還原",
+"ex": "We restored the database from backup.",
+"exZh": "我們從備份還原了資料庫。"
+},
+{
+"w": "rollback",
+"p": "n.",
+"zh": "回退",
+"ex": "A rollback reverted the failed release.",
+"exZh": "一次回退還原了失敗的版本。"
+},
+{
+"w": "router",
+"p": "n.",
+"zh": "路由器",
+"ex": "The router needs a firmware update.",
+"exZh": "路由器需要韌體更新。"
+},
+{
+"w": "runtime",
+"p": "n.",
+"zh": "執行環境",
+"ex": "The runtime was updated to the latest version.",
+"exZh": "執行環境已更新到最新版。"
+},
+{
+"w": "scalable",
+"p": "adj.",
+"zh": "可擴展的",
+"ex": "The design is scalable to millions of users.",
+"exZh": "該設計可擴展至百萬使用者。"
+},
+{
+"w": "scan",
+"p": "v.",
+"zh": "掃描",
+"ex": "Scan the code to pair the device.",
+"exZh": "掃描代碼以配對裝置。"
+},
+{
+"w": "search",
+"p": "v./n.",
+"zh": "搜尋",
+"ex": "Search results load instantly.",
+"exZh": "搜尋結果即時載入。"
+},
+{
+"w": "secure",
+"p": "adj./v.",
+"zh": "安全的",
+"ex": "The connection is secure.",
+"exZh": "該連線是安全的。"
+},
+{
+"w": "server",
+"p": "n.",
+"zh": "伺服器",
+"ex": "The server restarted automatically.",
+"exZh": "伺服器自動重新啟動。"
+},
+{
+"w": "setting",
+"p": "n.",
+"zh": "設定項",
+"ex": "Privacy settings can be changed anytime.",
+"exZh": "隱私設定可隨時變更。"
+},
+{
+"w": "setup",
+"p": "n.",
+"zh": "安裝設定",
+"ex": "Initial setup takes ten minutes.",
+"exZh": "初次安裝設定需十分鐘。"
+},
+{
+"w": "shortcut",
+"p": "n.",
+"zh": "快捷鍵",
+"ex": "Keyboard shortcuts speed up editing.",
+"exZh": "快捷鍵可加快編輯。"
+},
+{
+"w": "simulation",
+"p": "n.",
+"zh": "模擬",
+"ex": "The simulation ran for six hours.",
+"exZh": "模擬執行了六小時。"
+},
+{
+"w": "software",
+"p": "n.",
+"zh": "軟體",
+"ex": "The software is licensed per seat.",
+"exZh": "該軟體按席次授權。"
+},
+{
+"w": "stability",
+"p": "n.",
+"zh": "穩定性",
+"ex": "This release focuses on stability.",
+"exZh": "本版著重於穩定性。"
+},
+{
+"w": "storage device",
+"p": "n.",
+"zh": "儲存裝置",
+"ex": "External storage devices must be encrypted.",
+"exZh": "外接儲存裝置必須加密。"
+},
+{
+"w": "support",
+"p": "n.",
+"zh": "技術支援",
+"ex": "Technical support is available around the clock.",
+"exZh": "技術支援全天候提供。"
+},
+{
+"w": "sync",
+"p": "v.",
+"zh": "同步",
+"ex": "Files sync automatically over Wi-Fi.",
+"exZh": "檔案透過無線網路自動同步。"
+},
+{
+"w": "template",
+"p": "n.",
+"zh": "範本",
+"ex": "Use the approved report template.",
+"exZh": "請使用核准的報表範本。"
+},
+{
+"w": "timeout",
+"p": "n.",
+"zh": "逾時",
+"ex": "The session timeout is fifteen minutes.",
+"exZh": "工作階段逾時為十五分鐘。"
+},
+{
+"w": "toggle",
+"p": "v.",
+"zh": "切換",
+"ex": "Toggle dark mode in the settings.",
+"exZh": "請在設定中切換深色模式。"
+},
+{
+"w": "trigger",
+"p": "v.",
+"zh": "觸發",
+"ex": "The event triggers an automated email.",
+"exZh": "該事件會觸發自動郵件。"
+},
+{
+"w": "troubleshoot",
+"p": "v.",
+"zh": "排除故障",
+"ex": "Support helped troubleshoot the printer.",
+"exZh": "支援人員協助排除印表機故障。"
+},
+{
+"w": "update",
+"p": "n./v.",
+"zh": "更新",
+"ex": "The update includes security fixes.",
+"exZh": "該更新包含安全性修正。"
+},
+{
+"w": "upload",
+"p": "v.",
+"zh": "上傳",
+"ex": "Upload the file before the deadline.",
+"exZh": "請在期限前上傳檔案。"
+},
+{
+"w": "uptime",
+"p": "n.",
+"zh": "正常運行時間",
+"ex": "Uptime exceeded the service target.",
+"exZh": "正常運行時間超過服務目標。"
+},
+{
+"w": "username",
+"p": "n.",
+"zh": "使用者名稱",
+"ex": "Your username is your work email.",
+"exZh": "你的使用者名稱是公司信箱。"
+},
+{
+"w": "utility",
+"p": "n.",
+"zh": "工具程式",
+"ex": "A disk utility repaired the volume.",
+"exZh": "磁碟工具程式修復了該磁碟區。"
+},
+{
+"w": "validation",
+"p": "n.",
+"zh": "驗證",
+"ex": "Form validation blocks invalid input.",
+"exZh": "表單驗證會擋下無效輸入。"
+},
+{
+"w": "version",
+"p": "n.",
+"zh": "版本",
+"ex": "Version 4 introduces dark mode.",
+"exZh": "第四版引入了深色模式。"
+},
+{
+"w": "virtual",
+"p": "adj.",
+"zh": "虛擬的",
+"ex": "Virtual machines run the test suite.",
+"exZh": "虛擬機執行測試套件。"
+},
+{
+"w": "vulnerability",
+"p": "n.",
+"zh": "弱點",
+"ex": "The vulnerability was patched quickly.",
+"exZh": "該弱點迅速獲得修補。"
+},
+{
+"w": "wireless",
+"p": "adj.",
+"zh": "無線的",
+"ex": "The wireless network requires a password.",
+"exZh": "無線網路需要密碼。"
+},
+{
+"w": "workstation",
+"p": "n.",
+"zh": "工作站",
+"ex": "Each designer has a dedicated workstation.",
+"exZh": "每位設計師都有專屬工作站。"
+}
+]
+}

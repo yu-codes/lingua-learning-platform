@@ -1,0 +1,334 @@
+{
+ "id": "part-11",
+ "no": 11,
+ "title": "詞性辨析與易混淆字",
+ "subtitle": "Word Forms & Confusables",
+ "summary": "多益 Part 5 有近三分之一是同字根四選項。這一章把字尾規律與最常考的混淆字整理成可背的表。",
+ "sections": [
+  {
+   "title": "從字尾判斷詞性",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "詞性",
+      "常見字尾",
+      "例子"
+     ],
+     "rows": [
+      [
+       "名詞（事物 / 概念）",
+       "-tion, -sion, -ment, -ness, -ity, -ance, -ence, -ship, -al",
+       "expansion, agreement, reliability, approval"
+      ],
+      [
+       "名詞（人）",
+       "-er, -or, -ist, -ant, -ee",
+       "supervisor, applicant, employee, specialist"
+      ],
+      [
+       "形容詞",
+       "-able, -ible, -al, -ive, -ous, -ful, -less, -ic, -ant, -ent",
+       "reliable, effective, cautious, dependent"
+      ],
+      [
+       "副詞",
+       "-ly",
+       "efficiently, primarily"
+      ],
+      [
+       "動詞",
+       "-ize, -ify, -ate, -en",
+       "finalize, notify, allocate, strengthen"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "有些 -ly 結尾的是形容詞不是副詞：friendly, costly, likely, timely, orderly, monthly。它們不能拿來修飾動詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "The department submits a _____ report to headquarters.",
+     "options": [
+      "month",
+      "monthly",
+      "monthlies",
+      "months"
+     ],
+     "answer": 1,
+     "explain": "修飾名詞 report 要用形容詞；monthly 雖以 -ly 結尾，卻是形容詞「每月的」。"
+    }
+   ]
+  },
+  {
+   "title": "人 vs 事：-er / -ee / -ment 的差別",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "字根",
+      "人",
+      "事物或概念"
+     ],
+     "rows": [
+      [
+       "employ",
+       "employer 雇主 / employee 員工",
+       "employment 雇用"
+      ],
+      [
+       "apply",
+       "applicant 申請人",
+       "application 申請（書）"
+      ],
+      [
+       "consult",
+       "consultant 顧問",
+       "consultation 諮詢"
+      ],
+      [
+       "attend",
+       "attendant 服務員 / attendee 出席者",
+       "attendance 出席率"
+      ],
+      [
+       "assist",
+       "assistant 助理",
+       "assistance 協助"
+      ],
+      [
+       "invest",
+       "investor 投資人",
+       "investment 投資"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "空格若指人（可搭配 who、hire、promote），選人的名詞；若指抽象概念（可搭配 increase、require），選事的名詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "All attendees must register at the front desk.",
+       "zh": "所有出席者須在櫃檯報到。",
+       "note": "指人",
+       "bad": null
+      },
+      {
+       "en": "Attendance at the safety briefing is mandatory.",
+       "zh": "安全簡報的出席是強制的。",
+       "note": "指抽象概念",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The company provides financial _____ to employees pursuing further education.",
+     "options": [
+      "assist",
+      "assistant",
+      "assistance",
+      "assisted"
+     ],
+     "answer": 2,
+     "explain": "provides 的受詞是抽象的「協助」，用不可數名詞 assistance。assistant 是人。"
+    }
+   ]
+  },
+  {
+   "title": "高頻易混淆字組",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "字組",
+      "差別",
+      "例句提示"
+     ],
+     "rows": [
+      [
+       "affect (v.) / effect (n.)",
+       "動詞影響 / 名詞效果",
+       "The delay affected sales. / It had an effect."
+      ],
+      [
+       "rise / raise",
+       "不及物 / 及物",
+       "Prices rose. / They raised prices."
+      ],
+      [
+       "lie / lay",
+       "躺（不及物）/ 放置（及物）",
+       "lie–lay–lain / lay–laid–laid"
+      ],
+      [
+       "principal / principle",
+       "主要的、校長 / 原則",
+       "the principal reason / a guiding principle"
+      ],
+      [
+       "complement / compliment",
+       "補足 / 讚美",
+       "complement the design / pay a compliment"
+      ],
+      [
+       "assure / ensure / insure",
+       "向人保證 / 確保 / 投保",
+       "assure the client / ensure accuracy / insure the cargo"
+      ],
+      [
+       "economic / economical",
+       "經濟（領域）的 / 節省的",
+       "economic growth / an economical car"
+      ],
+      [
+       "considerable / considerate",
+       "相當大的 / 體貼的",
+       "considerable savings / a considerate host"
+      ],
+      [
+       "successive / successful",
+       "連續的 / 成功的",
+       "three successive quarters"
+      ],
+      [
+       "respectable / respective",
+       "值得敬重的 / 各自的",
+       "their respective duties"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Please _____ that all forms are signed before submission.",
+     "options": [
+      "assure",
+      "ensure",
+      "insure",
+      "assurance"
+     ],
+     "answer": 1,
+     "explain": "ensure = 確保（某事發生），後接 that 子句。assure 的受詞必須是人。"
+    }
+   ]
+  },
+  {
+   "title": "同義但用法不同的動詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "動詞",
+      "接什麼",
+      "例子"
+     ],
+     "rows": [
+      [
+       "say",
+       "say (that) / say to sb.",
+       "He said that he agreed."
+      ],
+      [
+       "tell",
+       "tell sb. (that)",
+       "He told me that he agreed."
+      ],
+      [
+       "speak",
+       "speak to / with sb.",
+       "I spoke with the client."
+      ],
+      [
+       "talk",
+       "talk about / to",
+       "We talked about the budget."
+      ],
+      [
+       "explain",
+       "explain sth. to sb.",
+       "She explained the policy to us."
+      ],
+      [
+       "inform",
+       "inform sb. of/about sth.",
+       "Please inform staff of the change."
+      ],
+      [
+       "notify",
+       "notify sb. of sth.",
+       "We notified them of the delay."
+      ],
+      [
+       "remind",
+       "remind sb. to V / of sth.",
+       "Remind him to sign it."
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "explain、announce、suggest、mention 後面不能直接接人：explain me the rule（錯）→ explain the rule to me。"
+    },
+    {
+     "type": "quiz",
+     "q": "The HR department will _____ all employees of the new policy next week.",
+     "options": [
+      "announce",
+      "say",
+      "notify",
+      "explain"
+     ],
+     "answer": 2,
+     "explain": "notify sb. of sth. 是正確搭配。announce 與 explain 不能直接接人當受詞。"
+    }
+   ]
+  },
+  {
+   "title": "名詞的單複數陷阱",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "永遠複數：goods 貨物、belongings 隨身物品、premises 房舍、savings 存款、earnings 收益、headquarters",
+      "看似複數其實單數：news 消息、economics 經濟學、statistics（學科時單數）",
+      "單複數同形：series, species, means, headquarters",
+      "集合名詞：staff, team, committee, management 在美式英文多用單數動詞"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The company's headquarters is located in Singapore.",
+       "zh": "公司總部位於新加坡。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "A means of transportation is provided.",
+       "zh": "提供了一種交通方式。",
+       "note": "means 單複數同形",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The latest _____ on consumer spending was released this morning.",
+     "options": [
+      "statistic",
+      "statistics",
+      "statistical",
+      "statistically"
+     ],
+     "answer": 1,
+     "explain": "此處指「統計數據（資料）」，用 statistics；was 是因為視為整體資料集。"
+    }
+   ]
+  }
+ ]
+}

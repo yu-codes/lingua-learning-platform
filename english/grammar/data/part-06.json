@@ -1,0 +1,382 @@
+{
+ "id": "part-06",
+ "no": 6,
+ "title": "形容詞與副詞",
+ "subtitle": "Adjectives & Adverbs",
+ "summary": "詞性題的主戰場。判斷空格要形容詞還是副詞，靠的是位置；分辨兩個長得像的副詞，靠的是語意。",
+ "sections": [
+  {
+   "title": "形容詞的位置與排序",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "形容詞放在名詞前面（限定用法），或放在連綴動詞後面描述主詞（敘述用法）。"
+    },
+    {
+     "type": "text",
+     "value": "多個形容詞並列時有固定順序：限定詞 → 主觀評價 → 大小 → 形狀 → 年齡 → 顏色 → 來源 → 材質 → 用途 → 名詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "a reliable Japanese manufacturing partner",
+       "zh": "一個可靠的日本製造夥伴",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The results were disappointing.",
+       "zh": "結果令人失望。",
+       "note": "敘述用法",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "value": "少數形容詞只能放在名詞後面或只能敘述用：alive, alone, afraid, aware, asleep, content。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The employees present at the meeting signed the form.",
+       "zh": "在場的員工簽了表格。",
+       "note": "present 後位修飾＝在場的",
+       "bad": null
+      },
+      {
+       "en": "The present employees…",
+       "zh": "現任員工…",
+       "note": "前位修飾意思不同",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The committee found the proposal _____ and approved it immediately.",
+     "options": [
+      "accept",
+      "acceptance",
+      "acceptable",
+      "acceptably"
+     ],
+     "answer": 2,
+     "explain": "found + 受詞 + 受詞補語，補語要用形容詞 acceptable。"
+    }
+   ]
+  },
+  {
+   "title": "副詞的種類與位置",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "種類",
+      "例子",
+      "常見位置"
+     ],
+     "rows": [
+      [
+       "情狀",
+       "carefully, quickly, thoroughly",
+       "動詞之後或句尾"
+      ],
+      [
+       "頻率",
+       "always, often, rarely, seldom, never",
+       "一般動詞前、be 動詞後、助動詞後"
+      ],
+      [
+       "程度",
+       "very, quite, extremely, fairly, highly",
+       "所修飾的形容詞或副詞前"
+      ],
+      [
+       "時間地點",
+       "yesterday, abroad, recently",
+       "句首或句尾"
+      ],
+      [
+       "連接副詞",
+       "however, therefore, moreover, nevertheless",
+       "句首（後加逗號）"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The team has always met its targets.",
+       "zh": "團隊一向達成目標。",
+       "note": "頻率副詞放助動詞後",
+       "bad": null
+      },
+      {
+       "en": "She is rarely late for meetings.",
+       "zh": "她開會很少遲到。",
+       "note": "be 動詞之後",
+       "bad": null
+      },
+      {
+       "en": "The device is highly efficient.",
+       "zh": "這裝置效率極高。",
+       "note": "程度副詞修飾形容詞",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "副詞不能修飾名詞。看到空格後面是名詞，就一定不是副詞。反之，空格若在 be 動詞與形容詞之間，通常要副詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "The new interface is _____ easier to navigate than the previous version.",
+     "options": [
+      "signify",
+      "significant",
+      "significantly",
+      "significance"
+     ],
+     "answer": 2,
+     "explain": "空格修飾比較級形容詞 easier，要用副詞 significantly。"
+    }
+   ]
+  },
+  {
+   "title": "分詞形容詞：-ing 與 -ed",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "-ing 表示「令人…的」（主動、事物的特性）；-ed 表示「感到…的」（被動、人的感受）。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "-ing（令人…）",
+      "-ed（感到…）"
+     ],
+     "rows": [
+      [
+       "interesting 有趣的",
+       "interested 感興趣的"
+      ],
+      [
+       "confusing 令人困惑的",
+       "confused 感到困惑的"
+      ],
+      [
+       "satisfying 令人滿意的",
+       "satisfied 感到滿意的"
+      ],
+      [
+       "disappointing 令人失望的",
+       "disappointed 感到失望的"
+      ],
+      [
+       "challenging 有挑戰性的",
+       "challenged 感到被挑戰的"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The instructions were confusing.",
+       "zh": "說明令人困惑。",
+       "note": "說明本身造成困惑",
+       "bad": null
+      },
+      {
+       "en": "The new hires were confused by the instructions.",
+       "zh": "新人被說明搞糊塗了。",
+       "note": "人感到困惑",
+       "bad": null
+      },
+      {
+       "en": "We are pleased to announce the merger.",
+       "zh": "我們很高興宣布合併。",
+       "note": "商務書信高頻",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Customers were highly _____ with the prompt response from support.",
+     "options": [
+      "satisfying",
+      "satisfied",
+      "satisfaction",
+      "satisfy"
+     ],
+     "answer": 1,
+     "explain": "主詞是人（Customers），表達感受用 -ed 形式 satisfied，並搭配 with。"
+    }
+   ]
+  },
+  {
+   "title": "易混淆的副詞與同形詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "字",
+      "副詞意思",
+      "另一個形式"
+     ],
+     "rows": [
+      [
+       "hard",
+       "努力地",
+       "hardly = 幾乎不"
+      ],
+      [
+       "late",
+       "遲、晚",
+       "lately = 最近"
+      ],
+      [
+       "near",
+       "接近",
+       "nearly = 幾乎"
+      ],
+      [
+       "high",
+       "（位置）高",
+       "highly = 高度地、非常"
+      ],
+      [
+       "close",
+       "接近地",
+       "closely = 密切地"
+      ],
+      [
+       "most",
+       "最",
+       "mostly = 大多、主要地"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The team worked hard to meet the deadline.",
+       "zh": "團隊努力趕上期限。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "We have hardly any inventory left.",
+       "zh": "我們幾乎沒有庫存了。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The two departments work closely together.",
+       "zh": "兩個部門密切合作。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "hardly、rarely、seldom、scarcely、barely 本身已含否定，不能再加 not；放句首時後面要倒裝。"
+    },
+    {
+     "type": "quiz",
+     "q": "The manuscript was _____ edited before publication.",
+     "options": [
+      "thorough",
+      "thoroughness",
+      "thoroughly",
+      "more thorough"
+     ],
+     "answer": 2,
+     "explain": "修飾過去分詞 edited 的是副詞 thoroughly。"
+    }
+   ]
+  },
+  {
+   "title": "數量詞與比較用的修飾語",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "修飾可數複數",
+      "修飾不可數",
+      "兩者皆可"
+     ],
+     "rows": [
+      [
+       "many, few, a few, several, a number of, both",
+       "much, little, a little, a great deal of, an amount of",
+       "some, any, a lot of, plenty of, most, all, no"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "few / little（幾乎沒有，偏否定）與 a few / a little（有一些，偏肯定）語氣相反。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Few applicants met the requirements.",
+       "zh": "幾乎沒有申請者符合條件。",
+       "note": "偏否定",
+       "bad": null
+      },
+      {
+       "en": "A few applicants met the requirements.",
+       "zh": "有幾位申請者符合條件。",
+       "note": "偏肯定",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "value": "修飾比較級的副詞：much / far / a lot / even / still / slightly；不能用 very。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "This model is much more efficient.",
+       "zh": "這款效率高得多。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "This model is very more efficient.",
+       "zh": "",
+       "note": "very 不能修飾比較級",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "_____ of the participants completed the survey, so the data is reliable.",
+     "options": [
+      "Much",
+      "Little",
+      "Most",
+      "A great deal"
+     ],
+     "answer": 2,
+     "explain": "participants 是可數複數，且語意為「大多數」，用 Most。"
+    }
+   ]
+  }
+ ]
+}

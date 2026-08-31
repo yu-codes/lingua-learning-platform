@@ -1,0 +1,185 @@
+{
+ "id": "part-15",
+ "no": 15,
+ "title": "聽力句法與常見陷阱",
+ "subtitle": "Listening Structures & Traps",
+ "summary": "聽力聽不懂，往往不是單字不會，而是句子結構在腦中沒有預期。這一章把聽力常見的句法與陷阱列出來。",
+ "sections": [
+  {
+   "title": "Part 2 應答問題的句型預期",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "問句開頭",
+      "預期回答",
+      "注意"
+     ],
+     "rows": [
+      [
+       "Who",
+       "人名、職稱、部門",
+       "答案可能是 I'll check."
+      ],
+      [
+       "When",
+       "時間",
+       "小心 by / until 的差別"
+      ],
+      [
+       "Where",
+       "地點",
+       "可能回答 It's been moved."
+      ],
+      [
+       "Why",
+       "原因（Because / To…）",
+       "也可能回答 I'm not sure."
+      ],
+      [
+       "How much / long",
+       "數量、期間",
+       "留意數字陷阱"
+      ],
+      [
+       "Would / Could you…",
+       "答應或婉拒",
+       "Sure / I'm afraid I can't."
+      ],
+      [
+       "附加問句",
+       "確認",
+       "回答看事實不看問句形式"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "Part 2 最大的陷阱是「同音或近音字」：選項出現和題目發音相似的字（fair / fare、weather / whether），通常是錯的。"
+    },
+    {
+     "type": "tip",
+     "value": "間接回答在高分題中非常常見。問 When 卻回答「It depends on the client.」也可能是正確答案。"
+    }
+   ]
+  },
+  {
+   "title": "Part 3 與 Part 4 的訊號詞",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "對話與獨白中，這些字通常出現在答案句附近，聽到就要提高注意。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "轉折：Actually, But, However, Unfortunately, The thing is…",
+      "重點：The main issue is…, What we need is…, Make sure…",
+      "建議：Why don't you…, You might want to…, I'd suggest…",
+      "問題：The problem is…, We're running out of…, There's been a delay…"
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "題目通常按照對話順序出現。第一題的答案在前段，第三題在後段。看題目時就先分配注意力。"
+    }
+   ]
+  },
+  {
+   "title": "弱化、連音與縮讀",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "書面",
+      "口語聽起來像",
+      "例子"
+     ],
+     "rows": [
+      [
+       "want to",
+       "wanna",
+       "I wanna check the schedule."
+      ],
+      [
+       "going to",
+       "gonna",
+       "We're gonna need approval."
+      ],
+      [
+       "have to",
+       "hafta",
+       "You hafta sign here."
+      ],
+      [
+       "kind of",
+       "kinda",
+       "It's kinda urgent."
+      ],
+      [
+       "did you",
+       "didja",
+       "Didja send the file?"
+      ],
+      [
+       "a lot of",
+       "alotta",
+       "alotta paperwork"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "功能詞（介系詞、冠詞、助動詞）在自然語速下會被弱讀，幾乎聽不到。要靠實詞與句法推回結構。"
+    },
+    {
+     "type": "tip",
+     "value": "練習時刻意去聽「聽不到的那些字」，比重複聽懂的內容更有效。"
+    }
+   ]
+  },
+  {
+   "title": "數字與專有名詞的聽辨",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "十位與個位的重音差：thirteen（重音在後）vs thirty（重音在前）",
+      "年份：2015 唸 twenty fifteen；電話號碼逐字唸",
+      "金額：$1,250 唸 twelve fifty 或 one thousand two hundred fifty",
+      "日期：美式 March 5；英式 5 March",
+      "拼字題：人名與公司名常被拼出來，要跟著記"
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "聽力常設「數字更正」陷阱：先說一個時間，接著說 Actually, let's make it… 真正的答案是後面那個。"
+    }
+   ]
+  },
+  {
+   "title": "圖表題（Part 3/4 新題型）",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "題目會給行程表、價目表、平面圖或圖表，音檔不會直接唸出答案，而是給你「線索」讓你自己對照。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "音檔：「We'll take the option that costs just under twenty dollars.」表格：A $15, B $19, C $22",
+       "zh": "",
+       "note": "答案是 B：just under twenty 指接近但低於 20",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "看到圖表題，先在音檔播放前掃一眼表格，找出「哪一欄可能被拿來當線索」。通常音檔會避開答案欄，講另一欄。"
+    }
+   ]
+  }
+ ]
+}

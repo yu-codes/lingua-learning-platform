@@ -1,0 +1,405 @@
+{
+ "id": "part-12",
+ "no": 12,
+ "title": "動詞搭配與商務慣用語",
+ "subtitle": "Collocations & Business Idioms",
+ "summary": "到了 900 分以上，考的不再是文法對錯，而是「英文母語者會不會這樣說」。搭配詞就是最後這一哩路。",
+ "sections": [
+  {
+   "title": "最高頻的動詞＋名詞搭配",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "搭配",
+      "中文",
+      "搭配",
+      "中文"
+     ],
+     "rows": [
+      [
+       "place an order",
+       "下訂單",
+       "meet a deadline",
+       "趕上期限"
+      ],
+      [
+       "make a payment",
+       "付款",
+       "meet the requirements",
+       "符合條件"
+      ],
+      [
+       "issue a refund",
+       "退款",
+       "reach an agreement",
+       "達成協議"
+      ],
+      [
+       "submit an application",
+       "提交申請",
+       "conduct a survey",
+       "進行調查"
+      ],
+      [
+       "attend a conference",
+       "出席研討會",
+       "hold a meeting",
+       "舉行會議"
+      ],
+      [
+       "take effect",
+       "生效",
+       "raise concerns",
+       "提出疑慮"
+      ],
+      [
+       "implement a policy",
+       "實施政策",
+       "address an issue",
+       "處理問題"
+      ],
+      [
+       "extend a deadline",
+       "延長期限",
+       "waive a fee",
+       "免除費用"
+      ],
+      [
+       "renew a contract",
+       "續約",
+       "process a request",
+       "處理請求"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The new regulation takes effect on January 1.",
+       "zh": "新規定於一月一日生效。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "We were unable to meet the original deadline.",
+       "zh": "我們無法趕上原定期限。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The supplier agreed to _____ the delivery fee for bulk orders.",
+     "options": [
+      "waive",
+      "wave",
+      "weigh",
+      "wager"
+     ],
+     "answer": 0,
+     "explain": "waive a fee = 免除費用，是商務固定搭配。wave 是揮手。"
+    }
+   ]
+  },
+  {
+   "title": "片語動詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "片語動詞",
+      "意思",
+      "片語動詞",
+      "意思"
+     ],
+     "rows": [
+      [
+       "carry out",
+       "執行",
+       "call off",
+       "取消"
+      ],
+      [
+       "set up",
+       "設立、安排",
+       "put off",
+       "延後"
+      ],
+      [
+       "turn down",
+       "拒絕",
+       "look into",
+       "調查"
+      ],
+      [
+       "fill out",
+       "填寫",
+       "hand in",
+       "繳交"
+      ],
+      [
+       "take over",
+       "接手",
+       "run out of",
+       "用完"
+      ],
+      [
+       "follow up on",
+       "後續追蹤",
+       "come up with",
+       "想出"
+      ],
+      [
+       "figure out",
+       "弄清楚",
+       "get in touch with",
+       "聯繫"
+      ],
+      [
+       "cut back on",
+       "削減",
+       "keep up with",
+       "跟上"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "可分離片語動詞的受詞是代名詞時，一定要放中間：turn it down（不能說 turn down it）。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The board called off the merger.",
+       "zh": "董事會取消了併購。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "We need to cut back on travel expenses.",
+       "zh": "我們需要削減差旅費用。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Please _____ the attached form and return it by Friday.",
+     "options": [
+      "fill in",
+      "fill up",
+      "fill out",
+      "fill on"
+     ],
+     "answer": 2,
+     "explain": "fill out a form = 填寫表格（美式）。fill up 是加滿（油、容器）。"
+    }
+   ]
+  },
+  {
+   "title": "商務書信高頻句型",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "功能",
+      "句型"
+     ],
+     "rows": [
+      [
+       "說明目的",
+       "I am writing to inquire about… / to confirm…"
+      ],
+      [
+       "附件",
+       "Please find attached… / Attached please find…"
+      ],
+      [
+       "要求",
+       "Could you please… / We would appreciate it if you could…"
+      ],
+      [
+       "致歉",
+       "We apologize for any inconvenience caused."
+      ],
+      [
+       "確認",
+       "Please be advised that… / This is to confirm that…"
+      ],
+      [
+       "期待回覆",
+       "We look forward to hearing from you."
+      ],
+      [
+       "結尾",
+       "Should you have any questions, please do not hesitate to contact me."
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "We would appreciate it if you could confirm receipt by Thursday.",
+       "zh": "若您能在週四前確認收到，我們將不勝感激。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Please be advised that the office will be closed on May 1.",
+       "zh": "謹此通知，辦公室將於五月一日休息。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "數字、金額與時間的表達",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "情境",
+      "說法"
+     ],
+     "rows": [
+      [
+       "百分比變化",
+       "increase by 15% / rise to 15%"
+      ],
+      [
+       "約略",
+       "approximately, roughly, around, nearly"
+      ],
+      [
+       "區間",
+       "between 10 and 15 / from 10 to 15"
+      ],
+      [
+       "折扣",
+       "a 20% discount / 20% off / discounted by 20%"
+      ],
+      [
+       "期限",
+       "no later than / on or before / within 30 days of receipt"
+      ],
+      [
+       "每",
+       "per unit / annually / on a monthly basis"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "increase by 表示「增加了多少」，increase to 表示「增加到多少」。多益極愛考這一組。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Revenue increased by 8% last quarter.",
+       "zh": "上季營收成長了 8%。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Revenue increased to 8 million.",
+       "zh": "營收增加到八百萬。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Applications must be received _____ later than 5 p.m. on March 31.",
+     "options": [
+      "not",
+      "no",
+      "any",
+      "none"
+     ],
+     "answer": 1,
+     "explain": "no later than 是固定用法，表示「最晚不得晚於」。"
+    }
+   ]
+  },
+  {
+   "title": "正式與口語的語體差異",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "口語",
+      "正式（多益偏好）"
+     ],
+     "rows": [
+      [
+       "get",
+       "receive / obtain"
+      ],
+      [
+       "ask for",
+       "request"
+      ],
+      [
+       "find out",
+       "determine / ascertain"
+      ],
+      [
+       "put off",
+       "postpone"
+      ],
+      [
+       "set up",
+       "establish / arrange"
+      ],
+      [
+       "a lot of",
+       "a considerable amount of / numerous"
+      ],
+      [
+       "buy",
+       "purchase / procure"
+      ],
+      [
+       "help",
+       "assist / facilitate"
+      ],
+      [
+       "show",
+       "demonstrate / indicate"
+      ],
+      [
+       "start",
+       "commence / initiate"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "多益閱讀的同義改寫題，考的正是這張表：題目用正式字，文章用口語字（或反過來）。認得這些對應，答題速度會明顯變快。"
+    },
+    {
+     "type": "quiz",
+     "q": "The workshop will _____ at 9 a.m. sharp.",
+     "options": [
+      "commence",
+      "commencement",
+      "commencing",
+      "commenced"
+     ],
+     "answer": 0,
+     "explain": "will 之後接原形動詞 commence（開始，正式用語）。"
+    }
+   ]
+  }
+ ]
+}

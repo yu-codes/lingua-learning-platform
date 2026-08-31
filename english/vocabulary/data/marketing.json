@@ -1,0 +1,875 @@
+{
+"id": "marketing",
+"name": "行銷與廣告",
+"nameEn": "Marketing & Advertising",
+"words": [
+{
+"w": "advertise",
+"p": "v.",
+"zh": "做廣告",
+"ex": "We advertise mainly on social platforms.",
+"exZh": "我們主要在社群平台投放廣告。"
+},
+{
+"w": "advertisement",
+"p": "n.",
+"zh": "廣告",
+"ex": "The advertisement ran in three magazines.",
+"exZh": "該廣告刊登於三本雜誌。"
+},
+{
+"w": "affiliate",
+"p": "n.",
+"zh": "聯盟夥伴",
+"ex": "Affiliate partners earn a share of sales.",
+"exZh": "聯盟夥伴可分得部分銷售額。"
+},
+{
+"w": "appeal",
+"p": "n./v.",
+"zh": "吸引力",
+"ex": "The design has broad appeal.",
+"exZh": "該設計具有廣泛吸引力。"
+},
+{
+"w": "appealing",
+"p": "adj.",
+"zh": "吸引人的",
+"ex": "The offer is appealing to students.",
+"exZh": "該優惠對學生很有吸引力。"
+},
+{
+"w": "attract",
+"p": "v.",
+"zh": "吸引",
+"ex": "The discount attracted first-time buyers.",
+"exZh": "折扣吸引了首購客。"
+},
+{
+"w": "awareness",
+"p": "n.",
+"zh": "知名度",
+"ex": "Brand awareness rose after the sponsorship.",
+"exZh": "贊助後品牌知名度提升。"
+},
+{
+"w": "banner",
+"p": "n.",
+"zh": "橫幅廣告",
+"ex": "Banner ads underperformed this quarter.",
+"exZh": "本季橫幅廣告表現不佳。"
+},
+{
+"w": "brand",
+"p": "n./v.",
+"zh": "品牌",
+"ex": "The brand was repositioned for premium buyers.",
+"exZh": "該品牌重新定位鎖定高端買家。"
+},
+{
+"w": "brochure",
+"p": "n.",
+"zh": "型錄；手冊",
+"ex": "Printed brochures are available at the booth.",
+"exZh": "攤位備有紙本型錄。"
+},
+{
+"w": "bundle",
+"p": "n./v.",
+"zh": "組合銷售",
+"ex": "The bundle includes accessories.",
+"exZh": "該組合包含配件。"
+},
+{
+"w": "buzz",
+"p": "n.",
+"zh": "話題熱度",
+"ex": "The teaser created considerable buzz.",
+"exZh": "預告片創造了相當的話題熱度。"
+},
+{
+"w": "campaign",
+"p": "n.",
+"zh": "行銷活動",
+"ex": "The spring campaign exceeded its targets.",
+"exZh": "春季活動超越了目標。"
+},
+{
+"w": "catalog",
+"p": "n.",
+"zh": "型錄",
+"ex": "The new catalog lists 200 items.",
+"exZh": "新型錄收錄兩百項商品。"
+},
+{
+"w": "channel",
+"p": "n.",
+"zh": "通路",
+"ex": "Online channels outperformed stores.",
+"exZh": "線上通路表現優於門市。"
+},
+{
+"w": "circulation",
+"p": "n.",
+"zh": "發行量",
+"ex": "The magazine has a wide circulation.",
+"exZh": "該雜誌發行量很大。"
+},
+{
+"w": "click",
+"p": "n.",
+"zh": "點擊",
+"ex": "Cost per click rose in December.",
+"exZh": "十二月每次點擊成本上升。"
+},
+{
+"w": "clientele",
+"p": "n.",
+"zh": "客群",
+"ex": "The restaurant has a loyal clientele.",
+"exZh": "這家餐廳有忠實客群。"
+},
+{
+"w": "commercial",
+"p": "n./adj.",
+"zh": "廣告片；商業的",
+"ex": "The commercial airs during prime time.",
+"exZh": "該廣告片在黃金時段播出。"
+},
+{
+"w": "commodity",
+"p": "n.",
+"zh": "大宗商品",
+"ex": "Commodity prices affect input costs.",
+"exZh": "大宗商品價格影響投入成本。"
+},
+{
+"w": "competitor",
+"p": "n.",
+"zh": "競爭者",
+"ex": "Two competitors cut prices last week.",
+"exZh": "上週有兩家競爭者降價。"
+},
+{
+"w": "consumer",
+"p": "n.",
+"zh": "消費者",
+"ex": "Consumer preferences shifted rapidly.",
+"exZh": "消費者偏好迅速轉變。"
+},
+{
+"w": "conversion",
+"p": "n.",
+"zh": "轉換率",
+"ex": "Conversion improved after the redesign.",
+"exZh": "改版後轉換率提升。"
+},
+{
+"w": "copywriting",
+"p": "n.",
+"zh": "文案撰寫",
+"ex": "Good copywriting drives conversions.",
+"exZh": "好的文案能帶動轉換。"
+},
+{
+"w": "coupon",
+"p": "n.",
+"zh": "折價券",
+"ex": "Coupons expire at the end of the month.",
+"exZh": "折價券於月底到期。"
+},
+{
+"w": "customize",
+"p": "v.",
+"zh": "客製化",
+"ex": "Buyers can customize the color.",
+"exZh": "買家可客製化顏色。"
+},
+{
+"w": "demand",
+"p": "n.",
+"zh": "需求",
+"ex": "Demand outstripped supply at launch.",
+"exZh": "上市時需求超過供給。"
+},
+{
+"w": "demographic",
+"p": "n.",
+"zh": "人口族群",
+"ex": "The core demographic is 25 to 34.",
+"exZh": "核心族群為 25 至 34 歲。"
+},
+{
+"w": "differentiate",
+"p": "v.",
+"zh": "做出差異化",
+"ex": "We must differentiate from low-cost rivals.",
+"exZh": "我們必須與低價對手做出差異化。"
+},
+{
+"w": "discount",
+"p": "n./v.",
+"zh": "折扣",
+"ex": "Members receive a standing discount.",
+"exZh": "會員享有長期折扣。"
+},
+{
+"w": "distribution",
+"p": "n.",
+"zh": "鋪貨",
+"ex": "Distribution expanded to 400 stores.",
+"exZh": "鋪貨擴展至四百家門市。"
+},
+{
+"w": "edition",
+"p": "n.",
+"zh": "版本；期",
+"ex": "A limited edition sold out in hours.",
+"exZh": "限量版數小時內售罄。"
+},
+{
+"w": "elasticity",
+"p": "n.",
+"zh": "彈性",
+"ex": "Price elasticity varies by category.",
+"exZh": "價格彈性因類別而異。"
+},
+{
+"w": "emerging",
+"p": "adj.",
+"zh": "新興的",
+"ex": "Emerging markets drove most of the growth.",
+"exZh": "新興市場帶動了大部分成長。"
+},
+{
+"w": "endorsement",
+"p": "n.",
+"zh": "代言",
+"ex": "A celebrity endorsement lifted sales.",
+"exZh": "名人代言帶動了銷售。"
+},
+{
+"w": "engagement",
+"p": "n.",
+"zh": "互動參與",
+"ex": "Social engagement doubled in June.",
+"exZh": "六月社群互動翻倍。"
+},
+{
+"w": "enticing",
+"p": "adj.",
+"zh": "誘人的",
+"ex": "The bundle price is enticing.",
+"exZh": "組合價格很誘人。"
+},
+{
+"w": "exhibition",
+"p": "n.",
+"zh": "展覽",
+"ex": "The exhibition attracted 30,000 visitors.",
+"exZh": "展覽吸引了三萬名訪客。"
+},
+{
+"w": "feature",
+"p": "n./v.",
+"zh": "特色",
+"ex": "The ad features a well-known athlete.",
+"exZh": "廣告以一位知名運動員為主角。"
+},
+{
+"w": "flagship",
+"p": "n./adj.",
+"zh": "旗艦",
+"ex": "The flagship store opened downtown.",
+"exZh": "旗艦店在市中心開幕。"
+},
+{
+"w": "flyer",
+"p": "n.",
+"zh": "傳單",
+"ex": "Flyers were distributed near the station.",
+"exZh": "傳單在車站附近發放。"
+},
+{
+"w": "forecasting",
+"p": "n.",
+"zh": "預測作業",
+"ex": "Demand forecasting improved with new tools.",
+"exZh": "新工具改善了需求預測作業。"
+},
+{
+"w": "franchise",
+"p": "n.",
+"zh": "加盟",
+"ex": "The franchise model expanded quickly.",
+"exZh": "加盟模式擴張迅速。"
+},
+{
+"w": "generate",
+"p": "v.",
+"zh": "創造；產生",
+"ex": "The campaign generated 5,000 leads.",
+"exZh": "該活動創造了五千筆名單。"
+},
+{
+"w": "giveaway",
+"p": "n.",
+"zh": "贈品活動",
+"ex": "A giveaway drove booth traffic.",
+"exZh": "贈品活動帶動了攤位人流。"
+},
+{
+"w": "hype",
+"p": "n.",
+"zh": "過度宣傳",
+"ex": "The launch was overshadowed by hype.",
+"exZh": "上市被過度宣傳蓋過。"
+},
+{
+"w": "imagery",
+"p": "n.",
+"zh": "視覺形象",
+"ex": "The imagery evokes calm and trust.",
+"exZh": "視覺形象傳達平靜與信任。"
+},
+{
+"w": "impression",
+"p": "n.",
+"zh": "廣告曝光次數",
+"ex": "The ad generated two million impressions.",
+"exZh": "該廣告產生兩百萬次曝光。"
+},
+{
+"w": "inbound",
+"p": "adj.",
+"zh": "集客式的",
+"ex": "Inbound leads cost less than outbound.",
+"exZh": "集客式名單成本低於外推式。"
+},
+{
+"w": "influencer",
+"p": "n.",
+"zh": "網紅",
+"ex": "Influencer partnerships expanded reach.",
+"exZh": "網紅合作擴大了觸及。"
+},
+{
+"w": "innovative",
+"p": "adj.",
+"zh": "創新的",
+"ex": "The packaging design is innovative.",
+"exZh": "該包裝設計具創新性。"
+},
+{
+"w": "launch",
+"p": "n./v.",
+"zh": "上市",
+"ex": "The product launch was postponed.",
+"exZh": "產品上市延後了。"
+},
+{
+"w": "launchpad",
+"p": "n.",
+"zh": "起點平台",
+"ex": "The fair served as a launchpad.",
+"exZh": "該展會成為產品起點平台。"
+},
+{
+"w": "lead",
+"p": "n.",
+"zh": "潛在客戶名單",
+"ex": "Sales follows up on every lead.",
+"exZh": "業務會追蹤每一筆名單。"
+},
+{
+"w": "leaflet",
+"p": "n.",
+"zh": "宣傳單",
+"ex": "Leaflets were inserted in the newspaper.",
+"exZh": "宣傳單夾在報紙中。"
+},
+{
+"w": "logo",
+"p": "n.",
+"zh": "商標",
+"ex": "The logo was refreshed for the anniversary.",
+"exZh": "商標為週年紀念做了更新。"
+},
+{
+"w": "loyalty",
+"p": "n.",
+"zh": "忠誠度",
+"ex": "The loyalty program rewards repeat buyers.",
+"exZh": "忠誠計畫回饋回購客戶。"
+},
+{
+"w": "mailing",
+"p": "n.",
+"zh": "郵寄名單",
+"ex": "The mailing reached 20,000 subscribers.",
+"exZh": "該郵寄觸及兩萬名訂閱者。"
+},
+{
+"w": "mainstream",
+"p": "adj.",
+"zh": "主流的",
+"ex": "The product entered the mainstream market.",
+"exZh": "該產品進入了主流市場。"
+},
+{
+"w": "media",
+"p": "n.",
+"zh": "媒體",
+"ex": "Media coverage was largely favorable.",
+"exZh": "媒體報導大致正面。"
+},
+{
+"w": "merchandise",
+"p": "n.",
+"zh": "商品",
+"ex": "Seasonal merchandise sold out quickly.",
+"exZh": "季節性商品很快售罄。"
+},
+{
+"w": "metric",
+"p": "n.",
+"zh": "衡量指標",
+"ex": "We track five key metrics weekly.",
+"exZh": "我們每週追蹤五項關鍵指標。"
+},
+{
+"w": "mockup",
+"p": "n.",
+"zh": "模擬樣張",
+"ex": "A mockup was approved before printing.",
+"exZh": "印刷前核准了模擬樣張。"
+},
+{
+"w": "niche",
+"p": "n.",
+"zh": "利基市場",
+"ex": "The company found a profitable niche.",
+"exZh": "公司找到了獲利的利基市場。"
+},
+{
+"w": "outbound",
+"p": "adj.",
+"zh": "外推式的",
+"ex": "Outbound calls fell by half.",
+"exZh": "外撥電話減少了一半。"
+},
+{
+"w": "outlet",
+"p": "n.",
+"zh": "門市；通路",
+"ex": "The brand opened two outlet stores.",
+"exZh": "該品牌開了兩家暢貨門市。"
+},
+{
+"w": "outreach",
+"p": "n.",
+"zh": "推廣接觸",
+"ex": "Community outreach improved local sentiment.",
+"exZh": "社區推廣改善了在地觀感。"
+},
+{
+"w": "packaging",
+"p": "n.",
+"zh": "包裝",
+"ex": "Sustainable packaging attracted new buyers.",
+"exZh": "永續包裝吸引了新買家。"
+},
+{
+"w": "penetration",
+"p": "n.",
+"zh": "市場滲透率",
+"ex": "Market penetration reached 18 percent.",
+"exZh": "市場滲透率達 18%。"
+},
+{
+"w": "perception",
+"p": "n.",
+"zh": "認知",
+"ex": "Consumer perception improved after the apology.",
+"exZh": "道歉後消費者認知有所改善。"
+},
+{
+"w": "persona",
+"p": "n.",
+"zh": "人物誌",
+"ex": "Three buyer personas guide the content.",
+"exZh": "三個買家人物誌指導內容製作。"
+},
+{
+"w": "pilot",
+"p": "n.",
+"zh": "試行",
+"ex": "The pilot ran in two cities.",
+"exZh": "試行在兩個城市進行。"
+},
+{
+"w": "pitch",
+"p": "n./v.",
+"zh": "推銷簡報",
+"ex": "The agency pitched three concepts.",
+"exZh": "該代理商提報了三個概念。"
+},
+{
+"w": "positioning",
+"p": "n.",
+"zh": "定位",
+"ex": "The positioning statement was rewritten.",
+"exZh": "定位陳述已重寫。"
+},
+{
+"w": "proposition",
+"p": "n.",
+"zh": "價值主張",
+"ex": "The value proposition needs sharpening.",
+"exZh": "價值主張需要更聚焦。"
+},
+{
+"w": "prospect",
+"p": "n.",
+"zh": "潛在客戶",
+"ex": "The team qualified forty new prospects.",
+"exZh": "團隊篩選出四十位新潛在客戶。"
+},
+{
+"w": "prototype",
+"p": "n.",
+"zh": "原型",
+"ex": "The prototype was tested with users.",
+"exZh": "原型與使用者進行了測試。"
+},
+{
+"w": "proximity",
+"p": "n.",
+"zh": "鄰近性",
+"ex": "Store proximity influences purchase frequency.",
+"exZh": "門市鄰近性影響購買頻率。"
+},
+{
+"w": "publicity",
+"p": "n.",
+"zh": "宣傳",
+"ex": "The launch attracted positive publicity.",
+"exZh": "上市吸引了正面宣傳。"
+},
+{
+"w": "questionnaire",
+"p": "n.",
+"zh": "問卷",
+"ex": "The questionnaire takes five minutes.",
+"exZh": "該問卷需時五分鐘。"
+},
+{
+"w": "reach",
+"p": "n.",
+"zh": "觸及數",
+"ex": "The campaign reach exceeded projections.",
+"exZh": "活動觸及數超出預估。"
+},
+{
+"w": "readership",
+"p": "n.",
+"zh": "讀者群",
+"ex": "The readership skews professional.",
+"exZh": "讀者群偏向專業人士。"
+},
+{
+"w": "rebrand",
+"p": "v.",
+"zh": "品牌重塑",
+"ex": "The chain rebranded last spring.",
+"exZh": "該連鎖去年春天進行品牌重塑。"
+},
+{
+"w": "recall",
+"p": "n.",
+"zh": "回收；記憶度",
+"ex": "Ad recall was measured after two weeks.",
+"exZh": "兩週後測量了廣告記憶度。"
+},
+{
+"w": "relaunch",
+"p": "v.",
+"zh": "重新上市",
+"ex": "The line was relaunched with new packaging.",
+"exZh": "該產品線以新包裝重新上市。"
+},
+{
+"w": "release",
+"p": "n./v.",
+"zh": "發布",
+"ex": "The press release went out at nine.",
+"exZh": "新聞稿於九點發布。"
+},
+{
+"w": "reposition",
+"p": "v.",
+"zh": "重新定位",
+"ex": "The brand repositioned toward families.",
+"exZh": "該品牌重新定位鎖定家庭。"
+},
+{
+"w": "reputation",
+"p": "n.",
+"zh": "聲譽",
+"ex": "The recall damaged the firm's reputation.",
+"exZh": "回收事件損害了公司聲譽。"
+},
+{
+"w": "respondent",
+"p": "n.",
+"zh": "受訪者",
+"ex": "Most respondents preferred the new design.",
+"exZh": "多數受訪者偏好新設計。"
+},
+{
+"w": "retail",
+"p": "n./adj.",
+"zh": "零售",
+"ex": "Retail prices vary by region.",
+"exZh": "零售價格因地區而異。"
+},
+{
+"w": "retailer",
+"p": "n.",
+"zh": "零售商",
+"ex": "Major retailers stocked the item.",
+"exZh": "主要零售商都上架了該品項。"
+},
+{
+"w": "rollout",
+"p": "n.",
+"zh": "推行",
+"ex": "The rollout begins in April.",
+"exZh": "推行於四月開始。"
+},
+{
+"w": "sample",
+"p": "n.",
+"zh": "試用品",
+"ex": "Free samples were handed out.",
+"exZh": "免費試用品已發放。"
+},
+{
+"w": "saturation",
+"p": "n.",
+"zh": "飽和",
+"ex": "The domestic market is near saturation.",
+"exZh": "國內市場接近飽和。"
+},
+{
+"w": "seasonal",
+"p": "adj.",
+"zh": "季節性的",
+"ex": "Seasonal demand peaks in December.",
+"exZh": "季節性需求在十二月達到高峰。"
+},
+{
+"w": "segmentation",
+"p": "n.",
+"zh": "市場區隔化",
+"ex": "Segmentation improved targeting accuracy.",
+"exZh": "市場區隔化提升了鎖定精準度。"
+},
+{
+"w": "share",
+"p": "n.",
+"zh": "市占率",
+"ex": "Market share rose two points.",
+"exZh": "市占率上升兩個百分點。"
+},
+{
+"w": "showcase",
+"p": "v./n.",
+"zh": "展示",
+"ex": "The booth showcased three new models.",
+"exZh": "攤位展示了三款新機型。"
+},
+{
+"w": "showroom",
+"p": "n.",
+"zh": "展示間",
+"ex": "The showroom opens on weekends.",
+"exZh": "展示間週末營業。"
+},
+{
+"w": "slogan",
+"p": "n.",
+"zh": "標語",
+"ex": "The slogan is short and memorable.",
+"exZh": "該標語簡短且好記。"
+},
+{
+"w": "slot",
+"p": "n.",
+"zh": "廣告時段",
+"ex": "A prime slot costs significantly more.",
+"exZh": "黃金時段費用明顯較高。"
+},
+{
+"w": "sponsorship",
+"p": "n.",
+"zh": "贊助",
+"ex": "Sponsorship covers half of the event cost.",
+"exZh": "贊助支應活動一半的成本。"
+},
+{
+"w": "stock",
+"p": "n.",
+"zh": "存貨",
+"ex": "The item is temporarily out of stock.",
+"exZh": "該品項暫時缺貨。"
+},
+{
+"w": "strategy",
+"p": "n.",
+"zh": "策略",
+"ex": "The digital strategy was approved.",
+"exZh": "數位策略已獲批准。"
+},
+{
+"w": "subscription",
+"p": "n.",
+"zh": "訂閱",
+"ex": "Subscription revenue grew steadily.",
+"exZh": "訂閱營收穩定成長。"
+},
+{
+"w": "supplier",
+"p": "n.",
+"zh": "供應商",
+"ex": "The supplier offers exclusive designs.",
+"exZh": "該供應商提供獨家設計。"
+},
+{
+"w": "tactic",
+"p": "n.",
+"zh": "戰術",
+"ex": "The tactic worked better than expected.",
+"exZh": "該戰術效果優於預期。"
+},
+{
+"w": "tagline",
+"p": "n.",
+"zh": "廣告標語",
+"ex": "The tagline was tested with focus groups.",
+"exZh": "廣告標語經過焦點團體測試。"
+},
+{
+"w": "tailor",
+"p": "v.",
+"zh": "量身打造",
+"ex": "We tailored the message to each region.",
+"exZh": "我們為每個地區量身調整訊息。"
+},
+{
+"w": "target",
+"p": "v./n.",
+"zh": "鎖定；目標",
+"ex": "We target small business owners.",
+"exZh": "我們鎖定小型企業主。"
+},
+{
+"w": "testimonial",
+"p": "n.",
+"zh": "見證",
+"ex": "Customer testimonials appear on the site.",
+"exZh": "客戶見證刊登在網站上。"
+},
+{
+"w": "trademark",
+"p": "n.",
+"zh": "商標權",
+"ex": "The trademark was registered in twelve countries.",
+"exZh": "該商標權在十二國註冊。"
+},
+{
+"w": "trial",
+"p": "n.",
+"zh": "試用",
+"ex": "A free trial converts well.",
+"exZh": "免費試用的轉換效果好。"
+},
+{
+"w": "turnout",
+"p": "n.",
+"zh": "出席人數",
+"ex": "Turnout at the event was strong.",
+"exZh": "活動出席人數踴躍。"
+},
+{
+"w": "unveil",
+"p": "v.",
+"zh": "揭曉",
+"ex": "The company unveiled its new lineup.",
+"exZh": "公司揭曉了新產品線。"
+},
+{
+"w": "upscale",
+"p": "adj.",
+"zh": "高檔的",
+"ex": "The store targets upscale shoppers.",
+"exZh": "該店鎖定高檔消費者。"
+},
+{
+"w": "upsell",
+"p": "v.",
+"zh": "向上銷售",
+"ex": "Staff are trained to upsell accessories.",
+"exZh": "員工受訓向上銷售配件。"
+},
+{
+"w": "vendor",
+"p": "n.",
+"zh": "廠商",
+"ex": "Several vendors exhibited at the fair.",
+"exZh": "數家廠商在展會設攤。"
+},
+{
+"w": "venture",
+"p": "n.",
+"zh": "事業；創投",
+"ex": "The joint venture launched in Vietnam.",
+"exZh": "該合資事業在越南啟動。"
+},
+{
+"w": "viral",
+"p": "adj.",
+"zh": "病毒式傳播的",
+"ex": "The video went viral within days.",
+"exZh": "該影片幾天內就瘋傳。"
+},
+{
+"w": "visibility",
+"p": "n.",
+"zh": "能見度",
+"ex": "Shelf visibility drives impulse purchases.",
+"exZh": "貨架能見度帶動衝動購買。"
+},
+{
+"w": "warranty",
+"p": "n.",
+"zh": "保固",
+"ex": "An extended warranty is available.",
+"exZh": "可加購延長保固。"
+},
+{
+"w": "webinar",
+"p": "n.",
+"zh": "線上研討會",
+"ex": "The webinar attracted 800 registrants.",
+"exZh": "線上研討會吸引八百人報名。"
+},
+{
+"w": "wholesale",
+"p": "n./adj.",
+"zh": "批發",
+"ex": "Wholesale prices exclude shipping.",
+"exZh": "批發價不含運費。"
+}
+]
+}

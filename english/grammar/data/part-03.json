@@ -1,0 +1,365 @@
+{
+ "id": "part-03",
+ "no": 3,
+ "title": "動詞與基本句型",
+ "subtitle": "Verbs & Sentence Patterns",
+ "summary": "動詞決定整個句子的長相。搞懂及物不及物、連綴動詞、使役動詞與動狀詞，Part 5 的動詞題就不用猜。",
+ "sections": [
+  {
+   "title": "及物動詞與不及物動詞",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "及物動詞後面必須有受詞；不及物動詞後面不能直接接名詞，要接介系詞才能帶出名詞。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "類型",
+      "常見動詞",
+      "句型"
+     ],
+     "rows": [
+      [
+       "純及物",
+       "discuss, mention, explain, approach, enter, attend, answer, contact",
+       "V + O"
+      ],
+      [
+       "純不及物",
+       "arrive, happen, occur, rise, remain, appear, respond",
+       "V (+ 介系詞 + O)"
+      ],
+      [
+       "兩者皆可",
+       "increase, change, open, run, start, continue",
+       "V / V + O"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The shipment arrived at the warehouse yesterday.",
+       "zh": "貨物昨天抵達倉庫。",
+       "note": "arrive 不及物，要加 at / in",
+       "bad": null
+      },
+      {
+       "en": "Please respond to the inquiry within 24 hours.",
+       "zh": "請在 24 小時內回覆詢問。",
+       "note": "respond 不及物，接 to",
+       "bad": null
+      },
+      {
+       "en": "We will contact to you shortly.",
+       "zh": "",
+       "note": "contact 是及物動詞，不加 to",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "易混淆組：rise（不及物，上升）/ raise（及物，提高）；lie（不及物，躺）/ lay（及物，放置）；sit / seat。"
+    },
+    {
+     "type": "quiz",
+     "q": "Sales figures _____ steadily since the new campaign launched.",
+     "options": [
+      "have risen",
+      "have raised",
+      "are raising",
+      "raised up"
+     ],
+     "answer": 0,
+     "explain": "rise 是不及物動詞，句中沒有受詞，用 have risen。raise 需要受詞。"
+    }
+   ]
+  },
+  {
+   "title": "授與動詞與雙受詞",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "授與動詞後面可以接兩個受詞：間接受詞（人）在前，直接受詞（物）在後；也可以改寫成介系詞句型。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "改寫用 to",
+      "改寫用 for"
+     ],
+     "rows": [
+      [
+       "give, send, offer, show, lend, tell, pass, hand",
+       "buy, make, find, get, order, choose"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The supplier sent us the revised quote.",
+       "zh": "供應商寄給我們修訂後的報價。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The supplier sent the revised quote to us.",
+       "zh": "（同義改寫）",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Our assistant booked me a flight.",
+       "zh": "助理幫我訂了機票。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Our assistant booked a flight for me.",
+       "zh": "（同義改寫）",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "受詞是代名詞時，通常放在前面：send it to me（不說 send me it）。"
+    }
+   ]
+  },
+  {
+   "title": "連綴動詞與主詞補語",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "連綴動詞後面接形容詞（不是副詞），用來描述主詞的狀態。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "be, become, remain, stay, keep, prove, turn out",
+      "感官類：look, sound, smell, taste, feel",
+      "似乎類：seem, appear"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The proposal sounds reasonable.",
+       "zh": "這份提案聽起來合理。",
+       "note": "不能用 reasonably",
+       "bad": null
+      },
+      {
+       "en": "The office remained open during the renovation.",
+       "zh": "整修期間辦公室維持開放。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The new procedure proved effective.",
+       "zh": "新流程證實有效。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The candidate seems confidently.",
+       "zh": "",
+       "note": "seem 之後要用形容詞 confident",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Despite the delay, the client remained _____ about the outcome.",
+     "options": [
+      "optimism",
+      "optimistic",
+      "optimistically",
+      "optimize"
+     ],
+     "answer": 1,
+     "explain": "remained 是連綴動詞，後面要接形容詞當主詞補語。"
+    }
+   ]
+  },
+  {
+   "title": "使役動詞與感官動詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "動詞",
+      "受詞後接什麼",
+      "例子"
+     ],
+     "rows": [
+      [
+       "make / have / let",
+       "原形動詞",
+       "The manager had the team revise the plan."
+      ],
+      [
+       "get",
+       "to + 原形",
+       "We got the vendor to lower the price."
+      ],
+      [
+       "help",
+       "原形或 to + 原形",
+       "This tool helps (to) reduce errors."
+      ],
+      [
+       "see / hear / watch / notice",
+       "原形（全程）或 V-ing（進行中）",
+       "I saw him leave / leaving."
+      ],
+      [
+       "被動語態",
+       "一律 to + 原形",
+       "The team was made to revise the plan."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "受詞和動作是被動關係時，用過去分詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "We had the contract reviewed by legal.",
+       "zh": "我們請法務審閱了合約。",
+       "note": "contract 是被審閱的，用過去分詞",
+       "bad": null
+      },
+      {
+       "en": "We had legal review the contract.",
+       "zh": "我們請法務審閱合約。",
+       "note": "legal 是執行者，用原形",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The supervisor made everyone _____ the safety video before starting.",
+     "options": [
+      "to watch",
+      "watching",
+      "watch",
+      "watched"
+     ],
+     "answer": 2,
+     "explain": "使役動詞 make 後面接受詞加原形動詞。"
+    }
+   ]
+  },
+  {
+   "title": "不定詞與動名詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "只接不定詞 to V",
+      "只接動名詞 V-ing"
+     ],
+     "rows": [
+      [
+       "want, hope, plan, decide, agree, offer, refuse, manage, afford, fail, expect, promise",
+       "enjoy, finish, avoid, mind, suggest, consider, recommend, postpone, admit, deny, practice, quit"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "有些動詞兩者都能接，但意思不同。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "動詞",
+      "+ to V",
+      "+ V-ing"
+     ],
+     "rows": [
+      [
+       "remember",
+       "記得要去做（未做）",
+       "記得做過（已做）"
+      ],
+      [
+       "forget",
+       "忘記要做",
+       "忘記做過"
+      ],
+      [
+       "stop",
+       "停下來去做另一件事",
+       "停止正在做的事"
+      ],
+      [
+       "try",
+       "設法、努力去做",
+       "試試看某方法"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Please remember to submit the form.",
+       "zh": "請記得要交表格。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "I remember submitting the form last week.",
+       "zh": "我記得上週交過表格了。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "He stopped to take a call.",
+       "zh": "他停下來接電話。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "He stopped taking calls after 6 p.m.",
+       "zh": "他六點後就不接電話了。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "介系詞後面一律接動名詞：look forward to seeing、be committed to improving、be used to working。這裡的 to 是介系詞不是不定詞，是多益超高頻陷阱。"
+    },
+    {
+     "type": "quiz",
+     "q": "We look forward to _____ from you at your earliest convenience.",
+     "options": [
+      "hear",
+      "hearing",
+      "be heard",
+      "have heard"
+     ],
+     "answer": 1,
+     "explain": "look forward to 的 to 是介系詞，後面接動名詞 hearing。"
+    }
+   ]
+  }
+ ]
+}

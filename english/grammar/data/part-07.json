@@ -1,0 +1,409 @@
+{
+ "id": "part-07",
+ "no": 7,
+ "title": "介系詞與片語",
+ "subtitle": "Prepositions & Phrases",
+ "summary": "介系詞沒有邏輯可循的部分就是搭配，必須記；但時間與空間的介系詞有清楚系統，先把系統建立起來。",
+ "sections": [
+  {
+   "title": "時間介系詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "介系詞",
+      "搭配",
+      "例子"
+     ],
+     "rows": [
+      [
+       "at",
+       "時刻、特定時點",
+       "at 3 p.m., at noon, at the end of"
+      ],
+      [
+       "on",
+       "日期、星期、特定日",
+       "on Monday, on July 4, on weekdays"
+      ],
+      [
+       "in",
+       "月份、年份、季節、一段時間後",
+       "in March, in 2024, in two weeks"
+      ],
+      [
+       "by",
+       "最晚在…之前（期限）",
+       "by Friday"
+      ],
+      [
+       "until / till",
+       "持續到…為止",
+       "open until 9 p.m."
+      ],
+      [
+       "within",
+       "在…之內",
+       "within 30 days"
+      ],
+      [
+       "during",
+       "在…期間（接名詞）",
+       "during the meeting"
+      ],
+      [
+       "for",
+       "持續多久（接時間長度）",
+       "for three years"
+      ],
+      [
+       "since",
+       "自從（接時間點）",
+       "since 2020"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "by 與 until 是多益必考對比：by = 期限（動作在該時點前完成）；until = 持續（狀態延續到該時點）。Submit it by Friday. / The office is closed until Monday."
+    },
+    {
+     "type": "quiz",
+     "q": "All expense reports must be submitted _____ the fifth of each month.",
+     "options": [
+      "until",
+      "by",
+      "since",
+      "during"
+     ],
+     "answer": 1,
+     "explain": "報帳有截止期限，用 by。until 表示持續狀態，語意不合。"
+    }
+   ]
+  },
+  {
+   "title": "地點與方向介系詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "介系詞",
+      "概念",
+      "例子"
+     ],
+     "rows": [
+      [
+       "at",
+       "點",
+       "at the front desk"
+      ],
+      [
+       "in",
+       "空間內部",
+       "in the conference room"
+      ],
+      [
+       "on",
+       "表面、線上",
+       "on the third floor, on the agenda"
+      ],
+      [
+       "between / among",
+       "兩者之間 / 三者以上之中",
+       "between the two teams / among the staff"
+      ],
+      [
+       "throughout",
+       "遍及",
+       "throughout the region"
+      ],
+      [
+       "across / along / through",
+       "橫越 / 沿著 / 穿過",
+       "across the street"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The item is listed on page 12.",
+       "zh": "該項目列在第 12 頁。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The policy applies throughout all branches.",
+       "zh": "此政策適用於所有分公司。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "動詞 + 介系詞的固定搭配",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "這一類沒有道理可講，是純記憶題，但多益重複率極高。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "搭配",
+      "意思",
+      "搭配",
+      "意思"
+     ],
+     "rows": [
+      [
+       "account for",
+       "說明、佔比",
+       "comply with",
+       "遵守"
+      ],
+      [
+       "apply for",
+       "申請",
+       "consist of",
+       "由…組成"
+      ],
+      [
+       "apply to",
+       "適用於",
+       "depend on",
+       "取決於"
+      ],
+      [
+       "benefit from",
+       "受益於",
+       "focus on",
+       "專注於"
+      ],
+      [
+       "deal with",
+       "處理",
+       "participate in",
+       "參與"
+      ],
+      [
+       "refer to",
+       "提及、參照",
+       "result in",
+       "導致"
+      ],
+      [
+       "result from",
+       "起因於",
+       "specialize in",
+       "專精於"
+      ],
+      [
+       "subscribe to",
+       "訂閱",
+       "cope with",
+       "應付"
+      ],
+      [
+       "adhere to",
+       "遵守",
+       "attribute A to B",
+       "把 A 歸因於 B"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "All suppliers must comply with the new safety standards.",
+       "zh": "所有供應商必須遵守新的安全標準。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The delay resulted from a shortage of components.",
+       "zh": "延誤起因於零件短缺。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The shortage resulted in a two-week delay.",
+       "zh": "短缺導致了兩週延誤。",
+       "note": "result from 看原因，result in 看結果",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Bonuses will depend _____ individual performance this quarter.",
+     "options": [
+      "of",
+      "on",
+      "to",
+      "for"
+     ],
+     "answer": 1,
+     "explain": "depend on 是固定搭配，表示「取決於」。"
+    }
+   ]
+  },
+  {
+   "title": "形容詞、名詞 + 介系詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "搭配",
+      "意思",
+      "搭配",
+      "意思"
+     ],
+     "rows": [
+      [
+       "be responsible for",
+       "負責",
+       "be aware of",
+       "知悉"
+      ],
+      [
+       "be eligible for",
+       "有資格",
+       "be capable of",
+       "有能力"
+      ],
+      [
+       "be familiar with",
+       "熟悉",
+       "be committed to",
+       "致力於"
+      ],
+      [
+       "be subject to",
+       "須受…約束",
+       "be similar to",
+       "類似於"
+      ],
+      [
+       "access to",
+       "使用權",
+       "demand for",
+       "對…的需求"
+      ],
+      [
+       "increase in",
+       "…的增加",
+       "solution to",
+       "…的解決方案"
+      ],
+      [
+       "reason for",
+       "…的原因",
+       "effect on",
+       "對…的影響"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "be committed to、be dedicated to、be opposed to、be accustomed to 的 to 都是介系詞，後面接名詞或動名詞，不接原形動詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "The company is committed to _____ its carbon footprint by 2030.",
+     "options": [
+      "reduce",
+      "reducing",
+      "reduction",
+      "reduced"
+     ],
+     "answer": 1,
+     "explain": "be committed to 的 to 是介系詞，後面接動名詞 reducing。"
+    }
+   ]
+  },
+  {
+   "title": "片語介系詞與連接副詞",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "功能",
+      "介系詞（接名詞）",
+      "連接詞（接子句）",
+      "連接副詞（接句子）"
+     ],
+     "rows": [
+      [
+       "因果",
+       "because of, due to, owing to",
+       "because, since, as",
+       "therefore, thus, consequently"
+      ],
+      [
+       "轉折",
+       "despite, in spite of",
+       "although, though, while, even though",
+       "however, nevertheless, nonetheless"
+      ],
+      [
+       "目的",
+       "for",
+       "so that, in order that",
+       "—"
+      ],
+      [
+       "附加",
+       "in addition to, besides",
+       "—",
+       "moreover, furthermore, in addition"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "despite / in spite of / due to 後面接名詞或動名詞；although / because 後面接完整子句。這是多益極高頻的辨析題。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Despite the heavy rain, the shipment arrived on time.",
+       "zh": "儘管大雨，貨物仍準時抵達。",
+       "note": "後接名詞片語",
+       "bad": null
+      },
+      {
+       "en": "Although it rained heavily, the shipment arrived on time.",
+       "zh": "（同義，後接子句）",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Despite it rained heavily…",
+       "zh": "",
+       "note": "despite 後不能接子句",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "_____ the increase in raw material costs, the company maintained its prices.",
+     "options": [
+      "Although",
+      "Despite",
+      "Even though",
+      "While"
+     ],
+     "answer": 1,
+     "explain": "空格後面是名詞片語 the increase…，要用介系詞 Despite。其餘三個都必須接子句。"
+    }
+   ]
+  }
+ ]
+}

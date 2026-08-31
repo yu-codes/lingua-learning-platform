@@ -1,0 +1,847 @@
+{
+"id": "food-cooking",
+"name": "食物與烹飪",
+"nameEn": "Food & Cooking",
+"words": [
+{
+"w": "additive",
+"p": "n.",
+"zh": "添加物",
+"ex": "The product contains no artificial additives.",
+"exZh": "該產品不含人工添加物。"
+},
+{
+"w": "appetite",
+"p": "n.",
+"zh": "食慾",
+"ex": "Exercise improved his appetite.",
+"exZh": "運動改善了他的食慾。"
+},
+{
+"w": "aroma",
+"p": "n.",
+"zh": "香氣",
+"ex": "The aroma filled the whole kitchen.",
+"exZh": "香氣充滿了整個廚房。"
+},
+{
+"w": "bake",
+"p": "v.",
+"zh": "烘焙",
+"ex": "Bake the bread for forty minutes.",
+"exZh": "麵包烘焙四十分鐘。"
+},
+{
+"w": "banquet menu",
+"p": "n.",
+"zh": "宴會菜單",
+"ex": "The banquet menu offers six courses.",
+"exZh": "宴會菜單有六道菜。"
+},
+{
+"w": "batter",
+"p": "n.",
+"zh": "麵糊",
+"ex": "Pour the batter into the pan.",
+"exZh": "把麵糊倒入烤盤。"
+},
+{
+"w": "beverage cooler",
+"p": "n.",
+"zh": "飲料冷藏櫃",
+"ex": "Drinks are in the beverage cooler.",
+"exZh": "飲料在冷藏櫃裡。"
+},
+{
+"w": "bland",
+"p": "adj.",
+"zh": "清淡無味的",
+"ex": "The soup tasted rather bland.",
+"exZh": "這湯嘗起來相當清淡無味。"
+},
+{
+"w": "blend",
+"p": "v.",
+"zh": "混合",
+"ex": "Blend the ingredients until smooth.",
+"exZh": "把材料混合至滑順。"
+},
+{
+"w": "boil",
+"p": "v.",
+"zh": "煮沸",
+"ex": "Boil the water before adding rice.",
+"exZh": "加米前先把水煮沸。"
+},
+{
+"w": "broth",
+"p": "n.",
+"zh": "清湯",
+"ex": "The broth simmers for three hours.",
+"exZh": "清湯要慢燉三小時。"
+},
+{
+"w": "calorie",
+"p": "n.",
+"zh": "卡路里",
+"ex": "Each serving has 250 calories.",
+"exZh": "每份含兩百五十卡路里。"
+},
+{
+"w": "canned",
+"p": "adj.",
+"zh": "罐裝的",
+"ex": "Canned goods last for years.",
+"exZh": "罐裝食品可存放數年。"
+},
+{
+"w": "carbohydrate",
+"p": "n.",
+"zh": "碳水化合物",
+"ex": "Rice is high in carbohydrates.",
+"exZh": "米飯的碳水化合物含量高。"
+},
+{
+"w": "carve",
+"p": "v.",
+"zh": "切分",
+"ex": "The chef carved the roast at the table.",
+"exZh": "主廚在桌邊切分烤肉。"
+},
+{
+"w": "casserole",
+"p": "n.",
+"zh": "燉菜",
+"ex": "The casserole feeds six people.",
+"exZh": "這道燉菜可供六人食用。"
+},
+{
+"w": "caterer",
+"p": "n.",
+"zh": "外燴業者",
+"ex": "The caterer arrived at eleven.",
+"exZh": "外燴業者十一點抵達。"
+},
+{
+"w": "chef's special",
+"p": "n.",
+"zh": "主廚推薦",
+"ex": "Ask about the chef's special.",
+"exZh": "請詢問主廚推薦。"
+},
+{
+"w": "chill",
+"p": "v.",
+"zh": "冰鎮",
+"ex": "Chill the wine before serving.",
+"exZh": "上桌前先把酒冰鎮。"
+},
+{
+"w": "chop",
+"p": "v.",
+"zh": "切碎",
+"ex": "Chop the onions finely.",
+"exZh": "請把洋蔥切碎。"
+},
+{
+"w": "cinnamon",
+"p": "n.",
+"zh": "肉桂",
+"ex": "A pinch of cinnamon adds warmth.",
+"exZh": "一撮肉桂增添溫暖風味。"
+},
+{
+"w": "coarse",
+"p": "adj.",
+"zh": "粗的",
+"ex": "Use coarse salt for the crust.",
+"exZh": "外皮請用粗鹽。"
+},
+{
+"w": "condense",
+"p": "v.",
+"zh": "濃縮",
+"ex": "The sauce condenses as it cooks.",
+"exZh": "醬汁在烹煮時會濃縮。"
+},
+{
+"w": "consume",
+"p": "v.",
+"zh": "食用",
+"ex": "Consume within three days of opening.",
+"exZh": "開封後請於三天內食用。"
+},
+{
+"w": "crisp",
+"p": "adj.",
+"zh": "酥脆的",
+"ex": "The crust should be crisp.",
+"exZh": "外皮應該要酥脆。"
+},
+{
+"w": "crust",
+"p": "n.",
+"zh": "外皮",
+"ex": "The crust turned golden brown.",
+"exZh": "外皮呈現金黃色。"
+},
+{
+"w": "dairy",
+"p": "n.",
+"zh": "乳製品",
+"ex": "Dairy products are stored separately.",
+"exZh": "乳製品分開存放。"
+},
+{
+"w": "delicious",
+"p": "adj.",
+"zh": "美味的",
+"ex": "Everything on the menu looks delicious.",
+"exZh": "菜單上每樣看起來都很美味。"
+},
+{
+"w": "dice",
+"p": "v.",
+"zh": "切丁",
+"ex": "Dice the carrots into small cubes.",
+"exZh": "把紅蘿蔔切成小丁。"
+},
+{
+"w": "diet",
+"p": "n.",
+"zh": "飲食",
+"ex": "A balanced diet supports recovery.",
+"exZh": "均衡飲食有助康復。"
+},
+{
+"w": "dilute",
+"p": "v.",
+"zh": "稀釋",
+"ex": "Dilute the concentrate with water.",
+"exZh": "請用水稀釋濃縮液。"
+},
+{
+"w": "dough",
+"p": "n.",
+"zh": "麵團",
+"ex": "Let the dough rise for an hour.",
+"exZh": "讓麵團發酵一小時。"
+},
+{
+"w": "drain",
+"p": "v.",
+"zh": "瀝乾",
+"ex": "Drain the pasta thoroughly.",
+"exZh": "把義大利麵徹底瀝乾。"
+},
+{
+"w": "edible",
+"p": "adj.",
+"zh": "可食用的",
+"ex": "The flowers are edible.",
+"exZh": "這些花是可食用的。"
+},
+{
+"w": "edible oil",
+"p": "n.",
+"zh": "食用油",
+"ex": "Edible oil prices rose sharply.",
+"exZh": "食用油價格大幅上漲。"
+},
+{
+"w": "entree option",
+"p": "n.",
+"zh": "主餐選項",
+"ex": "Three entree options are offered.",
+"exZh": "提供三種主餐選項。"
+},
+{
+"w": "expiration date",
+"p": "n.",
+"zh": "有效日期",
+"ex": "Check the expiration date carefully.",
+"exZh": "請仔細檢查有效日期。"
+},
+{
+"w": "ferment",
+"p": "v.",
+"zh": "發酵",
+"ex": "The cabbage ferments for two weeks.",
+"exZh": "高麗菜發酵兩週。"
+},
+{
+"w": "fiber",
+"p": "n.",
+"zh": "纖維",
+"ex": "Whole grains are high in fiber.",
+"exZh": "全穀類纖維含量高。"
+},
+{
+"w": "fillet",
+"p": "n.",
+"zh": "魚肉片",
+"ex": "The fillet is boneless.",
+"exZh": "這片魚肉沒有骨頭。"
+},
+{
+"w": "flavoring",
+"p": "n.",
+"zh": "調味料",
+"ex": "Natural flavoring is used throughout.",
+"exZh": "全程使用天然調味料。"
+},
+{
+"w": "flavour",
+"p": "n.",
+"zh": "口味",
+"ex": "The flavour deepens overnight.",
+"exZh": "放一晚後口味更深沉。"
+},
+{
+"w": "freeze",
+"p": "v.",
+"zh": "冷凍",
+"ex": "Freeze the portions individually.",
+"exZh": "請分份冷凍。"
+},
+{
+"w": "fresh produce",
+"p": "n.",
+"zh": "生鮮蔬果",
+"ex": "Fresh produce arrives every morning.",
+"exZh": "生鮮蔬果每天早上到貨。"
+},
+{
+"w": "frozen",
+"p": "adj.",
+"zh": "冷凍的",
+"ex": "Frozen items keep for six months.",
+"exZh": "冷凍品可保存六個月。"
+},
+{
+"w": "fry",
+"p": "v.",
+"zh": "油炸",
+"ex": "Fry the fish until golden.",
+"exZh": "把魚炸到金黃。"
+},
+{
+"w": "garnishing",
+"p": "n.",
+"zh": "裝盤",
+"ex": "Garnishing is done at the last moment.",
+"exZh": "裝盤在最後一刻進行。"
+},
+{
+"w": "gluten",
+"p": "n.",
+"zh": "麩質",
+"ex": "Gluten-free options are marked.",
+"exZh": "無麩質選項已標示。"
+},
+{
+"w": "grain",
+"p": "n.",
+"zh": "穀物",
+"ex": "Whole grains form the base of the diet.",
+"exZh": "全穀物是這種飲食的基礎。"
+},
+{
+"w": "grate",
+"p": "v.",
+"zh": "磨碎",
+"ex": "Grate the cheese over the pasta.",
+"exZh": "把起司磨碎撒在義大利麵上。"
+},
+{
+"w": "grill",
+"p": "v.",
+"zh": "燒烤",
+"ex": "Grill the vegetables for six minutes.",
+"exZh": "蔬菜燒烤六分鐘。"
+},
+{
+"w": "grocer",
+"p": "n.",
+"zh": "食品雜貨商",
+"ex": "The local grocer sources regionally.",
+"exZh": "當地雜貨商在地採購。"
+},
+{
+"w": "hearty",
+"p": "adj.",
+"zh": "豐盛的",
+"ex": "A hearty stew suits cold weather.",
+"exZh": "豐盛的燉菜適合寒冷天氣。"
+},
+{
+"w": "herb",
+"p": "n.",
+"zh": "香草",
+"ex": "Fresh herbs are grown on the roof.",
+"exZh": "新鮮香草種在屋頂上。"
+},
+{
+"w": "homemade",
+"p": "adj.",
+"zh": "自製的",
+"ex": "The bread is homemade daily.",
+"exZh": "麵包每日自製。"
+},
+{
+"w": "hygienic",
+"p": "adj.",
+"zh": "衛生的",
+"ex": "Hygienic handling is essential.",
+"exZh": "衛生的處理方式至關重要。"
+},
+{
+"w": "ingredient list",
+"p": "n.",
+"zh": "成分表",
+"ex": "The ingredient list is on the back.",
+"exZh": "成分表在背面。"
+},
+{
+"w": "kitchenware",
+"p": "n.",
+"zh": "廚具",
+"ex": "Kitchenware is sold on the third floor.",
+"exZh": "廚具在三樓販售。"
+},
+{
+"w": "knead",
+"p": "v.",
+"zh": "揉捏",
+"ex": "Knead the dough for ten minutes.",
+"exZh": "把麵團揉捏十分鐘。"
+},
+{
+"w": "ladle",
+"p": "n.",
+"zh": "湯杓",
+"ex": "Use a ladle to serve the soup.",
+"exZh": "請用湯杓盛湯。"
+},
+{
+"w": "leftover",
+"p": "n.",
+"zh": "剩餘食物",
+"ex": "Store leftovers within two hours.",
+"exZh": "剩餘食物請在兩小時內冷藏。"
+},
+{
+"w": "marinade",
+"p": "n.",
+"zh": "醃料",
+"ex": "The marinade includes citrus and garlic.",
+"exZh": "醃料含柑橘與大蒜。"
+},
+{
+"w": "menu item",
+"p": "n.",
+"zh": "菜單品項",
+"ex": "Two menu items were discontinued.",
+"exZh": "有兩項菜單品項停售。"
+},
+{
+"w": "mince",
+"p": "v.",
+"zh": "絞碎",
+"ex": "Mince the garlic before frying.",
+"exZh": "下鍋前把大蒜絞碎。"
+},
+{
+"w": "moisture",
+"p": "n.",
+"zh": "水分",
+"ex": "Cover to retain moisture.",
+"exZh": "加蓋以保留水分。"
+},
+{
+"w": "nourishing",
+"p": "adj.",
+"zh": "滋養的",
+"ex": "The soup is light but nourishing.",
+"exZh": "這湯清淡卻滋養。"
+},
+{
+"w": "nutrient",
+"p": "n.",
+"zh": "營養素",
+"ex": "Vegetables provide essential nutrients.",
+"exZh": "蔬菜提供必需營養素。"
+},
+{
+"w": "nutritional",
+"p": "adj.",
+"zh": "營養的",
+"ex": "Nutritional labels are mandatory.",
+"exZh": "營養標示為強制規定。"
+},
+{
+"w": "organic produce",
+"p": "n.",
+"zh": "有機農產",
+"ex": "Organic produce costs more.",
+"exZh": "有機農產價格較高。"
+},
+{
+"w": "palate",
+"p": "n.",
+"zh": "味覺",
+"ex": "The wine suits a delicate palate.",
+"exZh": "這款酒適合細緻的味覺。"
+},
+{
+"w": "pantry staple",
+"p": "n.",
+"zh": "常備食材",
+"ex": "Rice is a pantry staple here.",
+"exZh": "米是這裡的常備食材。"
+},
+{
+"w": "pastry",
+"p": "n.",
+"zh": "酥皮點心",
+"ex": "The pastry is baked fresh each morning.",
+"exZh": "酥皮點心每早新鮮烘焙。"
+},
+{
+"w": "peel",
+"p": "v.",
+"zh": "削皮",
+"ex": "Peel the potatoes before boiling.",
+"exZh": "水煮前先把馬鈴薯削皮。"
+},
+{
+"w": "portion size",
+"p": "n.",
+"zh": "份量大小",
+"ex": "Portion sizes were reduced slightly.",
+"exZh": "份量大小略微縮減。"
+},
+{
+"w": "poultry",
+"p": "n.",
+"zh": "禽肉",
+"ex": "Poultry must be cooked thoroughly.",
+"exZh": "禽肉必須徹底煮熟。"
+},
+{
+"w": "preheat",
+"p": "v.",
+"zh": "預熱",
+"ex": "Preheat the oven to 200 degrees.",
+"exZh": "請把烤箱預熱到兩百度。"
+},
+{
+"w": "preparation",
+"p": "n.",
+"zh": "備料",
+"ex": "Preparation takes about thirty minutes.",
+"exZh": "備料約需三十分鐘。"
+},
+{
+"w": "preservative",
+"p": "n.",
+"zh": "防腐劑",
+"ex": "The sauce contains no preservatives.",
+"exZh": "該醬料不含防腐劑。"
+},
+{
+"w": "preserve",
+"p": "v.",
+"zh": "保存",
+"ex": "Salt was traditionally used to preserve fish.",
+"exZh": "傳統上用鹽保存魚類。"
+},
+{
+"w": "protein",
+"p": "n.",
+"zh": "蛋白質",
+"ex": "Beans are a good source of protein.",
+"exZh": "豆類是良好的蛋白質來源。"
+},
+{
+"w": "puree",
+"p": "n./v.",
+"zh": "泥狀物",
+"ex": "Puree the soup until smooth.",
+"exZh": "把湯打成滑順的泥狀。"
+},
+{
+"w": "raw",
+"p": "adj.",
+"zh": "生的",
+"ex": "Raw fish must be very fresh.",
+"exZh": "生魚必須非常新鮮。"
+},
+{
+"w": "ready-made",
+"p": "adj.",
+"zh": "現成的",
+"ex": "Ready-made sauces save time.",
+"exZh": "現成醬料能節省時間。"
+},
+{
+"w": "recipe card",
+"p": "n.",
+"zh": "食譜卡",
+"ex": "A recipe card comes with the kit.",
+"exZh": "食譜卡隨組合附上。"
+},
+{
+"w": "refill station",
+"p": "n.",
+"zh": "續杯區",
+"ex": "A refill station is by the entrance.",
+"exZh": "續杯區在入口旁。"
+},
+{
+"w": "refrigerate",
+"p": "v.",
+"zh": "冷藏",
+"ex": "Refrigerate after opening.",
+"exZh": "開封後請冷藏。"
+},
+{
+"w": "rinse",
+"p": "v.",
+"zh": "沖洗",
+"ex": "Rinse the rice twice.",
+"exZh": "把米沖洗兩次。"
+},
+{
+"w": "ripe",
+"p": "adj.",
+"zh": "成熟的",
+"ex": "The fruit is not quite ripe.",
+"exZh": "水果還沒完全成熟。"
+},
+{
+"w": "roast",
+"p": "v.",
+"zh": "烘烤",
+"ex": "Roast the chicken for an hour.",
+"exZh": "雞肉烘烤一小時。"
+},
+{
+"w": "saute",
+"p": "v.",
+"zh": "嫩煎",
+"ex": "Saute the mushrooms in butter.",
+"exZh": "用奶油嫩煎蘑菇。"
+},
+{
+"w": "savory",
+"p": "adj.",
+"zh": "鹹香的",
+"ex": "The pie has a savory filling.",
+"exZh": "這個派有鹹香的內餡。"
+},
+{
+"w": "seasonal produce",
+"p": "n.",
+"zh": "時令蔬果",
+"ex": "The menu highlights seasonal produce.",
+"exZh": "菜單主打時令蔬果。"
+},
+{
+"w": "seasoned",
+"p": "adj.",
+"zh": "調過味的",
+"ex": "The meat is lightly seasoned.",
+"exZh": "肉品經過輕度調味。"
+},
+{
+"w": "serving suggestion",
+"p": "n.",
+"zh": "建議吃法",
+"ex": "The photo shows a serving suggestion.",
+"exZh": "照片為建議吃法。"
+},
+{
+"w": "shred",
+"p": "v.",
+"zh": "切絲",
+"ex": "Shred the lettuce for the salad.",
+"exZh": "把生菜切絲做沙拉。"
+},
+{
+"w": "sieve",
+"p": "n.",
+"zh": "篩網",
+"ex": "Pass the sauce through a sieve.",
+"exZh": "把醬汁過篩。"
+},
+{
+"w": "simmer",
+"p": "v.",
+"zh": "慢燉",
+"ex": "Simmer gently for twenty minutes.",
+"exZh": "以小火慢燉二十分鐘。"
+},
+{
+"w": "skillet",
+"p": "n.",
+"zh": "平底鍋",
+"ex": "Heat the skillet before adding oil.",
+"exZh": "下油前先把平底鍋加熱。"
+},
+{
+"w": "slice",
+"p": "v.",
+"zh": "切片",
+"ex": "Slice the bread thinly.",
+"exZh": "把麵包切成薄片。"
+},
+{
+"w": "smoked",
+"p": "adj.",
+"zh": "煙燻的",
+"ex": "Smoked salmon is a house favorite.",
+"exZh": "煙燻鮭魚是店內熱門品項。"
+},
+{
+"w": "sour",
+"p": "adj.",
+"zh": "酸的",
+"ex": "The sauce is slightly sour.",
+"exZh": "醬汁略帶酸味。"
+},
+{
+"w": "spice",
+"p": "n.",
+"zh": "香料",
+"ex": "The dish uses five spices.",
+"exZh": "這道菜使用五種香料。"
+},
+{
+"w": "spicy",
+"p": "adj.",
+"zh": "辛辣的",
+"ex": "The dish is mildly spicy.",
+"exZh": "這道菜微辣。"
+},
+{
+"w": "spoil",
+"p": "v.",
+"zh": "腐壞",
+"ex": "Milk spoils quickly in heat.",
+"exZh": "牛奶在高溫下很快腐壞。"
+},
+{
+"w": "sprinkle",
+"p": "v.",
+"zh": "撒",
+"ex": "Sprinkle salt over the top.",
+"exZh": "在上面撒些鹽。"
+},
+{
+"w": "staple",
+"p": "n.",
+"zh": "主食",
+"ex": "Bread is a staple in this region.",
+"exZh": "麵包是這個地區的主食。"
+},
+{
+"w": "steam",
+"p": "v.",
+"zh": "蒸",
+"ex": "Steam the fish for eight minutes.",
+"exZh": "魚蒸八分鐘。"
+},
+{
+"w": "stew",
+"p": "n.",
+"zh": "燉煮料理",
+"ex": "The stew improves the next day.",
+"exZh": "這道燉菜隔天更好吃。"
+},
+{
+"w": "stir",
+"p": "v.",
+"zh": "攪拌",
+"ex": "Stir constantly to avoid burning.",
+"exZh": "請不斷攪拌以免燒焦。"
+},
+{
+"w": "substitute ingredient",
+"p": "n.",
+"zh": "替代食材",
+"ex": "A substitute ingredient was used.",
+"exZh": "使用了替代食材。"
+},
+{
+"w": "sweeten",
+"p": "v.",
+"zh": "加甜",
+"ex": "Sweeten with honey if needed.",
+"exZh": "需要的話用蜂蜜加甜。"
+},
+{
+"w": "tasting session",
+"p": "n.",
+"zh": "試吃會",
+"ex": "A tasting session was held on Friday.",
+"exZh": "週五舉辦了試吃會。"
+},
+{
+"w": "texture",
+"p": "n.",
+"zh": "口感",
+"ex": "The texture should stay crunchy.",
+"exZh": "口感應該保持脆度。"
+},
+{
+"w": "thaw",
+"p": "v.",
+"zh": "解凍",
+"ex": "Thaw the meat in the refrigerator.",
+"exZh": "請在冰箱裡解凍肉品。"
+},
+{
+"w": "utensil rack",
+"p": "n.",
+"zh": "器具架",
+"ex": "Utensils hang on the rack.",
+"exZh": "器具掛在架子上。"
+},
+{
+"w": "vegetarian dish",
+"p": "n.",
+"zh": "素食料理",
+"ex": "Two vegetarian dishes are available.",
+"exZh": "有兩道素食料理可選。"
+},
+{
+"w": "vinegar",
+"p": "n.",
+"zh": "醋",
+"ex": "Add a splash of vinegar.",
+"exZh": "加一點醋。"
+},
+{
+"w": "whisk",
+"p": "v.",
+"zh": "打發",
+"ex": "Whisk the eggs until frothy.",
+"exZh": "把蛋打發到起泡。"
+},
+{
+"w": "wholesome",
+"p": "adj.",
+"zh": "健康有益的",
+"ex": "The menu focuses on wholesome meals.",
+"exZh": "菜單著重健康有益的餐點。"
+},
+{
+"w": "yeast",
+"p": "n.",
+"zh": "酵母",
+"ex": "The yeast needs warm water.",
+"exZh": "酵母需要溫水。"
+}
+]
+}

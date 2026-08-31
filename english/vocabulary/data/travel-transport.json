@@ -1,0 +1,749 @@
+{
+"id": "travel-transport",
+"name": "旅遊與交通",
+"nameEn": "Travel & Transportation",
+"words": [
+{
+"w": "aboard",
+"p": "adv./prep.",
+"zh": "在（車、船、機）上",
+"ex": "Welcome aboard flight 302.",
+"exZh": "歡迎搭乘 302 號班機。"
+},
+{
+"w": "adjacent",
+"p": "adj.",
+"zh": "相鄰的",
+"ex": "The hotel is adjacent to the station.",
+"exZh": "飯店與車站相鄰。"
+},
+{
+"w": "airborne",
+"p": "adj.",
+"zh": "升空的",
+"ex": "We were airborne within minutes.",
+"exZh": "我們幾分鐘內就升空了。"
+},
+{
+"w": "airfare",
+"p": "n.",
+"zh": "機票價",
+"ex": "Airfare rises sharply during holidays.",
+"exZh": "假期期間機票價大幅上漲。"
+},
+{
+"w": "airline",
+"p": "n.",
+"zh": "航空公司",
+"ex": "The airline waived the change fee.",
+"exZh": "航空公司免除了更改費。"
+},
+{
+"w": "airport",
+"p": "n.",
+"zh": "機場",
+"ex": "The airport handles 40 million passengers.",
+"exZh": "該機場年運量四千萬人次。"
+},
+{
+"w": "aisle",
+"p": "n.",
+"zh": "走道",
+"ex": "I prefer an aisle seat.",
+"exZh": "我偏好走道座位。"
+},
+{
+"w": "altitude",
+"p": "n.",
+"zh": "高度",
+"ex": "We are cruising at 35,000 feet altitude.",
+"exZh": "我們在三萬五千英尺高度巡航。"
+},
+{
+"w": "amenity",
+"p": "n.",
+"zh": "便利設施",
+"ex": "The lounge offers several amenities.",
+"exZh": "該候機室提供多項便利設施。"
+},
+{
+"w": "arrival",
+"p": "n.",
+"zh": "抵達",
+"ex": "Arrival is scheduled for 6:40 p.m.",
+"exZh": "抵達時間排定於晚間六點四十分。"
+},
+{
+"w": "attendant",
+"p": "n.",
+"zh": "服務員",
+"ex": "A flight attendant assisted the passenger.",
+"exZh": "一名空服員協助了乘客。"
+},
+{
+"w": "avenue",
+"p": "n.",
+"zh": "大道",
+"ex": "The museum is on Fifth Avenue.",
+"exZh": "博物館在第五大道上。"
+},
+{
+"w": "baggage",
+"p": "n.",
+"zh": "行李",
+"ex": "Baggage allowance is 23 kilograms.",
+"exZh": "行李額度為二十三公斤。"
+},
+{
+"w": "boarding",
+"p": "n.",
+"zh": "登機",
+"ex": "Boarding begins thirty minutes before departure.",
+"exZh": "登機於起飛前三十分鐘開始。"
+},
+{
+"w": "boarding pass",
+"p": "n.",
+"zh": "登機證",
+"ex": "Show your boarding pass at the gate.",
+"exZh": "請在登機門出示登機證。"
+},
+{
+"w": "booking",
+"p": "n.",
+"zh": "訂位",
+"ex": "Your booking has been confirmed.",
+"exZh": "你的訂位已確認。"
+},
+{
+"w": "border",
+"p": "n.",
+"zh": "邊境",
+"ex": "Border formalities were quick.",
+"exZh": "邊境手續很快完成。"
+},
+{
+"w": "boulevard",
+"p": "n.",
+"zh": "林蔭大道",
+"ex": "A wide boulevard leads to the palace.",
+"exZh": "一條寬闊的林蔭大道通往宮殿。"
+},
+{
+"w": "cabin",
+"p": "n.",
+"zh": "客艙",
+"ex": "The cabin crew served refreshments.",
+"exZh": "客艙組員供應了點心。"
+},
+{
+"w": "cancellation fee",
+"p": "n.",
+"zh": "取消費",
+"ex": "A cancellation fee applies after Monday.",
+"exZh": "週一之後取消須付取消費。"
+},
+{
+"w": "carousel",
+"p": "n.",
+"zh": "行李轉盤",
+"ex": "Bags arrive at carousel four.",
+"exZh": "行李於四號轉盤送出。"
+},
+{
+"w": "carrier bag",
+"p": "n.",
+"zh": "提袋",
+"ex": "A carrier bag is provided at check-in.",
+"exZh": "報到時會提供提袋。"
+},
+{
+"w": "carry-on",
+"p": "n.",
+"zh": "隨身行李",
+"ex": "Carry-on bags must fit the sizer.",
+"exZh": "隨身行李須符合尺寸框。"
+},
+{
+"w": "charter",
+"p": "n.",
+"zh": "包機",
+"ex": "A charter flight served the group.",
+"exZh": "一架包機服務該團體。"
+},
+{
+"w": "commuter",
+"p": "n.",
+"zh": "通勤者",
+"ex": "Commuters face longer journeys this week.",
+"exZh": "通勤者本週面臨較長的通勤時間。"
+},
+{
+"w": "concourse",
+"p": "n.",
+"zh": "大廳",
+"ex": "The concourse was crowded at rush hour.",
+"exZh": "尖峰時段大廳很擁擠。"
+},
+{
+"w": "confirmation number",
+"p": "n.",
+"zh": "訂位代號",
+"ex": "Quote your confirmation number when calling.",
+"exZh": "來電時請提供訂位代號。"
+},
+{
+"w": "connection",
+"p": "n.",
+"zh": "轉機",
+"ex": "A tight connection risks missing the flight.",
+"exZh": "轉機時間太趕有可能錯過班機。"
+},
+{
+"w": "convenience",
+"p": "n.",
+"zh": "便利",
+"ex": "The location offers great convenience.",
+"exZh": "該地點非常便利。"
+},
+{
+"w": "crew",
+"p": "n.",
+"zh": "機組人員",
+"ex": "The crew handled the situation calmly.",
+"exZh": "機組人員冷靜處理了狀況。"
+},
+{
+"w": "crossing",
+"p": "n.",
+"zh": "渡口；穿越",
+"ex": "The crossing takes forty minutes.",
+"exZh": "渡程需要四十分鐘。"
+},
+{
+"w": "cruise",
+"p": "n./v.",
+"zh": "郵輪",
+"ex": "The cruise stops at five ports.",
+"exZh": "該郵輪停靠五個港口。"
+},
+{
+"w": "currency exchange",
+"p": "n.",
+"zh": "外幣兌換",
+"ex": "Currency exchange is on the ground floor.",
+"exZh": "外幣兌換在一樓。"
+},
+{
+"w": "customs declaration",
+"p": "n.",
+"zh": "海關申報",
+"ex": "Complete the customs declaration before landing.",
+"exZh": "請在降落前完成海關申報。"
+},
+{
+"w": "depart",
+"p": "v.",
+"zh": "出發",
+"ex": "The coach departs at seven sharp.",
+"exZh": "遊覽車七點整出發。"
+},
+{
+"w": "departure",
+"p": "n.",
+"zh": "出發",
+"ex": "Departure was moved up by an hour.",
+"exZh": "出發時間提早了一小時。"
+},
+{
+"w": "destination card",
+"p": "n.",
+"zh": "入境卡",
+"ex": "Fill in the destination card on board.",
+"exZh": "請在機上填寫入境卡。"
+},
+{
+"w": "detour",
+"p": "n.",
+"zh": "繞道",
+"ex": "A detour added twenty minutes.",
+"exZh": "繞道多花了二十分鐘。"
+},
+{
+"w": "disembark",
+"p": "v.",
+"zh": "下船；下機",
+"ex": "Passengers disembark from the front door.",
+"exZh": "旅客由前門下機。"
+},
+{
+"w": "domestic",
+"p": "adj.",
+"zh": "國內的",
+"ex": "Domestic flights use terminal one.",
+"exZh": "國內線使用第一航廈。"
+},
+{
+"w": "downtown",
+"p": "n./adv.",
+"zh": "市中心",
+"ex": "The hotel is ten minutes from downtown.",
+"exZh": "飯店距市中心十分鐘。"
+},
+{
+"w": "duty-free",
+"p": "adj.",
+"zh": "免稅的",
+"ex": "Duty-free shops open before six.",
+"exZh": "免稅商店六點前開門。"
+},
+{
+"w": "embark",
+"p": "v.",
+"zh": "登船",
+"ex": "Passengers embark at noon.",
+"exZh": "旅客於中午登船。"
+},
+{
+"w": "en route",
+"p": "adv.",
+"zh": "途中",
+"ex": "We stopped twice en route.",
+"exZh": "我們途中停了兩次。"
+},
+{
+"w": "escalator",
+"p": "n.",
+"zh": "電扶梯",
+"ex": "Take the escalator to the upper level.",
+"exZh": "請搭電扶梯到上層。"
+},
+{
+"w": "excess",
+"p": "adj.",
+"zh": "超額的",
+"ex": "Excess baggage charges apply.",
+"exZh": "超額行李須付費。"
+},
+{
+"w": "excursion",
+"p": "n.",
+"zh": "短程旅遊",
+"ex": "A half-day excursion is optional.",
+"exZh": "半日短程旅遊為選配。"
+},
+{
+"w": "excursion fare",
+"p": "n.",
+"zh": "優惠票價",
+"ex": "Excursion fares require advance booking.",
+"exZh": "優惠票價需提前訂購。"
+},
+{
+"w": "expedition",
+"p": "n.",
+"zh": "探險旅程",
+"ex": "The expedition lasted three weeks.",
+"exZh": "該探險旅程持續三週。"
+},
+{
+"w": "fare",
+"p": "n.",
+"zh": "車資",
+"ex": "The fare increased in January.",
+"exZh": "車資於一月調漲。"
+},
+{
+"w": "fasten",
+"p": "v.",
+"zh": "繫緊",
+"ex": "Please fasten your seat belt.",
+"exZh": "請繫緊安全帶。"
+},
+{
+"w": "ferry",
+"p": "n.",
+"zh": "渡輪",
+"ex": "The ferry runs every two hours.",
+"exZh": "渡輪每兩小時一班。"
+},
+{
+"w": "flight",
+"p": "n.",
+"zh": "航班",
+"ex": "The flight was fully booked.",
+"exZh": "該航班已客滿。"
+},
+{
+"w": "freeway",
+"p": "n.",
+"zh": "高速公路",
+"ex": "The freeway was closed for repairs.",
+"exZh": "高速公路因維修封閉。"
+},
+{
+"w": "gate",
+"p": "n.",
+"zh": "登機門",
+"ex": "The gate changed to B12.",
+"exZh": "登機門改為 B12。"
+},
+{
+"w": "gateway city",
+"p": "n.",
+"zh": "門戶城市",
+"ex": "The gateway city links three regions.",
+"exZh": "該門戶城市連接三個地區。"
+},
+{
+"w": "guide",
+"p": "n.",
+"zh": "導遊",
+"ex": "A local guide led the walking tour.",
+"exZh": "一位當地導遊帶領步行導覽。"
+},
+{
+"w": "hospitality",
+"p": "n.",
+"zh": "款待",
+"ex": "Local hospitality impressed the visitors.",
+"exZh": "當地的款待讓訪客印象深刻。"
+},
+{
+"w": "hostel",
+"p": "n.",
+"zh": "青年旅舍",
+"ex": "The hostel offers shared rooms.",
+"exZh": "該青年旅舍提供多人房。"
+},
+{
+"w": "immigration",
+"p": "n.",
+"zh": "入境查驗",
+"ex": "Immigration lines were surprisingly short.",
+"exZh": "入境查驗排隊意外地短。"
+},
+{
+"w": "intersection",
+"p": "n.",
+"zh": "路口",
+"ex": "Turn left at the next intersection.",
+"exZh": "請在下個路口左轉。"
+},
+{
+"w": "journey",
+"p": "n.",
+"zh": "旅程",
+"ex": "The journey takes about six hours.",
+"exZh": "該旅程約需六小時。"
+},
+{
+"w": "landing",
+"p": "n.",
+"zh": "降落",
+"ex": "The landing was delayed by fog.",
+"exZh": "降落因霧而延遲。"
+},
+{
+"w": "landmark",
+"p": "n.",
+"zh": "地標",
+"ex": "The tower is the city's best-known landmark.",
+"exZh": "該塔是這座城市最知名的地標。"
+},
+{
+"w": "layover",
+"p": "n.",
+"zh": "轉機停留",
+"ex": "We have a three-hour layover in Dubai.",
+"exZh": "我們在杜拜有三小時轉機停留。"
+},
+{
+"w": "lodging",
+"p": "n.",
+"zh": "住處",
+"ex": "Lodging near the venue is limited.",
+"exZh": "會場附近的住處有限。"
+},
+{
+"w": "lounge",
+"p": "n.",
+"zh": "貴賓室",
+"ex": "Lounge access is included with the fare.",
+"exZh": "票價含貴賓室使用權。"
+},
+{
+"w": "luggage",
+"p": "n.",
+"zh": "行李（不可數）",
+"ex": "Excess luggage incurs a fee.",
+"exZh": "超重行李須付費。"
+},
+{
+"w": "motorway",
+"p": "n.",
+"zh": "快速道路",
+"ex": "The motorway extends to the coast.",
+"exZh": "該快速道路延伸至海岸。"
+},
+{
+"w": "occupancy",
+"p": "n.",
+"zh": "入住率",
+"ex": "Hotel occupancy reached 90 percent.",
+"exZh": "飯店入住率達九成。"
+},
+{
+"w": "occupant",
+"p": "n.",
+"zh": "乘坐者",
+"ex": "Each occupant must wear a seat belt.",
+"exZh": "每位乘坐者都必須繫安全帶。"
+},
+{
+"w": "onboard",
+"p": "adj.",
+"zh": "機上的",
+"ex": "Onboard meals are complimentary.",
+"exZh": "機上餐點免費提供。"
+},
+{
+"w": "overbook",
+"p": "v.",
+"zh": "超賣",
+"ex": "The flight was overbooked by six seats.",
+"exZh": "該班機超賣了六個座位。"
+},
+{
+"w": "overnight",
+"p": "adj.",
+"zh": "過夜的",
+"ex": "An overnight train links the two cities.",
+"exZh": "一班夜車連接這兩座城市。"
+},
+{
+"w": "passenger",
+"p": "n.",
+"zh": "乘客",
+"ex": "Passengers should arrive two hours early.",
+"exZh": "乘客應提早兩小時到達。"
+},
+{
+"w": "passport",
+"p": "n.",
+"zh": "護照",
+"ex": "Your passport must be valid six months.",
+"exZh": "護照效期須有六個月。"
+},
+{
+"w": "peak season",
+"p": "n.",
+"zh": "旺季",
+"ex": "Rates double during peak season.",
+"exZh": "旺季房價翻倍。"
+},
+{
+"w": "pedestrian",
+"p": "n.",
+"zh": "行人",
+"ex": "The street is reserved for pedestrians.",
+"exZh": "這條街為行人專用。"
+},
+{
+"w": "pier",
+"p": "n.",
+"zh": "碼頭",
+"ex": "The boat leaves from pier nine.",
+"exZh": "船從九號碼頭出發。"
+},
+{
+"w": "railway",
+"p": "n.",
+"zh": "鐵路",
+"ex": "The railway connects six provinces.",
+"exZh": "該鐵路連接六個省份。"
+},
+{
+"w": "rental",
+"p": "n.",
+"zh": "租賃",
+"ex": "Car rental requires a valid license.",
+"exZh": "租車需要有效駕照。"
+},
+{
+"w": "reservation",
+"p": "n.",
+"zh": "預訂",
+"ex": "I made a reservation for two nights.",
+"exZh": "我預訂了兩晚。"
+},
+{
+"w": "resort",
+"p": "n.",
+"zh": "度假村",
+"ex": "The resort has three restaurants.",
+"exZh": "該度假村有三間餐廳。"
+},
+{
+"w": "roundtrip",
+"p": "n.",
+"zh": "來回",
+"ex": "A roundtrip ticket costs less.",
+"exZh": "來回票較便宜。"
+},
+{
+"w": "scenic",
+"p": "adj.",
+"zh": "風景優美的",
+"ex": "The scenic route takes an extra hour.",
+"exZh": "風景路線多花一小時。"
+},
+{
+"w": "seatbelt",
+"p": "n.",
+"zh": "安全帶",
+"ex": "Keep your seatbelt fastened when seated.",
+"exZh": "就座時請繫好安全帶。"
+},
+{
+"w": "shuttle",
+"p": "n.",
+"zh": "接駁車",
+"ex": "A free shuttle runs to the terminal.",
+"exZh": "有免費接駁車前往航廈。"
+},
+{
+"w": "shuttle bus",
+"p": "n.",
+"zh": "接駁巴士",
+"ex": "The shuttle bus runs every fifteen minutes.",
+"exZh": "接駁巴士每十五分鐘一班。"
+},
+{
+"w": "sightseeing",
+"p": "n.",
+"zh": "觀光",
+"ex": "Sightseeing is planned for the afternoon.",
+"exZh": "觀光安排在下午。"
+},
+{
+"w": "souvenir",
+"p": "n.",
+"zh": "紀念品",
+"ex": "She bought souvenirs at the market.",
+"exZh": "她在市集買了紀念品。"
+},
+{
+"w": "standby",
+"p": "n.",
+"zh": "候補",
+"ex": "She flew standby to Frankfurt.",
+"exZh": "她以候補方式飛往法蘭克福。"
+},
+{
+"w": "stopover",
+"p": "n.",
+"zh": "中途停留",
+"ex": "A one-night stopover is included.",
+"exZh": "含一晚中途停留。"
+},
+{
+"w": "subway",
+"p": "n.",
+"zh": "地鐵",
+"ex": "The subway is the fastest option.",
+"exZh": "地鐵是最快的選擇。"
+},
+{
+"w": "suitcase",
+"p": "n.",
+"zh": "行李箱",
+"ex": "My suitcase did not arrive.",
+"exZh": "我的行李箱沒有到。"
+},
+{
+"w": "terminal building",
+"p": "n.",
+"zh": "航廈大樓",
+"ex": "The terminal building was expanded.",
+"exZh": "航廈大樓已擴建。"
+},
+{
+"w": "ticket",
+"p": "n.",
+"zh": "票",
+"ex": "Tickets are non-refundable.",
+"exZh": "票券不可退款。"
+},
+{
+"w": "timetable",
+"p": "n.",
+"zh": "時刻表",
+"ex": "The timetable changes in summer.",
+"exZh": "時刻表在夏季會變動。"
+},
+{
+"w": "toll",
+"p": "n.",
+"zh": "過路費",
+"ex": "Tolls are collected electronically.",
+"exZh": "過路費以電子方式收取。"
+},
+{
+"w": "tourism",
+"p": "n.",
+"zh": "觀光業",
+"ex": "Tourism accounts for a fifth of income.",
+"exZh": "觀光業佔收入的五分之一。"
+},
+{
+"w": "tourist",
+"p": "n.",
+"zh": "觀光客",
+"ex": "Tourists crowd the old town in July.",
+"exZh": "七月觀光客擠滿舊城區。"
+},
+{
+"w": "transit visa",
+"p": "n.",
+"zh": "過境簽證",
+"ex": "A transit visa is not required.",
+"exZh": "不需要過境簽證。"
+},
+{
+"w": "travel agency",
+"p": "n.",
+"zh": "旅行社",
+"ex": "The travel agency handled the visas.",
+"exZh": "旅行社處理了簽證。"
+},
+{
+"w": "turbulence",
+"p": "n.",
+"zh": "亂流",
+"ex": "Turbulence lasted about ten minutes.",
+"exZh": "亂流持續約十分鐘。"
+},
+{
+"w": "vehicle",
+"p": "n.",
+"zh": "車輛",
+"ex": "Vehicles must yield to pedestrians.",
+"exZh": "車輛必須禮讓行人。"
+},
+{
+"w": "visa",
+"p": "n.",
+"zh": "簽證",
+"ex": "A tourist visa lasts ninety days.",
+"exZh": "觀光簽證效期九十天。"
+},
+{
+"w": "wander",
+"p": "v.",
+"zh": "閒逛",
+"ex": "We wandered through the old quarter.",
+"exZh": "我們在舊城區閒逛。"
+}
+]
+}

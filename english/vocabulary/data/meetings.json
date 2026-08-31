@@ -1,0 +1,980 @@
+{
+"id": "meetings",
+"name": "會議與溝通",
+"nameEn": "Meetings & Communication",
+"words": [
+{
+"w": "abstain",
+"p": "v.",
+"zh": "棄權",
+"ex": "Two board members chose to abstain from the vote.",
+"exZh": "兩位董事選擇在表決中棄權。"
+},
+{
+"w": "accommodate",
+"p": "v.",
+"zh": "容納；配合",
+"ex": "The hall can accommodate up to 200 delegates.",
+"exZh": "大廳最多可容納 200 位與會者。"
+},
+{
+"w": "acknowledge",
+"p": "v.",
+"zh": "承認；確認收到",
+"ex": "Please acknowledge receipt of this notice.",
+"exZh": "請確認收到本通知。"
+},
+{
+"w": "address",
+"p": "v.",
+"zh": "處理；向…發言",
+"ex": "The CEO addressed the concerns directly.",
+"exZh": "執行長直接處理了這些疑慮。"
+},
+{
+"w": "adjourn",
+"p": "v.",
+"zh": "休會；散會",
+"ex": "The chairperson adjourned the meeting at noon.",
+"exZh": "主席於中午宣布休會。"
+},
+{
+"w": "adopt",
+"p": "v.",
+"zh": "採納",
+"ex": "The board adopted the revised charter.",
+"exZh": "董事會採納了修訂後的章程。"
+},
+{
+"w": "advocate",
+"p": "v./n.",
+"zh": "主張；倡導者",
+"ex": "She advocated a phased rollout instead.",
+"exZh": "她主張改採分階段推行。"
+},
+{
+"w": "affirm",
+"p": "v.",
+"zh": "肯定；確認",
+"ex": "The committee affirmed its earlier decision.",
+"exZh": "委員會確認了先前的決定。"
+},
+{
+"w": "agree",
+"p": "v.",
+"zh": "同意",
+"ex": "We agree on the general direction of the plan.",
+"exZh": "我們對計畫的大方向有共識。"
+},
+{
+"w": "agreement",
+"p": "n.",
+"zh": "協議",
+"ex": "Both parties signed the agreement yesterday.",
+"exZh": "雙方昨日簽署了協議。"
+},
+{
+"w": "allot",
+"p": "v.",
+"zh": "分配（時間、份額）",
+"ex": "Ten minutes were allotted to each presenter.",
+"exZh": "每位報告人分配到十分鐘。"
+},
+{
+"w": "amend",
+"p": "v.",
+"zh": "修正",
+"ex": "The motion was amended before the vote.",
+"exZh": "該動議在表決前經過修正。"
+},
+{
+"w": "appoint",
+"p": "v.",
+"zh": "任命",
+"ex": "She was appointed chair of the committee.",
+"exZh": "她被任命為委員會主席。"
+},
+{
+"w": "approve",
+"p": "v.",
+"zh": "批准",
+"ex": "The council approved the funding request.",
+"exZh": "理事會批准了經費申請。"
+},
+{
+"w": "argument",
+"p": "n.",
+"zh": "論點；爭論",
+"ex": "His argument was well supported by data.",
+"exZh": "他的論點有充分的數據支持。"
+},
+{
+"w": "articulate",
+"p": "v./adj.",
+"zh": "清楚表達；口齒清晰的",
+"ex": "She articulated her concerns clearly.",
+"exZh": "她清楚表達了她的疑慮。"
+},
+{
+"w": "assemble",
+"p": "v.",
+"zh": "召集；集合",
+"ex": "The team assembled in the main hall.",
+"exZh": "團隊在主廳集合。"
+},
+{
+"w": "assumption",
+"p": "n.",
+"zh": "假設",
+"ex": "The forecast rests on three assumptions.",
+"exZh": "該預測建立在三個假設之上。"
+},
+{
+"w": "attendee",
+"p": "n.",
+"zh": "出席者",
+"ex": "Each attendee received a name tag.",
+"exZh": "每位出席者都領到名牌。"
+},
+{
+"w": "attentive",
+"p": "adj.",
+"zh": "專注的",
+"ex": "The audience remained attentive throughout.",
+"exZh": "聽眾全程保持專注。"
+},
+{
+"w": "audience",
+"p": "n.",
+"zh": "聽眾",
+"ex": "The audience asked thoughtful questions.",
+"exZh": "聽眾提出了深思熟慮的問題。"
+},
+{
+"w": "authority",
+"p": "n.",
+"zh": "權限；當局",
+"ex": "He does not have the authority to approve it.",
+"exZh": "他沒有批准這件事的權限。"
+},
+{
+"w": "availability",
+"p": "n.",
+"zh": "可用時間",
+"ex": "Please indicate your availability next week.",
+"exZh": "請告知你下週的可用時間。"
+},
+{
+"w": "ballot",
+"p": "n.",
+"zh": "選票；投票",
+"ex": "The decision was made by secret ballot.",
+"exZh": "該決定以無記名投票做成。"
+},
+{
+"w": "brainstorm",
+"p": "v.",
+"zh": "腦力激盪",
+"ex": "Let's brainstorm ideas before narrowing them down.",
+"exZh": "我們先腦力激盪，再收斂想法。"
+},
+{
+"w": "breakout",
+"p": "n.",
+"zh": "分組（會議）",
+"ex": "We will move into breakout groups after lunch.",
+"exZh": "午餐後我們將分組討論。"
+},
+{
+"w": "candid",
+"p": "adj.",
+"zh": "坦率的",
+"ex": "Her candid assessment was appreciated.",
+"exZh": "大家很感謝她坦率的評估。"
+},
+{
+"w": "chairperson",
+"p": "n.",
+"zh": "主席",
+"ex": "The chairperson opened the session promptly.",
+"exZh": "主席準時宣布開會。"
+},
+{
+"w": "circulate",
+"p": "v.",
+"zh": "傳閱；流通",
+"ex": "The draft was circulated to all members.",
+"exZh": "草案已傳閱給所有成員。"
+},
+{
+"w": "cite",
+"p": "v.",
+"zh": "引用",
+"ex": "He cited three studies to support his case.",
+"exZh": "他引用三項研究支持論點。"
+},
+{
+"w": "clarification",
+"p": "n.",
+"zh": "澄清",
+"ex": "He asked for clarification on the second clause.",
+"exZh": "他要求澄清第二項條款。"
+},
+{
+"w": "coherent",
+"p": "adj.",
+"zh": "條理清楚的",
+"ex": "The argument was coherent and well structured.",
+"exZh": "這個論證條理清楚、結構良好。"
+},
+{
+"w": "collaborate",
+"p": "v.",
+"zh": "合作",
+"ex": "The two teams collaborated on the proposal.",
+"exZh": "兩個團隊合作完成提案。"
+},
+{
+"w": "collectively",
+"p": "adv.",
+"zh": "共同地",
+"ex": "The team collectively decided to delay launch.",
+"exZh": "團隊共同決定延後上市。"
+},
+{
+"w": "comment",
+"p": "n./v.",
+"zh": "評論",
+"ex": "Please submit your comments by Friday.",
+"exZh": "請於週五前提交意見。"
+},
+{
+"w": "committee",
+"p": "n.",
+"zh": "委員會",
+"ex": "A steering committee was formed last month.",
+"exZh": "上個月成立了指導委員會。"
+},
+{
+"w": "comprehensive",
+"p": "adj.",
+"zh": "全面的",
+"ex": "She gave a comprehensive overview of the market.",
+"exZh": "她做了全面的市場概述。"
+},
+{
+"w": "compromise",
+"p": "n./v.",
+"zh": "妥協",
+"ex": "Both sides reached a reasonable compromise.",
+"exZh": "雙方達成了合理的妥協。"
+},
+{
+"w": "concern",
+"p": "n./v.",
+"zh": "疑慮；關切",
+"ex": "Several concerns were raised about the timeline.",
+"exZh": "有人對時程提出多項疑慮。"
+},
+{
+"w": "conclude",
+"p": "v.",
+"zh": "結束；作結論",
+"ex": "The chair concluded the meeting with a summary.",
+"exZh": "主席以摘要結束會議。"
+},
+{
+"w": "conclusion",
+"p": "n.",
+"zh": "結論",
+"ex": "The report ends with a clear conclusion.",
+"exZh": "報告以明確的結論作結。"
+},
+{
+"w": "confer",
+"p": "v.",
+"zh": "商議",
+"ex": "The partners conferred before responding.",
+"exZh": "合夥人在回覆前先行商議。"
+},
+{
+"w": "conference",
+"p": "n.",
+"zh": "會議；研討會",
+"ex": "The annual conference will be held in Seoul.",
+"exZh": "年度研討會將在首爾舉行。"
+},
+{
+"w": "consensus",
+"p": "n.",
+"zh": "共識",
+"ex": "We reached a consensus after a long discussion.",
+"exZh": "經過長時間討論我們達成共識。"
+},
+{
+"w": "consideration",
+"p": "n.",
+"zh": "考量",
+"ex": "Cost was the primary consideration.",
+"exZh": "成本是主要的考量。"
+},
+{
+"w": "constructive",
+"p": "adj.",
+"zh": "建設性的",
+"ex": "Please keep the criticism constructive.",
+"exZh": "請讓批評保持建設性。"
+},
+{
+"w": "contribute",
+"p": "v.",
+"zh": "貢獻",
+"ex": "Everyone contributed at least one idea.",
+"exZh": "每個人至少貢獻了一個想法。"
+},
+{
+"w": "convene",
+"p": "v.",
+"zh": "召集；集會",
+"ex": "The board will convene on the first Monday.",
+"exZh": "董事會將於每月第一個週一召開。"
+},
+{
+"w": "convey",
+"p": "v.",
+"zh": "傳達",
+"ex": "The slides convey the message clearly.",
+"exZh": "投影片清楚傳達了訊息。"
+},
+{
+"w": "correspond",
+"p": "v.",
+"zh": "通信；相符",
+"ex": "The figures correspond with the audit report.",
+"exZh": "這些數字與稽核報告相符。"
+},
+{
+"w": "counterpart",
+"p": "n.",
+"zh": "對應人員",
+"ex": "She met her counterpart from the Berlin office.",
+"exZh": "她與柏林辦公室的對應人員會面。"
+},
+{
+"w": "courtesy",
+"p": "n.",
+"zh": "禮貌",
+"ex": "As a courtesy, we notified them in advance.",
+"exZh": "基於禮貌，我們事先通知了他們。"
+},
+{
+"w": "critique",
+"p": "n./v.",
+"zh": "評析",
+"ex": "The design received a detailed critique.",
+"exZh": "該設計獲得了詳細的評析。"
+},
+{
+"w": "debate",
+"p": "n./v.",
+"zh": "辯論",
+"ex": "The proposal sparked a lengthy debate.",
+"exZh": "該提案引發了長時間的辯論。"
+},
+{
+"w": "delegation",
+"p": "n.",
+"zh": "代表團",
+"ex": "A delegation from Japan visited the plant.",
+"exZh": "一個來自日本的代表團參訪了工廠。"
+},
+{
+"w": "deliberate",
+"p": "v./adj.",
+"zh": "審議；深思熟慮的",
+"ex": "The panel deliberated for two hours.",
+"exZh": "評審小組審議了兩小時。"
+},
+{
+"w": "deliverable",
+"p": "n.",
+"zh": "交付項目",
+"ex": "The deliverables are listed in the appendix.",
+"exZh": "交付項目列於附錄。"
+},
+{
+"w": "dialogue",
+"p": "n.",
+"zh": "對話",
+"ex": "An open dialogue improved cooperation.",
+"exZh": "開放的對話改善了合作。"
+},
+{
+"w": "disagree",
+"p": "v.",
+"zh": "不同意",
+"ex": "I respectfully disagree with that estimate.",
+"exZh": "我恭敬地不同意那個估算。"
+},
+{
+"w": "discussion",
+"p": "n.",
+"zh": "討論",
+"ex": "The discussion focused on cost control.",
+"exZh": "討論聚焦於成本控管。"
+},
+{
+"w": "dispute",
+"p": "n./v.",
+"zh": "爭議",
+"ex": "The billing dispute was resolved amicably.",
+"exZh": "帳單爭議已友好解決。"
+},
+{
+"w": "elaborate",
+"p": "v.",
+"zh": "詳細說明",
+"ex": "Could you elaborate on that point?",
+"exZh": "你可以詳細說明那一點嗎？"
+},
+{
+"w": "emphasis",
+"p": "n.",
+"zh": "強調重點",
+"ex": "The emphasis this year is on retention.",
+"exZh": "今年的重點在於留才。"
+},
+{
+"w": "emphasize",
+"p": "v.",
+"zh": "強調",
+"ex": "She emphasized the importance of deadlines.",
+"exZh": "她強調了期限的重要性。"
+},
+{
+"w": "endorse",
+"p": "v.",
+"zh": "背書；支持",
+"ex": "The union endorsed the revised agreement.",
+"exZh": "工會支持修訂後的協議。"
+},
+{
+"w": "engage",
+"p": "v.",
+"zh": "參與；接洽",
+"ex": "The facilitator engaged every participant.",
+"exZh": "主持人讓每位參與者都參與其中。"
+},
+{
+"w": "exchange",
+"p": "n./v.",
+"zh": "交流；交換",
+"ex": "A useful exchange of ideas took place.",
+"exZh": "進行了一場有用的意見交流。"
+},
+{
+"w": "explicit",
+"p": "adj.",
+"zh": "明確的",
+"ex": "The instructions were explicit about the format.",
+"exZh": "指示對格式有明確規定。"
+},
+{
+"w": "extensive",
+"p": "adj.",
+"zh": "廣泛的",
+"ex": "The topic required extensive discussion.",
+"exZh": "這個主題需要廣泛討論。"
+},
+{
+"w": "facilitate",
+"p": "v.",
+"zh": "促進；主持",
+"ex": "An external consultant facilitated the workshop.",
+"exZh": "一位外部顧問主持了工作坊。"
+},
+{
+"w": "feedback",
+"p": "n.",
+"zh": "回饋意見",
+"ex": "We received constructive feedback from the group.",
+"exZh": "我們收到小組的建設性意見。"
+},
+{
+"w": "finalize",
+"p": "v.",
+"zh": "定案",
+"ex": "We finalized the agenda this morning.",
+"exZh": "我們今早把議程定案。"
+},
+{
+"w": "follow-up",
+"p": "n.",
+"zh": "後續追蹤",
+"ex": "A follow-up meeting is scheduled for Friday.",
+"exZh": "後續會議安排在週五。"
+},
+{
+"w": "formal",
+"p": "adj.",
+"zh": "正式的",
+"ex": "A formal request must be submitted in writing.",
+"exZh": "正式請求必須以書面提出。"
+},
+{
+"w": "forum",
+"p": "n.",
+"zh": "論壇",
+"ex": "The forum brings together industry leaders.",
+"exZh": "該論壇匯集了業界領袖。"
+},
+{
+"w": "frank",
+"p": "adj.",
+"zh": "坦白的",
+"ex": "To be frank, the timeline is unrealistic.",
+"exZh": "坦白說，這個時程不切實際。"
+},
+{
+"w": "gather",
+"p": "v.",
+"zh": "聚集；蒐集",
+"ex": "We gathered feedback from all branches.",
+"exZh": "我們從各分公司蒐集了意見。"
+},
+{
+"w": "handout",
+"p": "n.",
+"zh": "講義",
+"ex": "Handouts will be provided at the door.",
+"exZh": "講義將在門口發放。"
+},
+{
+"w": "highlight",
+"p": "v./n.",
+"zh": "強調；重點",
+"ex": "The report highlights three key risks.",
+"exZh": "報告強調了三項關鍵風險。"
+},
+{
+"w": "inform",
+"p": "v.",
+"zh": "告知",
+"ex": "Please inform the team of the outcome.",
+"exZh": "請把結果告知團隊。"
+},
+{
+"w": "initiate",
+"p": "v.",
+"zh": "發起；啟動",
+"ex": "The director initiated a review of the process.",
+"exZh": "主任發起了流程檢討。"
+},
+{
+"w": "input",
+"p": "n.",
+"zh": "意見；投入",
+"ex": "We value your input on this matter.",
+"exZh": "我們重視你在此事上的意見。"
+},
+{
+"w": "insight",
+"p": "n.",
+"zh": "洞見",
+"ex": "Her insight into the market proved valuable.",
+"exZh": "她對市場的洞見證實很有價值。"
+},
+{
+"w": "interaction",
+"p": "n.",
+"zh": "互動",
+"ex": "Interaction between departments has improved.",
+"exZh": "部門間的互動已改善。"
+},
+{
+"w": "interpretation",
+"p": "n.",
+"zh": "詮釋",
+"ex": "Two interpretations of the clause exist.",
+"exZh": "該條款存在兩種詮釋。"
+},
+{
+"w": "interrupt",
+"p": "v.",
+"zh": "打斷",
+"ex": "Please do not interrupt while others are speaking.",
+"exZh": "他人發言時請勿打斷。"
+},
+{
+"w": "intervene",
+"p": "v.",
+"zh": "介入",
+"ex": "The mediator intervened to keep talks going.",
+"exZh": "調解人介入以維持談判進行。"
+},
+{
+"w": "introduce",
+"p": "v.",
+"zh": "介紹；引進",
+"ex": "Let me introduce our new regional manager.",
+"exZh": "容我介紹我們的新區域經理。"
+},
+{
+"w": "justify",
+"p": "v.",
+"zh": "證明…有理",
+"ex": "Can you justify the additional cost?",
+"exZh": "你能說明額外成本的合理性嗎？"
+},
+{
+"w": "keynote",
+"p": "n.",
+"zh": "主題演講",
+"ex": "The keynote begins at nine sharp.",
+"exZh": "主題演講九點整開始。"
+},
+{
+"w": "mediate",
+"p": "v.",
+"zh": "調解",
+"ex": "A neutral party mediated the negotiation.",
+"exZh": "一個中立方調解了談判。"
+},
+{
+"w": "moderator",
+"p": "n.",
+"zh": "主持人",
+"ex": "The moderator kept the panel on schedule.",
+"exZh": "主持人讓座談會準時進行。"
+},
+{
+"w": "motion",
+"p": "n.",
+"zh": "動議",
+"ex": "The motion passed with a clear majority.",
+"exZh": "該動議以明顯多數通過。"
+},
+{
+"w": "mutual",
+"p": "adj.",
+"zh": "相互的",
+"ex": "The agreement is of mutual benefit.",
+"exZh": "該協議對雙方互惠。"
+},
+{
+"w": "negotiate",
+"p": "v.",
+"zh": "談判",
+"ex": "We negotiated better payment terms.",
+"exZh": "我們談到了更好的付款條件。"
+},
+{
+"w": "notice",
+"p": "n.",
+"zh": "通知",
+"ex": "Two weeks' notice is required.",
+"exZh": "需要兩週前通知。"
+},
+{
+"w": "objection",
+"p": "n.",
+"zh": "反對",
+"ex": "There were no objections to the proposal.",
+"exZh": "對該提案沒有任何反對意見。"
+},
+{
+"w": "observation",
+"p": "n.",
+"zh": "觀察；意見",
+"ex": "He offered a useful observation about pricing.",
+"exZh": "他對定價提出了有用的看法。"
+},
+{
+"w": "outcome",
+"p": "n.",
+"zh": "結果",
+"ex": "The outcome of the vote surprised everyone.",
+"exZh": "投票結果令所有人意外。"
+},
+{
+"w": "overview",
+"p": "n.",
+"zh": "概覽",
+"ex": "He gave a brief overview of the project.",
+"exZh": "他簡要概述了專案。"
+},
+{
+"w": "panel",
+"p": "n.",
+"zh": "座談小組",
+"ex": "A panel of experts answered questions.",
+"exZh": "一組專家回答了問題。"
+},
+{
+"w": "participant",
+"p": "n.",
+"zh": "參與者",
+"ex": "Participants are asked to register in advance.",
+"exZh": "參與者須事先報名。"
+},
+{
+"w": "pending",
+"p": "adj.",
+"zh": "待決的",
+"ex": "The decision is still pending.",
+"exZh": "該決定仍待定。"
+},
+{
+"w": "perspective",
+"p": "n.",
+"zh": "觀點",
+"ex": "From a legal perspective, the risk is low.",
+"exZh": "從法律觀點來看，風險很低。"
+},
+{
+"w": "persuade",
+"p": "v.",
+"zh": "說服",
+"ex": "She persuaded the board to fund the pilot.",
+"exZh": "她說服董事會出資支持試辦。"
+},
+{
+"w": "podium",
+"p": "n.",
+"zh": "講台",
+"ex": "The speaker stepped up to the podium.",
+"exZh": "講者走上講台。"
+},
+{
+"w": "premise",
+"p": "n.",
+"zh": "前提",
+"ex": "The plan rests on a flawed premise.",
+"exZh": "這個計畫建立在有瑕疵的前提上。"
+},
+{
+"w": "preside",
+"p": "v.",
+"zh": "主持",
+"ex": "The vice president presided over the ceremony.",
+"exZh": "副總裁主持了典禮。"
+},
+{
+"w": "proceed",
+"p": "v.",
+"zh": "進行",
+"ex": "Let us proceed to the next item.",
+"exZh": "我們進行下一個議題。"
+},
+{
+"w": "prompt",
+"p": "v./adj.",
+"zh": "促使；迅速的",
+"ex": "The complaint prompted an internal review.",
+"exZh": "該投訴促使進行內部檢討。"
+},
+{
+"w": "proposal",
+"p": "n.",
+"zh": "提案",
+"ex": "The proposal was submitted for review.",
+"exZh": "提案已提交審查。"
+},
+{
+"w": "propose",
+"p": "v.",
+"zh": "提議",
+"ex": "He proposed extending the trial period.",
+"exZh": "他提議延長試用期。"
+},
+{
+"w": "punctuality",
+"p": "n.",
+"zh": "準時",
+"ex": "Punctuality is expected at all sessions.",
+"exZh": "所有場次都要求準時。"
+},
+{
+"w": "quorum",
+"p": "n.",
+"zh": "法定人數",
+"ex": "Without a quorum, no vote can be held.",
+"exZh": "沒有法定人數就不能表決。"
+},
+{
+"w": "raise",
+"p": "v.",
+"zh": "提出（問題）",
+"ex": "She raised an important point about liability.",
+"exZh": "她提出了關於責任歸屬的重要一點。"
+},
+{
+"w": "rationale",
+"p": "n.",
+"zh": "理由；依據",
+"ex": "Please explain the rationale behind the change.",
+"exZh": "請說明這項變更背後的理由。"
+},
+{
+"w": "recap",
+"p": "v./n.",
+"zh": "扼要重述",
+"ex": "Let me recap the main decisions.",
+"exZh": "讓我扼要重述主要決議。"
+},
+{
+"w": "recommendation",
+"p": "n.",
+"zh": "建議",
+"ex": "The auditor's recommendations were accepted.",
+"exZh": "稽核員的建議獲得採納。"
+},
+{
+"w": "reconvene",
+"p": "v.",
+"zh": "再度召開",
+"ex": "We will reconvene after a short break.",
+"exZh": "短暫休息後我們將再度開會。"
+},
+{
+"w": "refreshment",
+"p": "n.",
+"zh": "茶點",
+"ex": "Refreshments will be served in the lobby.",
+"exZh": "茶點將在大廳供應。"
+},
+{
+"w": "relevant",
+"p": "adj.",
+"zh": "相關的",
+"ex": "Please keep comments relevant to the topic.",
+"exZh": "請讓發言與主題相關。"
+},
+{
+"w": "reluctant",
+"p": "adj.",
+"zh": "不情願的",
+"ex": "The client was reluctant to sign immediately.",
+"exZh": "客戶不願立即簽署。"
+},
+{
+"w": "remark",
+"p": "n./v.",
+"zh": "評論",
+"ex": "His opening remarks were brief.",
+"exZh": "他的開場評論很簡短。"
+},
+{
+"w": "resolution",
+"p": "n.",
+"zh": "決議；解決",
+"ex": "The resolution was adopted unanimously.",
+"exZh": "該決議獲一致通過。"
+},
+{
+"w": "respond",
+"p": "v.",
+"zh": "回應",
+"ex": "She responded to every question in detail.",
+"exZh": "她詳細回應了每個問題。"
+},
+{
+"w": "roundtable",
+"p": "n.",
+"zh": "圓桌會議",
+"ex": "A roundtable on supply risks is planned.",
+"exZh": "規劃了一場供應風險圓桌會議。"
+},
+{
+"w": "seminar",
+"p": "n.",
+"zh": "研討會",
+"ex": "The seminar covers export regulations.",
+"exZh": "研討會涵蓋出口法規。"
+},
+{
+"w": "session",
+"p": "n.",
+"zh": "場次；會期",
+"ex": "The afternoon session runs until five.",
+"exZh": "下午場次進行到五點。"
+},
+{
+"w": "speaker",
+"p": "n.",
+"zh": "講者",
+"ex": "The guest speaker arrived early.",
+"exZh": "客座講者提早到了。"
+},
+{
+"w": "specify",
+"p": "v.",
+"zh": "明確指出",
+"ex": "Please specify the required format.",
+"exZh": "請明確指出所需格式。"
+},
+{
+"w": "suggestion",
+"p": "n.",
+"zh": "建議",
+"ex": "Your suggestion has been noted.",
+"exZh": "你的建議已被記錄。"
+},
+{
+"w": "summarize",
+"p": "v.",
+"zh": "總結",
+"ex": "Please summarize the findings in one page.",
+"exZh": "請用一頁總結調查結果。"
+},
+{
+"w": "transcript",
+"p": "n.",
+"zh": "逐字稿",
+"ex": "A transcript of the hearing is available.",
+"exZh": "聽證會的逐字稿已可取得。"
+},
+{
+"w": "unanimous",
+"p": "adj.",
+"zh": "全體一致的",
+"ex": "The decision was unanimous.",
+"exZh": "該決定是全體一致的。"
+},
+{
+"w": "venue",
+"p": "n.",
+"zh": "場地",
+"ex": "We changed the venue due to renovations.",
+"exZh": "因整修我們更換了場地。"
+},
+{
+"w": "verbal",
+"p": "adj.",
+"zh": "口頭的",
+"ex": "A verbal agreement is not sufficient here.",
+"exZh": "在此口頭協議並不足夠。"
+},
+{
+"w": "viewpoint",
+"p": "n.",
+"zh": "觀點",
+"ex": "Each department presented its viewpoint.",
+"exZh": "每個部門都提出了各自的觀點。"
+},
+{
+"w": "vote",
+"p": "v./n.",
+"zh": "投票",
+"ex": "The committee will vote on the budget.",
+"exZh": "委員會將對預算進行表決。"
+},
+{
+"w": "withdraw",
+"p": "v.",
+"zh": "撤回",
+"ex": "He withdrew his objection after the explanation.",
+"exZh": "經解釋後他撤回了反對意見。"
+}
+]
+}

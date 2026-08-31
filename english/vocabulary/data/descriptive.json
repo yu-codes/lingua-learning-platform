@@ -1,0 +1,777 @@
+{
+"id": "descriptive",
+"name": "描述與情緒",
+"nameEn": "Description & Feelings",
+"words": [
+{
+"w": "abrupt",
+"p": "adj.",
+"zh": "突然的",
+"ex": "The meeting came to an abrupt end.",
+"exZh": "會議突然結束了。"
+},
+{
+"w": "abundant",
+"p": "adj.",
+"zh": "豐富的",
+"ex": "Abundant rainfall filled the reservoirs.",
+"exZh": "豐沛的降雨注滿了水庫。"
+},
+{
+"w": "ambiguous",
+"p": "adj.",
+"zh": "模稜兩可的",
+"ex": "The wording is deliberately ambiguous.",
+"exZh": "這個措辭刻意模稜兩可。"
+},
+{
+"w": "ambitious",
+"p": "adj.",
+"zh": "有企圖心的",
+"ex": "The targets are ambitious but achievable.",
+"exZh": "目標有企圖心但可達成。"
+},
+{
+"w": "anxious",
+"p": "adj.",
+"zh": "焦慮的",
+"ex": "Customers grew anxious about delays.",
+"exZh": "顧客對延誤感到焦慮。"
+},
+{
+"w": "apparent",
+"p": "adj.",
+"zh": "明顯的",
+"ex": "The benefits became apparent quickly.",
+"exZh": "好處很快就變得明顯。"
+},
+{
+"w": "arbitrary",
+"p": "adj.",
+"zh": "任意的",
+"ex": "The cutoff seems arbitrary.",
+"exZh": "這個門檻看起來是任意訂的。"
+},
+{
+"w": "authentic",
+"p": "adj.",
+"zh": "真實的",
+"ex": "The document proved authentic.",
+"exZh": "該文件證實為真。"
+},
+{
+"w": "beneficial",
+"p": "adj.",
+"zh": "有益的",
+"ex": "The change was beneficial to everyone.",
+"exZh": "這項變更對所有人都有益。"
+},
+{
+"w": "brilliant",
+"p": "adj.",
+"zh": "傑出的",
+"ex": "It was a brilliant piece of engineering.",
+"exZh": "那是一項傑出的工程作品。"
+},
+{
+"w": "cautious",
+"p": "adj.",
+"zh": "謹慎的",
+"ex": "Investors remain cautious.",
+"exZh": "投資人仍保持謹慎。"
+},
+{
+"w": "chaotic",
+"p": "adj.",
+"zh": "混亂的",
+"ex": "The first week was chaotic.",
+"exZh": "第一週相當混亂。"
+},
+{
+"w": "compact",
+"p": "adj.",
+"zh": "小巧的",
+"ex": "The device is compact and light.",
+"exZh": "該裝置小巧輕便。"
+},
+{
+"w": "complex",
+"p": "adj.",
+"zh": "複雜的",
+"ex": "The issue is more complex than it appears.",
+"exZh": "問題比表面看來更複雜。"
+},
+{
+"w": "confident",
+"p": "adj.",
+"zh": "有信心的",
+"ex": "We are confident about the timeline.",
+"exZh": "我們對時程有信心。"
+},
+{
+"w": "conscientious",
+"p": "adj.",
+"zh": "認真負責的",
+"ex": "She is a conscientious worker.",
+"exZh": "她是個認真負責的員工。"
+},
+{
+"w": "consecutive",
+"p": "adj.",
+"zh": "連續的",
+"ex": "Sales rose for six consecutive months.",
+"exZh": "銷售連續六個月成長。"
+},
+{
+"w": "considerable",
+"p": "adj.",
+"zh": "相當大的",
+"ex": "The savings were considerable.",
+"exZh": "節省的金額相當可觀。"
+},
+{
+"w": "conspicuous",
+"p": "adj.",
+"zh": "顯眼的",
+"ex": "The sign is deliberately conspicuous.",
+"exZh": "該標示刻意做得顯眼。"
+},
+{
+"w": "contemporary",
+"p": "adj.",
+"zh": "當代的",
+"ex": "The building has a contemporary design.",
+"exZh": "該建築有當代設計風格。"
+},
+{
+"w": "controversial",
+"p": "adj.",
+"zh": "有爭議的",
+"ex": "The decision remains controversial.",
+"exZh": "該決定仍具爭議。"
+},
+{
+"w": "convenient",
+"p": "adj.",
+"zh": "方便的",
+"ex": "The location is very convenient.",
+"exZh": "地點非常方便。"
+},
+{
+"w": "crucial",
+"p": "adj.",
+"zh": "關鍵的",
+"ex": "Timing is crucial in this market.",
+"exZh": "在這個市場時機是關鍵。"
+},
+{
+"w": "curious",
+"p": "adj.",
+"zh": "好奇的",
+"ex": "Users were curious about the feature.",
+"exZh": "使用者對這項功能感到好奇。"
+},
+{
+"w": "decisive",
+"p": "adj.",
+"zh": "果斷的",
+"ex": "Her decisive action prevented losses.",
+"exZh": "她果斷的行動避免了損失。"
+},
+{
+"w": "delicate",
+"p": "adj.",
+"zh": "精緻的；微妙的",
+"ex": "The negotiation is at a delicate stage.",
+"exZh": "談判正處於微妙階段。"
+},
+{
+"w": "delighted",
+"p": "adj.",
+"zh": "欣喜的",
+"ex": "We are delighted to announce the award.",
+"exZh": "我們很高興宣布這項獎項。"
+},
+{
+"w": "dense",
+"p": "adj.",
+"zh": "密集的",
+"ex": "The report is dense but useful.",
+"exZh": "這份報告內容密集但有用。"
+},
+{
+"w": "diligent",
+"p": "adj.",
+"zh": "勤奮的",
+"ex": "Diligent follow-up closed the deal.",
+"exZh": "勤奮的跟進促成了交易。"
+},
+{
+"w": "disappointed",
+"p": "adj.",
+"zh": "失望的",
+"ex": "Fans were disappointed by the delay.",
+"exZh": "粉絲對延期感到失望。"
+},
+{
+"w": "distinct",
+"p": "adj.",
+"zh": "明顯不同的",
+"ex": "The two products serve distinct needs.",
+"exZh": "這兩項產品滿足明顯不同的需求。"
+},
+{
+"w": "diverse",
+"p": "adj.",
+"zh": "多元的",
+"ex": "The team is culturally diverse.",
+"exZh": "該團隊文化多元。"
+},
+{
+"w": "eager",
+"p": "adj.",
+"zh": "渴望的",
+"ex": "New hires are eager to contribute.",
+"exZh": "新進人員渴望做出貢獻。"
+},
+{
+"w": "eminent",
+"p": "adj.",
+"zh": "傑出的",
+"ex": "An eminent scholar chaired the panel.",
+"exZh": "一位傑出學者主持了小組。"
+},
+{
+"w": "enthusiastic",
+"p": "adj.",
+"zh": "熱情的",
+"ex": "The response was enthusiastic.",
+"exZh": "反應相當熱烈。"
+},
+{
+"w": "essential",
+"p": "adj.",
+"zh": "必要的",
+"ex": "Backups are absolutely essential.",
+"exZh": "備份絕對必要。"
+},
+{
+"w": "evident",
+"p": "adj.",
+"zh": "顯而易見的",
+"ex": "The improvement was evident immediately.",
+"exZh": "改善立刻顯而易見。"
+},
+{
+"w": "exceptional",
+"p": "adj.",
+"zh": "卓越的",
+"ex": "Her performance was exceptional.",
+"exZh": "她的表現十分卓越。"
+},
+{
+"w": "excessive",
+"p": "adj.",
+"zh": "過度的",
+"ex": "Excessive packaging was reduced.",
+"exZh": "過度包裝已減少。"
+},
+{
+"w": "exhausted",
+"p": "adj.",
+"zh": "筋疲力盡的",
+"ex": "The team was exhausted after launch.",
+"exZh": "上市後團隊筋疲力盡。"
+},
+{
+"w": "feasible",
+"p": "adj.",
+"zh": "可行的",
+"ex": "The timeline is feasible with more staff.",
+"exZh": "人力增加後時程是可行的。"
+},
+{
+"w": "flexible",
+"p": "adj.",
+"zh": "有彈性的",
+"ex": "Working hours are flexible.",
+"exZh": "工時具有彈性。"
+},
+{
+"w": "frequent",
+"p": "adj.",
+"zh": "頻繁的",
+"ex": "Frequent updates keep users informed.",
+"exZh": "頻繁更新讓使用者掌握資訊。"
+},
+{
+"w": "frustrated",
+"p": "adj.",
+"zh": "沮喪的",
+"ex": "Users grew frustrated with the errors.",
+"exZh": "使用者對這些錯誤感到沮喪。"
+},
+{
+"w": "genuine",
+"p": "adj.",
+"zh": "真誠的",
+"ex": "Her concern was genuine.",
+"exZh": "她的關心是真誠的。"
+},
+{
+"w": "gradual",
+"p": "adj.",
+"zh": "逐漸的",
+"ex": "The shift has been gradual.",
+"exZh": "這種轉變是逐漸發生的。"
+},
+{
+"w": "grateful",
+"p": "adj.",
+"zh": "感激的",
+"ex": "We are grateful for your patience.",
+"exZh": "我們感謝您的耐心。"
+},
+{
+"w": "hesitant",
+"p": "adj.",
+"zh": "猶豫的",
+"ex": "The client was hesitant at first.",
+"exZh": "客戶起初有些猶豫。"
+},
+{
+"w": "hostile",
+"p": "adj.",
+"zh": "敵意的",
+"ex": "The takeover attempt was hostile.",
+"exZh": "該收購企圖帶有敵意。"
+},
+{
+"w": "identical",
+"p": "adj.",
+"zh": "完全相同的",
+"ex": "The two samples are identical.",
+"exZh": "這兩個樣本完全相同。"
+},
+{
+"w": "immense",
+"p": "adj.",
+"zh": "巨大的",
+"ex": "The potential is immense.",
+"exZh": "潛力巨大。"
+},
+{
+"w": "imminent",
+"p": "adj.",
+"zh": "即將發生的",
+"ex": "A decision appears imminent.",
+"exZh": "決定似乎即將出爐。"
+},
+{
+"w": "impressed",
+"p": "adj.",
+"zh": "印象深刻的",
+"ex": "The client was clearly impressed.",
+"exZh": "客戶顯然印象深刻。"
+},
+{
+"w": "inadequate",
+"p": "adj.",
+"zh": "不足的",
+"ex": "Staffing was inadequate for the season.",
+"exZh": "該季節人力配置不足。"
+},
+{
+"w": "incidental",
+"p": "adj.",
+"zh": "附帶的",
+"ex": "Incidental costs were reimbursed.",
+"exZh": "附帶費用獲得報銷。"
+},
+{
+"w": "indifferent",
+"p": "adj.",
+"zh": "漠不關心的",
+"ex": "The market was largely indifferent.",
+"exZh": "市場大致漠不關心。"
+},
+{
+"w": "inevitable",
+"p": "adj.",
+"zh": "無可避免的",
+"ex": "Some delay was inevitable.",
+"exZh": "某些延誤是無可避免的。"
+},
+{
+"w": "influential",
+"p": "adj.",
+"zh": "有影響力的",
+"ex": "She is an influential voice in the field.",
+"exZh": "她在這個領域是有影響力的聲音。"
+},
+{
+"w": "intense",
+"p": "adj.",
+"zh": "強烈的",
+"ex": "Competition is intense this year.",
+"exZh": "今年競爭激烈。"
+},
+{
+"w": "intricate",
+"p": "adj.",
+"zh": "錯綜複雜的",
+"ex": "The pattern is intricate and precise.",
+"exZh": "該圖樣錯綜複雜且精準。"
+},
+{
+"w": "irrelevant",
+"p": "adj.",
+"zh": "不相關的",
+"ex": "That detail is irrelevant here.",
+"exZh": "那個細節在此不相關。"
+},
+{
+"w": "lengthy",
+"p": "adj.",
+"zh": "冗長的",
+"ex": "The process is unnecessarily lengthy.",
+"exZh": "該流程不必要地冗長。"
+},
+{
+"w": "manageable",
+"p": "adj.",
+"zh": "可應付的",
+"ex": "The workload is now manageable.",
+"exZh": "工作量現在可以應付。"
+},
+{
+"w": "meticulous",
+"p": "adj.",
+"zh": "一絲不苟的",
+"ex": "Her records are meticulous.",
+"exZh": "她的紀錄一絲不苟。"
+},
+{
+"w": "multiple",
+"p": "adj.",
+"zh": "多重的",
+"ex": "Multiple factors caused the delay.",
+"exZh": "多重因素造成了延誤。"
+},
+{
+"w": "nervous",
+"p": "adj.",
+"zh": "緊張的",
+"ex": "She was nervous before the presentation.",
+"exZh": "簡報前她很緊張。"
+},
+{
+"w": "notable",
+"p": "adj.",
+"zh": "值得注意的",
+"ex": "There was one notable exception.",
+"exZh": "有一個值得注意的例外。"
+},
+{
+"w": "numerous",
+"p": "adj.",
+"zh": "眾多的",
+"ex": "Numerous requests were received.",
+"exZh": "收到了眾多請求。"
+},
+{
+"w": "obvious",
+"p": "adj.",
+"zh": "明顯的",
+"ex": "The solution was obvious in hindsight.",
+"exZh": "事後看來解法很明顯。"
+},
+{
+"w": "optimistic",
+"p": "adj.",
+"zh": "樂觀的",
+"ex": "Management remains cautiously optimistic.",
+"exZh": "管理層保持審慎樂觀。"
+},
+{
+"w": "optional",
+"p": "adj.",
+"zh": "選擇性的",
+"ex": "The extended warranty is optional.",
+"exZh": "延長保固為選配。"
+},
+{
+"w": "persistent",
+"p": "adj.",
+"zh": "持續不斷的",
+"ex": "Persistent errors required a rewrite.",
+"exZh": "持續不斷的錯誤迫使重寫。"
+},
+{
+"w": "practical",
+"p": "adj.",
+"zh": "實用的",
+"ex": "The advice was refreshingly practical.",
+"exZh": "這些建議實用得令人耳目一新。"
+},
+{
+"w": "precise",
+"p": "adj.",
+"zh": "精確的",
+"ex": "We need precise measurements.",
+"exZh": "我們需要精確的量測。"
+},
+{
+"w": "prevalent",
+"p": "adj.",
+"zh": "普遍的",
+"ex": "The practice is prevalent in the region.",
+"exZh": "該做法在該區相當普遍。"
+},
+{
+"w": "profound",
+"p": "adj.",
+"zh": "深遠的",
+"ex": "The change had a profound effect.",
+"exZh": "該變化產生了深遠影響。"
+},
+{
+"w": "prominent",
+"p": "adj.",
+"zh": "顯著的",
+"ex": "The logo occupies a prominent position.",
+"exZh": "商標位於顯著位置。"
+},
+{
+"w": "prone",
+"p": "adj.",
+"zh": "易於…的",
+"ex": "The joint is prone to wear.",
+"exZh": "該接點容易磨損。"
+},
+{
+"w": "provisional",
+"p": "adj.",
+"zh": "暫定的",
+"ex": "A provisional date was set.",
+"exZh": "訂了一個暫定日期。"
+},
+{
+"w": "rational",
+"p": "adj.",
+"zh": "理性的",
+"ex": "The choice was entirely rational.",
+"exZh": "這個選擇完全是理性的。"
+},
+{
+"w": "redundant",
+"p": "adj.",
+"zh": "多餘的",
+"ex": "Redundant steps were removed.",
+"exZh": "多餘的步驟已被移除。"
+},
+{
+"w": "relieved",
+"p": "adj.",
+"zh": "鬆一口氣的",
+"ex": "Everyone was relieved by the news.",
+"exZh": "大家都因這消息鬆了一口氣。"
+},
+{
+"w": "reluctantly",
+"p": "adv.",
+"zh": "不情願地",
+"ex": "He reluctantly agreed to the terms.",
+"exZh": "他不情願地同意了條款。"
+},
+{
+"w": "remarkable",
+"p": "adj.",
+"zh": "非凡的",
+"ex": "The turnaround was remarkable.",
+"exZh": "這次逆轉非常了不起。"
+},
+{
+"w": "resilient",
+"p": "adj.",
+"zh": "有韌性的",
+"ex": "The supply chain proved resilient.",
+"exZh": "供應鏈證實具有韌性。"
+},
+{
+"w": "rigorous",
+"p": "adj.",
+"zh": "嚴謹的",
+"ex": "The testing was rigorous.",
+"exZh": "測試相當嚴謹。"
+},
+{
+"w": "robust",
+"p": "adj.",
+"zh": "穩健的",
+"ex": "The system is robust under load.",
+"exZh": "該系統在負載下依然穩健。"
+},
+{
+"w": "satisfied",
+"p": "adj.",
+"zh": "滿意的",
+"ex": "Most users are satisfied with support.",
+"exZh": "多數使用者對支援感到滿意。"
+},
+{
+"w": "scarce",
+"p": "adj.",
+"zh": "稀少的",
+"ex": "Skilled technicians are scarce.",
+"exZh": "熟練技師相當稀少。"
+},
+{
+"w": "severe",
+"p": "adj.",
+"zh": "嚴重的",
+"ex": "Severe weather closed the port.",
+"exZh": "惡劣天候使港口關閉。"
+},
+{
+"w": "sincere",
+"p": "adj.",
+"zh": "誠懇的",
+"ex": "Please accept our sincere apologies.",
+"exZh": "請接受我們誠懇的歉意。"
+},
+{
+"w": "skeptical",
+"p": "adj.",
+"zh": "懷疑的",
+"ex": "Analysts remain skeptical.",
+"exZh": "分析師仍持懷疑態度。"
+},
+{
+"w": "sparse",
+"p": "adj.",
+"zh": "稀疏的",
+"ex": "Data for that period is sparse.",
+"exZh": "該期間的資料相當稀疏。"
+},
+{
+"w": "steady",
+"p": "adj.",
+"zh": "穩定的",
+"ex": "Demand has been steady all year.",
+"exZh": "需求整年都很穩定。"
+},
+{
+"w": "straightforward",
+"p": "adj.",
+"zh": "直接明瞭的",
+"ex": "The instructions are straightforward.",
+"exZh": "說明簡單明瞭。"
+},
+{
+"w": "subtle",
+"p": "adj.",
+"zh": "細微的",
+"ex": "The difference is subtle but real.",
+"exZh": "差異細微但確實存在。"
+},
+{
+"w": "superior",
+"p": "adj.",
+"zh": "較優越的",
+"ex": "The new alloy is superior in strength.",
+"exZh": "新合金在強度上更優越。"
+},
+{
+"w": "sympathetic",
+"p": "adj.",
+"zh": "同情的",
+"ex": "The manager was sympathetic to the request.",
+"exZh": "經理對該請求表示同情。"
+},
+{
+"w": "tedious",
+"p": "adj.",
+"zh": "乏味的",
+"ex": "The task is tedious but necessary.",
+"exZh": "這項工作乏味但必要。"
+},
+{
+"w": "tentative",
+"p": "adj.",
+"zh": "暫定的",
+"ex": "A tentative agreement was reached.",
+"exZh": "達成了暫定協議。"
+},
+{
+"w": "thorough",
+"p": "adj.",
+"zh": "徹底的",
+"ex": "A thorough review was conducted.",
+"exZh": "進行了徹底的檢討。"
+},
+{
+"w": "transparent",
+"p": "adj.",
+"zh": "透明的",
+"ex": "The process is fully transparent.",
+"exZh": "該流程完全透明。"
+},
+{
+"w": "unavoidable",
+"p": "adj.",
+"zh": "不可避免的",
+"ex": "Some cost increases are unavoidable.",
+"exZh": "某些成本上升不可避免。"
+},
+{
+"w": "uncertain",
+"p": "adj.",
+"zh": "不確定的",
+"ex": "The outlook remains uncertain.",
+"exZh": "前景仍不確定。"
+},
+{
+"w": "unique",
+"p": "adj.",
+"zh": "獨特的",
+"ex": "Each case is unique.",
+"exZh": "每個案例都是獨特的。"
+},
+{
+"w": "unprecedented",
+"p": "adj.",
+"zh": "前所未有的",
+"ex": "Demand reached unprecedented levels.",
+"exZh": "需求達到前所未有的水準。"
+},
+{
+"w": "viable",
+"p": "adj.",
+"zh": "可行的",
+"ex": "Only one option is financially viable.",
+"exZh": "只有一個選項在財務上可行。"
+},
+{
+"w": "vital",
+"p": "adj.",
+"zh": "至關重要的",
+"ex": "Communication is vital to the project.",
+"exZh": "溝通對這個專案至關重要。"
+},
+{
+"w": "vulnerable",
+"p": "adj.",
+"zh": "易受傷害的",
+"ex": "Older systems are vulnerable to attack.",
+"exZh": "舊系統容易遭受攻擊。"
+},
+{
+"w": "widespread",
+"p": "adj.",
+"zh": "廣泛的",
+"ex": "The problem is widespread.",
+"exZh": "這個問題相當普遍。"
+}
+]
+}

@@ -1,0 +1,784 @@
+{
+"id": "health-medical",
+"name": "醫療與健康",
+"nameEn": "Health & Medical",
+"words": [
+{
+"w": "abnormal",
+"p": "adj.",
+"zh": "異常的",
+"ex": "The results showed nothing abnormal.",
+"exZh": "結果未顯示任何異常。"
+},
+{
+"w": "acute",
+"p": "adj.",
+"zh": "急性的",
+"ex": "He was treated for acute back pain.",
+"exZh": "他因急性背痛接受治療。"
+},
+{
+"w": "admission",
+"p": "n.",
+"zh": "住院",
+"ex": "Hospital admission was arranged the same day.",
+"exZh": "當天就安排了住院。"
+},
+{
+"w": "adverse",
+"p": "adj.",
+"zh": "不良的",
+"ex": "No adverse reactions were reported.",
+"exZh": "未回報任何不良反應。"
+},
+{
+"w": "aftercare",
+"p": "n.",
+"zh": "後續照護",
+"ex": "Aftercare instructions were explained clearly.",
+"exZh": "後續照護指示已清楚說明。"
+},
+{
+"w": "ailment",
+"p": "n.",
+"zh": "小病痛",
+"ex": "Minor ailments are treated at the clinic.",
+"exZh": "小病痛在診所即可處理。"
+},
+{
+"w": "allergic",
+"p": "adj.",
+"zh": "過敏的",
+"ex": "She is allergic to certain antibiotics.",
+"exZh": "她對某些抗生素過敏。"
+},
+{
+"w": "ambulance",
+"p": "n.",
+"zh": "救護車",
+"ex": "An ambulance arrived within six minutes.",
+"exZh": "救護車在六分鐘內抵達。"
+},
+{
+"w": "anesthesia",
+"p": "n.",
+"zh": "麻醉",
+"ex": "The procedure requires local anesthesia.",
+"exZh": "該手術需要局部麻醉。"
+},
+{
+"w": "antibiotic",
+"p": "n.",
+"zh": "抗生素",
+"ex": "Antibiotics do not work against viruses.",
+"exZh": "抗生素對病毒無效。"
+},
+{
+"w": "bandage",
+"p": "n.",
+"zh": "繃帶",
+"ex": "Change the bandage twice daily.",
+"exZh": "請每天更換兩次繃帶。"
+},
+{
+"w": "benign",
+"p": "adj.",
+"zh": "良性的",
+"ex": "The growth was found to be benign.",
+"exZh": "該增生被判定為良性。"
+},
+{
+"w": "blood pressure",
+"p": "n.",
+"zh": "血壓",
+"ex": "Her blood pressure returned to normal.",
+"exZh": "她的血壓恢復正常。"
+},
+{
+"w": "blood test",
+"p": "n.",
+"zh": "血液檢查",
+"ex": "A blood test confirmed the deficiency.",
+"exZh": "血液檢查確認了缺乏症。"
+},
+{
+"w": "cardiac",
+"p": "adj.",
+"zh": "心臟的",
+"ex": "Cardiac monitoring continued overnight.",
+"exZh": "心臟監測持續了整夜。"
+},
+{
+"w": "caregiver",
+"p": "n.",
+"zh": "照顧者",
+"ex": "Caregivers receive additional support.",
+"exZh": "照顧者可獲得額外支援。"
+},
+{
+"w": "certified",
+"p": "adj.",
+"zh": "合格的",
+"ex": "Only certified staff administer the drug.",
+"exZh": "僅合格人員可給藥。"
+},
+{
+"w": "checkup",
+"p": "n.",
+"zh": "健康檢查",
+"ex": "An annual checkup is fully covered.",
+"exZh": "年度健康檢查全額給付。"
+},
+{
+"w": "chronic",
+"p": "adj.",
+"zh": "慢性的",
+"ex": "Chronic conditions require ongoing care.",
+"exZh": "慢性病需要持續照護。"
+},
+{
+"w": "clinic",
+"p": "n.",
+"zh": "診所",
+"ex": "The clinic opens at eight on weekdays.",
+"exZh": "診所平日八點開門。"
+},
+{
+"w": "clinical",
+"p": "adj.",
+"zh": "臨床的",
+"ex": "Clinical trials began last spring.",
+"exZh": "臨床試驗於去年春天開始。"
+},
+{
+"w": "complication",
+"p": "n.",
+"zh": "併發症",
+"ex": "No complications occurred after surgery.",
+"exZh": "術後未發生併發症。"
+},
+{
+"w": "consent form",
+"p": "n.",
+"zh": "同意書",
+"ex": "Sign the consent form before the procedure.",
+"exZh": "請於療程前簽署同意書。"
+},
+{
+"w": "contagious",
+"p": "adj.",
+"zh": "傳染性的",
+"ex": "The illness is contagious for five days.",
+"exZh": "該疾病有五天的傳染性。"
+},
+{
+"w": "contraindication",
+"p": "n.",
+"zh": "禁忌症",
+"ex": "Check for contraindications before prescribing.",
+"exZh": "開藥前請確認禁忌症。"
+},
+{
+"w": "deductible",
+"p": "n.",
+"zh": "自付額",
+"ex": "The annual deductible is 500 dollars.",
+"exZh": "年度自付額為五百美元。"
+},
+{
+"w": "dehydration",
+"p": "n.",
+"zh": "脫水",
+"ex": "Dehydration can cause dizziness.",
+"exZh": "脫水可能造成頭暈。"
+},
+{
+"w": "dental",
+"p": "adj.",
+"zh": "牙科的",
+"ex": "Dental care is covered by the plan.",
+"exZh": "該方案涵蓋牙科照護。"
+},
+{
+"w": "diagnose",
+"p": "v.",
+"zh": "診斷",
+"ex": "The doctor diagnosed a mild infection.",
+"exZh": "醫師診斷為輕微感染。"
+},
+{
+"w": "diagnosis",
+"p": "n.",
+"zh": "診斷結果",
+"ex": "A second opinion confirmed the diagnosis.",
+"exZh": "第二意見確認了診斷結果。"
+},
+{
+"w": "diagnosis code",
+"p": "n.",
+"zh": "診斷代碼",
+"ex": "The diagnosis code appears on the claim.",
+"exZh": "診斷代碼列於理賠單上。"
+},
+{
+"w": "dietitian",
+"p": "n.",
+"zh": "營養師",
+"ex": "A dietitian designed the meal plan.",
+"exZh": "營養師設計了飲食計畫。"
+},
+{
+"w": "discharge",
+"p": "n./v.",
+"zh": "出院",
+"ex": "He was discharged after three days.",
+"exZh": "他三天後出院。"
+},
+{
+"w": "disorder",
+"p": "n.",
+"zh": "失調症",
+"ex": "The disorder affects one in a thousand.",
+"exZh": "該失調症每千人中有一人罹患。"
+},
+{
+"w": "dosage",
+"p": "n.",
+"zh": "劑量",
+"ex": "Follow the dosage on the label.",
+"exZh": "請依標籤上的劑量服用。"
+},
+{
+"w": "dosage instruction",
+"p": "n.",
+"zh": "服藥指示",
+"ex": "Read the dosage instructions carefully.",
+"exZh": "請仔細閱讀服藥指示。"
+},
+{
+"w": "emergency",
+"p": "n.",
+"zh": "急診",
+"ex": "The emergency room was unusually quiet.",
+"exZh": "急診室異常安靜。"
+},
+{
+"w": "epidemic",
+"p": "n.",
+"zh": "流行病",
+"ex": "The epidemic peaked in February.",
+"exZh": "該流行病在二月達到高峰。"
+},
+{
+"w": "examination",
+"p": "n.",
+"zh": "檢查",
+"ex": "A physical examination is required annually.",
+"exZh": "每年須進行一次身體檢查。"
+},
+{
+"w": "examination room",
+"p": "n.",
+"zh": "診察室",
+"ex": "Please wait in the examination room.",
+"exZh": "請在診察室等候。"
+},
+{
+"w": "first aid",
+"p": "n.",
+"zh": "急救",
+"ex": "First aid was given at the scene.",
+"exZh": "現場實施了急救。"
+},
+{
+"w": "fracture",
+"p": "n.",
+"zh": "骨折",
+"ex": "The X-ray revealed a hairline fracture.",
+"exZh": "X 光顯示有一處細微骨折。"
+},
+{
+"w": "generic",
+"p": "adj.",
+"zh": "學名藥的",
+"ex": "Generic drugs cost significantly less.",
+"exZh": "學名藥價格明顯較低。"
+},
+{
+"w": "healthcare",
+"p": "n.",
+"zh": "醫療照護",
+"ex": "Healthcare costs rose again this year.",
+"exZh": "今年醫療照護成本再度上升。"
+},
+{
+"w": "hospitalize",
+"p": "v.",
+"zh": "使住院",
+"ex": "Two patients were hospitalized overnight.",
+"exZh": "兩位病人住院觀察一晚。"
+},
+{
+"w": "immunity",
+"p": "n.",
+"zh": "免疫力",
+"ex": "Vaccination builds long-term immunity.",
+"exZh": "接種疫苗可建立長期免疫力。"
+},
+{
+"w": "immunization",
+"p": "n.",
+"zh": "免疫接種",
+"ex": "Immunization schedules vary by country.",
+"exZh": "免疫接種時程各國不同。"
+},
+{
+"w": "implant",
+"p": "n.",
+"zh": "植入物",
+"ex": "The implant was well tolerated.",
+"exZh": "植入物耐受性良好。"
+},
+{
+"w": "incision",
+"p": "n.",
+"zh": "切口",
+"ex": "The incision healed without infection.",
+"exZh": "切口癒合未感染。"
+},
+{
+"w": "infection",
+"p": "n.",
+"zh": "感染",
+"ex": "The infection responded well to treatment.",
+"exZh": "感染對治療反應良好。"
+},
+{
+"w": "inflammation",
+"p": "n.",
+"zh": "發炎",
+"ex": "Ice reduces swelling and inflammation.",
+"exZh": "冰敷可減輕腫脹與發炎。"
+},
+{
+"w": "injection",
+"p": "n.",
+"zh": "注射",
+"ex": "The injection is given in the arm.",
+"exZh": "注射打在手臂上。"
+},
+{
+"w": "injury",
+"p": "n.",
+"zh": "傷害",
+"ex": "The injury kept him off work for a month.",
+"exZh": "該傷害讓他請假一個月。"
+},
+{
+"w": "inpatient",
+"p": "n.",
+"zh": "住院病人",
+"ex": "Inpatient beds were at capacity.",
+"exZh": "住院病床已滿載。"
+},
+{
+"w": "insurance claim",
+"p": "n.",
+"zh": "保險理賠",
+"ex": "The insurance claim was approved quickly.",
+"exZh": "保險理賠迅速獲准。"
+},
+{
+"w": "intensive care",
+"p": "n.",
+"zh": "加護",
+"ex": "She spent two days in intensive care.",
+"exZh": "她在加護病房待了兩天。"
+},
+{
+"w": "laboratory",
+"p": "n.",
+"zh": "檢驗室",
+"ex": "The laboratory processes samples overnight.",
+"exZh": "檢驗室連夜處理檢體。"
+},
+{
+"w": "lifespan",
+"p": "n.",
+"zh": "壽命",
+"ex": "Average lifespan has risen steadily.",
+"exZh": "平均壽命穩定上升。"
+},
+{
+"w": "malignant",
+"p": "adj.",
+"zh": "惡性的",
+"ex": "Early detection matters for malignant cases.",
+"exZh": "惡性個案早期發現很重要。"
+},
+{
+"w": "medication",
+"p": "n.",
+"zh": "藥物",
+"ex": "Take the medication with food.",
+"exZh": "請隨餐服藥。"
+},
+{
+"w": "metabolism",
+"p": "n.",
+"zh": "新陳代謝",
+"ex": "Metabolism slows with age.",
+"exZh": "新陳代謝隨年齡減緩。"
+},
+{
+"w": "midwife",
+"p": "n.",
+"zh": "助產士",
+"ex": "A midwife attended the birth.",
+"exZh": "一位助產士協助接生。"
+},
+{
+"w": "mortality",
+"p": "n.",
+"zh": "死亡率",
+"ex": "Mortality rates declined over the decade.",
+"exZh": "死亡率在這十年間下降。"
+},
+{
+"w": "nausea",
+"p": "n.",
+"zh": "噁心",
+"ex": "Nausea usually subsides within an hour.",
+"exZh": "噁心通常一小時內緩解。"
+},
+{
+"w": "nurse",
+"p": "n.",
+"zh": "護理師",
+"ex": "A nurse checked her temperature hourly.",
+"exZh": "護理師每小時量一次體溫。"
+},
+{
+"w": "obesity",
+"p": "n.",
+"zh": "肥胖",
+"ex": "Obesity raises several health risks.",
+"exZh": "肥胖會提高數種健康風險。"
+},
+{
+"w": "operation",
+"p": "n.",
+"zh": "手術",
+"ex": "The operation took four hours.",
+"exZh": "手術進行了四小時。"
+},
+{
+"w": "outpatient",
+"p": "n.",
+"zh": "門診病人",
+"ex": "Most procedures are done on an outpatient basis.",
+"exZh": "多數療程以門診方式進行。"
+},
+{
+"w": "paramedic",
+"p": "n.",
+"zh": "救護技術員",
+"ex": "Paramedics stabilized the patient.",
+"exZh": "救護技術員穩定了病患狀況。"
+},
+{
+"w": "pathology",
+"p": "n.",
+"zh": "病理",
+"ex": "Pathology results arrive in three days.",
+"exZh": "病理結果三天後出爐。"
+},
+{
+"w": "patient",
+"p": "n.",
+"zh": "病患",
+"ex": "The patient was transferred to another ward.",
+"exZh": "病患被轉到另一間病房。"
+},
+{
+"w": "pediatric",
+"p": "adj.",
+"zh": "小兒科的",
+"ex": "The pediatric unit has its own entrance.",
+"exZh": "小兒科病房有獨立入口。"
+},
+{
+"w": "pharmacy",
+"p": "n.",
+"zh": "藥局",
+"ex": "The pharmacy is open until nine.",
+"exZh": "藥局營業至九點。"
+},
+{
+"w": "physician",
+"p": "n.",
+"zh": "內科醫師",
+"ex": "Consult your physician before starting.",
+"exZh": "開始前請諮詢你的醫師。"
+},
+{
+"w": "physiotherapy",
+"p": "n.",
+"zh": "物理治療",
+"ex": "Physiotherapy sessions run twice weekly.",
+"exZh": "物理治療每週兩次。"
+},
+{
+"w": "placebo",
+"p": "n.",
+"zh": "安慰劑",
+"ex": "One group received a placebo.",
+"exZh": "其中一組接受安慰劑。"
+},
+{
+"w": "practice",
+"p": "n.",
+"zh": "診療所",
+"ex": "She joined a group practice downtown.",
+"exZh": "她加入了市中心的聯合診療所。"
+},
+{
+"w": "practitioner",
+"p": "n.",
+"zh": "執業人員",
+"ex": "A general practitioner made the referral.",
+"exZh": "一位家庭醫師開立了轉診。"
+},
+{
+"w": "prescription",
+"p": "n.",
+"zh": "處方箋",
+"ex": "The prescription can be refilled twice.",
+"exZh": "該處方箋可再領藥兩次。"
+},
+{
+"w": "prognosis",
+"p": "n.",
+"zh": "預後",
+"ex": "The prognosis is generally favorable.",
+"exZh": "預後普遍良好。"
+},
+{
+"w": "recovery",
+"p": "n.",
+"zh": "康復",
+"ex": "Recovery took about six weeks.",
+"exZh": "康復花了約六週。"
+},
+{
+"w": "recuperate",
+"p": "v.",
+"zh": "療養",
+"ex": "He is recuperating at home.",
+"exZh": "他正在家中療養。"
+},
+{
+"w": "referral letter",
+"p": "n.",
+"zh": "轉診單",
+"ex": "Bring the referral letter to your appointment.",
+"exZh": "看診時請帶轉診單。"
+},
+{
+"w": "rehabilitation",
+"p": "n.",
+"zh": "復健",
+"ex": "Rehabilitation continues for three months.",
+"exZh": "復健持續三個月。"
+},
+{
+"w": "relapse",
+"p": "n.",
+"zh": "復發",
+"ex": "A relapse occurred after six months.",
+"exZh": "六個月後出現復發。"
+},
+{
+"w": "respiratory",
+"p": "adj.",
+"zh": "呼吸道的",
+"ex": "Respiratory symptoms appeared first.",
+"exZh": "呼吸道症狀最先出現。"
+},
+{
+"w": "sanitize",
+"p": "v.",
+"zh": "消毒",
+"ex": "Sanitize hands before entering.",
+"exZh": "進入前請先消毒雙手。"
+},
+{
+"w": "side effect",
+"p": "n.",
+"zh": "副作用",
+"ex": "Drowsiness is a possible side effect.",
+"exZh": "嗜睡是可能的副作用。"
+},
+{
+"w": "specialist",
+"p": "n.",
+"zh": "專科醫師",
+"ex": "A specialist reviewed the scan.",
+"exZh": "一位專科醫師檢視了影像。"
+},
+{
+"w": "specimen",
+"p": "n.",
+"zh": "檢體",
+"ex": "The specimen was sent to the lab.",
+"exZh": "檢體已送往實驗室。"
+},
+{
+"w": "sterile",
+"p": "adj.",
+"zh": "無菌的",
+"ex": "All instruments must be sterile.",
+"exZh": "所有器械都必須無菌。"
+},
+{
+"w": "surgeon",
+"p": "n.",
+"zh": "外科醫師",
+"ex": "The surgeon explained the risks.",
+"exZh": "外科醫師說明了風險。"
+},
+{
+"w": "surgery",
+"p": "n.",
+"zh": "手術",
+"ex": "The surgery was performed successfully.",
+"exZh": "手術順利完成。"
+},
+{
+"w": "susceptible",
+"p": "adj.",
+"zh": "易受影響的",
+"ex": "Older patients are more susceptible.",
+"exZh": "年長患者較易受影響。"
+},
+{
+"w": "symptom",
+"p": "n.",
+"zh": "症狀",
+"ex": "Symptoms usually appear within two days.",
+"exZh": "症狀通常在兩天內出現。"
+},
+{
+"w": "therapist",
+"p": "n.",
+"zh": "治療師",
+"ex": "The therapist recommended daily exercises.",
+"exZh": "治療師建議每日運動。"
+},
+{
+"w": "therapy",
+"p": "n.",
+"zh": "治療",
+"ex": "Physical therapy improved his mobility.",
+"exZh": "物理治療改善了他的行動力。"
+},
+{
+"w": "transplant",
+"p": "n.",
+"zh": "移植",
+"ex": "The transplant was successful.",
+"exZh": "移植手術成功。"
+},
+{
+"w": "treatment",
+"p": "n.",
+"zh": "療程",
+"ex": "The treatment lasts eight weeks.",
+"exZh": "該療程為期八週。"
+},
+{
+"w": "ultrasound",
+"p": "n.",
+"zh": "超音波",
+"ex": "An ultrasound was performed on site.",
+"exZh": "現場進行了超音波檢查。"
+},
+{
+"w": "vaccination",
+"p": "n.",
+"zh": "疫苗接種",
+"ex": "Vaccination records must be submitted.",
+"exZh": "必須提交疫苗接種紀錄。"
+},
+{
+"w": "vaccine",
+"p": "n.",
+"zh": "疫苗",
+"ex": "The vaccine is offered free of charge.",
+"exZh": "該疫苗免費提供。"
+},
+{
+"w": "virus",
+"p": "n.",
+"zh": "病毒",
+"ex": "The virus spreads through droplets.",
+"exZh": "該病毒透過飛沫傳播。"
+},
+{
+"w": "visiting hours",
+"p": "n.",
+"zh": "探病時間",
+"ex": "Visiting hours end at eight.",
+"exZh": "探病時間至八點結束。"
+},
+{
+"w": "vital signs",
+"p": "n.",
+"zh": "生命徵象",
+"ex": "Vital signs remained stable throughout.",
+"exZh": "生命徵象全程穩定。"
+},
+{
+"w": "walk-in clinic",
+"p": "n.",
+"zh": "免預約診所",
+"ex": "A walk-in clinic handles minor cases.",
+"exZh": "免預約診所處理輕症。"
+},
+{
+"w": "ward",
+"p": "n.",
+"zh": "病房",
+"ex": "The ward has twenty beds.",
+"exZh": "該病房有二十張床。"
+},
+{
+"w": "wellbeing",
+"p": "n.",
+"zh": "身心健康",
+"ex": "Employee wellbeing is a stated priority.",
+"exZh": "員工身心健康被列為優先。"
+},
+{
+"w": "wellness",
+"p": "n.",
+"zh": "健康促進",
+"ex": "The wellness program includes gym access.",
+"exZh": "健康促進方案含健身房使用權。"
+},
+{
+"w": "wheelchair",
+"p": "n.",
+"zh": "輪椅",
+"ex": "A wheelchair is available at the entrance.",
+"exZh": "入口處備有輪椅。"
+},
+{
+"w": "wound",
+"p": "n.",
+"zh": "傷口",
+"ex": "The wound was cleaned and dressed.",
+"exZh": "傷口經清潔並包紮。"
+}
+]
+}

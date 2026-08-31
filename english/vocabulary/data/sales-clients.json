@@ -1,0 +1,672 @@
+{
+"id": "sales-clients",
+"name": "銷售與客戶",
+"nameEn": "Sales & Client Service",
+"words": [
+{
+"w": "accommodating",
+"p": "adj.",
+"zh": "樂於配合的",
+"ex": "The supplier was very accommodating.",
+"exZh": "該供應商非常樂於配合。"
+},
+{
+"w": "accountability",
+"p": "n.",
+"zh": "當責",
+"ex": "Clear accountability speeds up resolution.",
+"exZh": "明確的當責能加快問題解決。"
+},
+{
+"w": "affordable",
+"p": "adj.",
+"zh": "負擔得起的",
+"ex": "The entry model is affordable.",
+"exZh": "入門機型價格可負擔。"
+},
+{
+"w": "apologize",
+"p": "v.",
+"zh": "道歉",
+"ex": "We apologize for the shipping delay.",
+"exZh": "我們為出貨延誤致歉。"
+},
+{
+"w": "approachable",
+"p": "adj.",
+"zh": "平易近人的",
+"ex": "The staff are friendly and approachable.",
+"exZh": "員工親切且平易近人。"
+},
+{
+"w": "assurance",
+"p": "n.",
+"zh": "保證",
+"ex": "The rep gave assurance of on-time delivery.",
+"exZh": "業務保證會準時交貨。"
+},
+{
+"w": "backorder",
+"p": "n.",
+"zh": "缺貨待補訂單",
+"ex": "The item is on backorder until May.",
+"exZh": "該品項缺貨待補至五月。"
+},
+{
+"w": "bargain",
+"p": "n./v.",
+"zh": "划算貨；議價",
+"ex": "The clearance rack has real bargains.",
+"exZh": "出清架上有真正划算的商品。"
+},
+{
+"w": "bid",
+"p": "n./v.",
+"zh": "投標",
+"ex": "Three firms submitted a bid.",
+"exZh": "三家公司提交了標案。"
+},
+{
+"w": "bulk",
+"p": "n.",
+"zh": "大量",
+"ex": "Bulk orders qualify for free shipping.",
+"exZh": "大量訂購符合免運資格。"
+},
+{
+"w": "cancellation",
+"p": "n.",
+"zh": "取消",
+"ex": "Cancellations must be made 48 hours ahead.",
+"exZh": "取消須於 48 小時前提出。"
+},
+{
+"w": "cater",
+"p": "v.",
+"zh": "迎合；提供服務",
+"ex": "The service caters to small businesses.",
+"exZh": "該服務迎合小型企業需求。"
+},
+{
+"w": "charge",
+"p": "n./v.",
+"zh": "收費",
+"ex": "A handling charge applies to returns.",
+"exZh": "退貨須收處理費。"
+},
+{
+"w": "checkout",
+"p": "n.",
+"zh": "結帳",
+"ex": "The checkout process was simplified.",
+"exZh": "結帳流程已簡化。"
+},
+{
+"w": "compensate",
+"p": "v.",
+"zh": "補償",
+"ex": "We compensated the client for the delay.",
+"exZh": "我們就延誤補償了客戶。"
+},
+{
+"w": "competitive",
+"p": "adj.",
+"zh": "有競爭力的",
+"ex": "Our pricing remains competitive.",
+"exZh": "我們的定價仍具競爭力。"
+},
+{
+"w": "complaint",
+"p": "n.",
+"zh": "客訴",
+"ex": "Every complaint is logged and tracked.",
+"exZh": "每件客訴都會記錄並追蹤。"
+},
+{
+"w": "concession",
+"p": "n.",
+"zh": "讓步",
+"ex": "A price concession closed the deal.",
+"exZh": "一項價格讓步促成了交易。"
+},
+{
+"w": "confirmation",
+"p": "n.",
+"zh": "確認信",
+"ex": "A confirmation was sent automatically.",
+"exZh": "確認信已自動寄出。"
+},
+{
+"w": "consignment",
+"p": "n.",
+"zh": "寄售",
+"ex": "Goods are supplied on consignment.",
+"exZh": "貨品以寄售方式供應。"
+},
+{
+"w": "consultation",
+"p": "n.",
+"zh": "諮詢",
+"ex": "The first consultation is free.",
+"exZh": "首次諮詢免費。"
+},
+{
+"w": "courier",
+"p": "n.",
+"zh": "快遞",
+"ex": "A courier will collect the parcel.",
+"exZh": "快遞將前來收取包裹。"
+},
+{
+"w": "courteous",
+"p": "adj.",
+"zh": "有禮的",
+"ex": "The response was prompt and courteous.",
+"exZh": "回覆迅速且有禮。"
+},
+{
+"w": "credit",
+"p": "n.",
+"zh": "賒帳額度",
+"ex": "The buyer requested extended credit.",
+"exZh": "買方要求延長賒帳額度。"
+},
+{
+"w": "customer",
+"p": "n.",
+"zh": "顧客",
+"ex": "Customer satisfaction scores improved.",
+"exZh": "顧客滿意度分數提升。"
+},
+{
+"w": "deal",
+"p": "n.",
+"zh": "交易",
+"ex": "The deal closed ahead of schedule.",
+"exZh": "該交易提前成交。"
+},
+{
+"w": "defective",
+"p": "adj.",
+"zh": "有瑕疵的",
+"ex": "Defective items are replaced free of charge.",
+"exZh": "瑕疵品免費更換。"
+},
+{
+"w": "delivery",
+"p": "n.",
+"zh": "配送",
+"ex": "Delivery takes two to four days.",
+"exZh": "配送需二至四天。"
+},
+{
+"w": "deposit",
+"p": "n.",
+"zh": "訂金",
+"ex": "A 20 percent deposit is required.",
+"exZh": "需支付兩成訂金。"
+},
+{
+"w": "disclaimer",
+"p": "n.",
+"zh": "免責聲明",
+"ex": "A disclaimer appears at the bottom.",
+"exZh": "免責聲明列於底部。"
+},
+{
+"w": "discrepancy",
+"p": "n.",
+"zh": "不符之處",
+"ex": "A discrepancy was found in the invoice.",
+"exZh": "發票中發現一處不符。"
+},
+{
+"w": "dissatisfaction",
+"p": "n.",
+"zh": "不滿",
+"ex": "Dissatisfaction was traced to packaging.",
+"exZh": "不滿的原因追溯到包裝。"
+},
+{
+"w": "dissatisfied",
+"p": "adj.",
+"zh": "不滿意的",
+"ex": "A few customers were dissatisfied with delivery.",
+"exZh": "少數顧客對配送不滿意。"
+},
+{
+"w": "durable",
+"p": "adj.",
+"zh": "耐用的",
+"ex": "The casing is durable and lightweight.",
+"exZh": "外殼耐用且輕巧。"
+},
+{
+"w": "eligible",
+"p": "adj.",
+"zh": "符合資格的",
+"ex": "Orders over $100 are eligible for free shipping.",
+"exZh": "滿百美元訂單符合免運資格。"
+},
+{
+"w": "escalate",
+"p": "v.",
+"zh": "升級處理",
+"ex": "The issue was escalated to a manager.",
+"exZh": "該問題被升級交由主管處理。"
+},
+{
+"w": "exclusive",
+"p": "adj.",
+"zh": "獨家的",
+"ex": "Members get exclusive early access.",
+"exZh": "會員享有獨家優先選購。"
+},
+{
+"w": "expedite",
+"p": "v.",
+"zh": "加快",
+"ex": "We can expedite shipping for a fee.",
+"exZh": "加價可加快出貨。"
+},
+{
+"w": "follow up",
+"p": "v.",
+"zh": "跟進",
+"ex": "Please follow up with the buyer tomorrow.",
+"exZh": "請於明天跟進買方。"
+},
+{
+"w": "fulfillment",
+"p": "n.",
+"zh": "訂單履行",
+"ex": "Fulfillment is handled by a partner.",
+"exZh": "訂單履行由合作夥伴處理。"
+},
+{
+"w": "goodwill",
+"p": "n.",
+"zh": "商譽；善意",
+"ex": "A refund was issued as a goodwill gesture.",
+"exZh": "基於善意進行了退款。"
+},
+{
+"w": "guarantee",
+"p": "n./v.",
+"zh": "保證",
+"ex": "We guarantee delivery within five days.",
+"exZh": "我們保證五日內送達。"
+},
+{
+"w": "handling",
+"p": "n.",
+"zh": "處理費",
+"ex": "Shipping and handling are extra.",
+"exZh": "運費與處理費另計。"
+},
+{
+"w": "hesitate",
+"p": "v.",
+"zh": "猶豫",
+"ex": "Do not hesitate to contact us.",
+"exZh": "請不要猶豫與我們聯繫。"
+},
+{
+"w": "inconvenience",
+"p": "n.",
+"zh": "不便",
+"ex": "We regret any inconvenience caused.",
+"exZh": "我們對造成的不便感到抱歉。"
+},
+{
+"w": "inquire",
+"p": "v.",
+"zh": "詢問",
+"ex": "Several buyers inquired about availability.",
+"exZh": "數位買家詢問了供貨情況。"
+},
+{
+"w": "lead time",
+"p": "n.",
+"zh": "前置時間",
+"ex": "Lead time is currently three weeks.",
+"exZh": "目前前置時間為三週。"
+},
+{
+"w": "liaise",
+"p": "v.",
+"zh": "聯繫協調",
+"ex": "She liaises directly with key accounts.",
+"exZh": "她直接與重點客戶聯繫協調。"
+},
+{
+"w": "loyal",
+"p": "adj.",
+"zh": "忠實的",
+"ex": "Loyal customers receive early access.",
+"exZh": "忠實顧客可提前選購。"
+},
+{
+"w": "markup",
+"p": "n.",
+"zh": "加價幅度",
+"ex": "The markup on accessories is higher.",
+"exZh": "配件的加價幅度較高。"
+},
+{
+"w": "merchant",
+"p": "n.",
+"zh": "商家",
+"ex": "The merchant accepts mobile payment.",
+"exZh": "該商家接受行動支付。"
+},
+{
+"w": "obligation",
+"p": "n.",
+"zh": "義務",
+"ex": "Request a quote with no obligation.",
+"exZh": "索取報價不負任何義務。"
+},
+{
+"w": "order",
+"p": "n./v.",
+"zh": "訂單",
+"ex": "The order was confirmed this morning.",
+"exZh": "訂單已於今早確認。"
+},
+{
+"w": "overdue",
+"p": "adj.",
+"zh": "逾期的",
+"ex": "The payment is now two weeks overdue.",
+"exZh": "款項已逾期兩週。"
+},
+{
+"w": "package",
+"p": "n.",
+"zh": "包裹",
+"ex": "The package arrived undamaged.",
+"exZh": "包裹完好送達。"
+},
+{
+"w": "patronage",
+"p": "n.",
+"zh": "惠顧",
+"ex": "Thank you for your continued patronage.",
+"exZh": "感謝您持續惠顧。"
+},
+{
+"w": "persuasion",
+"p": "n.",
+"zh": "說服",
+"ex": "Gentle persuasion secured the renewal.",
+"exZh": "溫和的說服促成了續約。"
+},
+{
+"w": "preference",
+"p": "n.",
+"zh": "偏好",
+"ex": "Update your contact preferences anytime.",
+"exZh": "你可隨時更新聯絡偏好。"
+},
+{
+"w": "prepaid",
+"p": "adj.",
+"zh": "預付的",
+"ex": "A prepaid label is included.",
+"exZh": "內附預付標籤。"
+},
+{
+"w": "priority",
+"p": "n.",
+"zh": "優先",
+"ex": "Priority shipping arrives next day.",
+"exZh": "優先配送隔日送達。"
+},
+{
+"w": "proactive",
+"p": "adj.",
+"zh": "主動積極的",
+"ex": "A proactive approach prevents complaints.",
+"exZh": "主動積極的做法能預防客訴。"
+},
+{
+"w": "prospecting",
+"p": "n.",
+"zh": "開發客戶",
+"ex": "Prospecting fills the sales pipeline.",
+"exZh": "開發客戶充實了銷售管線。"
+},
+{
+"w": "purchase",
+"p": "n./v.",
+"zh": "購買",
+"ex": "The purchase includes a one-year warranty.",
+"exZh": "該筆購買含一年保固。"
+},
+{
+"w": "quotation",
+"p": "n.",
+"zh": "報價單",
+"ex": "The quotation is valid for thirty days.",
+"exZh": "報價單有效期三十天。"
+},
+{
+"w": "rapport",
+"p": "n.",
+"zh": "良好關係",
+"ex": "She built rapport with the buyer quickly.",
+"exZh": "她很快與買方建立了良好關係。"
+},
+{
+"w": "reasonable",
+"p": "adj.",
+"zh": "合理的",
+"ex": "The price seems reasonable for the quality.",
+"exZh": "以品質而言價格似乎合理。"
+},
+{
+"w": "reassure",
+"p": "v.",
+"zh": "使安心",
+"ex": "We reassured the client about quality.",
+"exZh": "我們讓客戶對品質安心。"
+},
+{
+"w": "refundable",
+"p": "adj.",
+"zh": "可退款的",
+"ex": "The deposit is fully refundable.",
+"exZh": "訂金可全額退款。"
+},
+{
+"w": "refurbish",
+"p": "v.",
+"zh": "翻新",
+"ex": "Returned units are refurbished and resold.",
+"exZh": "退回的機器經翻新後轉售。"
+},
+{
+"w": "renewal",
+"p": "n.",
+"zh": "續約",
+"ex": "The renewal rate exceeded 80 percent.",
+"exZh": "續約率超過八成。"
+},
+{
+"w": "replacement",
+"p": "n.",
+"zh": "替換品",
+"ex": "A free replacement was shipped immediately.",
+"exZh": "立即寄出了免費替換品。"
+},
+{
+"w": "representative",
+"p": "n.",
+"zh": "業務代表",
+"ex": "A representative will contact you shortly.",
+"exZh": "業務代表將盡快與您聯繫。"
+},
+{
+"w": "request",
+"p": "n./v.",
+"zh": "要求",
+"ex": "Your request has been forwarded.",
+"exZh": "你的要求已被轉交。"
+},
+{
+"w": "resolve",
+"p": "v.",
+"zh": "解決",
+"ex": "The team resolved the issue same day.",
+"exZh": "團隊當天就解決了問題。"
+},
+{
+"w": "retain",
+"p": "v.",
+"zh": "留住",
+"ex": "Discounts help retain price-sensitive buyers.",
+"exZh": "折扣有助留住價格敏感的買家。"
+},
+{
+"w": "return",
+"p": "n./v.",
+"zh": "退貨",
+"ex": "Returns require the original packaging.",
+"exZh": "退貨需要原始包裝。"
+},
+{
+"w": "satisfaction",
+"p": "n.",
+"zh": "滿意度",
+"ex": "Satisfaction is measured after every case.",
+"exZh": "每個案件後都會測量滿意度。"
+},
+{
+"w": "shipment",
+"p": "n.",
+"zh": "貨件",
+"ex": "The shipment left the warehouse today.",
+"exZh": "貨件今天離開倉庫。"
+},
+{
+"w": "sincerely",
+"p": "adv.",
+"zh": "誠摯地",
+"ex": "We sincerely appreciate your patience.",
+"exZh": "我們誠摯感謝您的耐心。"
+},
+{
+"w": "solicit",
+"p": "v.",
+"zh": "徵求",
+"ex": "We solicited feedback after each order.",
+"exZh": "我們在每筆訂單後徵求意見。"
+},
+{
+"w": "specification",
+"p": "n.",
+"zh": "規格",
+"ex": "The specifications are listed overleaf.",
+"exZh": "規格列於背面。"
+},
+{
+"w": "subscriber",
+"p": "n.",
+"zh": "訂戶",
+"ex": "Subscriber numbers grew steadily.",
+"exZh": "訂戶數穩定成長。"
+},
+{
+"w": "subtotal",
+"p": "n.",
+"zh": "小計",
+"ex": "The subtotal excludes tax.",
+"exZh": "小計不含稅。"
+},
+{
+"w": "surcharge",
+"p": "n.",
+"zh": "附加費用",
+"ex": "A weekend surcharge may apply.",
+"exZh": "週末可能加收附加費用。"
+},
+{
+"w": "tailored",
+"p": "adj.",
+"zh": "量身訂做的",
+"ex": "We offer tailored service plans.",
+"exZh": "我們提供量身訂做的服務方案。"
+},
+{
+"w": "terms",
+"p": "n.",
+"zh": "條件",
+"ex": "Payment terms are net thirty.",
+"exZh": "付款條件為三十天付清。"
+},
+{
+"w": "timely",
+"p": "adj.",
+"zh": "及時的",
+"ex": "Timely responses build trust.",
+"exZh": "及時回覆能建立信任。"
+},
+{
+"w": "tracking",
+"p": "n.",
+"zh": "追蹤",
+"ex": "A tracking number was emailed to you.",
+"exZh": "追蹤號碼已寄至你的信箱。"
+},
+{
+"w": "unavailable",
+"p": "adj.",
+"zh": "無法取得的",
+"ex": "That size is currently unavailable.",
+"exZh": "該尺寸目前無法取得。"
+},
+{
+"w": "upgrade",
+"p": "n./v.",
+"zh": "升級",
+"ex": "An upgrade path is offered annually.",
+"exZh": "每年提供升級方案。"
+},
+{
+"w": "valid",
+"p": "adj.",
+"zh": "有效的",
+"ex": "The voucher is valid until December.",
+"exZh": "該憑證有效期至十二月。"
+},
+{
+"w": "volume",
+"p": "n.",
+"zh": "交易量",
+"ex": "Volume discounts start at 100 units.",
+"exZh": "數量折扣自一百單位起算。"
+},
+{
+"w": "voucher",
+"p": "n.",
+"zh": "禮券",
+"ex": "A voucher was issued as compensation.",
+"exZh": "已發放禮券作為補償。"
+},
+{
+"w": "walk-in",
+"p": "n.",
+"zh": "臨櫃客",
+"ex": "Walk-in customers are served first.",
+"exZh": "臨櫃客優先服務。"
+},
+{
+"w": "willing",
+"p": "adj.",
+"zh": "願意的",
+"ex": "They were willing to renegotiate.",
+"exZh": "他們願意重新協商。"
+}
+]
+}

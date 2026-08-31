@@ -1,0 +1,665 @@
+{
+"id": "shopping-consumer",
+"name": "消費與金融日常",
+"nameEn": "Shopping & Consumer",
+"words": [
+{
+"w": "affordability",
+"p": "n.",
+"zh": "負擔能力",
+"ex": "Affordability remains the main concern.",
+"exZh": "負擔能力仍是主要考量。"
+},
+{
+"w": "atm",
+"p": "n.",
+"zh": "自動櫃員機",
+"ex": "The atm is out of service.",
+"exZh": "自動櫃員機故障中。"
+},
+{
+"w": "authorization code",
+"p": "n.",
+"zh": "授權碼",
+"ex": "Enter the authorization code to proceed.",
+"exZh": "請輸入授權碼以繼續。"
+},
+{
+"w": "balance inquiry",
+"p": "n.",
+"zh": "餘額查詢",
+"ex": "A balance inquiry is free of charge.",
+"exZh": "餘額查詢免費。"
+},
+{
+"w": "barcode scanner",
+"p": "n.",
+"zh": "條碼掃描機",
+"ex": "The barcode scanner failed twice.",
+"exZh": "條碼掃描機故障了兩次。"
+},
+{
+"w": "bargain hunting",
+"p": "n.",
+"zh": "撿便宜",
+"ex": "Bargain hunting peaks after the holidays.",
+"exZh": "假期後撿便宜的人潮最多。"
+},
+{
+"w": "bargain price",
+"p": "n.",
+"zh": "特價",
+"ex": "The bargain price applies today only.",
+"exZh": "特價僅限今日。"
+},
+{
+"w": "bill payment",
+"p": "n.",
+"zh": "帳單繳費",
+"ex": "Bill payment can be automated.",
+"exZh": "帳單繳費可以自動化。"
+},
+{
+"w": "billing address",
+"p": "n.",
+"zh": "帳單地址",
+"ex": "Confirm your billing address.",
+"exZh": "請確認你的帳單地址。"
+},
+{
+"w": "branch office",
+"p": "n.",
+"zh": "分行",
+"ex": "The branch office closes at three thirty.",
+"exZh": "分行三點半打烊。"
+},
+{
+"w": "bundle deal",
+"p": "n.",
+"zh": "組合優惠",
+"ex": "The bundle deal saves 20 percent.",
+"exZh": "組合優惠可省兩成。"
+},
+{
+"w": "cardholder",
+"p": "n.",
+"zh": "持卡人",
+"ex": "The cardholder must sign the slip.",
+"exZh": "持卡人必須在簽單上簽名。"
+},
+{
+"w": "cash back",
+"p": "n.",
+"zh": "現金回饋",
+"ex": "Cash back is credited monthly.",
+"exZh": "現金回饋每月入帳。"
+},
+{
+"w": "cash register",
+"p": "n.",
+"zh": "收銀機",
+"ex": "The cash register jammed briefly.",
+"exZh": "收銀機短暫卡住。"
+},
+{
+"w": "catalogue order",
+"p": "n.",
+"zh": "型錄訂購",
+"ex": "Catalogue orders ship within a week.",
+"exZh": "型錄訂購一週內出貨。"
+},
+{
+"w": "chargeback",
+"p": "n.",
+"zh": "退單",
+"ex": "A chargeback was filed by the customer.",
+"exZh": "客戶提出了退單申請。"
+},
+{
+"w": "checkout counter",
+"p": "n.",
+"zh": "結帳櫃檯",
+"ex": "Only two checkout counters were open.",
+"exZh": "只開了兩個結帳櫃檯。"
+},
+{
+"w": "clearance sale",
+"p": "n.",
+"zh": "出清特賣",
+"ex": "The clearance sale ends Sunday.",
+"exZh": "出清特賣週日結束。"
+},
+{
+"w": "consumer rights",
+"p": "n.",
+"zh": "消費者權益",
+"ex": "Consumer rights are clearly posted.",
+"exZh": "消費者權益有清楚公告。"
+},
+{
+"w": "contactless",
+"p": "adj.",
+"zh": "感應式的",
+"ex": "Contactless payment is faster.",
+"exZh": "感應式支付比較快。"
+},
+{
+"w": "convenience fee",
+"p": "n.",
+"zh": "便利手續費",
+"ex": "A convenience fee applies online.",
+"exZh": "線上須收便利手續費。"
+},
+{
+"w": "credit limit",
+"p": "n.",
+"zh": "信用額度",
+"ex": "Her credit limit was raised.",
+"exZh": "她的信用額度被調高。"
+},
+{
+"w": "currency conversion",
+"p": "n.",
+"zh": "貨幣換算",
+"ex": "Currency conversion happens automatically.",
+"exZh": "貨幣換算會自動進行。"
+},
+{
+"w": "debit card",
+"p": "n.",
+"zh": "金融卡",
+"ex": "The debit card was declined.",
+"exZh": "金融卡遭到拒絕。"
+},
+{
+"w": "delivery slot",
+"p": "n.",
+"zh": "配送時段",
+"ex": "Choose a delivery slot at checkout.",
+"exZh": "請在結帳時選擇配送時段。"
+},
+{
+"w": "department store",
+"p": "n.",
+"zh": "百貨公司",
+"ex": "The department store spans eight floors.",
+"exZh": "該百貨公司共八層樓。"
+},
+{
+"w": "deposit slip",
+"p": "n.",
+"zh": "存款單",
+"ex": "Complete the deposit slip first.",
+"exZh": "請先填寫存款單。"
+},
+{
+"w": "digital wallet",
+"p": "n.",
+"zh": "電子錢包",
+"ex": "The digital wallet stores three cards.",
+"exZh": "電子錢包儲存了三張卡。"
+},
+{
+"w": "discount code",
+"p": "n.",
+"zh": "折扣碼",
+"ex": "Apply the discount code at checkout.",
+"exZh": "結帳時請輸入折扣碼。"
+},
+{
+"w": "due date",
+"p": "n.",
+"zh": "繳款日",
+"ex": "The due date falls on a holiday.",
+"exZh": "繳款日剛好是假日。"
+},
+{
+"w": "economical",
+"p": "adj.",
+"zh": "經濟實惠的",
+"ex": "The larger size is more economical.",
+"exZh": "大包裝比較經濟實惠。"
+},
+{
+"w": "exchange rate",
+"p": "n.",
+"zh": "匯率",
+"ex": "The exchange rate moved against us.",
+"exZh": "匯率對我們不利。"
+},
+{
+"w": "expenditure limit",
+"p": "n.",
+"zh": "支出上限",
+"ex": "An expenditure limit was set.",
+"exZh": "已設定支出上限。"
+},
+{
+"w": "expiry date",
+"p": "n.",
+"zh": "有效期限",
+"ex": "Check the card expiry date.",
+"exZh": "請確認卡片有效期限。"
+},
+{
+"w": "fitting room",
+"p": "n.",
+"zh": "試衣間",
+"ex": "The fitting room is at the back.",
+"exZh": "試衣間在後方。"
+},
+{
+"w": "flash sale",
+"p": "n.",
+"zh": "限時特賣",
+"ex": "The flash sale lasts four hours.",
+"exZh": "限時特賣持續四小時。"
+},
+{
+"w": "gift card",
+"p": "n.",
+"zh": "禮物卡",
+"ex": "The gift card never expires.",
+"exZh": "該禮物卡永不過期。"
+},
+{
+"w": "grocery bill",
+"p": "n.",
+"zh": "買菜帳單",
+"ex": "Our grocery bill rose noticeably.",
+"exZh": "我們的買菜帳單明顯上升。"
+},
+{
+"w": "grocery store",
+"p": "n.",
+"zh": "食品店",
+"ex": "The grocery store restocks at dawn.",
+"exZh": "食品店在清晨補貨。"
+},
+{
+"w": "household budget",
+"p": "n.",
+"zh": "家庭預算",
+"ex": "The household budget was revised.",
+"exZh": "家庭預算經過修訂。"
+},
+{
+"w": "impulse purchase",
+"p": "n.",
+"zh": "衝動購買",
+"ex": "Displays encourage impulse purchases.",
+"exZh": "陳列會誘發衝動購買。"
+},
+{
+"w": "in-store",
+"p": "adj.",
+"zh": "店內的",
+"ex": "In-store pickup saves shipping.",
+"exZh": "店內取貨可省運費。"
+},
+{
+"w": "installment plan",
+"p": "n.",
+"zh": "分期方案",
+"ex": "An installment plan is available.",
+"exZh": "提供分期方案。"
+},
+{
+"w": "insufficient funds",
+"p": "n.",
+"zh": "餘額不足",
+"ex": "The payment failed due to insufficient funds.",
+"exZh": "付款因餘額不足失敗。"
+},
+{
+"w": "interest-free",
+"p": "adj.",
+"zh": "免息的",
+"ex": "Interest-free periods last six months.",
+"exZh": "免息期為六個月。"
+},
+{
+"w": "inventory clearance",
+"p": "n.",
+"zh": "庫存出清",
+"ex": "Inventory clearance began in January.",
+"exZh": "庫存出清於一月開始。"
+},
+{
+"w": "invoice number",
+"p": "n.",
+"zh": "發票號碼",
+"ex": "Quote the invoice number when calling.",
+"exZh": "來電時請提供發票號碼。"
+},
+{
+"w": "loyalty card",
+"p": "n.",
+"zh": "集點卡",
+"ex": "Present your loyalty card to earn points.",
+"exZh": "請出示集點卡以累積點數。"
+},
+{
+"w": "markdown",
+"p": "n.",
+"zh": "降價",
+"ex": "A steep markdown cleared the stock.",
+"exZh": "大幅降價出清了庫存。"
+},
+{
+"w": "markup price",
+"p": "n.",
+"zh": "加價後價格",
+"ex": "The markup price covers handling.",
+"exZh": "加價後價格涵蓋處理費用。"
+},
+{
+"w": "membership discount",
+"p": "n.",
+"zh": "會員折扣",
+"ex": "A membership discount applies automatically.",
+"exZh": "會員折扣自動套用。"
+},
+{
+"w": "merchandise return",
+"p": "n.",
+"zh": "商品退貨",
+"ex": "Merchandise returns need a receipt.",
+"exZh": "商品退貨需要收據。"
+},
+{
+"w": "merchant fee",
+"p": "n.",
+"zh": "商家手續費",
+"ex": "Merchant fees vary by card type.",
+"exZh": "商家手續費因卡別而異。"
+},
+{
+"w": "mobile banking",
+"p": "n.",
+"zh": "行動銀行",
+"ex": "Mobile banking handles most transactions.",
+"exZh": "行動銀行處理多數交易。"
+},
+{
+"w": "online banking",
+"p": "n.",
+"zh": "網路銀行",
+"ex": "Online banking is available around the clock.",
+"exZh": "網路銀行全天候可用。"
+},
+{
+"w": "online checkout",
+"p": "n.",
+"zh": "線上結帳",
+"ex": "Online checkout takes two steps.",
+"exZh": "線上結帳只要兩個步驟。"
+},
+{
+"w": "outlet mall",
+"p": "n.",
+"zh": "暢貨中心",
+"ex": "The outlet mall opened last spring.",
+"exZh": "暢貨中心於去年春天開幕。"
+},
+{
+"w": "overdraft fee",
+"p": "n.",
+"zh": "透支費",
+"ex": "An overdraft fee was reversed.",
+"exZh": "透支費已被沖銷。"
+},
+{
+"w": "overpriced",
+"p": "adj.",
+"zh": "定價過高的",
+"ex": "The accessory seems overpriced.",
+"exZh": "這個配件定價似乎過高。"
+},
+{
+"w": "payment method",
+"p": "n.",
+"zh": "付款方式",
+"ex": "Several payment methods are accepted.",
+"exZh": "接受多種付款方式。"
+},
+{
+"w": "pending transaction",
+"p": "n.",
+"zh": "待處理交易",
+"ex": "A pending transaction may take a day.",
+"exZh": "待處理交易可能需要一天。"
+},
+{
+"w": "price comparison",
+"p": "n.",
+"zh": "比價",
+"ex": "Price comparison sites save money.",
+"exZh": "比價網站能省錢。"
+},
+{
+"w": "price tag",
+"p": "n.",
+"zh": "價格標籤",
+"ex": "The price tag was missing.",
+"exZh": "價格標籤不見了。"
+},
+{
+"w": "promo code",
+"p": "n.",
+"zh": "優惠代碼",
+"ex": "The promo code expired yesterday.",
+"exZh": "優惠代碼昨天到期。"
+},
+{
+"w": "purchasing power",
+"p": "n.",
+"zh": "購買力",
+"ex": "Purchasing power declined this year.",
+"exZh": "今年購買力下降。"
+},
+{
+"w": "receipt copy",
+"p": "n.",
+"zh": "收據副本",
+"ex": "Keep a receipt copy for your records.",
+"exZh": "請保留收據副本存查。"
+},
+{
+"w": "receipt number",
+"p": "n.",
+"zh": "收據編號",
+"ex": "Quote the receipt number for returns.",
+"exZh": "退貨請提供收據編號。"
+},
+{
+"w": "recurring payment",
+"p": "n.",
+"zh": "定期付款",
+"ex": "Cancel the recurring payment anytime.",
+"exZh": "可隨時取消定期付款。"
+},
+{
+"w": "refund policy",
+"p": "n.",
+"zh": "退款政策",
+"ex": "The refund policy allows 30 days.",
+"exZh": "退款政策給予三十天期限。"
+},
+{
+"w": "retail outlet",
+"p": "n.",
+"zh": "零售據點",
+"ex": "The chain opened four retail outlets.",
+"exZh": "該連鎖開設了四個零售據點。"
+},
+{
+"w": "retail price",
+"p": "n.",
+"zh": "零售價",
+"ex": "The retail price includes tax.",
+"exZh": "零售價已含稅。"
+},
+{
+"w": "sales tax",
+"p": "n.",
+"zh": "銷售稅",
+"ex": "Sales tax varies by state.",
+"exZh": "銷售稅因州而異。"
+},
+{
+"w": "savings account",
+"p": "n.",
+"zh": "儲蓄帳戶",
+"ex": "The savings account pays modest interest.",
+"exZh": "該儲蓄帳戶提供微薄利息。"
+},
+{
+"w": "self-checkout",
+"p": "n.",
+"zh": "自助結帳",
+"ex": "Self-checkout reduced queue times.",
+"exZh": "自助結帳縮短了排隊時間。"
+},
+{
+"w": "shopping cart",
+"p": "n.",
+"zh": "購物車",
+"ex": "Items remain in the shopping cart.",
+"exZh": "商品仍在購物車中。"
+},
+{
+"w": "shopping spree",
+"p": "n.",
+"zh": "購物狂歡",
+"ex": "The sale triggered a shopping spree.",
+"exZh": "特賣引發了購物狂歡。"
+},
+{
+"w": "statement balance",
+"p": "n.",
+"zh": "帳單餘額",
+"ex": "Pay the statement balance in full.",
+"exZh": "請全額繳清帳單餘額。"
+},
+{
+"w": "statement cycle",
+"p": "n.",
+"zh": "帳單週期",
+"ex": "The statement cycle ends on the 20th.",
+"exZh": "帳單週期於二十日結束。"
+},
+{
+"w": "stock clearance",
+"p": "n.",
+"zh": "清倉",
+"ex": "Stock clearance runs all month.",
+"exZh": "清倉活動進行整個月。"
+},
+{
+"w": "store credit",
+"p": "n.",
+"zh": "商店抵用金",
+"ex": "Store credit was issued instead of cash.",
+"exZh": "以商店抵用金取代現金退款。"
+},
+{
+"w": "storefront",
+"p": "n.",
+"zh": "店面",
+"ex": "The storefront was recently renovated.",
+"exZh": "店面最近整修過。"
+},
+{
+"w": "subscription fee",
+"p": "n.",
+"zh": "訂閱費",
+"ex": "The subscription fee is billed monthly.",
+"exZh": "訂閱費按月計費。"
+},
+{
+"w": "supplier invoice",
+"p": "n.",
+"zh": "供應商發票",
+"ex": "Supplier invoices are paid weekly.",
+"exZh": "供應商發票每週支付。"
+},
+{
+"w": "thrifty",
+"p": "adj.",
+"zh": "節儉的",
+"ex": "Thrifty shoppers compare unit prices.",
+"exZh": "節儉的消費者會比較單價。"
+},
+{
+"w": "transaction fee",
+"p": "n.",
+"zh": "交易手續費",
+"ex": "A small transaction fee applies.",
+"exZh": "需收取少額交易手續費。"
+},
+{
+"w": "transaction history",
+"p": "n.",
+"zh": "交易紀錄",
+"ex": "Transaction history is kept for a year.",
+"exZh": "交易紀錄保存一年。"
+},
+{
+"w": "unit price",
+"p": "n.",
+"zh": "單價",
+"ex": "The unit price is shown on the shelf.",
+"exZh": "單價標示在貨架上。"
+},
+{
+"w": "upfront payment",
+"p": "n.",
+"zh": "預付款",
+"ex": "An upfront payment secures the order.",
+"exZh": "預付款可確保訂單成立。"
+},
+{
+"w": "value for money",
+"p": "n.",
+"zh": "物有所值",
+"ex": "The set offers good value for money.",
+"exZh": "這組商品物有所值。"
+},
+{
+"w": "vending machine",
+"p": "n.",
+"zh": "自動販賣機",
+"ex": "The vending machine takes coins only.",
+"exZh": "自動販賣機只收硬幣。"
+},
+{
+"w": "voucher code",
+"p": "n.",
+"zh": "優惠券代碼",
+"ex": "The voucher code is case sensitive.",
+"exZh": "優惠券代碼區分大小寫。"
+},
+{
+"w": "warranty claim",
+"p": "n.",
+"zh": "保固申請",
+"ex": "The warranty claim was approved.",
+"exZh": "保固申請獲得核准。"
+},
+{
+"w": "window shopping",
+"p": "n.",
+"zh": "逛街看櫥窗",
+"ex": "Window shopping costs nothing.",
+"exZh": "逛街看櫥窗不花錢。"
+},
+{
+"w": "withdrawal limit",
+"p": "n.",
+"zh": "提款上限",
+"ex": "The daily withdrawal limit is 500.",
+"exZh": "每日提款上限為五百。"
+}
+]
+}

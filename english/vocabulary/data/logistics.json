@@ -1,0 +1,700 @@
+{
+"id": "logistics",
+"name": "物流與倉儲",
+"nameEn": "Logistics & Warehousing",
+"words": [
+{
+"w": "accumulate",
+"p": "v.",
+"zh": "累積",
+"ex": "Charges accumulate while goods wait.",
+"exZh": "貨物等待期間費用會累積。"
+},
+{
+"w": "airfreight",
+"p": "n.",
+"zh": "空運",
+"ex": "Airfreight was used to meet the deadline.",
+"exZh": "為趕上期限採用了空運。"
+},
+{
+"w": "ambient",
+"p": "adj.",
+"zh": "常溫的",
+"ex": "Ambient storage suits dry goods.",
+"exZh": "常溫儲存適合乾貨。"
+},
+{
+"w": "backlog",
+"p": "n.",
+"zh": "積壓",
+"ex": "The backlog cleared within a week.",
+"exZh": "積壓在一週內消化完畢。"
+},
+{
+"w": "barcode",
+"p": "n.",
+"zh": "條碼",
+"ex": "Every carton carries a barcode.",
+"exZh": "每個紙箱都貼有條碼。"
+},
+{
+"w": "bill of lading",
+"p": "n.",
+"zh": "提單",
+"ex": "The bill of lading lists all cartons.",
+"exZh": "提單列出了所有紙箱。"
+},
+{
+"w": "cargo",
+"p": "n.",
+"zh": "貨物",
+"ex": "The cargo cleared customs this morning.",
+"exZh": "貨物今早通關。"
+},
+{
+"w": "carrier",
+"p": "n.",
+"zh": "承運業者",
+"ex": "The carrier guarantees next-day delivery.",
+"exZh": "承運業者保證隔日送達。"
+},
+{
+"w": "carton",
+"p": "n.",
+"zh": "紙箱",
+"ex": "Each carton weighs under twenty kilos.",
+"exZh": "每箱重量不超過二十公斤。"
+},
+{
+"w": "checkpoint",
+"p": "n.",
+"zh": "查核點",
+"ex": "Trucks stop at the border checkpoint.",
+"exZh": "卡車在邊境查核點停留。"
+},
+{
+"w": "clearance",
+"p": "n.",
+"zh": "通關",
+"ex": "Customs clearance took three days.",
+"exZh": "海關通關花了三天。"
+},
+{
+"w": "collection",
+"p": "n.",
+"zh": "取件",
+"ex": "Collection is scheduled for four o'clock.",
+"exZh": "取件排定在四點。"
+},
+{
+"w": "compartment",
+"p": "n.",
+"zh": "隔間",
+"ex": "The truck has two temperature compartments.",
+"exZh": "卡車有兩個溫控隔間。"
+},
+{
+"w": "congestion",
+"p": "n.",
+"zh": "壅塞",
+"ex": "Port congestion worsened in August.",
+"exZh": "八月港口壅塞加劇。"
+},
+{
+"w": "consignee",
+"p": "n.",
+"zh": "收貨人",
+"ex": "The consignee must sign on arrival.",
+"exZh": "收貨人須於到貨時簽收。"
+},
+{
+"w": "consignor",
+"p": "n.",
+"zh": "寄件人",
+"ex": "The consignor pays the freight charges.",
+"exZh": "寄件人支付運費。"
+},
+{
+"w": "container",
+"p": "n.",
+"zh": "貨櫃",
+"ex": "Two containers were loaded yesterday.",
+"exZh": "昨天裝載了兩個貨櫃。"
+},
+{
+"w": "crate",
+"p": "n.",
+"zh": "木箱",
+"ex": "Fragile items ship in wooden crates.",
+"exZh": "易碎品以木箱運送。"
+},
+{
+"w": "customs",
+"p": "n.",
+"zh": "海關",
+"ex": "Customs inspected the shipment randomly.",
+"exZh": "海關隨機查驗了該貨件。"
+},
+{
+"w": "declaration",
+"p": "n.",
+"zh": "報關單",
+"ex": "The export declaration was filed online.",
+"exZh": "出口報關單已線上申報。"
+},
+{
+"w": "delay",
+"p": "n.",
+"zh": "延誤",
+"ex": "Port congestion caused a week's delay.",
+"exZh": "港口壅塞造成一週延誤。"
+},
+{
+"w": "delivery note",
+"p": "n.",
+"zh": "送貨單",
+"ex": "Sign the delivery note on receipt.",
+"exZh": "收貨時請簽署送貨單。"
+},
+{
+"w": "demurrage",
+"p": "n.",
+"zh": "滯港費",
+"ex": "Demurrage applies after five free days.",
+"exZh": "五天免費期後計收滯港費。"
+},
+{
+"w": "depot",
+"p": "n.",
+"zh": "集散站",
+"ex": "Parcels are sorted at the regional depot.",
+"exZh": "包裹在區域集散站分揀。"
+},
+{
+"w": "destination",
+"p": "n.",
+"zh": "目的地",
+"ex": "The final destination is Rotterdam.",
+"exZh": "最終目的地是鹿特丹。"
+},
+{
+"w": "deteriorate",
+"p": "v.",
+"zh": "變質",
+"ex": "Produce deteriorates without refrigeration.",
+"exZh": "生鮮沒有冷藏就會變質。"
+},
+{
+"w": "dispatcher",
+"p": "n.",
+"zh": "派車員",
+"ex": "The dispatcher reassigned two routes.",
+"exZh": "派車員重新調配了兩條路線。"
+},
+{
+"w": "disruption",
+"p": "n.",
+"zh": "中斷",
+"ex": "The strike caused major disruption.",
+"exZh": "罷工造成重大中斷。"
+},
+{
+"w": "divert",
+"p": "v.",
+"zh": "轉向",
+"ex": "The vessel was diverted to another port.",
+"exZh": "該船被轉向另一個港口。"
+},
+{
+"w": "dock",
+"p": "n.",
+"zh": "裝卸碼頭",
+"ex": "Trucks queue at the loading dock.",
+"exZh": "卡車在裝卸碼頭排隊。"
+},
+{
+"w": "documentation",
+"p": "n.",
+"zh": "文件作業",
+"ex": "Incomplete documentation delays clearance.",
+"exZh": "文件不全會延誤通關。"
+},
+{
+"w": "dropship",
+"p": "v.",
+"zh": "直送",
+"ex": "The vendor dropships to end customers.",
+"exZh": "廠商直送終端客戶。"
+},
+{
+"w": "embargo",
+"p": "n.",
+"zh": "禁運",
+"ex": "An embargo blocked the shipment.",
+"exZh": "禁運令阻擋了該貨件。"
+},
+{
+"w": "expiration",
+"p": "n.",
+"zh": "效期",
+"ex": "Check the expiration date before shipping.",
+"exZh": "出貨前請檢查效期。"
+},
+{
+"w": "fleet",
+"p": "n.",
+"zh": "車隊",
+"ex": "The fleet includes forty refrigerated trucks.",
+"exZh": "車隊包含四十輛冷藏車。"
+},
+{
+"w": "forwarder",
+"p": "n.",
+"zh": "承攬業者",
+"ex": "The freight forwarder arranged the booking.",
+"exZh": "貨運承攬業者安排了艙位。"
+},
+{
+"w": "fragile",
+"p": "adj.",
+"zh": "易碎的",
+"ex": "Mark fragile items clearly.",
+"exZh": "易碎品請清楚標示。"
+},
+{
+"w": "freight",
+"p": "n.",
+"zh": "貨運；運費",
+"ex": "Freight costs rose sharply this year.",
+"exZh": "今年運費大幅上漲。"
+},
+{
+"w": "gross weight",
+"p": "n.",
+"zh": "毛重",
+"ex": "The gross weight includes packaging.",
+"exZh": "毛重包含包裝。"
+},
+{
+"w": "handling fee",
+"p": "n.",
+"zh": "操作費",
+"ex": "A handling fee applies to oversized items.",
+"exZh": "超大件須收操作費。"
+},
+{
+"w": "haulage",
+"p": "n.",
+"zh": "陸運",
+"ex": "Road haulage was arranged locally.",
+"exZh": "陸運已在當地安排。"
+},
+{
+"w": "hub",
+"p": "n.",
+"zh": "轉運中心",
+"ex": "The hub sorts 50,000 parcels nightly.",
+"exZh": "轉運中心每晚分揀五萬件包裹。"
+},
+{
+"w": "import",
+"p": "n./v.",
+"zh": "進口",
+"ex": "Import volumes fell in the first quarter.",
+"exZh": "第一季進口量下滑。"
+},
+{
+"w": "inland",
+"p": "adj.",
+"zh": "內陸的",
+"ex": "Inland transport adds two days.",
+"exZh": "內陸運輸增加兩天。"
+},
+{
+"w": "intermodal",
+"p": "adj.",
+"zh": "複合運輸的",
+"ex": "Intermodal transport combines rail and road.",
+"exZh": "複合運輸結合鐵路與公路。"
+},
+{
+"w": "labeling",
+"p": "n.",
+"zh": "標示",
+"ex": "Correct labeling speeds up sorting.",
+"exZh": "正確標示可加快分揀。"
+},
+{
+"w": "load",
+"p": "n./v.",
+"zh": "載貨",
+"ex": "A full truckload ships tonight.",
+"exZh": "一整車貨今晚出發。"
+},
+{
+"w": "loading",
+"p": "n.",
+"zh": "裝載",
+"ex": "Loading begins at six in the morning.",
+"exZh": "裝載於早上六點開始。"
+},
+{
+"w": "logistics",
+"p": "n.",
+"zh": "物流",
+"ex": "Logistics costs represent 12 percent of revenue.",
+"exZh": "物流成本佔營收的 12%。"
+},
+{
+"w": "logistics provider",
+"p": "n.",
+"zh": "物流商",
+"ex": "The logistics provider offers tracking.",
+"exZh": "該物流商提供追蹤服務。"
+},
+{
+"w": "loss",
+"p": "n.",
+"zh": "遺失",
+"ex": "Loss in transit is rare but possible.",
+"exZh": "運輸途中遺失罕見但可能發生。"
+},
+{
+"w": "lot",
+"p": "n.",
+"zh": "批",
+"ex": "Each lot is tracked separately.",
+"exZh": "每一批分開追蹤。"
+},
+{
+"w": "manifest",
+"p": "n.",
+"zh": "艙單",
+"ex": "The manifest lists every container.",
+"exZh": "艙單列出每一個貨櫃。"
+},
+{
+"w": "mileage",
+"p": "n.",
+"zh": "里程",
+"ex": "Mileage is logged for every trip.",
+"exZh": "每趟行程都記錄里程。"
+},
+{
+"w": "net weight",
+"p": "n.",
+"zh": "淨重",
+"ex": "The net weight excludes packaging.",
+"exZh": "淨重不含包裝。"
+},
+{
+"w": "origin",
+"p": "n.",
+"zh": "產地",
+"ex": "Certificate of origin is required.",
+"exZh": "需要產地證明。"
+},
+{
+"w": "oversize",
+"p": "adj.",
+"zh": "超尺寸的",
+"ex": "Oversize cargo needs special permits.",
+"exZh": "超尺寸貨物需要特別許可。"
+},
+{
+"w": "overstock",
+"p": "n.",
+"zh": "過量庫存",
+"ex": "Overstock was moved to clearance.",
+"exZh": "過量庫存移至出清。"
+},
+{
+"w": "packing list",
+"p": "n.",
+"zh": "裝箱單",
+"ex": "The packing list matches the invoice.",
+"exZh": "裝箱單與發票相符。"
+},
+{
+"w": "parcel",
+"p": "n.",
+"zh": "包裹",
+"ex": "The parcel was delivered to reception.",
+"exZh": "包裹已送至櫃檯。"
+},
+{
+"w": "perishable",
+"p": "adj.",
+"zh": "易腐的",
+"ex": "Perishable goods travel in cold storage.",
+"exZh": "易腐貨品以冷藏運送。"
+},
+{
+"w": "pickup",
+"p": "n.",
+"zh": "取貨",
+"ex": "Pickup is free for orders over $50.",
+"exZh": "滿五十美元訂單免費取貨。"
+},
+{
+"w": "port",
+"p": "n.",
+"zh": "港口",
+"ex": "The port handles 20,000 containers daily.",
+"exZh": "該港口每日處理兩萬個貨櫃。"
+},
+{
+"w": "prohibited",
+"p": "adj.",
+"zh": "禁運的",
+"ex": "Prohibited items are removed at screening.",
+"exZh": "禁運品在安檢時被取出。"
+},
+{
+"w": "quantity",
+"p": "n.",
+"zh": "數量",
+"ex": "The quantity shipped matched the order.",
+"exZh": "出貨數量與訂單相符。"
+},
+{
+"w": "quarantine",
+"p": "n.",
+"zh": "檢疫",
+"ex": "Plants are held in quarantine on arrival.",
+"exZh": "植物到港時須留置檢疫。"
+},
+{
+"w": "receiving",
+"p": "n.",
+"zh": "收貨作業",
+"ex": "Receiving closes at four each day.",
+"exZh": "收貨作業每天四點截止。"
+},
+{
+"w": "recipient",
+"p": "n.",
+"zh": "收件人",
+"ex": "The recipient was not available.",
+"exZh": "收件人不在。"
+},
+{
+"w": "refrigerated",
+"p": "adj.",
+"zh": "冷藏的",
+"ex": "Refrigerated containers maintain 4 degrees.",
+"exZh": "冷藏貨櫃維持四度。"
+},
+{
+"w": "replenish",
+"p": "v.",
+"zh": "補貨",
+"ex": "Shelves are replenished twice daily.",
+"exZh": "貨架每日補貨兩次。"
+},
+{
+"w": "replenishment",
+"p": "n.",
+"zh": "補貨作業",
+"ex": "Automatic replenishment triggers at minimum stock.",
+"exZh": "庫存低於下限即自動補貨。"
+},
+{
+"w": "reroute",
+"p": "v.",
+"zh": "改道",
+"ex": "The truck was rerouted around the closure.",
+"exZh": "卡車因封路而改道。"
+},
+{
+"w": "restriction",
+"p": "n.",
+"zh": "限制",
+"ex": "Weight restrictions apply on this bridge.",
+"exZh": "這座橋有重量限制。"
+},
+{
+"w": "retrieval",
+"p": "n.",
+"zh": "揀取",
+"ex": "Retrieval time dropped with new racking.",
+"exZh": "新料架縮短了揀取時間。"
+},
+{
+"w": "route",
+"p": "n./v.",
+"zh": "路線",
+"ex": "The route avoids congested highways.",
+"exZh": "該路線避開壅塞的高速公路。"
+},
+{
+"w": "scanner",
+"p": "n.",
+"zh": "掃描器",
+"ex": "Handheld scanners record every move.",
+"exZh": "手持掃描器記錄每次移動。"
+},
+{
+"w": "seal",
+"p": "n./v.",
+"zh": "封條",
+"ex": "The container seal was intact.",
+"exZh": "貨櫃封條完好。"
+},
+{
+"w": "segregate",
+"p": "v.",
+"zh": "分開存放",
+"ex": "Chemicals must be segregated from food.",
+"exZh": "化學品必須與食品分開存放。"
+},
+{
+"w": "shelf life",
+"p": "n.",
+"zh": "保存期限",
+"ex": "Shelf life is printed on each case.",
+"exZh": "保存期限印在每箱上。"
+},
+{
+"w": "shipper",
+"p": "n.",
+"zh": "託運人",
+"ex": "The shipper arranges export documents.",
+"exZh": "託運人安排出口文件。"
+},
+{
+"w": "sorting",
+"p": "n.",
+"zh": "分揀",
+"ex": "Sorting is fully automated at night.",
+"exZh": "夜間分揀完全自動化。"
+},
+{
+"w": "stackable",
+"p": "adj.",
+"zh": "可堆疊的",
+"ex": "The crates are stackable three high.",
+"exZh": "這些木箱可堆三層高。"
+},
+{
+"w": "storage",
+"p": "n.",
+"zh": "儲存",
+"ex": "Cold storage is available on site.",
+"exZh": "現場備有冷藏儲存。"
+},
+{
+"w": "storage fee",
+"p": "n.",
+"zh": "倉租",
+"ex": "Storage fees accrue after seven days.",
+"exZh": "七天後開始計收倉租。"
+},
+{
+"w": "supply chain",
+"p": "n.",
+"zh": "供應鏈",
+"ex": "Supply chain visibility improved with tracking.",
+"exZh": "追蹤功能提升了供應鏈可視性。"
+},
+{
+"w": "tally",
+"p": "v./n.",
+"zh": "清點",
+"ex": "The count tallies with the manifest.",
+"exZh": "清點數與艙單相符。"
+},
+{
+"w": "terminal",
+"p": "n.",
+"zh": "貨運站",
+"ex": "The terminal operates around the clock.",
+"exZh": "貨運站全天候營運。"
+},
+{
+"w": "trailer",
+"p": "n.",
+"zh": "拖車",
+"ex": "The trailer was sealed at the depot.",
+"exZh": "拖車在集散站封條。"
+},
+{
+"w": "transit",
+"p": "n.",
+"zh": "運輸途中",
+"ex": "Goods were damaged in transit.",
+"exZh": "貨品在運輸途中受損。"
+},
+{
+"w": "transitory",
+"p": "adj.",
+"zh": "短暫的",
+"ex": "The delay proved transitory.",
+"exZh": "該延誤證實只是短暫的。"
+},
+{
+"w": "transportation",
+"p": "n.",
+"zh": "運輸",
+"ex": "Transportation costs are billed separately.",
+"exZh": "運輸成本另行計費。"
+},
+{
+"w": "transship",
+"p": "v.",
+"zh": "轉運",
+"ex": "Cargo is transshipped in Singapore.",
+"exZh": "貨物在新加坡轉運。"
+},
+{
+"w": "unload",
+"p": "v.",
+"zh": "卸貨",
+"ex": "The truck was unloaded in twenty minutes.",
+"exZh": "卡車在二十分鐘內卸完貨。"
+},
+{
+"w": "unloading",
+"p": "n.",
+"zh": "卸載",
+"ex": "Unloading finished ahead of schedule.",
+"exZh": "卸載提前完成。"
+},
+{
+"w": "unpack",
+"p": "v.",
+"zh": "拆箱",
+"ex": "Unpack carefully to avoid damage.",
+"exZh": "請小心拆箱以免損壞。"
+},
+{
+"w": "vessel",
+"p": "n.",
+"zh": "船舶",
+"ex": "The vessel departs on Thursday.",
+"exZh": "該船週四啟航。"
+},
+{
+"w": "voyage",
+"p": "n.",
+"zh": "航次",
+"ex": "The voyage takes eighteen days.",
+"exZh": "該航次需時十八天。"
+},
+{
+"w": "waybill",
+"p": "n.",
+"zh": "運單",
+"ex": "The air waybill number is on the label.",
+"exZh": "空運單號印在標籤上。"
+},
+{
+"w": "zone",
+"p": "n.",
+"zh": "區域",
+"ex": "Shipping rates vary by zone.",
+"exZh": "運價依區域而異。"
+}
+]
+}

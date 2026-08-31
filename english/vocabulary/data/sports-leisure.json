@@ -1,0 +1,693 @@
+{
+"id": "sports-leisure",
+"name": "運動與休閒",
+"nameEn": "Sports & Leisure",
+"words": [
+{
+"w": "admission fee",
+"p": "n.",
+"zh": "入場費",
+"ex": "The admission fee includes a locker.",
+"exZh": "入場費含置物櫃。"
+},
+{
+"w": "admission ticket",
+"p": "n.",
+"zh": "門票",
+"ex": "Admission tickets sell out early.",
+"exZh": "門票很早就售完。"
+},
+{
+"w": "aerobic",
+"p": "adj.",
+"zh": "有氧的",
+"ex": "Aerobic exercise improves endurance.",
+"exZh": "有氧運動可提升耐力。"
+},
+{
+"w": "agility",
+"p": "n.",
+"zh": "敏捷度",
+"ex": "Agility drills run twice weekly.",
+"exZh": "敏捷訓練每週兩次。"
+},
+{
+"w": "amateur",
+"p": "n.",
+"zh": "業餘者",
+"ex": "The tournament is open to amateurs.",
+"exZh": "該賽事開放業餘者參加。"
+},
+{
+"w": "aquatic",
+"p": "adj.",
+"zh": "水上的",
+"ex": "Aquatic sports are popular here.",
+"exZh": "水上運動在這裡很受歡迎。"
+},
+{
+"w": "arena",
+"p": "n.",
+"zh": "競技場",
+"ex": "The arena seats twelve thousand.",
+"exZh": "該競技場可容納一萬兩千人。"
+},
+{
+"w": "athlete",
+"p": "n.",
+"zh": "運動員",
+"ex": "The athlete trains six days a week.",
+"exZh": "該運動員每週訓練六天。"
+},
+{
+"w": "backpack",
+"p": "n.",
+"zh": "背包",
+"ex": "A light backpack suits day hikes.",
+"exZh": "輕便背包適合一日健行。"
+},
+{
+"w": "bracket",
+"p": "n.",
+"zh": "賽程表",
+"ex": "The bracket was drawn on Monday.",
+"exZh": "賽程表於週一抽出。"
+},
+{
+"w": "campsite",
+"p": "n.",
+"zh": "營地",
+"ex": "The campsite has forty pitches.",
+"exZh": "該營地有四十個營位。"
+},
+{
+"w": "cardio",
+"p": "n.",
+"zh": "心肺運動",
+"ex": "Cardio sessions last thirty minutes.",
+"exZh": "心肺運動每次三十分鐘。"
+},
+{
+"w": "casual",
+"p": "adj.",
+"zh": "休閒的",
+"ex": "Casual players welcome beginners.",
+"exZh": "休閒玩家歡迎新手。"
+},
+{
+"w": "championship",
+"p": "n.",
+"zh": "錦標賽",
+"ex": "The championship runs for two weeks.",
+"exZh": "錦標賽為期兩週。"
+},
+{
+"w": "climbing",
+"p": "n.",
+"zh": "攀登",
+"ex": "Indoor climbing has grown rapidly.",
+"exZh": "室內攀岩快速成長。"
+},
+{
+"w": "club",
+"p": "n.",
+"zh": "俱樂部",
+"ex": "The club recruits members each autumn.",
+"exZh": "該俱樂部每年秋天招募會員。"
+},
+{
+"w": "coach",
+"p": "n./v.",
+"zh": "教練",
+"ex": "The coach adjusted the lineup.",
+"exZh": "教練調整了先發陣容。"
+},
+{
+"w": "concession stand",
+"p": "n.",
+"zh": "販賣部",
+"ex": "The concession stand sells snacks.",
+"exZh": "販賣部販售點心。"
+},
+{
+"w": "conditioning",
+"p": "n.",
+"zh": "體能訓練",
+"ex": "Preseason conditioning starts in July.",
+"exZh": "季前體能訓練七月開始。"
+},
+{
+"w": "contestant",
+"p": "n.",
+"zh": "競賽者",
+"ex": "Each contestant gets three attempts.",
+"exZh": "每位競賽者有三次嘗試機會。"
+},
+{
+"w": "cycling",
+"p": "n.",
+"zh": "自行車運動",
+"ex": "Cycling routes cover 200 kilometers.",
+"exZh": "自行車路線總長兩百公里。"
+},
+{
+"w": "defeat",
+"p": "n./v.",
+"zh": "擊敗",
+"ex": "The defeat ended their winning streak.",
+"exZh": "這場落敗終結了他們的連勝。"
+},
+{
+"w": "disqualify",
+"p": "v.",
+"zh": "取消資格",
+"ex": "Two runners were disqualified.",
+"exZh": "兩名跑者被取消資格。"
+},
+{
+"w": "distance",
+"p": "n.",
+"zh": "距離",
+"ex": "The distance is just under ten kilometers.",
+"exZh": "距離略少於十公里。"
+},
+{
+"w": "draw",
+"p": "n.",
+"zh": "平手",
+"ex": "The match ended in a draw.",
+"exZh": "比賽以平手結束。"
+},
+{
+"w": "elimination",
+"p": "n.",
+"zh": "淘汰",
+"ex": "Early elimination surprised the fans.",
+"exZh": "提早淘汰讓球迷意外。"
+},
+{
+"w": "endurance",
+"p": "n.",
+"zh": "耐力",
+"ex": "Endurance improves with regular training.",
+"exZh": "規律訓練能提升耐力。"
+},
+{
+"w": "entry form",
+"p": "n.",
+"zh": "報名表",
+"ex": "Submit the entry form by Friday.",
+"exZh": "請於週五前提交報名表。"
+},
+{
+"w": "equipment rental",
+"p": "n.",
+"zh": "器材租借",
+"ex": "Equipment rental costs ten dollars.",
+"exZh": "器材租借費用十美元。"
+},
+{
+"w": "exercise",
+"p": "n./v.",
+"zh": "運動",
+"ex": "Moderate exercise lowers stress.",
+"exZh": "適度運動可降低壓力。"
+},
+{
+"w": "final",
+"p": "n.",
+"zh": "決賽",
+"ex": "The final drew record viewership.",
+"exZh": "決賽創下收視紀錄。"
+},
+{
+"w": "fitness",
+"p": "n.",
+"zh": "體適能",
+"ex": "The gym offers fitness assessments.",
+"exZh": "健身房提供體適能評估。"
+},
+{
+"w": "fixture",
+"p": "n.",
+"zh": "賽程",
+"ex": "The fixture was moved to Sunday.",
+"exZh": "賽程改到週日。"
+},
+{
+"w": "flexibility",
+"p": "n.",
+"zh": "柔軟度",
+"ex": "Stretching improves flexibility.",
+"exZh": "伸展可改善柔軟度。"
+},
+{
+"w": "gymnasium",
+"p": "n.",
+"zh": "體育館",
+"ex": "The gymnasium opens at six.",
+"exZh": "體育館六點開門。"
+},
+{
+"w": "halftime",
+"p": "n.",
+"zh": "中場休息",
+"ex": "The score was tied at halftime.",
+"exZh": "中場休息時比數持平。"
+},
+{
+"w": "hiking trail",
+"p": "n.",
+"zh": "健行步道",
+"ex": "The hiking trail is well marked.",
+"exZh": "健行步道標示清楚。"
+},
+{
+"w": "hobby",
+"p": "n.",
+"zh": "嗜好",
+"ex": "Photography became her main hobby.",
+"exZh": "攝影成了她的主要嗜好。"
+},
+{
+"w": "injury time",
+"p": "n.",
+"zh": "傷停時間",
+"ex": "The goal came in injury time.",
+"exZh": "進球發生在傷停時間。"
+},
+{
+"w": "intramural",
+"p": "adj.",
+"zh": "校內的",
+"ex": "Intramural leagues run all year.",
+"exZh": "校內聯賽全年進行。"
+},
+{
+"w": "jogging",
+"p": "n.",
+"zh": "慢跑",
+"ex": "Morning jogging became a habit.",
+"exZh": "晨間慢跑成了習慣。"
+},
+{
+"w": "knockout",
+"p": "n.",
+"zh": "淘汰賽",
+"ex": "The knockout stage begins next week.",
+"exZh": "淘汰賽階段下週開始。"
+},
+{
+"w": "lap",
+"p": "n.",
+"zh": "圈",
+"ex": "He led for the final three laps.",
+"exZh": "最後三圈他一直領先。"
+},
+{
+"w": "league",
+"p": "n.",
+"zh": "聯盟",
+"ex": "The league expanded to sixteen teams.",
+"exZh": "該聯盟擴編為十六隊。"
+},
+{
+"w": "leisure time",
+"p": "n.",
+"zh": "閒暇時間",
+"ex": "Leisure time has shrunk for many.",
+"exZh": "許多人的閒暇時間縮短了。"
+},
+{
+"w": "lineup",
+"p": "n.",
+"zh": "先發陣容",
+"ex": "The lineup was announced an hour before.",
+"exZh": "先發陣容於一小時前公布。"
+},
+{
+"w": "locker room",
+"p": "n.",
+"zh": "更衣室",
+"ex": "The locker room was renovated.",
+"exZh": "更衣室經過整修。"
+},
+{
+"w": "marathon",
+"p": "n.",
+"zh": "馬拉松",
+"ex": "She finished her first marathon.",
+"exZh": "她完成了首場馬拉松。"
+},
+{
+"w": "membership",
+"p": "n.",
+"zh": "會籍",
+"ex": "Membership renews automatically.",
+"exZh": "會籍自動續約。"
+},
+{
+"w": "membership fee",
+"p": "n.",
+"zh": "會費",
+"ex": "The membership fee is billed annually.",
+"exZh": "會費按年計費。"
+},
+{
+"w": "opponent",
+"p": "n.",
+"zh": "對手",
+"ex": "The opponent was ranked higher.",
+"exZh": "對手排名較高。"
+},
+{
+"w": "outdoor",
+"p": "adj.",
+"zh": "戶外的",
+"ex": "Outdoor activities resume in April.",
+"exZh": "戶外活動於四月恢復。"
+},
+{
+"w": "outfit",
+"p": "n.",
+"zh": "裝束",
+"ex": "The team unveiled a new outfit.",
+"exZh": "球隊發表了新裝束。"
+},
+{
+"w": "pastime",
+"p": "n.",
+"zh": "消遣",
+"ex": "Chess is a popular pastime here.",
+"exZh": "西洋棋是這裡受歡迎的消遣。"
+},
+{
+"w": "performance level",
+"p": "n.",
+"zh": "表現水準",
+"ex": "Performance levels vary by season.",
+"exZh": "表現水準因季節而異。"
+},
+{
+"w": "physique",
+"p": "n.",
+"zh": "體格",
+"ex": "Training reshaped his physique.",
+"exZh": "訓練重塑了他的體格。"
+},
+{
+"w": "playoff",
+"p": "n.",
+"zh": "季後賽",
+"ex": "They reached the playoffs again.",
+"exZh": "他們再度打進季後賽。"
+},
+{
+"w": "posture",
+"p": "n.",
+"zh": "姿勢",
+"ex": "Correct posture prevents injury.",
+"exZh": "正確姿勢可預防運動傷害。"
+},
+{
+"w": "practice session",
+"p": "n.",
+"zh": "練習",
+"ex": "Practice sessions are open to the public.",
+"exZh": "練習開放大眾觀看。"
+},
+{
+"w": "prize money",
+"p": "n.",
+"zh": "獎金",
+"ex": "Prize money was split evenly.",
+"exZh": "獎金平均分配。"
+},
+{
+"w": "qualifier",
+"p": "n.",
+"zh": "資格賽",
+"ex": "The qualifier takes place in June.",
+"exZh": "資格賽於六月舉行。"
+},
+{
+"w": "recreation",
+"p": "n.",
+"zh": "休閒活動",
+"ex": "The park provides recreation for families.",
+"exZh": "該公園為家庭提供休閒活動。"
+},
+{
+"w": "recreational",
+"p": "adj.",
+"zh": "休閒性的",
+"ex": "Recreational leagues welcome all levels.",
+"exZh": "休閒性聯賽歡迎各種程度。"
+},
+{
+"w": "referee",
+"p": "n.",
+"zh": "裁判",
+"ex": "The referee awarded a penalty.",
+"exZh": "裁判判了一個罰球。"
+},
+{
+"w": "registration fee",
+"p": "n.",
+"zh": "報名費",
+"ex": "The registration fee is non-refundable.",
+"exZh": "報名費不予退還。"
+},
+{
+"w": "rehearsal",
+"p": "n.",
+"zh": "排演",
+"ex": "A dress rehearsal was held Friday.",
+"exZh": "週五進行了彩排。"
+},
+{
+"w": "rematch",
+"p": "n.",
+"zh": "再賽",
+"ex": "A rematch was scheduled for June.",
+"exZh": "再賽安排在六月。"
+},
+{
+"w": "rival",
+"p": "n.",
+"zh": "勁敵",
+"ex": "The two clubs are long-standing rivals.",
+"exZh": "這兩支球隊是長年勁敵。"
+},
+{
+"w": "scoreboard",
+"p": "n.",
+"zh": "計分板",
+"ex": "The scoreboard showed a narrow lead.",
+"exZh": "計分板顯示些微領先。"
+},
+{
+"w": "scoreline",
+"p": "n.",
+"zh": "比分",
+"ex": "The scoreline flattered the visitors.",
+"exZh": "比分對客隊有些美化。"
+},
+{
+"w": "season",
+"p": "n.",
+"zh": "球季",
+"ex": "The season runs from March to October.",
+"exZh": "球季從三月到十月。"
+},
+{
+"w": "season ticket",
+"p": "n.",
+"zh": "季票",
+"ex": "Season tickets sold out quickly.",
+"exZh": "季票很快就售罄。"
+},
+{
+"w": "semifinal",
+"p": "n.",
+"zh": "準決賽",
+"ex": "The semifinal went to extra time.",
+"exZh": "準決賽進入延長賽。"
+},
+{
+"w": "spectacle",
+"p": "n.",
+"zh": "盛況",
+"ex": "The opening was a genuine spectacle.",
+"exZh": "開幕是一場真正的盛況。"
+},
+{
+"w": "spectator",
+"p": "n.",
+"zh": "觀眾",
+"ex": "Spectators filled the stands.",
+"exZh": "觀眾坐滿了看台。"
+},
+{
+"w": "sponsorship deal",
+"p": "n.",
+"zh": "贊助合約",
+"ex": "A sponsorship deal funds the youth team.",
+"exZh": "一份贊助合約資助青年隊。"
+},
+{
+"w": "sportsmanship",
+"p": "n.",
+"zh": "運動家精神",
+"ex": "Both teams showed great sportsmanship.",
+"exZh": "兩隊都展現了絕佳的運動家精神。"
+},
+{
+"w": "squad",
+"p": "n.",
+"zh": "隊伍名單",
+"ex": "The squad was announced yesterday.",
+"exZh": "隊伍名單於昨日公布。"
+},
+{
+"w": "stadium",
+"p": "n.",
+"zh": "體育場",
+"ex": "The stadium was renovated last year.",
+"exZh": "體育場於去年整修。"
+},
+{
+"w": "stamina",
+"p": "n.",
+"zh": "體力",
+"ex": "Stamina improved after eight weeks.",
+"exZh": "八週後體力有所提升。"
+},
+{
+"w": "streak",
+"p": "n.",
+"zh": "連續紀錄",
+"ex": "Their unbeaten streak reached twelve.",
+"exZh": "他們的不敗紀錄達到十二場。"
+},
+{
+"w": "stretch",
+"p": "v.",
+"zh": "伸展",
+"ex": "Stretch thoroughly before running.",
+"exZh": "跑步前請充分伸展。"
+},
+{
+"w": "teammate",
+"p": "n.",
+"zh": "隊友",
+"ex": "Her teammates supported the decision.",
+"exZh": "她的隊友支持這個決定。"
+},
+{
+"w": "technique",
+"p": "n.",
+"zh": "技術",
+"ex": "Good technique reduces strain.",
+"exZh": "良好技術可減少負荷。"
+},
+{
+"w": "tie",
+"p": "n.",
+"zh": "平局",
+"ex": "The tie was settled on penalties.",
+"exZh": "平局以罰球決勝。"
+},
+{
+"w": "tournament",
+"p": "n.",
+"zh": "錦標賽",
+"ex": "The tournament attracts global entrants.",
+"exZh": "該錦標賽吸引全球參賽者。"
+},
+{
+"w": "trail",
+"p": "n.",
+"zh": "小徑",
+"ex": "The trail loops back to the car park.",
+"exZh": "小徑繞回停車場。"
+},
+{
+"w": "trainer",
+"p": "n.",
+"zh": "訓練師",
+"ex": "A personal trainer designed the program.",
+"exZh": "私人訓練師設計了這套課程。"
+},
+{
+"w": "training camp",
+"p": "n.",
+"zh": "集訓",
+"ex": "Training camp lasts three weeks.",
+"exZh": "集訓為期三週。"
+},
+{
+"w": "treadmill",
+"p": "n.",
+"zh": "跑步機",
+"ex": "The treadmill tracks your heart rate.",
+"exZh": "跑步機會追蹤你的心率。"
+},
+{
+"w": "trophy",
+"p": "n.",
+"zh": "獎盃",
+"ex": "The trophy is displayed in the lobby.",
+"exZh": "獎盃陳列在大廳。"
+},
+{
+"w": "umpire",
+"p": "n.",
+"zh": "裁判員",
+"ex": "The umpire reviewed the replay.",
+"exZh": "裁判員檢視了重播畫面。"
+},
+{
+"w": "victory",
+"p": "n.",
+"zh": "勝利",
+"ex": "The victory secured their place.",
+"exZh": "這場勝利確保了他們的席位。"
+},
+{
+"w": "warm-down",
+"p": "n.",
+"zh": "緩和運動",
+"ex": "A warm-down prevents stiffness.",
+"exZh": "緩和運動可防止僵硬。"
+},
+{
+"w": "warm-up",
+"p": "n.",
+"zh": "熱身",
+"ex": "A ten-minute warm-up is recommended.",
+"exZh": "建議進行十分鐘熱身。"
+},
+{
+"w": "wellness program",
+"p": "n.",
+"zh": "健康方案",
+"ex": "The wellness program includes yoga.",
+"exZh": "健康方案包含瑜伽。"
+},
+{
+"w": "workout",
+"p": "n.",
+"zh": "健身訓練",
+"ex": "A short workout fits into lunch.",
+"exZh": "短時間健身訓練可利用午休完成。"
+},
+{
+"w": "yoga",
+"p": "n.",
+"zh": "瑜伽",
+"ex": "Yoga classes run every evening.",
+"exZh": "瑜伽課每晚開課。"
+}
+]
+}

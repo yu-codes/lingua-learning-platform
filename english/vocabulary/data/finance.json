@@ -1,0 +1,945 @@
+{
+"id": "finance",
+"name": "財務與會計",
+"nameEn": "Finance & Accounting",
+"words": [
+{
+"w": "accountancy",
+"p": "n.",
+"zh": "會計業",
+"ex": "She built a career in accountancy.",
+"exZh": "她在會計業建立了職涯。"
+},
+{
+"w": "accounting",
+"p": "n.",
+"zh": "會計",
+"ex": "The accounting team closes the books monthly.",
+"exZh": "會計團隊每月結帳。"
+},
+{
+"w": "accrue",
+"p": "v.",
+"zh": "累積（利息、費用）",
+"ex": "Interest accrues daily on the balance.",
+"exZh": "餘額的利息按日累積。"
+},
+{
+"w": "acquisition",
+"p": "n.",
+"zh": "收購",
+"ex": "The acquisition was completed in March.",
+"exZh": "該收購案於三月完成。"
+},
+{
+"w": "actuarial",
+"p": "adj.",
+"zh": "精算的",
+"ex": "Actuarial assumptions were updated.",
+"exZh": "精算假設已更新。"
+},
+{
+"w": "allocation",
+"p": "n.",
+"zh": "撥款分配",
+"ex": "Budget allocation is reviewed each quarter.",
+"exZh": "預算分配每季檢討。"
+},
+{
+"w": "amortize",
+"p": "v.",
+"zh": "攤銷",
+"ex": "The software cost is amortized over five years.",
+"exZh": "軟體成本分五年攤銷。"
+},
+{
+"w": "appropriation",
+"p": "n.",
+"zh": "撥款",
+"ex": "The appropriation covers two fiscal years.",
+"exZh": "該撥款涵蓋兩個會計年度。"
+},
+{
+"w": "arrear",
+"p": "n.",
+"zh": "逾期未付款",
+"ex": "Late fees apply to any arrear.",
+"exZh": "任何逾期款項均計滯納金。"
+},
+{
+"w": "arrears",
+"p": "n.",
+"zh": "欠款",
+"ex": "The account is three months in arrears.",
+"exZh": "該帳戶已欠款三個月。"
+},
+{
+"w": "asset",
+"p": "n.",
+"zh": "資產",
+"ex": "Fixed assets are listed on page four.",
+"exZh": "固定資產列於第四頁。"
+},
+{
+"w": "audit",
+"p": "n./v.",
+"zh": "稽核",
+"ex": "An external audit begins next Monday.",
+"exZh": "外部稽核於下週一開始。"
+},
+{
+"w": "authorization",
+"p": "n.",
+"zh": "授權",
+"ex": "Payments over $5,000 need authorization.",
+"exZh": "超過五千美元的付款需要授權。"
+},
+{
+"w": "balance",
+"p": "n.",
+"zh": "餘額；結餘",
+"ex": "The closing balance was higher than forecast.",
+"exZh": "期末餘額高於預測。"
+},
+{
+"w": "bankruptcy",
+"p": "n.",
+"zh": "破產",
+"ex": "The supplier filed for bankruptcy.",
+"exZh": "該供應商申請破產。"
+},
+{
+"w": "beneficiary",
+"p": "n.",
+"zh": "受益人",
+"ex": "Please name a beneficiary on the form.",
+"exZh": "請在表格上指定受益人。"
+},
+{
+"w": "billing",
+"p": "n.",
+"zh": "開立帳單",
+"ex": "Billing errors were corrected immediately.",
+"exZh": "帳單錯誤已立即更正。"
+},
+{
+"w": "bond",
+"p": "n.",
+"zh": "債券",
+"ex": "Corporate bonds were issued at par.",
+"exZh": "公司債以面值發行。"
+},
+{
+"w": "bookkeeping",
+"p": "n.",
+"zh": "簿記",
+"ex": "Accurate bookkeeping prevents audit findings.",
+"exZh": "精確的簿記可避免稽核缺失。"
+},
+{
+"w": "breakeven",
+"p": "n.",
+"zh": "損益兩平",
+"ex": "The project reaches breakeven in year three.",
+"exZh": "該專案於第三年達到損益兩平。"
+},
+{
+"w": "brokerage",
+"p": "n.",
+"zh": "券商；經紀費",
+"ex": "Brokerage fees were negotiated down.",
+"exZh": "經紀費已議價調降。"
+},
+{
+"w": "budget",
+"p": "n./v.",
+"zh": "預算",
+"ex": "The budget was cut by ten percent.",
+"exZh": "預算被刪減了一成。"
+},
+{
+"w": "capital",
+"p": "n.",
+"zh": "資本",
+"ex": "The firm raised capital through a bond issue.",
+"exZh": "公司透過發債募集資本。"
+},
+{
+"w": "cash flow",
+"p": "n.",
+"zh": "現金流",
+"ex": "Negative cash flow forced a credit line.",
+"exZh": "負現金流迫使公司動用信用額度。"
+},
+{
+"w": "ceiling",
+"p": "n.",
+"zh": "上限",
+"ex": "The spending ceiling was raised.",
+"exZh": "支出上限已調高。"
+},
+{
+"w": "collateral",
+"p": "n.",
+"zh": "擔保品",
+"ex": "The loan requires property as collateral.",
+"exZh": "該貸款需要以不動產作為擔保品。"
+},
+{
+"w": "commission",
+"p": "n.",
+"zh": "佣金",
+"ex": "Sales staff earn commission on each deal.",
+"exZh": "業務人員每筆交易可獲佣金。"
+},
+{
+"w": "compliance",
+"p": "n.",
+"zh": "法遵",
+"ex": "Compliance costs rose after the new rules.",
+"exZh": "新規上路後法遵成本上升。"
+},
+{
+"w": "consolidate",
+"p": "v.",
+"zh": "合併（報表）",
+"ex": "The results consolidate all subsidiaries.",
+"exZh": "該業績合併了所有子公司。"
+},
+{
+"w": "contingency",
+"p": "n.",
+"zh": "應急準備",
+"ex": "A contingency of five percent was added.",
+"exZh": "另加了 5% 的應急準備。"
+},
+{
+"w": "cost",
+"p": "n.",
+"zh": "成本",
+"ex": "Unit cost fell with higher volume.",
+"exZh": "單位成本隨產量提高而下降。"
+},
+{
+"w": "coverage",
+"p": "n.",
+"zh": "保障範圍",
+"ex": "The policy provides broad coverage.",
+"exZh": "該保單提供廣泛保障。"
+},
+{
+"w": "creditor",
+"p": "n.",
+"zh": "債權人",
+"ex": "Creditors were paid in order of priority.",
+"exZh": "債權人依優先順序獲得清償。"
+},
+{
+"w": "creditworthy",
+"p": "adj.",
+"zh": "有信用的",
+"ex": "Only creditworthy buyers get terms.",
+"exZh": "僅信用良好的買方享有帳期。"
+},
+{
+"w": "currency",
+"p": "n.",
+"zh": "貨幣",
+"ex": "Prices are quoted in local currency.",
+"exZh": "價格以當地貨幣報價。"
+},
+{
+"w": "custody",
+"p": "n.",
+"zh": "保管",
+"ex": "Securities are held in custody by the bank.",
+"exZh": "證券由銀行保管。"
+},
+{
+"w": "debit",
+"p": "n./v.",
+"zh": "借記；扣款",
+"ex": "The amount was debited from the account.",
+"exZh": "該金額已從帳戶扣款。"
+},
+{
+"w": "debt",
+"p": "n.",
+"zh": "債務",
+"ex": "The company reduced its long-term debt.",
+"exZh": "公司減少了長期債務。"
+},
+{
+"w": "deduct",
+"p": "v.",
+"zh": "扣除",
+"ex": "Taxes are deducted at source.",
+"exZh": "稅款於源頭扣除。"
+},
+{
+"w": "deduction",
+"p": "n.",
+"zh": "扣除額",
+"ex": "Charitable donations qualify for a deduction.",
+"exZh": "慈善捐款可列扣除額。"
+},
+{
+"w": "default",
+"p": "v./n.",
+"zh": "違約",
+"ex": "The borrower defaulted on two payments.",
+"exZh": "借款人有兩期違約。"
+},
+{
+"w": "deficit",
+"p": "n.",
+"zh": "赤字",
+"ex": "The department ran a small deficit.",
+"exZh": "該部門出現小額赤字。"
+},
+{
+"w": "depreciation",
+"p": "n.",
+"zh": "折舊",
+"ex": "Depreciation is calculated on a straight-line basis.",
+"exZh": "折舊以直線法計算。"
+},
+{
+"w": "disbursement",
+"p": "n.",
+"zh": "支付；撥款",
+"ex": "Disbursements require two signatures.",
+"exZh": "撥款需要兩人簽署。"
+},
+{
+"w": "disclosure",
+"p": "n.",
+"zh": "揭露",
+"ex": "Full disclosure of risks is required.",
+"exZh": "必須完整揭露風險。"
+},
+{
+"w": "diversify",
+"p": "v.",
+"zh": "分散（投資）",
+"ex": "The fund diversified across sectors.",
+"exZh": "該基金分散投資於各產業。"
+},
+{
+"w": "dividend",
+"p": "n.",
+"zh": "股利",
+"ex": "The board declared a quarterly dividend.",
+"exZh": "董事會宣布發放季度股利。"
+},
+{
+"w": "downturn",
+"p": "n.",
+"zh": "景氣下滑",
+"ex": "The downturn hit discretionary spending.",
+"exZh": "景氣下滑衝擊非必要消費。"
+},
+{
+"w": "endowment",
+"p": "n.",
+"zh": "捐贈基金",
+"ex": "The endowment funds three scholarships.",
+"exZh": "該捐贈基金資助三項獎學金。"
+},
+{
+"w": "equity",
+"p": "n.",
+"zh": "權益；股本",
+"ex": "Shareholders' equity increased this year.",
+"exZh": "股東權益今年增加。"
+},
+{
+"w": "escrow",
+"p": "n.",
+"zh": "履約保證帳戶",
+"ex": "Funds are held in escrow until delivery.",
+"exZh": "款項在交付前存於履約保證帳戶。"
+},
+{
+"w": "expenditure",
+"p": "n.",
+"zh": "支出",
+"ex": "Capital expenditure was frozen temporarily.",
+"exZh": "資本支出暫時凍結。"
+},
+{
+"w": "exposure",
+"p": "n.",
+"zh": "風險曝險",
+"ex": "Currency exposure was hedged.",
+"exZh": "匯率曝險已進行避險。"
+},
+{
+"w": "fiscal",
+"p": "adj.",
+"zh": "財政的；會計的",
+"ex": "The fiscal year ends in September.",
+"exZh": "會計年度於九月結束。"
+},
+{
+"w": "foreclosure",
+"p": "n.",
+"zh": "法拍",
+"ex": "The bank initiated foreclosure proceedings.",
+"exZh": "銀行啟動了法拍程序。"
+},
+{
+"w": "forfeit",
+"p": "v.",
+"zh": "喪失（權利）",
+"ex": "Late filers forfeit the discount.",
+"exZh": "逾期申報者喪失折扣資格。"
+},
+{
+"w": "fund",
+"p": "n./v.",
+"zh": "資金；出資",
+"ex": "The project is funded by a government grant.",
+"exZh": "該專案由政府補助出資。"
+},
+{
+"w": "grant",
+"p": "n.",
+"zh": "補助款",
+"ex": "The research grant runs for two years.",
+"exZh": "該研究補助為期兩年。"
+},
+{
+"w": "hedge",
+"p": "v./n.",
+"zh": "避險",
+"ex": "The firm hedged against price swings.",
+"exZh": "公司針對價格波動進行避險。"
+},
+{
+"w": "holding",
+"p": "n.",
+"zh": "持股",
+"ex": "The fund reduced its holdings in energy.",
+"exZh": "該基金減持能源類股。"
+},
+{
+"w": "impairment",
+"p": "n.",
+"zh": "減損",
+"ex": "An impairment charge was recorded.",
+"exZh": "認列了一筆減損損失。"
+},
+{
+"w": "income",
+"p": "n.",
+"zh": "收入",
+"ex": "Net income exceeded analyst estimates.",
+"exZh": "淨利超出分析師預期。"
+},
+{
+"w": "incur",
+"p": "v.",
+"zh": "招致（費用）",
+"ex": "The delay incurred additional costs.",
+"exZh": "延誤招致額外成本。"
+},
+{
+"w": "indemnity",
+"p": "n.",
+"zh": "賠償保證",
+"ex": "The contract includes an indemnity clause.",
+"exZh": "合約包含賠償保證條款。"
+},
+{
+"w": "inflation",
+"p": "n.",
+"zh": "通貨膨脹",
+"ex": "Inflation eroded purchasing power.",
+"exZh": "通膨侵蝕了購買力。"
+},
+{
+"w": "insolvency",
+"p": "n.",
+"zh": "無力償債",
+"ex": "Insolvency proceedings began in April.",
+"exZh": "無力償債程序於四月啟動。"
+},
+{
+"w": "insolvent",
+"p": "adj.",
+"zh": "無力償債的",
+"ex": "The firm became insolvent within a year.",
+"exZh": "該公司一年內即無力償債。"
+},
+{
+"w": "installment",
+"p": "n.",
+"zh": "分期付款",
+"ex": "Payment can be made in six installments.",
+"exZh": "款項可分六期支付。"
+},
+{
+"w": "insurer",
+"p": "n.",
+"zh": "保險公司",
+"ex": "The insurer approved the claim.",
+"exZh": "保險公司核准了理賠。"
+},
+{
+"w": "interest",
+"p": "n.",
+"zh": "利息",
+"ex": "Interest rates were raised again.",
+"exZh": "利率再度調升。"
+},
+{
+"w": "inventory",
+"p": "n.",
+"zh": "存貨",
+"ex": "Inventory levels fell after the promotion.",
+"exZh": "促銷後存貨水位下降。"
+},
+{
+"w": "invoice",
+"p": "n./v.",
+"zh": "發票；請款單",
+"ex": "The invoice is due within thirty days.",
+"exZh": "該請款單三十日內到期。"
+},
+{
+"w": "lease",
+"p": "n./v.",
+"zh": "租賃",
+"ex": "The equipment lease expires in June.",
+"exZh": "設備租約於六月到期。"
+},
+{
+"w": "ledger",
+"p": "n.",
+"zh": "分類帳",
+"ex": "Entries are posted to the general ledger.",
+"exZh": "分錄過帳至總分類帳。"
+},
+{
+"w": "levy",
+"p": "n./v.",
+"zh": "課徵",
+"ex": "A new levy applies to imported goods.",
+"exZh": "進口商品適用新課徵。"
+},
+{
+"w": "liquidate",
+"p": "v.",
+"zh": "變現；清算",
+"ex": "The firm liquidated its non-core assets.",
+"exZh": "公司變現了非核心資產。"
+},
+{
+"w": "liquidity",
+"p": "n.",
+"zh": "流動性",
+"ex": "The company maintains strong liquidity.",
+"exZh": "公司維持良好的流動性。"
+},
+{
+"w": "loan",
+"p": "n.",
+"zh": "貸款",
+"ex": "The loan carries a fixed interest rate.",
+"exZh": "該貸款採固定利率。"
+},
+{
+"w": "lucrative",
+"p": "adj.",
+"zh": "獲利豐厚的",
+"ex": "The contract proved highly lucrative.",
+"exZh": "該合約獲利極為豐厚。"
+},
+{
+"w": "maturity",
+"p": "n.",
+"zh": "到期日",
+"ex": "The bond reaches maturity in 2030.",
+"exZh": "該債券於 2030 年到期。"
+},
+{
+"w": "monetary",
+"p": "adj.",
+"zh": "貨幣的",
+"ex": "Monetary policy tightened this year.",
+"exZh": "今年貨幣政策趨緊。"
+},
+{
+"w": "mortgage",
+"p": "n.",
+"zh": "抵押貸款",
+"ex": "Mortgage applications rose last quarter.",
+"exZh": "上季房貸申請增加。"
+},
+{
+"w": "mortgagee",
+"p": "n.",
+"zh": "抵押權人",
+"ex": "The mortgagee holds the title deed.",
+"exZh": "抵押權人持有權狀。"
+},
+{
+"w": "net",
+"p": "adj.",
+"zh": "淨的",
+"ex": "Net proceeds were reinvested.",
+"exZh": "淨收益被再投資。"
+},
+{
+"w": "notional",
+"p": "adj.",
+"zh": "名目的",
+"ex": "The notional value of the contract is high.",
+"exZh": "該合約的名目價值很高。"
+},
+{
+"w": "offset",
+"p": "v.",
+"zh": "抵銷",
+"ex": "Gains were offset by higher expenses.",
+"exZh": "收益被較高的費用抵銷。"
+},
+{
+"w": "outstanding",
+"p": "adj.",
+"zh": "未付的",
+"ex": "Two invoices remain outstanding.",
+"exZh": "有兩張發票仍未付款。"
+},
+{
+"w": "overdraft",
+"p": "n.",
+"zh": "透支",
+"ex": "An overdraft facility is available.",
+"exZh": "可使用透支額度。"
+},
+{
+"w": "overhead",
+"p": "n.",
+"zh": "營運間接費用",
+"ex": "Overhead was reduced by consolidating offices.",
+"exZh": "透過整併辦公室降低了間接費用。"
+},
+{
+"w": "payable",
+"p": "adj./n.",
+"zh": "應付的；應付帳款",
+"ex": "Accounts payable increased sharply.",
+"exZh": "應付帳款大幅增加。"
+},
+{
+"w": "premium",
+"p": "n.",
+"zh": "保費；溢價",
+"ex": "The insurance premium rose this year.",
+"exZh": "今年保費上漲。"
+},
+{
+"w": "principal",
+"p": "n.",
+"zh": "本金",
+"ex": "Monthly payments cover interest and principal.",
+"exZh": "每月還款包含利息與本金。"
+},
+{
+"w": "proceeds",
+"p": "n.",
+"zh": "收益款項",
+"ex": "Proceeds from the sale funded the expansion.",
+"exZh": "出售所得資助了擴張。"
+},
+{
+"w": "procurement",
+"p": "n.",
+"zh": "採購",
+"ex": "Procurement costs are tracked separately.",
+"exZh": "採購成本另行追蹤。"
+},
+{
+"w": "profit",
+"p": "n.",
+"zh": "利潤",
+"ex": "Profit before tax rose 9 percent.",
+"exZh": "稅前利潤成長 9%。"
+},
+{
+"w": "projection",
+"p": "n.",
+"zh": "預估",
+"ex": "The three-year projection assumes steady growth.",
+"exZh": "三年預估假設穩定成長。"
+},
+{
+"w": "prudent",
+"p": "adj.",
+"zh": "審慎的",
+"ex": "A prudent reserve was maintained.",
+"exZh": "維持了審慎的準備金。"
+},
+{
+"w": "quarterly",
+"p": "adj.",
+"zh": "季度的",
+"ex": "Quarterly results will be announced Friday.",
+"exZh": "季度業績將於週五公布。"
+},
+{
+"w": "quota",
+"p": "n.",
+"zh": "配額",
+"ex": "Each region has a spending quota.",
+"exZh": "每個地區都有支出配額。"
+},
+{
+"w": "rebate",
+"p": "n.",
+"zh": "回扣；折讓",
+"ex": "A volume rebate applies above 500 units.",
+"exZh": "超過 500 單位適用數量折讓。"
+},
+{
+"w": "receivable",
+"p": "adj./n.",
+"zh": "應收的；應收帳款",
+"ex": "Receivables are collected within 45 days.",
+"exZh": "應收帳款於 45 天內收回。"
+},
+{
+"w": "reconcile",
+"p": "v.",
+"zh": "對帳",
+"ex": "Please reconcile the bank statement monthly.",
+"exZh": "請每月核對銀行對帳單。"
+},
+{
+"w": "reconciliation",
+"p": "n.",
+"zh": "對帳",
+"ex": "The reconciliation revealed a small error.",
+"exZh": "對帳發現一項小錯誤。"
+},
+{
+"w": "recur",
+"p": "v.",
+"zh": "重複發生",
+"ex": "Recurring charges appear monthly.",
+"exZh": "經常性費用每月出現。"
+},
+{
+"w": "redeem",
+"p": "v.",
+"zh": "贖回",
+"ex": "Shareholders may redeem units quarterly.",
+"exZh": "股東可按季贖回單位數。"
+},
+{
+"w": "refund",
+"p": "n./v.",
+"zh": "退款",
+"ex": "A full refund was issued to the customer.",
+"exZh": "已向客戶全額退款。"
+},
+{
+"w": "reimbursement",
+"p": "n.",
+"zh": "報銷",
+"ex": "Reimbursement takes about ten days.",
+"exZh": "報銷約需十天。"
+},
+{
+"w": "remittance",
+"p": "n.",
+"zh": "匯款",
+"ex": "The remittance was received yesterday.",
+"exZh": "匯款已於昨日收到。"
+},
+{
+"w": "reserve",
+"p": "n.",
+"zh": "準備金",
+"ex": "The reserve covers unexpected losses.",
+"exZh": "準備金用以支應意外損失。"
+},
+{
+"w": "retained",
+"p": "adj.",
+"zh": "保留的",
+"ex": "Retained earnings funded the new plant.",
+"exZh": "保留盈餘資助了新廠。"
+},
+{
+"w": "revaluation",
+"p": "n.",
+"zh": "重估價",
+"ex": "A revaluation increased asset values.",
+"exZh": "重估價提高了資產價值。"
+},
+{
+"w": "revenue",
+"p": "n.",
+"zh": "營收",
+"ex": "Revenue grew across all regions.",
+"exZh": "各地區營收皆成長。"
+},
+{
+"w": "royalty",
+"p": "n.",
+"zh": "權利金",
+"ex": "Royalties are paid twice a year.",
+"exZh": "權利金每年支付兩次。"
+},
+{
+"w": "settlement",
+"p": "n.",
+"zh": "結算；和解",
+"ex": "Settlement occurs two days after trade.",
+"exZh": "交易後兩日完成結算。"
+},
+{
+"w": "shareholder",
+"p": "n.",
+"zh": "股東",
+"ex": "Shareholders approved the dividend.",
+"exZh": "股東批准了股利發放。"
+},
+{
+"w": "solvency",
+"p": "n.",
+"zh": "償債能力",
+"ex": "Solvency ratios remain within covenants.",
+"exZh": "償債比率仍符合貸款約定。"
+},
+{
+"w": "stake",
+"p": "n.",
+"zh": "股權",
+"ex": "The group holds a 30 percent stake.",
+"exZh": "該集團持有 30% 股權。"
+},
+{
+"w": "statement",
+"p": "n.",
+"zh": "報表；對帳單",
+"ex": "The financial statements were audited.",
+"exZh": "財務報表已經審計。"
+},
+{
+"w": "subsidiary",
+"p": "n.",
+"zh": "子公司",
+"ex": "The subsidiary operates independently.",
+"exZh": "該子公司獨立營運。"
+},
+{
+"w": "subsidize",
+"p": "v.",
+"zh": "補貼",
+"ex": "The government subsidizes rural service.",
+"exZh": "政府補貼偏鄉服務。"
+},
+{
+"w": "surplus",
+"p": "n.",
+"zh": "盈餘",
+"ex": "The fund closed the year with a surplus.",
+"exZh": "該基金以盈餘結束年度。"
+},
+{
+"w": "tariff",
+"p": "n.",
+"zh": "關稅",
+"ex": "New tariffs raised import costs.",
+"exZh": "新關稅推高了進口成本。"
+},
+{
+"w": "taxable",
+"p": "adj.",
+"zh": "應稅的",
+"ex": "Only part of the allowance is taxable.",
+"exZh": "津貼僅部分應稅。"
+},
+{
+"w": "threshold",
+"p": "n.",
+"zh": "門檻",
+"ex": "Spending above the threshold needs approval.",
+"exZh": "超過門檻的支出需要核准。"
+},
+{
+"w": "transaction",
+"p": "n.",
+"zh": "交易",
+"ex": "Every transaction is logged automatically.",
+"exZh": "每筆交易都自動記錄。"
+},
+{
+"w": "treasury",
+"p": "n.",
+"zh": "財資部門",
+"ex": "Treasury manages the group's cash.",
+"exZh": "財資部門管理集團現金。"
+},
+{
+"w": "underwrite",
+"p": "v.",
+"zh": "承銷；承保",
+"ex": "The bank underwrote the share offering.",
+"exZh": "該銀行承銷了此次發行。"
+},
+{
+"w": "valuation",
+"p": "n.",
+"zh": "估值",
+"ex": "An independent valuation was commissioned.",
+"exZh": "委託了獨立估值。"
+},
+{
+"w": "volatility",
+"p": "n.",
+"zh": "波動性",
+"ex": "Market volatility increased in March.",
+"exZh": "三月市場波動性上升。"
+},
+{
+"w": "waiver",
+"p": "n.",
+"zh": "豁免",
+"ex": "A fee waiver applies to nonprofits.",
+"exZh": "非營利組織適用費用豁免。"
+},
+{
+"w": "warrant",
+"p": "n.",
+"zh": "認股權證",
+"ex": "The warrants expire in five years.",
+"exZh": "這些認股權證五年後到期。"
+},
+{
+"w": "withdrawal",
+"p": "n.",
+"zh": "提款",
+"ex": "Large withdrawals require advance notice.",
+"exZh": "大額提款需要事先通知。"
+},
+{
+"w": "writeoff",
+"p": "n.",
+"zh": "沖銷",
+"ex": "The bad debt writeoff was significant.",
+"exZh": "呆帳沖銷金額不小。"
+},
+{
+"w": "yield",
+"p": "n./v.",
+"zh": "收益率；產生",
+"ex": "The bond yields four percent annually.",
+"exZh": "該債券年收益率為 4%。"
+}
+]
+}

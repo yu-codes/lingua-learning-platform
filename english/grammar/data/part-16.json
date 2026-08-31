@@ -1,0 +1,233 @@
+{
+ "id": "part-16",
+ "no": 16,
+ "title": "高頻錯誤與滿分檢查表",
+ "subtitle": "Error Checklist for a Perfect Score",
+ "summary": "最後一章不教新東西，只把前面十五章最容易失分的地方壓縮成一份可以在考前十分鐘掃過的清單。",
+ "sections": [
+  {
+   "title": "十五個最常錯的文法點",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "檢查點",
+      "正確做法"
+     ],
+     "rows": [
+      [
+       "主詞動詞一致",
+       "跳過 of / with / along with 片語找真主詞"
+      ],
+      [
+       "可數不可數",
+       "information, equipment, advice 永遠不加 s"
+      ],
+      [
+       "by vs until",
+       "期限用 by，持續用 until"
+      ],
+      [
+       "despite vs although",
+       "despite 接名詞，although 接子句"
+      ],
+      [
+       "due to vs because",
+       "due to 接名詞，because 接子句"
+      ],
+      [
+       "must not vs don't have to",
+       "禁止 vs 不必"
+      ],
+      [
+       "rise vs raise",
+       "不及物 vs 及物"
+      ],
+      [
+       "-ing vs -ed 形容詞",
+       "令人 vs 感到"
+      ],
+      [
+       "to 是不定詞還是介系詞",
+       "look forward to / be committed to 接動名詞"
+      ],
+      [
+       "建議要求後的子句",
+       "用原形動詞"
+      ],
+      [
+       "unless 已含否定",
+       "不再加 not"
+      ],
+      [
+       "否定副詞置句首",
+       "主要子句倒裝"
+      ],
+      [
+       "比較對象要對等",
+       "than that of / than those of"
+      ],
+      [
+       "fewer vs less",
+       "可數 vs 不可數"
+      ],
+      [
+       "名詞子句語序",
+       "疑問詞 + 主詞 + 動詞，不倒裝"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "最常被混淆的十組字",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "A",
+      "B",
+      "一句話分辨"
+     ],
+     "rows": [
+      [
+       "affect（動）",
+       "effect（名）",
+       "動詞影響，名詞效果"
+      ],
+      [
+       "ensure",
+       "assure",
+       "確保事，向人保證"
+      ],
+      [
+       "economic",
+       "economical",
+       "經濟的，省錢的"
+      ],
+      [
+       "considerable",
+       "considerate",
+       "相當大的，體貼的"
+      ],
+      [
+       "respectful",
+       "respective",
+       "尊敬的，各自的"
+      ],
+      [
+       "complement",
+       "compliment",
+       "互補，讚美"
+      ],
+      [
+       "principal",
+       "principle",
+       "主要的，原則"
+      ],
+      [
+       "hardly",
+       "hard",
+       "幾乎不，努力地"
+      ],
+      [
+       "lately",
+       "late",
+       "最近，遲"
+      ],
+      [
+       "successive",
+       "successful",
+       "連續的，成功的"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "title": "最終檢查流程",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "讀完題目先問：這題考詞性、時態、連接詞，還是字彙？",
+      "詞性題：只看空格左右鄰居",
+      "時態題：先找時間標記詞",
+      "連接詞題：先看空格後面是子句還是名詞",
+      "字彙題：整句讀完再選，不要只看空格附近",
+      "選完後花兩秒回頭確認主詞動詞一致與單複數"
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "多益滿分的差別不在於知道更多規則，而在於能在 20 秒內穩定地執行同一套判斷流程。"
+    }
+   ]
+  },
+  {
+   "title": "綜合檢測",
+   "blocks": [
+    {
+     "type": "quiz",
+     "q": "The findings, which were published last month, _____ significant implications for the industry.",
+     "options": [
+      "has",
+      "have",
+      "having",
+      "to have"
+     ],
+     "answer": 1,
+     "explain": "主詞是 The findings（複數），which 子句是插入語，主要動詞用 have。"
+    },
+    {
+     "type": "quiz",
+     "q": "_____ receiving your confirmation, we will reserve the conference room.",
+     "options": [
+      "Until",
+      "Upon",
+      "Although",
+      "While"
+     ],
+     "answer": 1,
+     "explain": "Upon + 動名詞 = 一…就…。其餘選項語意或結構不合。"
+    },
+    {
+     "type": "quiz",
+     "q": "Sales representatives are expected to be familiar _____ all product specifications.",
+     "options": [
+      "of",
+      "with",
+      "to",
+      "for"
+     ],
+     "answer": 1,
+     "explain": "be familiar with 是固定搭配。"
+    },
+    {
+     "type": "quiz",
+     "q": "Rarely _____ a project completed ahead of schedule and under budget.",
+     "options": [
+      "we see",
+      "do we see",
+      "we do see",
+      "see we"
+     ],
+     "answer": 1,
+     "explain": "否定副詞 Rarely 置於句首，主要子句倒裝為 do we see。"
+    },
+    {
+     "type": "quiz",
+     "q": "The manager requested that the report _____ by noon.",
+     "options": [
+      "is submitted",
+      "submits",
+      "be submitted",
+      "was submitted"
+     ],
+     "answer": 2,
+     "explain": "request 後的 that 子句用原形；報告是被提交的，用 be submitted。"
+    }
+   ]
+  }
+ ]
+}

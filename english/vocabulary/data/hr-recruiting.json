@@ -1,0 +1,1001 @@
+{
+"id": "hr-recruiting",
+"name": "人事與招募",
+"nameEn": "HR & Recruiting",
+"words": [
+{
+"w": "absenteeism",
+"p": "n.",
+"zh": "曠職",
+"ex": "Absenteeism dropped after the policy change.",
+"exZh": "政策變更後曠職率下降。"
+},
+{
+"w": "accommodation",
+"p": "n.",
+"zh": "通融安排；住宿",
+"ex": "Reasonable accommodation is provided for disabilities.",
+"exZh": "針對身心障礙提供合理的通融安排。"
+},
+{
+"w": "accreditation",
+"p": "n.",
+"zh": "認證資格",
+"ex": "The program received international accreditation.",
+"exZh": "該課程獲得國際認證。"
+},
+{
+"w": "adept",
+"p": "adj.",
+"zh": "熟練的",
+"ex": "She is adept at handling difficult clients.",
+"exZh": "她擅長應付難纏的客戶。"
+},
+{
+"w": "advancement",
+"p": "n.",
+"zh": "晉升；進展",
+"ex": "The role offers clear advancement opportunities.",
+"exZh": "這個職位提供明確的晉升機會。"
+},
+{
+"w": "affiliation",
+"p": "n.",
+"zh": "隸屬關係",
+"ex": "Please state your professional affiliation.",
+"exZh": "請說明你的專業隸屬機構。"
+},
+{
+"w": "allowance",
+"p": "n.",
+"zh": "津貼",
+"ex": "Staff receive a monthly transport allowance.",
+"exZh": "員工每月領取交通津貼。"
+},
+{
+"w": "applicant",
+"p": "n.",
+"zh": "申請人",
+"ex": "Only shortlisted applicants will be contacted.",
+"exZh": "僅入選的申請人會獲得聯繫。"
+},
+{
+"w": "application",
+"p": "n.",
+"zh": "申請書",
+"ex": "Submit your application through the portal.",
+"exZh": "請透過入口網站提交申請。"
+},
+{
+"w": "appraisal",
+"p": "n.",
+"zh": "考核",
+"ex": "The annual appraisal takes place in November.",
+"exZh": "年度考核於十一月舉行。"
+},
+{
+"w": "appraise",
+"p": "v.",
+"zh": "評價",
+"ex": "Managers appraise their teams twice a year.",
+"exZh": "主管每年評價團隊兩次。"
+},
+{
+"w": "apprentice",
+"p": "n.",
+"zh": "學徒",
+"ex": "The workshop trains twelve apprentices a year.",
+"exZh": "工坊每年培訓十二名學徒。"
+},
+{
+"w": "aptitude",
+"p": "n.",
+"zh": "性向；資質",
+"ex": "Candidates take an aptitude test on site.",
+"exZh": "應徵者在現場接受性向測驗。"
+},
+{
+"w": "assessment",
+"p": "n.",
+"zh": "評量",
+"ex": "A skills assessment precedes the interview.",
+"exZh": "面試前有一項技能評量。"
+},
+{
+"w": "attrition",
+"p": "n.",
+"zh": "自然減員",
+"ex": "Attrition has been unusually low this year.",
+"exZh": "今年自然減員異常地低。"
+},
+{
+"w": "background",
+"p": "n.",
+"zh": "背景",
+"ex": "Her background is in industrial engineering.",
+"exZh": "她的背景是工業工程。"
+},
+{
+"w": "benefit",
+"p": "n.",
+"zh": "福利",
+"ex": "The benefits package includes dental coverage.",
+"exZh": "福利方案包含牙科給付。"
+},
+{
+"w": "biography",
+"p": "n.",
+"zh": "簡歷",
+"ex": "Please submit a short professional biography.",
+"exZh": "請提交一份簡短的專業簡歷。"
+},
+{
+"w": "bonus",
+"p": "n.",
+"zh": "獎金",
+"ex": "Year-end bonuses are tied to performance.",
+"exZh": "年終獎金與績效連動。"
+},
+{
+"w": "candidate",
+"p": "n.",
+"zh": "應徵者",
+"ex": "Three candidates were invited to a second interview.",
+"exZh": "三位應徵者獲邀進入第二輪面試。"
+},
+{
+"w": "capability",
+"p": "n.",
+"zh": "能力",
+"ex": "The team lacks capability in data science.",
+"exZh": "團隊缺乏資料科學方面的能力。"
+},
+{
+"w": "certification",
+"p": "n.",
+"zh": "檢定；認證",
+"ex": "Safety certification must be renewed annually.",
+"exZh": "安全認證必須每年更新。"
+},
+{
+"w": "clause",
+"p": "n.",
+"zh": "條款",
+"ex": "The contract contains a non-compete clause.",
+"exZh": "合約含有競業禁止條款。"
+},
+{
+"w": "commitment",
+"p": "n.",
+"zh": "投入；承諾",
+"ex": "The role requires a two-year commitment.",
+"exZh": "該職位要求兩年的投入承諾。"
+},
+{
+"w": "compensation",
+"p": "n.",
+"zh": "薪酬",
+"ex": "Compensation is negotiable based on experience.",
+"exZh": "薪酬可依經驗議定。"
+},
+{
+"w": "competency",
+"p": "n.",
+"zh": "職能",
+"ex": "Five core competencies are assessed.",
+"exZh": "評估五項核心職能。"
+},
+{
+"w": "compliant",
+"p": "adj.",
+"zh": "合規的",
+"ex": "All contracts must be compliant with labor law.",
+"exZh": "所有合約都必須符合勞動法規。"
+},
+{
+"w": "conditional",
+"p": "adj.",
+"zh": "有條件的",
+"ex": "The offer is conditional on a background check.",
+"exZh": "該錄取通知以背景查核為條件。"
+},
+{
+"w": "contractor",
+"p": "n.",
+"zh": "承包人員",
+"ex": "Several contractors support the night shift.",
+"exZh": "數名承包人員支援夜班。"
+},
+{
+"w": "counseling",
+"p": "n.",
+"zh": "諮商",
+"ex": "Confidential counseling is available to staff.",
+"exZh": "員工可使用保密諮商服務。"
+},
+{
+"w": "credential",
+"p": "n.",
+"zh": "資格證明",
+"ex": "Please bring copies of your credentials.",
+"exZh": "請攜帶資格證明影本。"
+},
+{
+"w": "curriculum",
+"p": "n.",
+"zh": "課程內容",
+"ex": "The training curriculum was updated this year.",
+"exZh": "訓練課程內容今年已更新。"
+},
+{
+"w": "demote",
+"p": "v.",
+"zh": "降職",
+"ex": "No one was demoted during the restructuring.",
+"exZh": "重組期間沒有人被降職。"
+},
+{
+"w": "dependent",
+"p": "n.",
+"zh": "受扶養人",
+"ex": "Health coverage extends to dependents.",
+"exZh": "健康保險延伸至受扶養人。"
+},
+{
+"w": "deploy",
+"p": "v.",
+"zh": "部署（人力）",
+"ex": "Extra staff were deployed to the call center.",
+"exZh": "額外人力被部署到客服中心。"
+},
+{
+"w": "deputy",
+"p": "n.",
+"zh": "副手",
+"ex": "The deputy manager will cover next week.",
+"exZh": "副理下週將代理職務。"
+},
+{
+"w": "discipline",
+"p": "n.",
+"zh": "紀律；懲處",
+"ex": "Repeated lateness may lead to discipline.",
+"exZh": "屢次遲到可能導致懲處。"
+},
+{
+"w": "discretion",
+"p": "n.",
+"zh": "裁量權",
+"ex": "Bonuses are awarded at the manager's discretion.",
+"exZh": "獎金由主管裁量發放。"
+},
+{
+"w": "dismissal",
+"p": "n.",
+"zh": "解雇",
+"ex": "The dismissal followed a formal investigation.",
+"exZh": "解雇是在正式調查後決定的。"
+},
+{
+"w": "dispatch",
+"p": "v.",
+"zh": "派遣",
+"ex": "Two technicians were dispatched to the site.",
+"exZh": "兩名技師被派往現場。"
+},
+{
+"w": "diversity",
+"p": "n.",
+"zh": "多元性",
+"ex": "The firm values diversity in its workforce.",
+"exZh": "公司重視員工組成的多元性。"
+},
+{
+"w": "elevate",
+"p": "v.",
+"zh": "提升",
+"ex": "The change elevated her to a senior role.",
+"exZh": "這項異動將她提升到資深職位。"
+},
+{
+"w": "eligibility",
+"p": "n.",
+"zh": "資格",
+"ex": "Eligibility is determined by years of service.",
+"exZh": "資格依年資認定。"
+},
+{
+"w": "employment",
+"p": "n.",
+"zh": "雇用；就業",
+"ex": "Proof of employment is required for the loan.",
+"exZh": "貸款需要在職證明。"
+},
+{
+"w": "empower",
+"p": "v.",
+"zh": "賦權",
+"ex": "The policy empowers staff to resolve complaints.",
+"exZh": "該政策賦權員工自行處理客訴。"
+},
+{
+"w": "enroll",
+"p": "v.",
+"zh": "報名；註冊",
+"ex": "Employees may enroll in the plan each October.",
+"exZh": "員工可於每年十月加入該方案。"
+},
+{
+"w": "entitlement",
+"p": "n.",
+"zh": "應享權利",
+"ex": "Your leave entitlement resets in January.",
+"exZh": "你的休假權利於一月重新計算。"
+},
+{
+"w": "evaluation",
+"p": "n.",
+"zh": "評估",
+"ex": "Performance evaluations are confidential.",
+"exZh": "績效評估屬機密。"
+},
+{
+"w": "exempt",
+"p": "adj.",
+"zh": "豁免的",
+"ex": "Managerial roles are exempt from overtime pay.",
+"exZh": "管理職豁免加班費規定。"
+},
+{
+"w": "expertise",
+"p": "n.",
+"zh": "專業知識",
+"ex": "We need expertise in regulatory compliance.",
+"exZh": "我們需要法規遵循方面的專業。"
+},
+{
+"w": "expire",
+"p": "v.",
+"zh": "到期",
+"ex": "Her work permit expires next month.",
+"exZh": "她的工作許可下個月到期。"
+},
+{
+"w": "fluent",
+"p": "adj.",
+"zh": "流利的",
+"ex": "The role requires fluent written English.",
+"exZh": "該職位要求流利的英文書寫能力。"
+},
+{
+"w": "foster",
+"p": "v.",
+"zh": "培養",
+"ex": "We aim to foster a culture of learning.",
+"exZh": "我們希望培養學習文化。"
+},
+{
+"w": "freelance",
+"p": "adj./n.",
+"zh": "自由接案的",
+"ex": "We hired a freelance translator.",
+"exZh": "我們雇用了一位自由接案的譯者。"
+},
+{
+"w": "fulfill",
+"p": "v.",
+"zh": "履行；達成",
+"ex": "He fulfilled all the requirements of the role.",
+"exZh": "他達成了該職位的所有要求。"
+},
+{
+"w": "grievance",
+"p": "n.",
+"zh": "申訴",
+"ex": "A grievance procedure is outlined in the handbook.",
+"exZh": "手冊中列出了申訴程序。"
+},
+{
+"w": "gross",
+"p": "adj.",
+"zh": "稅前的；總的",
+"ex": "The figure shown is gross monthly salary.",
+"exZh": "所示數字為稅前月薪。"
+},
+{
+"w": "headcount",
+"p": "n.",
+"zh": "員額",
+"ex": "Headcount is frozen until the next quarter.",
+"exZh": "員額凍結至下一季。"
+},
+{
+"w": "headhunter",
+"p": "n.",
+"zh": "獵才顧問",
+"ex": "A headhunter approached her about the role.",
+"exZh": "一位獵才顧問就該職位聯繫了她。"
+},
+{
+"w": "hierarchy",
+"p": "n.",
+"zh": "階層",
+"ex": "The organization has a flat hierarchy.",
+"exZh": "該組織採扁平階層。"
+},
+{
+"w": "hire",
+"p": "v./n.",
+"zh": "雇用；新進人員",
+"ex": "We plan to hire twelve people this year.",
+"exZh": "我們今年計畫雇用十二人。"
+},
+{
+"w": "incentive",
+"p": "n.",
+"zh": "激勵；誘因",
+"ex": "Sales incentives were revised this quarter.",
+"exZh": "銷售獎勵制度本季已修訂。"
+},
+{
+"w": "incumbent",
+"p": "n./adj.",
+"zh": "現任者",
+"ex": "The incumbent will train her replacement.",
+"exZh": "現任者將訓練她的接任人。"
+},
+{
+"w": "induction",
+"p": "n.",
+"zh": "新人訓練",
+"ex": "Induction takes place on the first Monday.",
+"exZh": "新人訓練在第一個週一舉行。"
+},
+{
+"w": "initiative",
+"p": "n.",
+"zh": "主動性；倡議",
+"ex": "She showed initiative in solving the problem.",
+"exZh": "她在解決問題上展現了主動性。"
+},
+{
+"w": "insurance",
+"p": "n.",
+"zh": "保險",
+"ex": "Group insurance covers all full-time staff.",
+"exZh": "團體保險涵蓋所有全職員工。"
+},
+{
+"w": "internship",
+"p": "n.",
+"zh": "實習",
+"ex": "The internship lasts twelve weeks.",
+"exZh": "實習為期十二週。"
+},
+{
+"w": "interpersonal",
+"p": "adj.",
+"zh": "人際的",
+"ex": "Strong interpersonal skills are essential.",
+"exZh": "良好的人際技巧至關重要。"
+},
+{
+"w": "interview",
+"p": "n./v.",
+"zh": "面試",
+"ex": "The interview panel consisted of four people.",
+"exZh": "面試小組由四人組成。"
+},
+{
+"w": "interviewer",
+"p": "n.",
+"zh": "面試官",
+"ex": "The interviewer asked situational questions.",
+"exZh": "面試官提出了情境式問題。"
+},
+{
+"w": "job",
+"p": "n.",
+"zh": "工作",
+"ex": "The job description was posted online.",
+"exZh": "職務說明已在線上公告。"
+},
+{
+"w": "layoff",
+"p": "n.",
+"zh": "裁員",
+"ex": "The layoffs affected two hundred workers.",
+"exZh": "裁員影響了兩百名員工。"
+},
+{
+"w": "leave",
+"p": "n.",
+"zh": "假期",
+"ex": "She is on parental leave until June.",
+"exZh": "她請育嬰假到六月。"
+},
+{
+"w": "liability",
+"p": "n.",
+"zh": "責任；負債",
+"ex": "Employers carry liability for workplace injuries.",
+"exZh": "雇主對職場傷害負有責任。"
+},
+{
+"w": "mandatory",
+"p": "adj.",
+"zh": "強制的",
+"ex": "Safety training is mandatory for all staff.",
+"exZh": "安全訓練對所有員工皆為強制。"
+},
+{
+"w": "manpower",
+"p": "n.",
+"zh": "人力",
+"ex": "Additional manpower is needed for the peak.",
+"exZh": "旺季需要額外人力。"
+},
+{
+"w": "mentor",
+"p": "n./v.",
+"zh": "導師；指導",
+"ex": "Every new hire is assigned a mentor.",
+"exZh": "每位新進人員都會分配一位導師。"
+},
+{
+"w": "morale",
+"p": "n.",
+"zh": "士氣",
+"ex": "Team morale improved after the reorganization.",
+"exZh": "重組後團隊士氣提升。"
+},
+{
+"w": "motivation",
+"p": "n.",
+"zh": "動機",
+"ex": "Recognition is a strong source of motivation.",
+"exZh": "肯定是強大的動機來源。"
+},
+{
+"w": "negotiable",
+"p": "adj.",
+"zh": "可議的",
+"ex": "The starting date is negotiable.",
+"exZh": "到職日可以商議。"
+},
+{
+"w": "negotiation",
+"p": "n.",
+"zh": "協商",
+"ex": "Salary negotiation takes place at the final stage.",
+"exZh": "薪資協商在最後階段進行。"
+},
+{
+"w": "nominate",
+"p": "v.",
+"zh": "提名",
+"ex": "She was nominated for the excellence award.",
+"exZh": "她獲提名角逐卓越獎。"
+},
+{
+"w": "occupation",
+"p": "n.",
+"zh": "職業",
+"ex": "Please state your current occupation.",
+"exZh": "請說明你目前的職業。"
+},
+{
+"w": "onboarding",
+"p": "n.",
+"zh": "新人到職流程",
+"ex": "Onboarding now takes three days instead of five.",
+"exZh": "到職流程從五天縮短為三天。"
+},
+{
+"w": "orientation",
+"p": "n.",
+"zh": "新生訓練",
+"ex": "Orientation covers company policies.",
+"exZh": "新生訓練涵蓋公司政策。"
+},
+{
+"w": "outsource",
+"p": "v.",
+"zh": "外包",
+"ex": "Payroll processing was outsourced last year.",
+"exZh": "薪資作業於去年外包。"
+},
+{
+"w": "overqualified",
+"p": "adj.",
+"zh": "資格過高的",
+"ex": "He was considered overqualified for the position.",
+"exZh": "他被認為對該職位資格過高。"
+},
+{
+"w": "payroll",
+"p": "n.",
+"zh": "薪資名冊",
+"ex": "Payroll is processed on the 25th.",
+"exZh": "薪資於二十五日處理。"
+},
+{
+"w": "pension",
+"p": "n.",
+"zh": "退休金",
+"ex": "Contributions to the pension plan are matched.",
+"exZh": "退休金計畫的提撥享有相對提撥。"
+},
+{
+"w": "placement",
+"p": "n.",
+"zh": "職位安置",
+"ex": "The agency handled her placement abroad.",
+"exZh": "該仲介處理了她的海外職位安置。"
+},
+{
+"w": "portfolio",
+"p": "n.",
+"zh": "作品集",
+"ex": "Designers should submit a portfolio.",
+"exZh": "設計師應提交作品集。"
+},
+{
+"w": "prerequisite",
+"p": "n.",
+"zh": "先決條件",
+"ex": "A degree is a prerequisite for this role.",
+"exZh": "學位是這個職位的先決條件。"
+},
+{
+"w": "probation",
+"p": "n.",
+"zh": "試用期",
+"ex": "The probation period is three months.",
+"exZh": "試用期為三個月。"
+},
+{
+"w": "proficiency",
+"p": "n.",
+"zh": "熟練度",
+"ex": "Proficiency in Excel is required.",
+"exZh": "需要熟練使用試算表軟體。"
+},
+{
+"w": "promotion",
+"p": "n.",
+"zh": "升遷",
+"ex": "Her promotion took effect in April.",
+"exZh": "她的升遷於四月生效。"
+},
+{
+"w": "prospective",
+"p": "adj.",
+"zh": "潛在的",
+"ex": "Prospective employees tour the facility.",
+"exZh": "潛在員工會參觀廠區。"
+},
+{
+"w": "qualification",
+"p": "n.",
+"zh": "資格；學歷",
+"ex": "List your qualifications in reverse order.",
+"exZh": "請依時間倒序列出你的資歷。"
+},
+{
+"w": "recognition",
+"p": "n.",
+"zh": "表揚",
+"ex": "Peer recognition boosts engagement.",
+"exZh": "同儕表揚能提升投入度。"
+},
+{
+"w": "recruiter",
+"p": "n.",
+"zh": "招募人員",
+"ex": "The recruiter scheduled three interviews.",
+"exZh": "招募人員安排了三場面試。"
+},
+{
+"w": "recruitment",
+"p": "n.",
+"zh": "招募",
+"ex": "Recruitment costs rose sharply last year.",
+"exZh": "去年招募成本大幅上升。"
+},
+{
+"w": "redundancy",
+"p": "n.",
+"zh": "裁員",
+"ex": "Voluntary redundancy was offered to senior staff.",
+"exZh": "資深員工獲提供自願離職方案。"
+},
+{
+"w": "referral",
+"p": "n.",
+"zh": "推薦",
+"ex": "Employee referrals fill many openings.",
+"exZh": "許多職缺由員工推薦補實。"
+},
+{
+"w": "reinstate",
+"p": "v.",
+"zh": "復職",
+"ex": "He was reinstated after the appeal.",
+"exZh": "他在申訴後獲得復職。"
+},
+{
+"w": "relocation",
+"p": "n.",
+"zh": "搬遷安置",
+"ex": "A relocation allowance is offered.",
+"exZh": "提供搬遷安置津貼。"
+},
+{
+"w": "remuneration",
+"p": "n.",
+"zh": "報酬",
+"ex": "Remuneration reflects market rates.",
+"exZh": "報酬反映市場行情。"
+},
+{
+"w": "resign",
+"p": "v.",
+"zh": "辭職",
+"ex": "He resigned to pursue further study.",
+"exZh": "他為了進修而辭職。"
+},
+{
+"w": "resignation",
+"p": "n.",
+"zh": "辭呈",
+"ex": "She submitted her resignation last Friday.",
+"exZh": "她上週五提交了辭呈。"
+},
+{
+"w": "resourceful",
+"p": "adj.",
+"zh": "機智的；足智多謀的",
+"ex": "He proved resourceful under pressure.",
+"exZh": "他在壓力下展現了機智。"
+},
+{
+"w": "retention",
+"p": "n.",
+"zh": "留任率",
+"ex": "Employee retention improved after the pay review.",
+"exZh": "薪資檢討後員工留任率提升。"
+},
+{
+"w": "retire",
+"p": "v.",
+"zh": "退休",
+"ex": "She plans to retire at the end of the year.",
+"exZh": "她計畫在年底退休。"
+},
+{
+"w": "retirement",
+"p": "n.",
+"zh": "退休",
+"ex": "Retirement benefits vest after five years.",
+"exZh": "退休福利於滿五年後既得。"
+},
+{
+"w": "roster",
+"p": "n.",
+"zh": "值班表",
+"ex": "The weekend roster is posted on Thursday.",
+"exZh": "週末值班表於週四公布。"
+},
+{
+"w": "salary",
+"p": "n.",
+"zh": "薪水",
+"ex": "The salary is reviewed annually.",
+"exZh": "薪水每年檢討一次。"
+},
+{
+"w": "screening",
+"p": "n.",
+"zh": "篩選",
+"ex": "Initial screening is done by phone.",
+"exZh": "初步篩選以電話進行。"
+},
+{
+"w": "seniority",
+"p": "n.",
+"zh": "資深程度",
+"ex": "Promotions consider both seniority and merit.",
+"exZh": "升遷同時考量年資與表現。"
+},
+{
+"w": "severance",
+"p": "n.",
+"zh": "資遣費",
+"ex": "Severance is calculated by length of service.",
+"exZh": "資遣費依年資計算。"
+},
+{
+"w": "shift",
+"p": "n.",
+"zh": "輪班",
+"ex": "The night shift starts at eleven.",
+"exZh": "夜班從十一點開始。"
+},
+{
+"w": "shortlist",
+"p": "v./n.",
+"zh": "列入候選名單",
+"ex": "Five applicants were shortlisted.",
+"exZh": "五位申請人被列入候選名單。"
+},
+{
+"w": "skillset",
+"p": "n.",
+"zh": "技能組合",
+"ex": "Her skillset matches the role closely.",
+"exZh": "她的技能組合與職位高度吻合。"
+},
+{
+"w": "sponsor",
+"p": "v./n.",
+"zh": "贊助；擔保",
+"ex": "The company will sponsor his visa.",
+"exZh": "公司將為他擔保簽證。"
+},
+{
+"w": "staffing",
+"p": "n.",
+"zh": "人力配置",
+"ex": "Staffing levels were reduced in two departments.",
+"exZh": "兩個部門的人力配置遭到縮減。"
+},
+{
+"w": "stipend",
+"p": "n.",
+"zh": "津貼；助學金",
+"ex": "Interns receive a monthly stipend.",
+"exZh": "實習生每月領取津貼。"
+},
+{
+"w": "subsidy",
+"p": "n.",
+"zh": "補助",
+"ex": "The company provides a childcare subsidy.",
+"exZh": "公司提供托育補助。"
+},
+{
+"w": "succession",
+"p": "n.",
+"zh": "接班",
+"ex": "A succession plan is now in place.",
+"exZh": "接班計畫現已就緒。"
+},
+{
+"w": "supervision",
+"p": "n.",
+"zh": "監督",
+"ex": "Trainees work under close supervision.",
+"exZh": "受訓人員在密切監督下工作。"
+},
+{
+"w": "suspend",
+"p": "v.",
+"zh": "停職；暫停",
+"ex": "The employee was suspended pending review.",
+"exZh": "該員工在調查期間遭停職。"
+},
+{
+"w": "tenure",
+"p": "n.",
+"zh": "任期；年資",
+"ex": "Her tenure as director lasted six years.",
+"exZh": "她擔任主任的任期為六年。"
+},
+{
+"w": "termination",
+"p": "n.",
+"zh": "終止雇用",
+"ex": "Termination requires written notice.",
+"exZh": "終止雇用需要書面通知。"
+},
+{
+"w": "timesheet",
+"p": "n.",
+"zh": "工時表",
+"ex": "Submit your timesheet every Friday.",
+"exZh": "請每週五提交工時表。"
+},
+{
+"w": "trainee",
+"p": "n.",
+"zh": "受訓人員",
+"ex": "Trainees rotate through four departments.",
+"exZh": "受訓人員輪調四個部門。"
+},
+{
+"w": "transferable",
+"p": "adj.",
+"zh": "可轉移的",
+"ex": "Her skills are highly transferable.",
+"exZh": "她的技能高度可轉移。"
+},
+{
+"w": "turnover",
+"p": "n.",
+"zh": "人員流動率；營業額",
+"ex": "High turnover increased recruitment costs.",
+"exZh": "高流動率推高了招募成本。"
+},
+{
+"w": "undergo",
+"p": "v.",
+"zh": "經歷",
+"ex": "All hires undergo a medical check.",
+"exZh": "所有新進人員都要接受健康檢查。"
+},
+{
+"w": "union",
+"p": "n.",
+"zh": "工會",
+"ex": "The union negotiated a new agreement.",
+"exZh": "工會協商出新的協議。"
+},
+{
+"w": "vacate",
+"p": "v.",
+"zh": "騰出；離職",
+"ex": "He will vacate the position in June.",
+"exZh": "他將於六月卸下該職位。"
+},
+{
+"w": "vacation",
+"p": "n.",
+"zh": "休假",
+"ex": "Unused vacation days carry over one year.",
+"exZh": "未使用的假期可延用一年。"
+},
+{
+"w": "versatile",
+"p": "adj.",
+"zh": "多才多藝的",
+"ex": "We need a versatile team member.",
+"exZh": "我們需要一位多才多藝的團隊成員。"
+},
+{
+"w": "vocational",
+"p": "adj.",
+"zh": "職業的",
+"ex": "Vocational training is subsidized.",
+"exZh": "職業訓練有補助。"
+},
+{
+"w": "wage",
+"p": "n.",
+"zh": "工資",
+"ex": "Hourly wages were adjusted in July.",
+"exZh": "時薪於七月調整。"
+},
+{
+"w": "welfare",
+"p": "n.",
+"zh": "福利",
+"ex": "Employee welfare is a stated priority.",
+"exZh": "員工福利被列為優先事項。"
+},
+{
+"w": "willingness",
+"p": "n.",
+"zh": "意願",
+"ex": "Willingness to travel is essential.",
+"exZh": "出差意願是必要條件。"
+},
+{
+"w": "workforce",
+"p": "n.",
+"zh": "勞動力",
+"ex": "The workforce has grown by 20 percent.",
+"exZh": "勞動力人數成長了兩成。"
+}
+]
+}

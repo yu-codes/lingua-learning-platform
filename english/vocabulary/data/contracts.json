@@ -1,0 +1,686 @@
+{
+"id": "contracts",
+"name": "採購與合約",
+"nameEn": "Procurement & Contracts",
+"words": [
+{
+"w": "abide",
+"p": "v.",
+"zh": "遵守",
+"ex": "Both parties must abide by the terms.",
+"exZh": "雙方必須遵守條款。"
+},
+{
+"w": "acceptance",
+"p": "n.",
+"zh": "承諾；驗收",
+"ex": "Acceptance is confirmed in writing.",
+"exZh": "驗收以書面確認。"
+},
+{
+"w": "acquire",
+"p": "v.",
+"zh": "取得",
+"ex": "The firm acquired exclusive distribution rights.",
+"exZh": "該公司取得了獨家經銷權。"
+},
+{
+"w": "addendum",
+"p": "n.",
+"zh": "附錄；增補條款",
+"ex": "An addendum was attached to the contract.",
+"exZh": "合約附加了一份增補條款。"
+},
+{
+"w": "amendment",
+"p": "n.",
+"zh": "修訂條款",
+"ex": "The amendment extends the warranty period.",
+"exZh": "該修訂條款延長了保固期。"
+},
+{
+"w": "annex",
+"p": "n.",
+"zh": "附件",
+"ex": "Technical details appear in the annex.",
+"exZh": "技術細節載於附件。"
+},
+{
+"w": "applicable",
+"p": "adj.",
+"zh": "適用的",
+"ex": "Local law is applicable to this contract.",
+"exZh": "當地法律適用於本合約。"
+},
+{
+"w": "arbitration",
+"p": "n.",
+"zh": "仲裁",
+"ex": "Disputes are settled through arbitration.",
+"exZh": "爭議透過仲裁解決。"
+},
+{
+"w": "arrangement",
+"p": "n.",
+"zh": "安排",
+"ex": "An interim arrangement was agreed.",
+"exZh": "雙方同意了一項過渡安排。"
+},
+{
+"w": "bidder",
+"p": "n.",
+"zh": "投標人",
+"ex": "The lowest bidder was not selected.",
+"exZh": "最低價投標人並未獲選。"
+},
+{
+"w": "bilateral",
+"p": "adj.",
+"zh": "雙邊的",
+"ex": "The bilateral agreement covers both markets.",
+"exZh": "該雙邊協議涵蓋兩個市場。"
+},
+{
+"w": "binding",
+"p": "adj.",
+"zh": "具約束力的",
+"ex": "The letter of intent is not legally binding.",
+"exZh": "意向書不具法律約束力。"
+},
+{
+"w": "breach",
+"p": "n./v.",
+"zh": "違約",
+"ex": "Late delivery constitutes a breach of contract.",
+"exZh": "延遲交貨構成違約。"
+},
+{
+"w": "certify",
+"p": "v.",
+"zh": "證明",
+"ex": "The inspector certified the goods conforming.",
+"exZh": "檢驗員證明貨品符合規定。"
+},
+{
+"w": "commence",
+"p": "v.",
+"zh": "開始",
+"ex": "Work shall commence on receipt of deposit.",
+"exZh": "工程應於收到訂金後開始。"
+},
+{
+"w": "condition",
+"p": "n.",
+"zh": "條件",
+"ex": "Delivery is subject to two conditions.",
+"exZh": "交貨附有兩項條件。"
+},
+{
+"w": "confidentiality",
+"p": "n.",
+"zh": "保密",
+"ex": "A confidentiality agreement was signed.",
+"exZh": "已簽署保密協議。"
+},
+{
+"w": "conform",
+"p": "v.",
+"zh": "符合",
+"ex": "The goods must conform to the sample.",
+"exZh": "貨品必須符合樣品。"
+},
+{
+"w": "consent",
+"p": "n./v.",
+"zh": "同意",
+"ex": "Written consent is required for subcontracting.",
+"exZh": "轉包需要書面同意。"
+},
+{
+"w": "consortium",
+"p": "n.",
+"zh": "聯合體",
+"ex": "A consortium submitted the winning bid.",
+"exZh": "一個聯合體提出了得標方案。"
+},
+{
+"w": "constitute",
+"p": "v.",
+"zh": "構成",
+"ex": "Silence does not constitute acceptance.",
+"exZh": "沉默不構成承諾。"
+},
+{
+"w": "contractual",
+"p": "adj.",
+"zh": "合約上的",
+"ex": "Contractual obligations remain unchanged.",
+"exZh": "合約義務維持不變。"
+},
+{
+"w": "counterparty",
+"p": "n.",
+"zh": "交易對手",
+"ex": "The counterparty requested a revision.",
+"exZh": "交易對手要求修訂。"
+},
+{
+"w": "covenant",
+"p": "n.",
+"zh": "約定條款",
+"ex": "The loan covenant limits new debt.",
+"exZh": "貸款約定條款限制新增債務。"
+},
+{
+"w": "deviate",
+"p": "v.",
+"zh": "偏離",
+"ex": "Do not deviate from the agreed scope.",
+"exZh": "請勿偏離約定範圍。"
+},
+{
+"w": "duration",
+"p": "n.",
+"zh": "期間",
+"ex": "The duration of the agreement is two years.",
+"exZh": "協議期間為兩年。"
+},
+{
+"w": "effective",
+"p": "adj.",
+"zh": "生效的",
+"ex": "The change is effective immediately.",
+"exZh": "該變更立即生效。"
+},
+{
+"w": "enforce",
+"p": "v.",
+"zh": "執行",
+"ex": "The clause is difficult to enforce abroad.",
+"exZh": "該條款在境外難以執行。"
+},
+{
+"w": "entitle",
+"p": "v.",
+"zh": "使有權",
+"ex": "The clause entitles the buyer to a refund.",
+"exZh": "該條款使買方有權要求退款。"
+},
+{
+"w": "escalation",
+"p": "n.",
+"zh": "升級機制",
+"ex": "An escalation path is defined for delays.",
+"exZh": "針對延誤定義了升級機制。"
+},
+{
+"w": "exclusivity",
+"p": "n.",
+"zh": "排他性",
+"ex": "Exclusivity lasts for eighteen months.",
+"exZh": "排他性效力為十八個月。"
+},
+{
+"w": "execute",
+"p": "v.",
+"zh": "簽署",
+"ex": "The parties executed the agreement yesterday.",
+"exZh": "雙方昨日簽署了協議。"
+},
+{
+"w": "executed",
+"p": "adj.",
+"zh": "已簽署生效的",
+"ex": "The executed copy is held by legal.",
+"exZh": "已簽署的正本由法務保管。"
+},
+{
+"w": "expiry",
+"p": "n.",
+"zh": "到期",
+"ex": "The expiry date is stated on page one.",
+"exZh": "到期日載明於第一頁。"
+},
+{
+"w": "forfeiture",
+"p": "n.",
+"zh": "沒收",
+"ex": "Forfeiture of the deposit applies on default.",
+"exZh": "違約時訂金將被沒收。"
+},
+{
+"w": "governing",
+"p": "adj.",
+"zh": "準據的",
+"ex": "The governing law is stated in Clause 20.",
+"exZh": "準據法載於第二十條。"
+},
+{
+"w": "hereby",
+"p": "adv.",
+"zh": "茲、特此",
+"ex": "The parties hereby agree as follows.",
+"exZh": "雙方茲同意如下。"
+},
+{
+"w": "hereto",
+"p": "adv.",
+"zh": "於此",
+"ex": "The schedules attached hereto form part of it.",
+"exZh": "附於此的附表構成其一部分。"
+},
+{
+"w": "incorporate",
+"p": "v.",
+"zh": "納入",
+"ex": "The terms are incorporated by reference.",
+"exZh": "該條款以引用方式納入。"
+},
+{
+"w": "indemnify",
+"p": "v.",
+"zh": "賠償",
+"ex": "The seller shall indemnify the buyer.",
+"exZh": "賣方應賠償買方。"
+},
+{
+"w": "infringement",
+"p": "n.",
+"zh": "侵權",
+"ex": "Any infringement must be reported promptly.",
+"exZh": "任何侵權都必須即時通報。"
+},
+{
+"w": "integrity",
+"p": "n.",
+"zh": "完整性",
+"ex": "The integrity of the document was verified.",
+"exZh": "文件的完整性已獲驗證。"
+},
+{
+"w": "invoke",
+"p": "v.",
+"zh": "援引",
+"ex": "The buyer invoked the penalty clause.",
+"exZh": "買方援引了罰則條款。"
+},
+{
+"w": "irrevocable",
+"p": "adj.",
+"zh": "不可撤銷的",
+"ex": "The letter of credit is irrevocable.",
+"exZh": "該信用狀不可撤銷。"
+},
+{
+"w": "jurisdiction",
+"p": "n.",
+"zh": "管轄",
+"ex": "The contract falls under Singapore jurisdiction.",
+"exZh": "該合約受新加坡管轄。"
+},
+{
+"w": "lawful",
+"p": "adj.",
+"zh": "合法的",
+"ex": "Only lawful use is permitted.",
+"exZh": "僅允許合法使用。"
+},
+{
+"w": "liable",
+"p": "adj.",
+"zh": "負有責任的",
+"ex": "The carrier is liable for transit damage.",
+"exZh": "承運人對運送損壞負責。"
+},
+{
+"w": "license",
+"p": "n./v.",
+"zh": "授權",
+"ex": "The software license covers fifty seats.",
+"exZh": "該軟體授權涵蓋五十個席次。"
+},
+{
+"w": "lien",
+"p": "n.",
+"zh": "留置權",
+"ex": "The supplier holds a lien on the goods.",
+"exZh": "供應商對貨品享有留置權。"
+},
+{
+"w": "material",
+"p": "adj.",
+"zh": "重大的",
+"ex": "Any material change requires notice.",
+"exZh": "任何重大變更都需通知。"
+},
+{
+"w": "mediation",
+"p": "n.",
+"zh": "調解",
+"ex": "Mediation precedes formal proceedings.",
+"exZh": "調解先於正式程序。"
+},
+{
+"w": "memorandum",
+"p": "n.",
+"zh": "備忘錄",
+"ex": "A memorandum of understanding was signed.",
+"exZh": "已簽署了一份合作備忘錄。"
+},
+{
+"w": "notarize",
+"p": "v.",
+"zh": "公證",
+"ex": "The signature must be notarized.",
+"exZh": "簽名必須經過公證。"
+},
+{
+"w": "notification",
+"p": "n.",
+"zh": "通知",
+"ex": "Notification shall be sent by registered mail.",
+"exZh": "通知應以掛號郵件寄送。"
+},
+{
+"w": "nullify",
+"p": "v.",
+"zh": "使無效",
+"ex": "A missing signature can nullify the deal.",
+"exZh": "缺少簽名可能使交易無效。"
+},
+{
+"w": "onerous",
+"p": "adj.",
+"zh": "繁重的",
+"ex": "The indemnity terms are onerous.",
+"exZh": "賠償條款相當繁重。"
+},
+{
+"w": "oral",
+"p": "adj.",
+"zh": "口頭的",
+"ex": "Oral agreements are not enforceable here.",
+"exZh": "在此口頭協議不具強制力。"
+},
+{
+"w": "party",
+"p": "n.",
+"zh": "當事方",
+"ex": "Both parties initialed every page.",
+"exZh": "雙方在每一頁都簽了名縮寫。"
+},
+{
+"w": "penalty",
+"p": "n.",
+"zh": "違約金",
+"ex": "A penalty applies for late completion.",
+"exZh": "逾期完工須付違約金。"
+},
+{
+"w": "precedent",
+"p": "n.",
+"zh": "先例",
+"ex": "The ruling set an important precedent.",
+"exZh": "該裁決樹立了重要先例。"
+},
+{
+"w": "prevail",
+"p": "v.",
+"zh": "優先適用",
+"ex": "In case of conflict, this clause prevails.",
+"exZh": "如有牴觸，本條款優先適用。"
+},
+{
+"w": "prior",
+"p": "adj.",
+"zh": "事先的",
+"ex": "Prior written approval is required.",
+"exZh": "需要事先書面核准。"
+},
+{
+"w": "procure",
+"p": "v.",
+"zh": "採購",
+"ex": "The contractor shall procure all materials.",
+"exZh": "承包商應採購所有材料。"
+},
+{
+"w": "prohibit",
+"p": "v.",
+"zh": "禁止",
+"ex": "The agreement prohibits resale.",
+"exZh": "該協議禁止轉售。"
+},
+{
+"w": "proprietary",
+"p": "adj.",
+"zh": "專有的",
+"ex": "The design remains proprietary information.",
+"exZh": "該設計仍屬專有資訊。"
+},
+{
+"w": "provision",
+"p": "n.",
+"zh": "條文",
+"ex": "The provision limits liability to the contract value.",
+"exZh": "該條文將責任限於合約金額。"
+},
+{
+"w": "purchase order",
+"p": "n.",
+"zh": "採購單",
+"ex": "A purchase order must precede shipment.",
+"exZh": "出貨前須有採購單。"
+},
+{
+"w": "ratify",
+"p": "v.",
+"zh": "批准",
+"ex": "The board ratified the amendment.",
+"exZh": "董事會批准了修訂。"
+},
+{
+"w": "reciprocal",
+"p": "adj.",
+"zh": "互惠的",
+"ex": "The obligations are reciprocal.",
+"exZh": "這些義務是互惠的。"
+},
+{
+"w": "recital",
+"p": "n.",
+"zh": "前言條款",
+"ex": "The recitals set out the background.",
+"exZh": "前言條款說明了背景。"
+},
+{
+"w": "remedy",
+"p": "n.",
+"zh": "救濟",
+"ex": "Termination is the sole remedy available.",
+"exZh": "終止是唯一可用的救濟。"
+},
+{
+"w": "representation",
+"p": "n.",
+"zh": "陳述",
+"ex": "The seller made no further representations.",
+"exZh": "賣方未再作其他陳述。"
+},
+{
+"w": "requisition",
+"p": "n.",
+"zh": "請購",
+"ex": "A requisition must be approved first.",
+"exZh": "請購須先獲核准。"
+},
+{
+"w": "rescind",
+"p": "v.",
+"zh": "撤銷",
+"ex": "The buyer may rescind within seven days.",
+"exZh": "買方可於七日內撤銷。"
+},
+{
+"w": "revoke",
+"p": "v.",
+"zh": "撤回",
+"ex": "The authority was revoked in writing.",
+"exZh": "該授權以書面撤回。"
+},
+{
+"w": "severable",
+"p": "adj.",
+"zh": "可分割的",
+"ex": "Each clause is severable from the rest.",
+"exZh": "每項條款均可與其餘分割。"
+},
+{
+"w": "signatory",
+"p": "n.",
+"zh": "簽署方",
+"ex": "All signatories received a copy.",
+"exZh": "所有簽署方都收到一份副本。"
+},
+{
+"w": "solicitation",
+"p": "n.",
+"zh": "招標邀請",
+"ex": "The solicitation closes next Friday.",
+"exZh": "招標邀請於下週五截止。"
+},
+{
+"w": "sourcing",
+"p": "n.",
+"zh": "尋源",
+"ex": "Dual sourcing reduces supply risk.",
+"exZh": "雙重尋源降低供應風險。"
+},
+{
+"w": "stipulate",
+"p": "v.",
+"zh": "明訂",
+"ex": "The contract stipulates monthly reporting.",
+"exZh": "合約明訂需按月回報。"
+},
+{
+"w": "subcontract",
+"p": "v./n.",
+"zh": "轉包",
+"ex": "Work may not be subcontracted without consent.",
+"exZh": "未經同意不得轉包工作。"
+},
+{
+"w": "subsequent",
+"p": "adj.",
+"zh": "後續的",
+"ex": "Subsequent orders follow the same terms.",
+"exZh": "後續訂單適用相同條件。"
+},
+{
+"w": "supersede",
+"p": "v.",
+"zh": "取代",
+"ex": "This version supersedes all earlier drafts.",
+"exZh": "本版本取代先前所有草案。"
+},
+{
+"w": "surety",
+"p": "n.",
+"zh": "保證人",
+"ex": "A surety bond was provided.",
+"exZh": "已提供保證保證金。"
+},
+{
+"w": "tender",
+"p": "n./v.",
+"zh": "招標",
+"ex": "The tender closes at noon on Friday.",
+"exZh": "招標於週五中午截止。"
+},
+{
+"w": "thereafter",
+"p": "adv.",
+"zh": "其後",
+"ex": "Payments continue monthly thereafter.",
+"exZh": "其後款項按月持續支付。"
+},
+{
+"w": "thereof",
+"p": "adv.",
+"zh": "其中的",
+"ex": "The goods and packaging thereof were inspected.",
+"exZh": "貨品及其包裝均已檢驗。"
+},
+{
+"w": "undersigned",
+"p": "n.",
+"zh": "簽署人",
+"ex": "The undersigned agrees to the terms.",
+"exZh": "簽署人同意這些條款。"
+},
+{
+"w": "undertaking",
+"p": "n.",
+"zh": "承諾書",
+"ex": "A written undertaking was provided.",
+"exZh": "已提供書面承諾書。"
+},
+{
+"w": "unilateral",
+"p": "adj.",
+"zh": "單方的",
+"ex": "Unilateral changes are not permitted.",
+"exZh": "不允許單方變更。"
+},
+{
+"w": "validity",
+"p": "n.",
+"zh": "效力",
+"ex": "The validity of the clause was questioned.",
+"exZh": "該條款的效力受到質疑。"
+},
+{
+"w": "variation",
+"p": "n.",
+"zh": "變更",
+"ex": "A variation order documented the change.",
+"exZh": "一份變更單記錄了該異動。"
+},
+{
+"w": "verification",
+"p": "n.",
+"zh": "查驗",
+"ex": "Verification takes place before payment.",
+"exZh": "查驗於付款前進行。"
+},
+{
+"w": "void",
+"p": "adj.",
+"zh": "無效的",
+"ex": "The clause was declared void.",
+"exZh": "該條款被宣告無效。"
+},
+{
+"w": "waive",
+"p": "v.",
+"zh": "放棄（權利）",
+"ex": "The seller waived the late fee.",
+"exZh": "賣方放棄了逾期費用。"
+},
+{
+"w": "whereas",
+"p": "conj.",
+"zh": "鑑於",
+"ex": "Whereas the parties wish to cooperate…",
+"exZh": "鑑於雙方希望合作…"
+},
+{
+"w": "withhold",
+"p": "v.",
+"zh": "扣留",
+"ex": "Payment may be withheld for defects.",
+"exZh": "因瑕疵可扣留款項。"
+}
+]
+}

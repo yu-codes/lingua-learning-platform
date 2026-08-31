@@ -1,0 +1,394 @@
+{
+ "id": "part-08",
+ "no": 8,
+ "title": "子句與連接詞",
+ "subtitle": "Clauses & Conjunctions",
+ "summary": "長句之所以難，是因為裡面包了好幾層子句。學會辨認三種子句，長句就能拆成一層一層的積木。",
+ "sections": [
+  {
+   "title": "對等連接詞與平行結構",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "對等連接詞（and, but, or, nor, for, so, yet）連接文法地位相同的成分。多益常考「平行結構」：連接詞兩邊的詞性、形式必須一致。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The role requires planning, budgeting, and reporting.",
+       "zh": "這個職位需要規劃、編列預算與撰寫報告。",
+       "note": "三個動名詞平行",
+       "bad": null
+      },
+      {
+       "en": "The role requires planning, budgeting, and to report.",
+       "zh": "",
+       "note": "第三項形式不一致",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "headers": [
+      "相關連接詞",
+      "意思",
+      "動詞一致"
+     ],
+     "rows": [
+      [
+       "both A and B",
+       "兩者都",
+       "複數"
+      ],
+      [
+       "either A or B",
+       "兩者之一",
+       "看 B"
+      ],
+      [
+       "neither A nor B",
+       "兩者都不",
+       "看 B"
+      ],
+      [
+       "not only A but also B",
+       "不僅…而且",
+       "看 B"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Neither the manager nor the assistants were informed.",
+       "zh": "經理與助理都沒被告知。",
+       "note": "動詞看最近的 assistants",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The training covers not only safety procedures but also _____ techniques.",
+     "options": [
+      "troubleshoot",
+      "troubleshooting",
+      "to troubleshoot",
+      "troubleshot"
+     ],
+     "answer": 1,
+     "explain": "not only 之後是名詞片語 safety procedures，but also 之後要平行，用動名詞當形容詞的 troubleshooting techniques。"
+    }
+   ]
+  },
+  {
+   "title": "名詞子句",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "名詞子句在句中當主詞、受詞或補語，由 that、whether、if 或疑問詞引導。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "引導詞",
+      "用法",
+      "例子"
+     ],
+     "rows": [
+      [
+       "that",
+       "陳述內容（受詞位置可省略）",
+       "We believe (that) the plan is sound."
+      ],
+      [
+       "whether / if",
+       "是否",
+       "Please confirm whether you can attend."
+      ],
+      [
+       "what / who / when / where / why / how",
+       "疑問詞子句",
+       "We don't know when the parts will arrive."
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "名詞子句一律用「直述語序」：疑問詞 + 主詞 + 動詞，不倒裝。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Could you tell me where the meeting is?",
+       "zh": "可以告訴我會議在哪裡嗎？",
+       "note": "不是 where is the meeting",
+       "bad": null
+      },
+      {
+       "en": "Whether we proceed depends on the budget.",
+       "zh": "我們是否進行取決於預算。",
+       "note": "名詞子句當主詞",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "whether 可以放介系詞後或接 or not，if 不行：the question of whether…（不能用 if）。"
+    },
+    {
+     "type": "quiz",
+     "q": "The report does not specify _____ the equipment was inspected.",
+     "options": [
+      "that",
+      "what",
+      "whether",
+      "which"
+     ],
+     "answer": 2,
+     "explain": "語意是「是否」經過檢查，用 whether 引導名詞子句。"
+    }
+   ]
+  },
+  {
+   "title": "形容詞子句（關係子句）",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "先行詞",
+      "主格",
+      "受格",
+      "所有格"
+     ],
+     "rows": [
+      [
+       "人",
+       "who / that",
+       "whom / that / 省略",
+       "whose"
+      ],
+      [
+       "事物",
+       "which / that",
+       "which / that / 省略",
+       "whose / of which"
+      ],
+      [
+       "地點",
+       "where（= in which）",
+       "—",
+       "—"
+      ],
+      [
+       "時間",
+       "when（= at which）",
+       "—",
+       "—"
+      ],
+      [
+       "理由",
+       "why（= for which）",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "限定用法不加逗號，關係詞可用 that；非限定用法要加逗號，不能用 that，也不能省略。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The vendor who submitted the lowest bid was selected.",
+       "zh": "出價最低的廠商獲選。",
+       "note": "限定：指出是哪一家",
+       "bad": null
+      },
+      {
+       "en": "Our CFO, who joined last year, will lead the audit.",
+       "zh": "我們的財務長（去年到任）將主導稽核。",
+       "note": "非限定：補充資訊",
+       "bad": null
+      },
+      {
+       "en": "The building that we visited has been renovated.",
+       "zh": "我們參觀過的那棟大樓已翻新。",
+       "note": "受格可省略 that",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "value": "關係子句可以簡化：主動用 V-ing，被動用 p.p.。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The employees who are working remotely need VPN access.",
+       "zh": "→ The employees working remotely need VPN access.",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The report that was submitted yesterday is incomplete.",
+       "zh": "→ The report submitted yesterday is incomplete.",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The consultant _____ recommendations we adopted has left the firm.",
+     "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+     ],
+     "answer": 2,
+     "explain": "recommendations 屬於顧問，用所有格關係詞 whose。"
+    }
+   ]
+  },
+  {
+   "title": "副詞子句",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "關係",
+      "從屬連接詞"
+     ],
+     "rows": [
+      [
+       "時間",
+       "when, while, before, after, until, as soon as, once, by the time"
+      ],
+      [
+       "原因",
+       "because, since, as, now that"
+      ],
+      [
+       "條件",
+       "if, unless, provided that, as long as, in case"
+      ],
+      [
+       "讓步",
+       "although, though, even though, even if, whereas, while"
+      ],
+      [
+       "目的",
+       "so that, in order that"
+      ],
+      [
+       "結果",
+       "so + adj. + that, such + N + that"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "unless = if…not，本身已含否定，不要再加 not。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Unless the payment clears, we cannot ship the order.",
+       "zh": "除非款項入帳，否則我們無法出貨。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The delay was so severe that customers cancelled.",
+       "zh": "延誤嚴重到客戶取消訂單。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "It was such a severe delay that customers cancelled.",
+       "zh": "（同義，such + 名詞）",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "英文一個句子只能有一個連接詞連接兩個子句。Although…, but… 是中式英文，只能擇一。"
+    },
+    {
+     "type": "quiz",
+     "q": "_____ the software is updated, users may experience occasional errors.",
+     "options": [
+      "Despite",
+      "Until",
+      "In spite of",
+      "Because of"
+     ],
+     "answer": 1,
+     "explain": "空格後是完整子句，需要連接詞；語意為「直到軟體更新前」，用 Until。"
+    }
+   ]
+  },
+  {
+   "title": "分詞構句：把子句壓縮成片語",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "兩個子句主詞相同時，可把副詞子句的主詞與 be 動詞去掉，動詞改成 V-ing（主動）或 p.p.（被動）。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "After he reviewed the contract, he signed it.",
+       "zh": "→ After reviewing the contract, he signed it.",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Because it was damaged in transit, the unit was returned.",
+       "zh": "→ Damaged in transit, the unit was returned.",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Reviewing the file, the error was discovered.",
+       "zh": "",
+       "note": "分詞的主詞必須和主句主詞一致，錯誤不會自己審檔案",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "多益 Part 5 若空格在句首、後面接逗號與完整主句，答案常是分詞或介系詞片語。"
+    },
+    {
+     "type": "quiz",
+     "q": "_____ in 1998, the company now operates in over thirty countries.",
+     "options": [
+      "Founding",
+      "Founded",
+      "To found",
+      "Founds"
+     ],
+     "answer": 1,
+     "explain": "公司是「被創立」，用過去分詞 Founded 引導分詞構句。"
+    }
+   ]
+  }
+ ]
+}

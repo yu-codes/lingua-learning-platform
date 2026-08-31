@@ -1,0 +1,400 @@
+{
+ "id": "part-09",
+ "no": 9,
+ "title": "被動、比較與特殊句型",
+ "subtitle": "Passive, Comparison & Special Structures",
+ "summary": "被動語態是商務英文的日常，比較級與倒裝則是拉開分數的地方。這一章把三個高頻結構一次講透。",
+ "sections": [
+  {
+   "title": "被動語態的形成與時態",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "被動語態 = be + 過去分詞。時態變化全部發生在 be 動詞上，過去分詞不變。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "時態",
+      "主動",
+      "被動"
+     ],
+     "rows": [
+      [
+       "現在簡單",
+       "We review the file.",
+       "The file is reviewed."
+      ],
+      [
+       "過去簡單",
+       "We reviewed the file.",
+       "The file was reviewed."
+      ],
+      [
+       "現在完成",
+       "We have reviewed it.",
+       "It has been reviewed."
+      ],
+      [
+       "未來",
+       "We will review it.",
+       "It will be reviewed."
+      ],
+      [
+       "情態",
+       "We must review it.",
+       "It must be reviewed."
+      ],
+      [
+       "進行",
+       "We are reviewing it.",
+       "It is being reviewed."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "商務英文偏好被動的三種情況：不知道或不必說誰做的、要強調動作對象、要讓語氣客觀不指責。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Your application has been received.",
+       "zh": "您的申請已收到。",
+       "note": "不需指出誰收的",
+       "bad": null
+      },
+      {
+       "en": "The invoice was sent to the wrong address.",
+       "zh": "發票被寄到錯誤地址。",
+       "note": "避免指責特定人",
+       "bad": null
+      },
+      {
+       "en": "All equipment must be inspected before use.",
+       "zh": "所有設備使用前必須檢查。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "不及物動詞沒有被動：happen, occur, arrive, rise, appear, consist, belong。The accident was happened.（錯）"
+    },
+    {
+     "type": "quiz",
+     "q": "The revised guidelines _____ to all departments last Monday.",
+     "options": [
+      "distributed",
+      "were distributed",
+      "have distributing",
+      "distributing"
+     ],
+     "answer": 1,
+     "explain": "guidelines 是被分發的對象，且有明確過去時間 last Monday，用過去被動 were distributed。"
+    }
+   ]
+  },
+  {
+   "title": "被動語態的特殊型式",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "授與動詞有兩種被動；使役與感官動詞被動時要還原 to。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The client was offered a discount.",
+       "zh": "客戶獲得了折扣。",
+       "note": "以人當主詞",
+       "bad": null
+      },
+      {
+       "en": "A discount was offered to the client.",
+       "zh": "（以物當主詞）",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The staff were made to attend the workshop.",
+       "zh": "員工被要求出席工作坊。",
+       "note": "被動要還原 to",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "value": "It is said that… 句型可改寫成 S + be said to V。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "It is believed that the merger will close in June.",
+       "zh": "一般認為併購將在六月完成。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The merger is believed to close in June.",
+       "zh": "（同義改寫）",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "by + 執行者 只有在真正需要強調時才寫出來。多益閱讀裡大多數被動句根本不寫 by。"
+    }
+   ]
+  },
+  {
+   "title": "比較級與最高級",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "音節",
+      "比較級",
+      "最高級"
+     ],
+     "rows": [
+      [
+       "單音節",
+       "-er（faster）",
+       "the -est（the fastest）"
+      ],
+      [
+       "雙音節 -y",
+       "改 -ier（easier）",
+       "the -iest（the easiest）"
+      ],
+      [
+       "多音節",
+       "more + adj.（more efficient）",
+       "the most + adj."
+      ],
+      [
+       "不規則",
+       "good→better, bad→worse, many/much→more, little→less, far→further",
+       "best, worst, most, least, furthest"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "兩者相比用比較級 + than；三者以上用最高級 + the，範圍用 in / of。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "This supplier is more reliable than the previous one.",
+       "zh": "這家供應商比前一家可靠。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "She is the most experienced engineer on the team.",
+       "zh": "她是團隊中經驗最豐富的工程師。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "headers": [
+      "句型",
+      "意思",
+      "例子"
+     ],
+     "rows": [
+      [
+       "as + adj. + as",
+       "和…一樣",
+       "as efficient as the old model"
+      ],
+      [
+       "not as/so + adj. + as",
+       "不如…",
+       "not as costly as expected"
+      ],
+      [
+       "the + 比較級, the + 比較級",
+       "越…越…",
+       "The sooner, the better."
+      ],
+      [
+       "比較級 + and + 比較級",
+       "越來越…",
+       "more and more competitive"
+      ],
+      [
+       "one of the + 最高級 + 複數名詞",
+       "最…之一",
+       "one of the largest firms"
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "比較的對象必須對等：Our revenue is higher than our competitor.（錯，拿營收比公司）→ than that of our competitor / than our competitor's."
+    },
+    {
+     "type": "quiz",
+     "q": "The updated model consumes _____ energy than its predecessor.",
+     "options": [
+      "few",
+      "fewer",
+      "less",
+      "least"
+     ],
+     "answer": 2,
+     "explain": "energy 是不可數名詞，比較級用 less。fewer 用於可數複數。"
+    }
+   ]
+  },
+  {
+   "title": "倒裝句",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "否定或限制性副詞放句首時，主要子句必須倒裝：助動詞（或 be / do）移到主詞前面。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "否定副詞：Never, Rarely, Seldom, Hardly, Scarcely, Little, Nowhere",
+      "限制：Not only…but also, Not until…, No sooner…than, Only after / Only when / Only if",
+      "其他：So + adj. + that…, Such + N + that…"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Rarely does the committee reject a proposal.",
+       "zh": "委員會很少否決提案。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Not until the audit was complete did we release the funds.",
+       "zh": "直到稽核完成我們才撥款。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Only after receiving approval can you proceed.",
+       "zh": "只有在取得核准後你才能繼續。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "So rapidly did demand grow that we expanded the plant.",
+       "zh": "需求成長之快，讓我們擴建了廠房。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "Only after / Only when 之後的子句不倒裝，倒裝的是主要子句。這是最容易做錯的地方。"
+    },
+    {
+     "type": "quiz",
+     "q": "Not only _____ the deadline, but the team also reduced costs.",
+     "options": [
+      "they met",
+      "did they meet",
+      "they did meet",
+      "met they"
+     ],
+     "answer": 1,
+     "explain": "Not only 置於句首，主要子句要倒裝成 did they meet。"
+    }
+   ]
+  },
+  {
+   "title": "強調、分裂句與省略",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "分裂句（cleft sentence）用來強調句中的某個成分。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "句型",
+      "強調對象",
+      "例子"
+     ],
+     "rows": [
+      [
+       "It is/was + 被強調部分 + that/who…",
+       "主詞、受詞、副詞",
+       "It was the supplier who caused the delay."
+      ],
+      [
+       "What + 子句 + is/was…",
+       "整個概念",
+       "What we need is a clearer timeline."
+      ],
+      [
+       "do/does/did + 原形動詞",
+       "動詞",
+       "We did send the confirmation."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "為避免重複，英文常省略重複的成分，或用 do / so / not 替代。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The proposal was approved, and the budget was too.",
+       "zh": "提案通過了，預算也是。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Will the shipment arrive today? I hope so.",
+       "zh": "貨今天會到嗎？希望如此。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "Some team members attended; others did not.",
+       "zh": "有些成員出席了，其他人沒有。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "_____ impressed the client most was the team's responsiveness.",
+     "options": [
+      "That",
+      "It",
+      "What",
+      "Which"
+     ],
+     "answer": 2,
+     "explain": "What 引導名詞子句當主詞，等於 The thing that…。"
+    }
+   ]
+  }
+ ]
+}

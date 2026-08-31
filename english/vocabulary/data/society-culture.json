@@ -1,0 +1,658 @@
+{
+"id": "society-culture",
+"name": "社會與文化",
+"nameEn": "Society & Culture",
+"words": [
+{
+"w": "accolade",
+"p": "n.",
+"zh": "榮譽",
+"ex": "The film received several accolades.",
+"exZh": "該片獲得多項榮譽。"
+},
+{
+"w": "activism",
+"p": "n.",
+"zh": "行動主義",
+"ex": "Student activism shaped the reform.",
+"exZh": "學生行動主義形塑了這場改革。"
+},
+{
+"w": "advocacy",
+"p": "n.",
+"zh": "倡議",
+"ex": "Advocacy groups pressed for change.",
+"exZh": "倡議團體推動改革。"
+},
+{
+"w": "aesthetic",
+"p": "adj./n.",
+"zh": "美學的",
+"ex": "The building follows a minimalist aesthetic.",
+"exZh": "該建築遵循極簡美學。"
+},
+{
+"w": "affluent",
+"p": "adj.",
+"zh": "富裕的",
+"ex": "The district is relatively affluent.",
+"exZh": "該區相對富裕。"
+},
+{
+"w": "ancestor",
+"p": "n.",
+"zh": "祖先",
+"ex": "The ceremony honors ancestors.",
+"exZh": "該儀式紀念祖先。"
+},
+{
+"w": "anniversary",
+"p": "n.",
+"zh": "週年",
+"ex": "The city marked its 400th anniversary.",
+"exZh": "該市慶祝四百週年。"
+},
+{
+"w": "anthropology",
+"p": "n.",
+"zh": "人類學",
+"ex": "She studied anthropology at university.",
+"exZh": "她在大學主修人類學。"
+},
+{
+"w": "archaeology",
+"p": "n.",
+"zh": "考古學",
+"ex": "Archaeology revealed an earlier settlement.",
+"exZh": "考古學揭示了更早的聚落。"
+},
+{
+"w": "artifact",
+"p": "n.",
+"zh": "文物",
+"ex": "The artifact dates from the Bronze Age.",
+"exZh": "該文物可追溯至青銅時代。"
+},
+{
+"w": "assimilate",
+"p": "v.",
+"zh": "同化",
+"ex": "New arrivals gradually assimilate.",
+"exZh": "新移入者逐漸同化。"
+},
+{
+"w": "authenticity",
+"p": "n.",
+"zh": "真實性",
+"ex": "Visitors value authenticity.",
+"exZh": "訪客重視真實性。"
+},
+{
+"w": "beliefs",
+"p": "n.",
+"zh": "信念",
+"ex": "Shared beliefs bind the community.",
+"exZh": "共同信念凝聚了社群。"
+},
+{
+"w": "bilingual",
+"p": "adj.",
+"zh": "雙語的",
+"ex": "Signage is bilingual throughout.",
+"exZh": "全區標示皆為雙語。"
+},
+{
+"w": "calligraphy",
+"p": "n.",
+"zh": "書法",
+"ex": "Calligraphy classes are held weekly.",
+"exZh": "書法課每週開課。"
+},
+{
+"w": "catalogue",
+"p": "n.",
+"zh": "目錄",
+"ex": "The museum catalogue lists 900 items.",
+"exZh": "博物館目錄收錄九百件藏品。"
+},
+{
+"w": "census",
+"p": "n.",
+"zh": "人口普查",
+"ex": "The census is conducted every decade.",
+"exZh": "人口普查每十年舉行一次。"
+},
+{
+"w": "ceremony",
+"p": "n.",
+"zh": "儀式",
+"ex": "The opening ceremony lasted an hour.",
+"exZh": "開幕儀式進行了一小時。"
+},
+{
+"w": "ceremony hall",
+"p": "n.",
+"zh": "禮堂",
+"ex": "The ceremony hall seats 500.",
+"exZh": "禮堂可容納五百人。"
+},
+{
+"w": "charity",
+"p": "n.",
+"zh": "慈善機構",
+"ex": "The charity supports rural schools.",
+"exZh": "該慈善機構支援偏鄉學校。"
+},
+{
+"w": "choir",
+"p": "n.",
+"zh": "合唱團",
+"ex": "The choir performs twice a year.",
+"exZh": "合唱團每年演出兩次。"
+},
+{
+"w": "citizenship",
+"p": "n.",
+"zh": "公民身分",
+"ex": "Citizenship requires five years of residence.",
+"exZh": "取得公民身分需居住五年。"
+},
+{
+"w": "civic",
+"p": "adj.",
+"zh": "公民的",
+"ex": "Civic participation increased sharply.",
+"exZh": "公民參與大幅增加。"
+},
+{
+"w": "collective",
+"p": "adj.",
+"zh": "集體的",
+"ex": "Collective memory shapes the narrative.",
+"exZh": "集體記憶形塑了敘事。"
+},
+{
+"w": "colonial",
+"p": "adj.",
+"zh": "殖民的",
+"ex": "Colonial buildings line the waterfront.",
+"exZh": "殖民時期建築沿著水岸排列。"
+},
+{
+"w": "commemorate",
+"p": "v.",
+"zh": "紀念",
+"ex": "The plaque commemorates the founders.",
+"exZh": "該牌匾紀念創建者。"
+},
+{
+"w": "community",
+"p": "n.",
+"zh": "社群",
+"ex": "The community organized a cleanup.",
+"exZh": "社群組織了一次清掃。"
+},
+{
+"w": "contemporary art",
+"p": "n.",
+"zh": "當代藝術",
+"ex": "The gallery focuses on contemporary art.",
+"exZh": "該藝廊專注於當代藝術。"
+},
+{
+"w": "convention",
+"p": "n.",
+"zh": "慣例",
+"ex": "Local convention favors indirect speech.",
+"exZh": "當地慣例偏好間接說話方式。"
+},
+{
+"w": "craft",
+"p": "n.",
+"zh": "手工藝",
+"ex": "Traditional crafts are taught locally.",
+"exZh": "傳統手工藝在當地傳授。"
+},
+{
+"w": "cultural",
+"p": "adj.",
+"zh": "文化的",
+"ex": "Cultural differences affect negotiation.",
+"exZh": "文化差異影響談判。"
+},
+{
+"w": "curator",
+"p": "n.",
+"zh": "策展人",
+"ex": "The curator selected forty works.",
+"exZh": "策展人挑選了四十件作品。"
+},
+{
+"w": "custom",
+"p": "n.",
+"zh": "習俗",
+"ex": "The custom dates back centuries.",
+"exZh": "該習俗可追溯數百年。"
+},
+{
+"w": "dialect",
+"p": "n.",
+"zh": "方言",
+"ex": "Three dialects are spoken here.",
+"exZh": "這裡通行三種方言。"
+},
+{
+"w": "donation",
+"p": "n.",
+"zh": "捐款",
+"ex": "Donations funded the restoration.",
+"exZh": "捐款資助了修復工作。"
+},
+{
+"w": "dwelling",
+"p": "n.",
+"zh": "住居",
+"ex": "Traditional dwellings use local timber.",
+"exZh": "傳統住居使用在地木材。"
+},
+{
+"w": "emigrate",
+"p": "v.",
+"zh": "移居國外",
+"ex": "Many emigrated during the recession.",
+"exZh": "許多人在經濟衰退時移居國外。"
+},
+{
+"w": "empathy",
+"p": "n.",
+"zh": "同理心",
+"ex": "Empathy improves cross-cultural work.",
+"exZh": "同理心能改善跨文化合作。"
+},
+{
+"w": "ethics",
+"p": "n.",
+"zh": "倫理",
+"ex": "Professional ethics are taught early.",
+"exZh": "專業倫理很早就開始教授。"
+},
+{
+"w": "ethnic",
+"p": "adj.",
+"zh": "族群的",
+"ex": "The festival celebrates ethnic traditions.",
+"exZh": "該節慶慶祝族群傳統。"
+},
+{
+"w": "etiquette",
+"p": "n.",
+"zh": "禮儀",
+"ex": "Business etiquette varies by country.",
+"exZh": "商務禮儀因國家而異。"
+},
+{
+"w": "excavation",
+"p": "n.",
+"zh": "發掘",
+"ex": "The excavation lasted three summers.",
+"exZh": "發掘工作進行了三個夏天。"
+},
+{
+"w": "folk",
+"p": "adj.",
+"zh": "民俗的",
+"ex": "Folk music opened the festival.",
+"exZh": "民俗音樂為節慶揭開序幕。"
+},
+{
+"w": "folklore",
+"p": "n.",
+"zh": "民間傳說",
+"ex": "Local folklore inspired the novel.",
+"exZh": "當地民間傳說啟發了這本小說。"
+},
+{
+"w": "gallery",
+"p": "n.",
+"zh": "藝廊",
+"ex": "The gallery admits students free.",
+"exZh": "藝廊對學生免費開放。"
+},
+{
+"w": "gathering",
+"p": "n.",
+"zh": "聚會",
+"ex": "The annual gathering draws hundreds.",
+"exZh": "年度聚會吸引數百人。"
+},
+{
+"w": "generational",
+"p": "adj.",
+"zh": "世代的",
+"ex": "Generational attitudes differ sharply.",
+"exZh": "世代態度差異明顯。"
+},
+{
+"w": "heritage",
+"p": "n.",
+"zh": "文化遺產",
+"ex": "The site has world heritage status.",
+"exZh": "該地點具世界遺產地位。"
+},
+{
+"w": "household income",
+"p": "n.",
+"zh": "家庭所得",
+"ex": "Median household income rose slightly.",
+"exZh": "家庭所得中位數略有上升。"
+},
+{
+"w": "humanities",
+"p": "n.",
+"zh": "人文學科",
+"ex": "Humanities enrollment stabilized.",
+"exZh": "人文學科註冊人數趨於穩定。"
+},
+{
+"w": "identity",
+"p": "n.",
+"zh": "認同",
+"ex": "Language shapes cultural identity.",
+"exZh": "語言形塑文化認同。"
+},
+{
+"w": "inclusion",
+"p": "n.",
+"zh": "共融",
+"ex": "Inclusion is a stated goal.",
+"exZh": "共融是明訂的目標。"
+},
+{
+"w": "indigenous",
+"p": "adj.",
+"zh": "原住民的",
+"ex": "Indigenous languages are being revived.",
+"exZh": "原住民語言正在復振。"
+},
+{
+"w": "inequality",
+"p": "n.",
+"zh": "不平等",
+"ex": "Income inequality widened.",
+"exZh": "所得不平等擴大。"
+},
+{
+"w": "inheritance",
+"p": "n.",
+"zh": "傳承；遺產",
+"ex": "Cultural inheritance passes through language.",
+"exZh": "文化傳承透過語言延續。"
+},
+{
+"w": "institution",
+"p": "n.",
+"zh": "機構",
+"ex": "Public institutions rebuilt trust slowly.",
+"exZh": "公共機構緩慢重建信任。"
+},
+{
+"w": "lifestyle",
+"p": "n.",
+"zh": "生活方式",
+"ex": "Urban lifestyles changed after the pandemic.",
+"exZh": "疫情後都市生活方式改變了。"
+},
+{
+"w": "literature",
+"p": "n.",
+"zh": "文學",
+"ex": "The course surveys modern literature.",
+"exZh": "該課程概覽現代文學。"
+},
+{
+"w": "minority",
+"p": "n.",
+"zh": "少數族群",
+"ex": "Minority rights are constitutionally protected.",
+"exZh": "少數族群權利受憲法保障。"
+},
+{
+"w": "mobility",
+"p": "n.",
+"zh": "流動性",
+"ex": "Social mobility varies by region.",
+"exZh": "社會流動性因地區而異。"
+},
+{
+"w": "monument",
+"p": "n.",
+"zh": "紀念碑",
+"ex": "The monument was restored last year.",
+"exZh": "該紀念碑於去年修復。"
+},
+{
+"w": "multicultural",
+"p": "adj.",
+"zh": "多元文化的",
+"ex": "The school is proudly multicultural.",
+"exZh": "該校以多元文化為傲。"
+},
+{
+"w": "municipal",
+"p": "adj.",
+"zh": "市政的",
+"ex": "Municipal services were expanded.",
+"exZh": "市政服務已擴大。"
+},
+{
+"w": "museum",
+"p": "n.",
+"zh": "博物館",
+"ex": "The museum reopened after renovation.",
+"exZh": "博物館整修後重新開放。"
+},
+{
+"w": "mythology",
+"p": "n.",
+"zh": "神話",
+"ex": "Local mythology features a river spirit.",
+"exZh": "當地神話有一位河神。"
+},
+{
+"w": "norm",
+"p": "n.",
+"zh": "常規",
+"ex": "Social norms shift slowly.",
+"exZh": "社會常規變化緩慢。"
+},
+{
+"w": "outreach program",
+"p": "n.",
+"zh": "外展方案",
+"ex": "An outreach program serves remote villages.",
+"exZh": "一項外展方案服務偏遠村落。"
+},
+{
+"w": "philanthropy",
+"p": "n.",
+"zh": "慈善事業",
+"ex": "Corporate philanthropy funded the library.",
+"exZh": "企業慈善資助了這座圖書館。"
+},
+{
+"w": "philosophy",
+"p": "n.",
+"zh": "哲學",
+"ex": "The philosophy department is small.",
+"exZh": "哲學系規模很小。"
+},
+{
+"w": "pilgrimage",
+"p": "n.",
+"zh": "朝聖",
+"ex": "The pilgrimage attracts thousands yearly.",
+"exZh": "朝聖每年吸引數千人。"
+},
+{
+"w": "pluralism",
+"p": "n.",
+"zh": "多元主義",
+"ex": "Pluralism is embedded in the constitution.",
+"exZh": "多元主義寫入了憲法。"
+},
+{
+"w": "population",
+"p": "n.",
+"zh": "人口",
+"ex": "The population grew by 3 percent.",
+"exZh": "人口成長了 3%。"
+},
+{
+"w": "poverty",
+"p": "n.",
+"zh": "貧窮",
+"ex": "Poverty rates fell in urban areas.",
+"exZh": "都市地區貧窮率下降。"
+},
+{
+"w": "prejudice",
+"p": "n.",
+"zh": "偏見",
+"ex": "Training aims to reduce prejudice.",
+"exZh": "訓練旨在減少偏見。"
+},
+{
+"w": "prosperity",
+"p": "n.",
+"zh": "繁榮",
+"ex": "Trade brought lasting prosperity.",
+"exZh": "貿易帶來持久的繁榮。"
+},
+{
+"w": "reform",
+"p": "n.",
+"zh": "改革",
+"ex": "Education reform took a decade.",
+"exZh": "教育改革歷時十年。"
+},
+{
+"w": "relic",
+"p": "n.",
+"zh": "遺物",
+"ex": "Relics were moved for safekeeping.",
+"exZh": "遺物被移往安全保存。"
+},
+{
+"w": "ritual",
+"p": "n.",
+"zh": "儀式活動",
+"ex": "The ritual marks the harvest season.",
+"exZh": "該儀式標誌收穫季節。"
+},
+{
+"w": "rural",
+"p": "adj.",
+"zh": "鄉村的",
+"ex": "Rural communities face different challenges.",
+"exZh": "鄉村社區面臨不同的挑戰。"
+},
+{
+"w": "sanctuary",
+"p": "n.",
+"zh": "庇護所",
+"ex": "The building served as a sanctuary.",
+"exZh": "該建築曾作為庇護所。"
+},
+{
+"w": "sculpture",
+"p": "n.",
+"zh": "雕塑",
+"ex": "The sculpture stands in the plaza.",
+"exZh": "該雕塑矗立在廣場上。"
+},
+{
+"w": "sociology",
+"p": "n.",
+"zh": "社會學",
+"ex": "Sociology explains group behavior.",
+"exZh": "社會學解釋群體行為。"
+},
+{
+"w": "solidarity",
+"p": "n.",
+"zh": "團結",
+"ex": "Workers expressed solidarity with the strike.",
+"exZh": "工人對罷工表達團結支持。"
+},
+{
+"w": "statue",
+"p": "n.",
+"zh": "雕像",
+"ex": "A statue was erected in the square.",
+"exZh": "廣場上豎立了一座雕像。"
+},
+{
+"w": "symbolic",
+"p": "adj.",
+"zh": "象徵性的",
+"ex": "The gesture was largely symbolic.",
+"exZh": "這個舉動大致是象徵性的。"
+},
+{
+"w": "temple",
+"p": "n.",
+"zh": "寺廟",
+"ex": "The temple opens at dawn.",
+"exZh": "寺廟黎明時開放。"
+},
+{
+"w": "tourism revenue",
+"p": "n.",
+"zh": "觀光收入",
+"ex": "Tourism revenue funds preservation.",
+"exZh": "觀光收入資助保存工作。"
+},
+{
+"w": "tradition",
+"p": "n.",
+"zh": "傳統",
+"ex": "The tradition survives in rural areas.",
+"exZh": "該傳統在鄉村地區留存。"
+},
+{
+"w": "translation",
+"p": "n.",
+"zh": "翻譯",
+"ex": "The translation preserves the rhythm.",
+"exZh": "該譯本保留了節奏感。"
+},
+{
+"w": "urban",
+"p": "adj.",
+"zh": "都市的",
+"ex": "Urban density continues to rise.",
+"exZh": "都市密度持續上升。"
+},
+{
+"w": "urbanization",
+"p": "n.",
+"zh": "都市化",
+"ex": "Urbanization accelerated after 1990.",
+"exZh": "1990 年後都市化加速。"
+},
+{
+"w": "values",
+"p": "n.",
+"zh": "價值觀",
+"ex": "Shared values ease cooperation.",
+"exZh": "共同價值觀有助合作。"
+},
+{
+"w": "volunteer",
+"p": "n./v.",
+"zh": "志工",
+"ex": "Volunteers staffed the information desk.",
+"exZh": "志工負責服務台。"
+}
+]
+}

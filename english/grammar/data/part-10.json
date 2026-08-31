@@ -1,0 +1,245 @@
+{
+ "id": "part-10",
+ "no": 10,
+ "title": "長句閱讀與實際應用",
+ "subtitle": "Parsing Long Sentences",
+ "summary": "多益 Part 7 的難句不是單字難，是結構長。這一章教你在十秒內把三行的句子拆成主幹加修飾。",
+ "sections": [
+  {
+   "title": "第一步：切出主幹",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "讀長句的順序是：先找限定動詞 → 往前找主詞 → 判斷句型 → 其餘全部是修飾語。"
+    },
+    {
+     "type": "text",
+     "value": "先把這些「非主幹」的部分視覺上括起來：介系詞片語、關係子句、分詞片語、插入語（逗號夾住的部分）。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The proposal (submitted by the vendor last week), (which outlines a three-year maintenance plan), was approved (by the board) (without revision).",
+       "zh": "廠商上週提交、概述三年維護計畫的提案，未經修改即獲董事會批准。",
+       "note": "去掉括號後主幹只有：The proposal was approved.",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "看到逗號夾住的區塊，先當作補充說明跳過。讀完主幹再回頭補細節，理解速度會快一倍。"
+    }
+   ]
+  },
+  {
+   "title": "辨識修飾語的四種形狀",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "修飾語型式",
+      "辨認特徵",
+      "例子"
+     ],
+     "rows": [
+      [
+       "介系詞片語",
+       "介系詞開頭",
+       "in the third quarter"
+      ],
+      [
+       "關係子句",
+       "who/which/that/whose 開頭",
+       "which was released in June"
+      ],
+      [
+       "分詞片語",
+       "V-ing 或 p.p. 開頭",
+       "requiring immediate attention"
+      ],
+      [
+       "同位語",
+       "名詞後接逗號＋名詞",
+       "Ms. Lin, our regional director,"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Employees requesting reimbursement must attach original receipts.",
+       "zh": "申請報帳的員工必須附上原始收據。",
+       "note": "requesting… 修飾 Employees，主幹是 Employees must attach receipts",
+       "bad": null
+      },
+      {
+       "en": "The device, designed for outdoor use, withstands extreme temperatures.",
+       "zh": "這款為戶外使用設計的裝置能承受極端溫度。",
+       "note": "designed… 是被動分詞修飾",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "In the identified sentence, what is the main verb? 「The report released by the agency last month indicates a slowdown.」",
+     "options": [
+      "released",
+      "indicates",
+      "slowdown",
+      "by"
+     ],
+     "answer": 1,
+     "explain": "released by… 是分詞片語修飾 report，主要動詞是 indicates。"
+    }
+   ]
+  },
+  {
+   "title": "代名詞與指稱還原",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "Part 7 常問「this / it / they 指的是什麼」。原則是往前找最近、且語意與數目相符的名詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The vendor raised its rates, which forced us to renegotiate. This delayed the launch by a month.",
+       "zh": "廠商調高費率，迫使我們重談。這件事讓上市延後一個月。",
+       "note": "This 指的是「重談」這整件事，不是單一名詞",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "指示詞 this / that 常指前面「整件事」，而 it / they 通常指具體名詞。看到題目問指稱，先確認是指名詞還是指整句。"
+    }
+   ]
+  },
+  {
+   "title": "訊號詞：從邏輯關係預測答案",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "邏輯",
+      "訊號詞",
+      "閱讀時的預期"
+     ],
+     "rows": [
+      [
+       "轉折",
+       "however, nevertheless, on the contrary, whereas",
+       "後面與前面相反"
+      ],
+      [
+       "因果",
+       "therefore, consequently, as a result, thus",
+       "後面是結果"
+      ],
+      [
+       "補充",
+       "moreover, furthermore, in addition, also",
+       "後面是同方向的加強"
+      ],
+      [
+       "對比",
+       "in contrast, on the other hand, unlike",
+       "兩者並列比較"
+      ],
+      [
+       "舉例",
+       "for instance, such as, namely",
+       "後面是例證"
+      ],
+      [
+       "結論",
+       "in short, overall, to sum up",
+       "整段重點"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "Part 6 的插入句題幾乎都靠訊號詞判斷：看前後兩句的邏輯方向，就能刪掉一半選項。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Sales fell in the first half. However, the launch of the new line reversed the trend.",
+       "zh": "上半年銷售下滑。然而新產品線的推出扭轉了趨勢。",
+       "note": "However 預告方向相反",
+       "bad": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "商務文件的常見結構",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "文件類型",
+      "典型結構",
+      "常考重點"
+     ],
+     "rows": [
+      [
+       "電子郵件",
+       "問候 → 目的 → 細節 → 行動要求 → 結尾",
+       "寄件目的、要求對方做什麼"
+      ],
+      [
+       "通知 / 公告",
+       "主旨 → 生效日 → 影響對象 → 配套措施",
+       "生效時間、適用範圍"
+      ],
+      [
+       "廣告",
+       "訴求 → 特色 → 優惠條件 → 行動呼籲",
+       "折扣條件、期限、例外"
+      ],
+      [
+       "報導",
+       "導言 → 背景 → 引述 → 展望",
+       "引述者身分、數據"
+      ],
+      [
+       "表單 / 行程",
+       "欄位式資訊",
+       "時間地點對應、變更說明"
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "多益雙篇與三篇閱讀的關鍵，通常是「把兩份文件的資訊交叉比對」：例如公告裡的折扣條件配上收據上的金額。"
+    },
+    {
+     "type": "tip",
+     "value": "先看題目再回頭掃文件，比從頭讀完再作答快得多。尤其是問細節（時間、金額、地點）的題目。"
+    },
+    {
+     "type": "quiz",
+     "q": "In an email, the phrase「Please be advised that…」most likely introduces:",
+     "options": [
+      "一個道歉",
+      "一項正式通知",
+      "一個問句",
+      "一段閒聊"
+     ],
+     "answer": 1,
+     "explain": "Please be advised that… 是商務書信中引出正式通知或提醒的固定說法。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "id": "part-05",
+ "no": 5,
+ "title": "助動詞與語氣",
+ "subtitle": "Modals & Mood",
+ "summary": "助動詞負責表達說話者的態度：可能、必要、建議、假設。多益考的是語意精準度，不是背公式。",
+ "sections": [
+  {
+   "title": "能力與可能：can / could / may / might",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "助動詞",
+      "語意",
+      "例子"
+     ],
+     "rows": [
+      [
+       "can",
+       "能力、允許、一般可能性",
+       "The system can handle 10,000 users."
+      ],
+      [
+       "could",
+       "過去能力、較客氣的請求、較低可能性",
+       "Could you forward the file?"
+      ],
+      [
+       "may",
+       "正式的允許、可能性",
+       "Applicants may submit documents online."
+      ],
+      [
+       "might",
+       "可能性較低",
+       "The delivery might be delayed."
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "助動詞後面一律接原形動詞，且助動詞本身不隨主詞變化（沒有 cans、mays）。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Employees may request additional leave in writing.",
+       "zh": "員工可以書面申請額外假期。",
+       "note": null,
+       "bad": null
+      },
+      {
+       "en": "The vendor can delivers by Friday.",
+       "zh": "",
+       "note": "助動詞後要用原形 deliver",
+       "bad": true
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Visitors _____ enter the laboratory without proper authorization.",
+     "options": [
+      "may not",
+      "may not to",
+      "not may",
+      "may to not"
+     ],
+     "answer": 0,
+     "explain": "助動詞否定式是 may not + 原形動詞。"
+    }
+   ]
+  },
+  {
+   "title": "義務與建議：must / have to / should / ought to",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "用法",
+      "語氣強度",
+      "例子"
+     ],
+     "rows": [
+      [
+       "must",
+       "說話者認定的強制、規定",
+       "All visitors must sign in."
+      ],
+      [
+       "have to",
+       "外在情勢造成的必須",
+       "I have to leave by five."
+      ],
+      [
+       "should / ought to",
+       "建議、應該",
+       "You should confirm the booking."
+      ],
+      [
+       "had better",
+       "強烈建議，帶警告意味",
+       "We had better back up the data."
+      ]
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "must not = 禁止（絕對不可以）；don't have to = 不需要（沒有義務）。這兩個意思完全相反，是多益必考點。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Employees must not share their passwords.",
+       "zh": "員工不得分享密碼。",
+       "note": "禁止",
+       "bad": null
+      },
+      {
+       "en": "You don't have to attend if you're on leave.",
+       "zh": "如果你休假就不必出席。",
+       "note": "沒有義務",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Since the deadline was extended, we _____ work over the weekend.",
+     "options": [
+      "must not",
+      "don't have to",
+      "should not have",
+      "cannot"
+     ],
+     "answer": 1,
+     "explain": "期限延後代表「不必」加班，用 don't have to。must not 是「禁止」，語意不合。"
+    }
+   ]
+  },
+  {
+   "title": "推測語氣與完成式助動詞",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "助動詞 + have + p.p. 用來推測或評論過去的事。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "結構",
+      "語意",
+      "例子"
+     ],
+     "rows": [
+      [
+       "must have + p.p.",
+       "一定曾經（肯定推測）",
+       "She must have left early."
+      ],
+      [
+       "can't / couldn't have + p.p.",
+       "不可能曾經",
+       "He can't have known about it."
+      ],
+      [
+       "may / might have + p.p.",
+       "也許曾經",
+       "The file might have been deleted."
+      ],
+      [
+       "should have + p.p.",
+       "早該做卻沒做（責備、遺憾）",
+       "We should have confirmed the order."
+      ],
+      [
+       "need not have + p.p.",
+       "本來不必做卻做了",
+       "You needn't have waited."
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The shipment should have arrived by now.",
+       "zh": "貨物照理現在應該已經到了。",
+       "note": "暗示還沒到",
+       "bad": null
+      },
+      {
+       "en": "There must have been a system error.",
+       "zh": "一定是系統出了錯。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The report is missing several pages; the printer _____ malfunctioned.",
+     "options": [
+      "should have",
+      "must have",
+      "need not have",
+      "would rather"
+     ],
+     "answer": 1,
+     "explain": "根據證據做肯定推測，用 must have + p.p.。"
+    }
+   ]
+  },
+  {
+   "title": "假設語氣",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "類型",
+      "if 子句",
+      "主要子句",
+      "用途"
+     ],
+     "rows": [
+      [
+       "零條件",
+       "現在式",
+       "現在式",
+       "普遍事實：If you heat water, it boils."
+      ],
+      [
+       "第一類（真實未來）",
+       "現在式",
+       "will + 原形",
+       "If we approve it today, we will ship tomorrow."
+      ],
+      [
+       "第二類（與現在事實相反）",
+       "過去式 / were",
+       "would + 原形",
+       "If I were you, I would renegotiate."
+      ],
+      [
+       "第三類（與過去事實相反）",
+       "had + p.p.",
+       "would have + p.p.",
+       "If we had ordered earlier, we would have saved money."
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "假設語氣的 be 動詞一律用 were，不分人稱：If I were、If he were。"
+    },
+    {
+     "type": "text",
+     "value": "正式文體常把 if 省略並倒裝。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "Were I in charge, I would restructure the team.",
+       "zh": "如果我負責，我會重組團隊。",
+       "note": "= If I were in charge",
+       "bad": null
+      },
+      {
+       "en": "Had we known about the defect, we would not have shipped the units.",
+       "zh": "早知道有瑕疵，我們就不會出貨。",
+       "note": "= If we had known",
+       "bad": null
+      },
+      {
+       "en": "Should you have any questions, please contact us.",
+       "zh": "如有任何問題，請與我們聯繫。",
+       "note": "= If you should have，商務書信高頻句型",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "_____ the client requested an extension, we would have granted it.",
+     "options": [
+      "If",
+      "Had",
+      "Should",
+      "Were"
+     ],
+     "answer": 1,
+     "explain": "主句是 would have granted（第三類假設），if 子句應為 had requested；省略 if 倒裝後為 Had the client requested。"
+    }
+   ]
+  },
+  {
+   "title": "建議、要求動詞後的原形子句",
+   "blocks": [
+    {
+     "type": "rule",
+     "value": "表示建議、要求、命令、堅持的動詞，其後 that 子句一律用原形動詞（should 可省略），不隨主詞或時態變化。"
+    },
+    {
+     "type": "list",
+     "items": [
+      "suggest, recommend, propose, request, require, demand, insist, ask, urge, advise",
+      "形容詞句型：It is essential / necessary / important / imperative that…"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The auditor recommended that the policy be revised.",
+       "zh": "稽核員建議修訂該政策。",
+       "note": "不是 is revised",
+       "bad": null
+      },
+      {
+       "en": "It is essential that every employee attend the briefing.",
+       "zh": "每位員工都務必出席簡報。",
+       "note": "不是 attends",
+       "bad": null
+      },
+      {
+       "en": "The client insisted that the deadline be moved.",
+       "zh": "客戶堅持要移動期限。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "insist 表「堅持某事實」時不用原形：He insisted that he was innocent. 只有表「堅持要求」才用原形。"
+    },
+    {
+     "type": "quiz",
+     "q": "The board requested that the CFO _____ a detailed forecast at the next meeting.",
+     "options": [
+      "presents",
+      "presented",
+      "present",
+      "will present"
+     ],
+     "answer": 2,
+     "explain": "request 之後的 that 子句用原形動詞 present。"
+    }
+   ]
+  }
+ ]
+}

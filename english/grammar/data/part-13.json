@@ -1,0 +1,219 @@
+{
+ "id": "part-13",
+ "no": 13,
+ "title": "Part 5 與 Part 6 解題策略",
+ "subtitle": "Reading Tactics: Incomplete Sentences & Text Completion",
+ "summary": "Part 5 每題應該在 20 秒內解決。方法是先看選項判斷題型，再決定要不要讀完整句。",
+ "sections": [
+  {
+   "title": "先看選項，決定題型",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "選項長相",
+      "題型",
+      "作法"
+     ],
+     "rows": [
+      [
+       "同字根不同詞性（rely / reliable / reliably / reliance）",
+       "詞性題",
+       "只看空格前後，不必讀全句"
+      ],
+      [
+       "同動詞不同時態（signs / signed / has signed / will sign）",
+       "時態或語態題",
+       "找時間標記詞與主詞"
+      ],
+      [
+       "四個不同的字（although / despite / therefore / whereas）",
+       "連接詞題",
+       "看空格後是子句還是名詞"
+      ],
+      [
+       "四個不同意思的實詞",
+       "字彙題",
+       "必須讀完整句抓語意"
+      ],
+      [
+       "代名詞或介系詞",
+       "搭配題",
+       "找固定搭配"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "詞性題與連接詞題不必讀完整句，這是把時間留給 Part 7 的關鍵。"
+    },
+    {
+     "type": "tip",
+     "value": "Part 5 共 30 題，建議控制在 10 分鐘內。若一題超過 30 秒仍無把握，先猜再標記，不要卡住。"
+    }
+   ]
+  },
+  {
+   "title": "詞性題的三步驟",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "第一步：確認空格前後有什麼（冠詞？介系詞？名詞？be 動詞？）",
+      "第二步：判斷空格在句中的角色（主詞？受詞？修飾語？）",
+      "第三步：從字尾選出對應詞性"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The manager praised the team for its _____ handling of the crisis.",
+       "zh": "",
+       "note": "所有格 its 之後、名詞 handling 之前 → 形容詞 skillful",
+       "bad": null
+      },
+      {
+       "en": "The proposal was rejected for lack of _____.",
+       "zh": "",
+       "note": "介系詞 of 之後 → 名詞 clarity",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "Employees are encouraged to work _____ with colleagues from other departments.",
+     "options": [
+      "collaborate",
+      "collaborative",
+      "collaboratively",
+      "collaboration"
+     ],
+     "answer": 2,
+     "explain": "空格修飾動詞 work，用副詞 collaboratively。"
+    }
+   ]
+  },
+  {
+   "title": "動詞題：時態、語態、主詞一致",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "步驟一：找出真正的主詞（跳過介系詞片語）",
+      "步驟二：判斷主動或被動（主詞是動作發出者還是承受者）",
+      "步驟三：找時間標記詞決定時態"
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The documents, along with the signed contract, _____ to the client yesterday.",
+       "zh": "",
+       "note": "主詞是 documents（複數），文件是被寄的（被動），yesterday 是過去 → were sent",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "空格前若已經有限定動詞，空格就不可能再是限定動詞，答案通常是分詞或不定詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "The equipment _____ regularly to prevent breakdowns.",
+     "options": [
+      "inspects",
+      "is inspected",
+      "inspecting",
+      "has inspected"
+     ],
+     "answer": 1,
+     "explain": "equipment 是被檢查的對象，用被動；regularly 表習慣，用現在式 → is inspected。"
+    }
+   ]
+  },
+  {
+   "title": "Part 6 的四種題型",
+   "blocks": [
+    {
+     "type": "table",
+     "headers": [
+      "題型",
+      "解法"
+     ],
+     "rows": [
+      [
+       "文法題（同 Part 5）",
+       "只看該句"
+      ],
+      [
+       "字彙題",
+       "看前後句的語意連貫"
+      ],
+      [
+       "時態題",
+       "看整篇文章的時間軸，不能只看該句"
+      ],
+      [
+       "插入句題",
+       "看前後句的邏輯與代名詞銜接"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "Part 6 的時態題與插入句題，必須讀上下文。這是它和 Part 5 最大的差別。"
+    },
+    {
+     "type": "text",
+     "value": "插入句題的三個檢查點：代名詞是否有對應對象、訊號詞方向是否一致、主題是否延續。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "…We have received your application. _____ You will be contacted within five business days.",
+       "zh": "",
+       "note": "空格句應銜接「已收到申請」與「五個工作天內聯繫」，合理的是「目前正在審核中」",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "插入句題若有選項出現 However、Therefore、In addition，先判斷前後句的邏輯方向，通常能立刻刪掉兩個選項。"
+    }
+   ]
+  },
+  {
+   "title": "刪去法與常見誤導選項",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "形式正確但語意不通：詞性對了但意思不合，仍是錯的",
+      "中文直譯陷阱：discuss about、mention about、return back 都是多餘",
+      "看似固定搭配實則不同：interested in vs interesting to",
+      "時態看似合理但與時間詞矛盾：since 一定配完成式",
+      "被動語態濫用：不及物動詞沒有被動"
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The workshop was postponed _____ the instructor's illness.",
+     "options": [
+      "because",
+      "due to",
+      "although",
+      "so that"
+     ],
+     "answer": 1,
+     "explain": "空格後是名詞片語 the instructor's illness，要用介系詞片語 due to。because 必須接子句。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "id": "part-01",
+ "no": 1,
+ "title": "英文句子的基本結構",
+ "subtitle": "Sentence Structure",
+ "summary": "每一道多益文法題，本質上都在問「這個空格在句子裡扮演什麼角色」。先能一眼切出主詞與動詞，後面九章才有立足點。",
+ "sections": [
+  {
+   "title": "句子的最小單位：主詞與動詞",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "一個完整的英文句子，最少要有一個主詞（誰）和一個限定動詞（做什麼）。多益 Part 5 有大量題目，只要判斷「這個位置需要動詞還是名詞」就能作答。"
+    },
+    {
+     "type": "rule",
+     "value": "句子 = 主詞 + 限定動詞（+ 其他成分）。缺任何一個，就不是句子。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The manager approved the budget.",
+       "zh": "經理批准了預算。",
+       "note": "manager 是主詞，approved 是限定動詞",
+       "bad": null
+      },
+      {
+       "en": "The manager approving the budget.",
+       "zh": "（不是完整句子）",
+       "note": "approving 不是限定動詞，句子沒有主要動詞",
+       "bad": true
+      },
+      {
+       "en": "Approve the budget by Friday.",
+       "zh": "請在週五前批准預算。",
+       "note": "祈使句主詞 you 被省略，仍是完整句",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "限定動詞會隨主詞與時態變化（approve / approves / approved）。to approve、approving、approved（分詞）都不是限定動詞，不能單獨當句子的主要動詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "_____ the quarterly report before the board meeting.",
+     "options": [
+      "Submitting",
+      "Submission",
+      "Submit",
+      "To submit"
+     ],
+     "answer": 2,
+     "explain": "空格是整句唯一的動詞位置，必須用限定動詞。祈使句用原形 Submit，主詞 you 被省略。"
+    }
+   ]
+  },
+  {
+   "title": "英文五大基本句型",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "所有英文句子都可以歸到這五種骨架。認出骨架，就知道空格該填什麼詞性。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "句型",
+      "結構",
+      "例句"
+     ],
+     "rows": [
+      [
+       "S + V",
+       "主詞 + 完全不及物動詞",
+       "The system crashed."
+      ],
+      [
+       "S + V + C",
+       "主詞 + 連綴動詞 + 主詞補語",
+       "The proposal seems reasonable."
+      ],
+      [
+       "S + V + O",
+       "主詞 + 及物動詞 + 受詞",
+       "We received your invoice."
+      ],
+      [
+       "S + V + O + O",
+       "主詞 + 授與動詞 + 間接受詞 + 直接受詞",
+       "She sent me the contract."
+      ],
+      [
+       "S + V + O + C",
+       "主詞 + 動詞 + 受詞 + 受詞補語",
+       "The board considers him qualified."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "關鍵在動詞：動詞決定後面要接什麼。及物動詞後面一定要有受詞，不及物動詞後面不能直接接名詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The negotiation lasted three hours.",
+       "zh": "談判持續了三小時。",
+       "note": "last 是不及物動詞，three hours 是時間副詞不是受詞",
+       "bad": null
+      },
+      {
+       "en": "We discussed about the terms.",
+       "zh": "",
+       "note": "discuss 是及物動詞，後面直接接受詞，不加 about",
+       "bad": true
+      },
+      {
+       "en": "We discussed the terms.",
+       "zh": "我們討論了條款。",
+       "note": null,
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "trap",
+     "value": "discuss、mention、explain、approach、enter、attend、answer 這些動詞在中文裡常翻成「對…」「向…」，但英文是及物動詞，後面不加介系詞。"
+    },
+    {
+     "type": "quiz",
+     "q": "All staff must attend _____ the safety briefing on Monday.",
+     "options": [
+      "to",
+      "at",
+      "（不填）",
+      "in"
+     ],
+     "answer": 2,
+     "explain": "attend 作「出席」時是及物動詞，直接接受詞，不需要介系詞。attend to 意思是「處理、照料」，語意不合。"
+    }
+   ]
+  },
+  {
+   "title": "八大詞性與它們在句中的位置",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "多益 Part 5 約三分之一是詞性題：四個選項是同一字根的不同詞性，考的是位置判斷。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "位置",
+      "需要的詞性",
+      "例子"
+     ],
+     "rows": [
+      [
+       "主詞、受詞",
+       "名詞",
+       "The decision was final."
+      ],
+      [
+       "名詞前面",
+       "形容詞",
+       "a final decision"
+      ],
+      [
+       "be 動詞 / 連綴動詞後",
+       "形容詞（主詞補語）",
+       "The decision is final."
+      ],
+      [
+       "修飾動詞、形容詞、全句",
+       "副詞",
+       "She decided quickly."
+      ],
+      [
+       "冠詞 / 所有格之後",
+       "名詞（可再插形容詞）",
+       "the final decision"
+      ],
+      [
+       "及物動詞、介系詞之後",
+       "名詞或動名詞",
+       "after reviewing the file"
+      ]
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "看空格「左右鄰居」就能決定詞性：冠詞或形容詞後面找名詞，名詞前面找形容詞，動詞旁邊找副詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The company made a _____ investment.",
+       "zh": "",
+       "note": "冠詞 a 之後、名詞 investment 之前 → 形容詞 profitable",
+       "bad": null
+      },
+      {
+       "en": "The investment performed _____.",
+       "zh": "",
+       "note": "動詞之後、句尾 → 副詞 profitably",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The renovation was completed _____ ahead of schedule.",
+     "options": [
+      "success",
+      "successful",
+      "successfully",
+      "succeed"
+     ],
+     "answer": 2,
+     "explain": "空格修飾動詞 was completed，要用副詞 successfully。"
+    }
+   ]
+  },
+  {
+   "title": "片語、子句與句子的分界",
+   "blocks": [
+    {
+     "type": "text",
+     "value": "分清楚這三層，長句就不再可怕。"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "單位",
+      "有無主詞＋動詞",
+      "例子"
+     ],
+     "rows": [
+      [
+       "片語 phrase",
+       "沒有",
+       "in the meeting room / to sign the contract"
+      ],
+      [
+       "子句 clause",
+       "有",
+       "because the client cancelled"
+      ],
+      [
+       "句子 sentence",
+       "有，且能獨立",
+       "The client cancelled."
+      ]
+     ]
+    },
+    {
+     "type": "text",
+     "value": "一個句子裡，主要子句只能有一個主要動詞。要放第二個動詞，就必須用連接詞、關係詞，或把它改成不定詞、動名詞、分詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The client cancelled, we rescheduled the demo.",
+       "zh": "",
+       "note": "兩個完整子句用逗號直接連接是逗號黏合句",
+       "bad": true
+      },
+      {
+       "en": "The client cancelled, so we rescheduled the demo.",
+       "zh": "客戶取消了，所以我們重新安排了展示。",
+       "note": "加對等連接詞",
+       "bad": null
+      },
+      {
+       "en": "Because the client cancelled, we rescheduled the demo.",
+       "zh": "因為客戶取消，我們重新安排了展示。",
+       "note": "改成從屬子句",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "value": "看到逗號兩邊都是完整句子，中間又沒有連接詞，那一定是錯的。這是多益 Part 6 常見的改錯點。"
+    }
+   ]
+  },
+  {
+   "title": "常見結構錯誤總覽",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "缺少主要動詞：The report which we submitted last week.（只有子句，沒有主要動詞）",
+      "重複主詞：The manager he approved it.（he 多餘）",
+      "動詞重複：He can approves it.（助動詞後要用原形）",
+      "主詞動詞不一致：The list of items are ready.（主詞是 list，應該用 is）",
+      "懸垂修飾：Reviewing the file, the error was found.（分詞的主詞應該是人）"
+     ]
+    },
+    {
+     "type": "rule",
+     "value": "主詞動詞一致看的是「真正的主詞」，不是最靠近動詞的名詞。介系詞片語（of / with / along with / as well as）不會改變主詞。"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "en": "The list of approved vendors is on the shared drive.",
+       "zh": "核准廠商的清單在共用磁碟上。",
+       "note": "主詞是 list（單數）",
+       "bad": null
+      },
+      {
+       "en": "The manager, along with two engineers, is attending.",
+       "zh": "經理與兩位工程師將出席。",
+       "note": "along with 不改變主詞單複數",
+       "bad": null
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "q": "The set of instructions _____ included in every package.",
+     "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+     ],
+     "answer": 1,
+     "explain": "主詞是 The set（單數），of instructions 只是修飾語，動詞用 is。"
+    }
+   ]
+  }
+ ]
+}

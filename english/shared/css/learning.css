@@ -1,0 +1,419 @@
+/* ===== Shared styles for the vocabulary and grammar systems ===== */
+
+.vocab-loading { padding: 2rem 0; color: var(--text-muted); font-size: 0.9rem; }
+
+/* ----- Welcome / theme picker ----- */
+.vocab-welcome { padding: 0.5rem 0 1rem; }
+.vocab-welcome h2 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; }
+.vocab-welcome > p { margin-top: 0.5rem; color: var(--text-secondary); font-size: 0.92rem; line-height: 1.75; max-width: 62ch; }
+
+.vocab-theme-grid,
+.gr-part-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 0.7rem;
+    margin-top: 1.4rem;
+}
+.vocab-theme-card,
+.gr-part-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    text-align: left;
+    padding: 0.9rem 1rem;
+    min-height: 76px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: rgba(20, 30, 48, 0.62);
+    color: inherit;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s, transform 0.2s;
+}
+.vocab-theme-card:hover,
+.gr-part-card:hover {
+    border-color: rgba(34, 211, 238, 0.45);
+    background: rgba(34, 211, 238, 0.07);
+    transform: translateY(-1px);
+}
+.vocab-theme-card-name, .gr-part-title { font-size: 0.95rem; font-weight: 600; color: var(--text-primary); }
+.vocab-theme-card-en, .gr-part-sub { font-size: 0.72rem; color: var(--text-muted); }
+.vocab-theme-card-count, .gr-part-meta {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    color: var(--accent);
+    margin-top: 0.3rem;
+}
+.gr-part-no {
+    font-family: var(--font-mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    color: var(--accent);
+}
+
+/* ----- Sidebar extras ----- */
+.vocab-theme-name { flex: 1; }
+.vocab-theme-count {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+.gr-side-title { flex: 1; }
+
+/* ----- Vocabulary toolbar ----- */
+.vocab-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin: 0 0 1rem;
+    padding: 0.7rem 0.85rem;
+    background: rgba(20, 30, 48, 0.9);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+.vocab-search {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex: 1;
+    min-width: 180px;
+    padding: 0 0.7rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: rgba(10, 16, 28, 0.7);
+}
+.vocab-search svg { width: 15px; height: 15px; color: var(--text-muted); flex-shrink: 0; }
+.vocab-search input {
+    flex: 1;
+    min-width: 0;
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 0.88rem;
+    padding: 0.6rem 0;
+}
+.vocab-search input::placeholder { color: var(--text-muted); }
+.vocab-btn {
+    min-height: 40px;
+    padding: 0 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: rgba(10, 16, 28, 0.7);
+    color: var(--text-secondary);
+    font-size: 0.82rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+}
+.vocab-btn:hover { color: var(--text-primary); border-color: var(--border-light); }
+.vocab-btn.active { color: var(--accent); border-color: rgba(34, 211, 238, 0.45); background: rgba(34, 211, 238, 0.1); }
+.vocab-count { font-family: var(--font-mono); font-size: 0.72rem; color: var(--text-muted); }
+
+/* ----- Word list ----- */
+.vocab-list { display: flex; flex-direction: column; gap: 0.6rem; padding-bottom: 2rem; }
+.vocab-item {
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: rgba(20, 30, 48, 0.86);
+}
+.vocab-head { display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; }
+.vocab-word { font-size: 1.05rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.01em; }
+.vocab-pos {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    color: var(--accent);
+    border: 1px solid rgba(34, 211, 238, 0.28);
+    border-radius: 4px;
+    padding: 0.05rem 0.35rem;
+}
+.vocab-zh { font-size: 0.88rem; color: var(--text-secondary); }
+
+.vocab-speak {
+    flex-shrink: 0;
+    align-self: center;
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px solid var(--border-light);
+    background: rgba(10, 16, 28, 0.7);
+    color: var(--accent);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.vocab-speak:hover { background: rgba(34, 211, 238, 0.14); border-color: rgba(34, 211, 238, 0.5); }
+.vocab-speak svg { width: 15px; height: 15px; }
+.vocab-speak.sm { width: 28px; height: 28px; align-self: flex-start; margin-top: 2px; }
+.vocab-speak.sm svg { width: 13px; height: 13px; }
+
+.vocab-ex {
+    display: flex;
+    gap: 0.6rem;
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+    border-top: 1px dashed var(--border);
+}
+.vocab-ex-en { font-size: 0.88rem; line-height: 1.6; color: var(--text-primary); }
+.vocab-ex-zh { font-size: 0.8rem; line-height: 1.6; color: var(--text-muted); margin-top: 0.15rem; }
+
+.vocab-list.hide-zh .vocab-zh,
+.vocab-list.hide-zh .vocab-ex-zh { visibility: hidden; }
+
+/* ----- Grammar ----- */
+.gr-eyebrow {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.16em;
+    color: var(--accent);
+    margin-bottom: 0.3rem;
+}
+.gr-toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0 0 1.6rem;
+    padding-bottom: 1.1rem;
+    border-bottom: 1px solid var(--border);
+}
+.gr-toc button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 38px;
+    padding: 0.3rem 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: rgba(20, 30, 48, 0.7);
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.gr-toc button:hover { color: var(--accent); border-color: rgba(34, 211, 238, 0.45); }
+.gr-toc button span { font-family: var(--font-mono); font-size: 0.68rem; color: var(--text-muted); }
+
+.gr-section { margin-bottom: 2.4rem; scroll-margin-top: 8px; }
+.gr-section-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    font-size: 1.12rem;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    color: var(--text-primary);
+    padding-bottom: 0.6rem;
+    margin-bottom: 0.9rem;
+    border-bottom: 1px solid var(--border);
+}
+.gr-section-title span { font-family: var(--font-mono); font-size: 0.78rem; color: var(--accent); }
+
+.gr-text { font-size: 0.9rem; line-height: 1.85; color: var(--text-secondary); margin-bottom: 0.8rem; max-width: 74ch; }
+.gr-list { margin: 0 0 0.9rem; padding-left: 0; list-style: none; max-width: 74ch; }
+.gr-list li {
+    position: relative;
+    padding-left: 1.05rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.88rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+}
+.gr-list li::before {
+    content: '';
+    position: absolute;
+    left: 2px;
+    top: 0.78em;
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+    opacity: 0.65;
+}
+
+.gr-rule {
+    display: flex;
+    gap: 0.65rem;
+    align-items: flex-start;
+    padding: 0.75rem 0.95rem;
+    margin: 0.5rem 0 1rem;
+    border-left: 3px solid var(--accent);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    background: rgba(34, 211, 238, 0.07);
+    font-size: 0.89rem;
+    line-height: 1.75;
+    color: var(--text-primary);
+    max-width: 74ch;
+}
+.gr-rule-cap {
+    flex-shrink: 0;
+    font-family: var(--font-mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    border: 1px solid rgba(34, 211, 238, 0.35);
+    border-radius: 4px;
+    padding: 0.1rem 0.35rem;
+    margin-top: 0.15rem;
+}
+
+.gr-table-wrap { overflow-x: auto; margin: 0.6rem 0 1.2rem; border: 1px solid var(--border); border-radius: var(--radius); }
+.gr-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; min-width: 420px; }
+.gr-table th {
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.74rem;
+    letter-spacing: 0.04em;
+    color: var(--text-secondary);
+    background: rgba(10, 16, 28, 0.8);
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+}
+.gr-table td {
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+    vertical-align: top;
+    line-height: 1.7;
+}
+.gr-table tbody tr:last-child td { border-bottom: none; }
+.gr-table td:first-child { color: var(--text-primary); font-weight: 500; }
+
+.gr-examples { display: flex; flex-direction: column; gap: 0.5rem; margin: 0.6rem 0 1.2rem; }
+.gr-ex {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.7rem 0.85rem;
+    border: 1px solid var(--border);
+    border-left: 3px solid rgba(52, 211, 153, 0.55);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    background: rgba(20, 30, 48, 0.8);
+}
+.gr-ex.is-bad { border-left-color: rgba(248, 113, 113, 0.6); }
+.gr-ex-en { font-size: 0.89rem; line-height: 1.65; color: var(--text-primary); }
+.gr-ex-zh { font-size: 0.8rem; line-height: 1.6; color: var(--text-muted); margin-top: 0.15rem; }
+.gr-ex-note { font-size: 0.78rem; line-height: 1.6; color: var(--accent); margin-top: 0.25rem; }
+.gr-x { color: #f87171; margin-right: 0.35rem; font-weight: 700; }
+
+.gr-tip, .gr-trap {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.7rem 0.9rem;
+    margin: 0.6rem 0 1.2rem;
+    border-radius: var(--radius);
+    font-size: 0.85rem;
+    line-height: 1.75;
+    max-width: 74ch;
+}
+.gr-tip { background: rgba(34, 211, 238, 0.07); border: 1px solid rgba(34, 211, 238, 0.22); color: var(--text-secondary); }
+.gr-trap { background: rgba(248, 113, 113, 0.07); border: 1px solid rgba(248, 113, 113, 0.25); color: var(--text-secondary); }
+.gr-trap-cap {
+    flex-shrink: 0;
+    font-family: var(--font-mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    color: #f87171;
+    border: 1px solid rgba(248, 113, 113, 0.4);
+    border-radius: 4px;
+    padding: 0.1rem 0.35rem;
+    height: fit-content;
+    margin-top: 0.15rem;
+}
+
+/* ----- Quiz ----- */
+.gr-quiz {
+    padding: 0.95rem 1rem;
+    margin: 0.8rem 0 1.4rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: rgba(10, 16, 28, 0.75);
+}
+.gr-quiz-q { font-size: 0.9rem; line-height: 1.75; color: var(--text-primary); margin-bottom: 0.7rem; }
+.gr-quiz-opts { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 0.45rem; }
+.gr-opt {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    min-height: 44px;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: rgba(20, 30, 48, 0.75);
+    color: var(--text-secondary);
+    font-size: 0.86rem;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.18s;
+}
+.gr-opt:hover:not(:disabled) { border-color: rgba(34, 211, 238, 0.45); color: var(--text-primary); }
+.gr-opt:disabled { cursor: default; }
+.gr-opt-k {
+    flex-shrink: 0;
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    width: 20px; height: 20px;
+    display: inline-flex; align-items: center; justify-content: center;
+    border-radius: 4px;
+    background: rgba(148, 190, 220, 0.1);
+    color: var(--text-muted);
+}
+.gr-opt.is-right { border-color: rgba(52, 211, 153, 0.6); background: rgba(52, 211, 153, 0.12); color: #a7f3d0; }
+.gr-opt.is-right .gr-opt-k { background: rgba(52, 211, 153, 0.3); color: #d1fae5; }
+.gr-opt.is-wrong { border-color: rgba(248, 113, 113, 0.55); background: rgba(248, 113, 113, 0.1); color: #fecaca; }
+.gr-quiz-explain {
+    margin-top: 0.7rem;
+    padding-top: 0.7rem;
+    border-top: 1px dashed var(--border);
+    font-size: 0.83rem;
+    line-height: 1.75;
+    color: var(--text-secondary);
+}
+
+.gr-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin: 2rem 0 2.5rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--border);
+}
+.gr-nav-btn {
+    min-height: 44px;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: rgba(20, 30, 48, 0.75);
+    color: var(--text-secondary);
+    font-size: 0.84rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.gr-nav-btn:hover { color: var(--accent); border-color: rgba(34, 211, 238, 0.45); }
+
+@media (max-width: 768px) {
+    .vocab-toolbar { position: static; }
+    .vocab-theme-grid, .gr-part-grid { grid-template-columns: 1fr; }
+    .gr-quiz-opts { grid-template-columns: 1fr; }
+    .vocab-head { gap: 0.45rem; }
+    .vocab-word { font-size: 1rem; }
+    .gr-section-title { font-size: 1.02rem; }
+}
+
+/* Touch targets: the speak buttons sit at 28-32px on desktop, which is fine
+   for a mouse but below the comfortable tap size on a phone. */
+@media (pointer: coarse), (max-width: 768px) {
+    .vocab-speak { width: 40px; height: 40px; }
+    .vocab-speak svg { width: 17px; height: 17px; }
+    .vocab-speak.sm { width: 38px; height: 38px; }
+    .vocab-speak.sm svg { width: 15px; height: 15px; }
+    .gr-toc button { min-height: 42px; }
+    .vocab-theme-card, .gr-part-card { min-height: 84px; }
+}

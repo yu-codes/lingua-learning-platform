@@ -1,0 +1,1022 @@
+{
+"id": "office-basics",
+"name": "職場基礎",
+"nameEn": "Office Basics",
+"words": [
+{
+"w": "absence",
+"p": "n.",
+"zh": "缺席；不在",
+"ex": "Her absence from the meeting was noted in the minutes.",
+"exZh": "會議紀錄中註記了她的缺席。"
+},
+{
+"w": "accomplish",
+"p": "v.",
+"zh": "完成；達成",
+"ex": "The team accomplished all of its goals this quarter.",
+"exZh": "團隊本季達成了所有目標。"
+},
+{
+"w": "accountable",
+"p": "adj.",
+"zh": "需負責的",
+"ex": "Managers are accountable for their budgets.",
+"exZh": "主管需為其預算負責。"
+},
+{
+"w": "adhere",
+"p": "v.",
+"zh": "遵守；黏附",
+"ex": "All staff must adhere to the code of conduct.",
+"exZh": "所有員工都必須遵守行為守則。"
+},
+{
+"w": "adjust",
+"p": "v.",
+"zh": "調整",
+"ex": "We adjusted the schedule to fit the new deadline.",
+"exZh": "我們調整時程以配合新期限。"
+},
+{
+"w": "administration",
+"p": "n.",
+"zh": "行政；管理部門",
+"ex": "She works in the administration office on the third floor.",
+"exZh": "她在三樓的行政辦公室工作。"
+},
+{
+"w": "advise",
+"p": "v.",
+"zh": "建議；告知",
+"ex": "Please advise us of any changes.",
+"exZh": "如有任何變更請告知我們。"
+},
+{
+"w": "agenda",
+"p": "n.",
+"zh": "議程",
+"ex": "Please review the agenda before tomorrow's meeting.",
+"exZh": "請在明天會議前看過議程。"
+},
+{
+"w": "allocate",
+"p": "v.",
+"zh": "分配；撥出",
+"ex": "The manager allocated two hours for the training session.",
+"exZh": "經理撥出兩小時進行教育訓練。"
+},
+{
+"w": "alternative",
+"p": "n./adj.",
+"zh": "替代方案；替代的",
+"ex": "We considered several alternatives before deciding.",
+"exZh": "我們在決定前考慮了幾個替代方案。"
+},
+{
+"w": "announcement",
+"p": "n.",
+"zh": "公告；宣布",
+"ex": "An announcement about the new policy was posted this morning.",
+"exZh": "今早張貼了新政策的公告。"
+},
+{
+"w": "anticipate",
+"p": "v.",
+"zh": "預期",
+"ex": "We anticipate a busy period in December.",
+"exZh": "我們預期十二月會很忙碌。"
+},
+{
+"w": "apparently",
+"p": "adv.",
+"zh": "顯然；據說",
+"ex": "Apparently the shipment was delayed at customs.",
+"exZh": "據說貨物在海關被延誤了。"
+},
+{
+"w": "appointment",
+"p": "n.",
+"zh": "約會；任命",
+"ex": "I have an appointment with the director at three.",
+"exZh": "我三點和主任有約。"
+},
+{
+"w": "appreciate",
+"p": "v.",
+"zh": "感謝；賞識",
+"ex": "We appreciate your prompt reply.",
+"exZh": "感謝您迅速回覆。"
+},
+{
+"w": "appropriate",
+"p": "adj.",
+"zh": "適當的",
+"ex": "Please choose the appropriate category.",
+"exZh": "請選擇適當的類別。"
+},
+{
+"w": "approval",
+"p": "n.",
+"zh": "核准；批准",
+"ex": "The request is still awaiting approval from finance.",
+"exZh": "該請求仍在等待財務部核准。"
+},
+{
+"w": "approximately",
+"p": "adv.",
+"zh": "大約",
+"ex": "The task takes approximately two hours.",
+"exZh": "這項任務大約需要兩小時。"
+},
+{
+"w": "arrange",
+"p": "v.",
+"zh": "安排；整理",
+"ex": "Could you arrange a conference call for Thursday?",
+"exZh": "你可以安排週四的電話會議嗎？"
+},
+{
+"w": "assess",
+"p": "v.",
+"zh": "評估",
+"ex": "We need to assess the risk before proceeding.",
+"exZh": "我們需要在進行前評估風險。"
+},
+{
+"w": "assign",
+"p": "v.",
+"zh": "指派；分派",
+"ex": "The supervisor assigned the task to two junior staff.",
+"exZh": "主管把任務指派給兩名資淺員工。"
+},
+{
+"w": "assignment",
+"p": "n.",
+"zh": "任務；作業",
+"ex": "Each intern received a different assignment.",
+"exZh": "每位實習生都收到不同的任務。"
+},
+{
+"w": "assistant",
+"p": "n.",
+"zh": "助理",
+"ex": "My assistant will forward you the file.",
+"exZh": "我的助理會把檔案轉寄給你。"
+},
+{
+"w": "attach",
+"p": "v.",
+"zh": "附上",
+"ex": "I have attached the revised budget.",
+"exZh": "我已附上修訂後的預算。"
+},
+{
+"w": "attendance",
+"p": "n.",
+"zh": "出席；出席率",
+"ex": "Attendance at the safety briefing is mandatory.",
+"exZh": "安全簡報的出席是強制的。"
+},
+{
+"w": "authorize",
+"p": "v.",
+"zh": "授權；批准",
+"ex": "Only department heads can authorize overtime.",
+"exZh": "只有部門主管能授權加班。"
+},
+{
+"w": "available",
+"p": "adj.",
+"zh": "可用的；有空的",
+"ex": "Is the meeting room available at four?",
+"exZh": "會議室四點有空嗎？"
+},
+{
+"w": "avoid",
+"p": "v.",
+"zh": "避免",
+"ex": "Avoid scheduling meetings on Friday afternoons.",
+"exZh": "避免在週五下午安排會議。"
+},
+{
+"w": "aware",
+"p": "adj.",
+"zh": "知悉的",
+"ex": "Please make the team aware of the change.",
+"exZh": "請讓團隊知悉這項變更。"
+},
+{
+"w": "badge",
+"p": "n.",
+"zh": "識別證",
+"ex": "Visitors must wear a badge at all times.",
+"exZh": "訪客必須全程配戴識別證。"
+},
+{
+"w": "binder",
+"p": "n.",
+"zh": "活頁夾",
+"ex": "The contracts are stored in the blue binder.",
+"exZh": "合約存放在藍色活頁夾裡。"
+},
+{
+"w": "branch",
+"p": "n.",
+"zh": "分公司；分行",
+"ex": "Our Osaka branch opened last spring.",
+"exZh": "我們的大阪分公司去年春天開幕。"
+},
+{
+"w": "brief",
+"p": "v./adj.",
+"zh": "簡報；簡短的",
+"ex": "She briefed the board on the findings.",
+"exZh": "她向董事會簡報了調查結果。"
+},
+{
+"w": "cabinet",
+"p": "n.",
+"zh": "櫃子；內閣",
+"ex": "Old records are kept in the filing cabinet.",
+"exZh": "舊紀錄保存在檔案櫃中。"
+},
+{
+"w": "calendar",
+"p": "n.",
+"zh": "行事曆",
+"ex": "Please add the workshop to your calendar.",
+"exZh": "請把工作坊加入你的行事曆。"
+},
+{
+"w": "cancel",
+"p": "v.",
+"zh": "取消",
+"ex": "We had to cancel the site visit because of the storm.",
+"exZh": "我們因暴風雨不得不取消實地參訪。"
+},
+{
+"w": "capacity",
+"p": "n.",
+"zh": "容量；能力；職位",
+"ex": "The conference room has a capacity of forty people.",
+"exZh": "會議室可容納四十人。"
+},
+{
+"w": "career",
+"p": "n.",
+"zh": "職涯",
+"ex": "She has built a successful career in logistics.",
+"exZh": "她在物流業建立了成功的職涯。"
+},
+{
+"w": "certificate",
+"p": "n.",
+"zh": "證書",
+"ex": "A completion certificate will be issued after the course.",
+"exZh": "課程結束後將核發結業證書。"
+},
+{
+"w": "clarify",
+"p": "v.",
+"zh": "澄清；說明",
+"ex": "Could you clarify the second point in your email?",
+"exZh": "你可以說明一下郵件中的第二點嗎？"
+},
+{
+"w": "colleague",
+"p": "n.",
+"zh": "同事",
+"ex": "I discussed the issue with a colleague from marketing.",
+"exZh": "我和行銷部的同事討論了這個問題。"
+},
+{
+"w": "commute",
+"p": "v./n.",
+"zh": "通勤",
+"ex": "Many employees commute by train.",
+"exZh": "許多員工搭火車通勤。"
+},
+{
+"w": "competent",
+"p": "adj.",
+"zh": "能勝任的；有能力的",
+"ex": "He is a highly competent project manager.",
+"exZh": "他是一位非常能幹的專案經理。"
+},
+{
+"w": "compile",
+"p": "v.",
+"zh": "彙編；整理",
+"ex": "Please compile the responses into a single document.",
+"exZh": "請把回覆彙整成一份文件。"
+},
+{
+"w": "concise",
+"p": "adj.",
+"zh": "簡潔的",
+"ex": "Keep your summary concise and factual.",
+"exZh": "摘要請保持簡潔且據實。"
+},
+{
+"w": "conduct",
+"p": "v.",
+"zh": "執行；進行",
+"ex": "The firm will conduct an internal review next month.",
+"exZh": "公司下個月將進行內部檢討。"
+},
+{
+"w": "confidential",
+"p": "adj.",
+"zh": "機密的",
+"ex": "This document is strictly confidential.",
+"exZh": "這份文件屬於嚴格機密。"
+},
+{
+"w": "confirm",
+"p": "v.",
+"zh": "確認",
+"ex": "Please confirm your attendance by Friday.",
+"exZh": "請於週五前確認出席。"
+},
+{
+"w": "consult",
+"p": "v.",
+"zh": "諮詢；請教",
+"ex": "You should consult the manual before proceeding.",
+"exZh": "你應該先查閱手冊再進行。"
+},
+{
+"w": "coordinate",
+"p": "v.",
+"zh": "協調",
+"ex": "She coordinates schedules across three departments.",
+"exZh": "她協調三個部門的時程。"
+},
+{
+"w": "copier",
+"p": "n.",
+"zh": "影印機",
+"ex": "The copier on this floor is out of paper.",
+"exZh": "這層樓的影印機沒紙了。"
+},
+{
+"w": "correspondence",
+"p": "n.",
+"zh": "通信；往來信件",
+"ex": "All correspondence should be archived.",
+"exZh": "所有往來信件都應歸檔。"
+},
+{
+"w": "deadline",
+"p": "n.",
+"zh": "截止期限",
+"ex": "We missed the deadline by two days.",
+"exZh": "我們遲了兩天沒趕上期限。"
+},
+{
+"w": "delegate",
+"p": "v./n.",
+"zh": "授權；代表",
+"ex": "Good managers delegate routine tasks.",
+"exZh": "好的主管會把例行工作授權出去。"
+},
+{
+"w": "department",
+"p": "n.",
+"zh": "部門",
+"ex": "The accounting department is on the fifth floor.",
+"exZh": "會計部門在五樓。"
+},
+{
+"w": "designate",
+"p": "v.",
+"zh": "指定",
+"ex": "The room has been designated as a quiet zone.",
+"exZh": "該房間已被指定為安靜區。"
+},
+{
+"w": "directory",
+"p": "n.",
+"zh": "通訊錄；名錄",
+"ex": "You can find her extension in the staff directory.",
+"exZh": "你可以在員工通訊錄中找到她的分機。"
+},
+{
+"w": "distribute",
+"p": "v.",
+"zh": "分發；配送",
+"ex": "Handouts were distributed before the session.",
+"exZh": "講義在課程開始前發放。"
+},
+{
+"w": "document",
+"p": "n./v.",
+"zh": "文件；記錄",
+"ex": "Every change must be documented properly.",
+"exZh": "每項變更都必須妥善記錄。"
+},
+{
+"w": "draft",
+"p": "n./v.",
+"zh": "草稿；起草",
+"ex": "I will send you a draft by tomorrow morning.",
+"exZh": "我明早前會寄草稿給你。"
+},
+{
+"w": "duplicate",
+"p": "v./n.",
+"zh": "複製；副本",
+"ex": "Please keep a duplicate for your records.",
+"exZh": "請保留副本供你存查。"
+},
+{
+"w": "duty",
+"p": "n.",
+"zh": "職責；義務",
+"ex": "It is your duty to report safety hazards.",
+"exZh": "通報安全危害是你的職責。"
+},
+{
+"w": "efficient",
+"p": "adj.",
+"zh": "有效率的",
+"ex": "The new workflow is far more efficient.",
+"exZh": "新流程效率高出許多。"
+},
+{
+"w": "employee",
+"p": "n.",
+"zh": "員工",
+"ex": "All employees receive an annual review.",
+"exZh": "所有員工每年接受一次考核。"
+},
+{
+"w": "enclose",
+"p": "v.",
+"zh": "隨函附上",
+"ex": "Please find enclosed the signed agreement.",
+"exZh": "隨函附上已簽署的協議。"
+},
+{
+"w": "equipment",
+"p": "n.",
+"zh": "設備（不可數）",
+"ex": "The office equipment is serviced twice a year.",
+"exZh": "辦公設備每年保養兩次。"
+},
+{
+"w": "established",
+"p": "adj.",
+"zh": "已確立的；老牌的",
+"ex": "They follow a well established procedure.",
+"exZh": "他們遵循一套行之有年的程序。"
+},
+{
+"w": "executive",
+"p": "n./adj.",
+"zh": "主管；行政的",
+"ex": "The executive team meets every Monday.",
+"exZh": "主管團隊每週一開會。"
+},
+{
+"w": "expense",
+"p": "n.",
+"zh": "費用；開支",
+"ex": "Submit your expense report by the fifth.",
+"exZh": "請在五號前提交報帳單。"
+},
+{
+"w": "extension",
+"p": "n.",
+"zh": "分機；延長",
+"ex": "You can reach me at extension 214.",
+"exZh": "你可以撥分機 214 找我。"
+},
+{
+"w": "facility",
+"p": "n.",
+"zh": "設施",
+"ex": "The new facility includes a fitness center.",
+"exZh": "新設施包含一間健身中心。"
+},
+{
+"w": "file",
+"p": "v./n.",
+"zh": "歸檔；檔案",
+"ex": "Please file these under the client's name.",
+"exZh": "請把這些依客戶名稱歸檔。"
+},
+{
+"w": "folder",
+"p": "n.",
+"zh": "資料夾",
+"ex": "The photos are in a shared folder.",
+"exZh": "照片在共用資料夾裡。"
+},
+{
+"w": "forward",
+"p": "v.",
+"zh": "轉寄；轉發",
+"ex": "Could you forward that email to me?",
+"exZh": "你可以把那封郵件轉寄給我嗎？"
+},
+{
+"w": "handle",
+"p": "v.",
+"zh": "處理",
+"ex": "She handles all customer complaints.",
+"exZh": "她處理所有客訴。"
+},
+{
+"w": "headquarters",
+"p": "n.",
+"zh": "總部",
+"ex": "The company's headquarters is in Zurich.",
+"exZh": "公司總部位於蘇黎世。"
+},
+{
+"w": "implement",
+"p": "v.",
+"zh": "實施；執行",
+"ex": "We will implement the changes next quarter.",
+"exZh": "我們下一季將實施這些變更。"
+},
+{
+"w": "inquiry",
+"p": "n.",
+"zh": "詢問",
+"ex": "We received several inquiries about the vacancy.",
+"exZh": "我們收到數則關於職缺的詢問。"
+},
+{
+"w": "internal",
+"p": "adj.",
+"zh": "內部的",
+"ex": "This memo is for internal use only.",
+"exZh": "這份備忘錄僅供內部使用。"
+},
+{
+"w": "itinerary",
+"p": "n.",
+"zh": "行程表",
+"ex": "Your travel itinerary is attached.",
+"exZh": "你的旅行行程表已附上。"
+},
+{
+"w": "janitor",
+"p": "n.",
+"zh": "清潔人員；管理員",
+"ex": "The janitor locks the building at ten.",
+"exZh": "管理員十點鎖門。"
+},
+{
+"w": "laptop",
+"p": "n.",
+"zh": "筆記型電腦",
+"ex": "Bring your laptop to the workshop.",
+"exZh": "請帶筆電來工作坊。"
+},
+{
+"w": "liaison",
+"p": "n.",
+"zh": "聯絡人；聯繫",
+"ex": "She acts as the liaison between the two teams.",
+"exZh": "她擔任兩個團隊之間的聯絡人。"
+},
+{
+"w": "locate",
+"p": "v.",
+"zh": "找到；位於",
+"ex": "The archive is located in the basement.",
+"exZh": "檔案室位於地下室。"
+},
+{
+"w": "maintain",
+"p": "v.",
+"zh": "維持；維護",
+"ex": "We maintain records for seven years.",
+"exZh": "我們保存紀錄七年。"
+},
+{
+"w": "memo",
+"p": "n.",
+"zh": "備忘錄",
+"ex": "A memo was circulated about the dress code.",
+"exZh": "關於服裝規定的備忘錄已傳閱。"
+},
+{
+"w": "minutes",
+"p": "n.",
+"zh": "會議紀錄",
+"ex": "The minutes of the last meeting are attached.",
+"exZh": "上次會議紀錄已附上。"
+},
+{
+"w": "notify",
+"p": "v.",
+"zh": "通知",
+"ex": "Please notify HR of any address change.",
+"exZh": "地址如有變更請通知人資。"
+},
+{
+"w": "objective",
+"p": "n./adj.",
+"zh": "目標；客觀的",
+"ex": "Our main objective is to reduce turnaround time.",
+"exZh": "我們的主要目標是縮短處理時間。"
+},
+{
+"w": "obtain",
+"p": "v.",
+"zh": "取得",
+"ex": "You must obtain written consent first.",
+"exZh": "你必須先取得書面同意。"
+},
+{
+"w": "occupy",
+"p": "v.",
+"zh": "佔用；佔據",
+"ex": "That meeting room is occupied until noon.",
+"exZh": "那間會議室到中午前都被佔用。"
+},
+{
+"w": "operate",
+"p": "v.",
+"zh": "運作；操作",
+"ex": "The system operates around the clock.",
+"exZh": "系統全天候運作。"
+},
+{
+"w": "opportunity",
+"p": "n.",
+"zh": "機會",
+"ex": "This role offers excellent growth opportunities.",
+"exZh": "這個職位提供極佳的成長機會。"
+},
+{
+"w": "organize",
+"p": "v.",
+"zh": "組織；安排",
+"ex": "She organized the entire relocation.",
+"exZh": "她籌辦了整個搬遷。"
+},
+{
+"w": "outline",
+"p": "v./n.",
+"zh": "概述；大綱",
+"ex": "The report outlines three possible solutions.",
+"exZh": "報告概述了三個可能的解決方案。"
+},
+{
+"w": "overtime",
+"p": "n.",
+"zh": "加班",
+"ex": "Overtime must be approved in advance.",
+"exZh": "加班必須事先核准。"
+},
+{
+"w": "paperwork",
+"p": "n.",
+"zh": "文書作業",
+"ex": "There is a lot of paperwork involved.",
+"exZh": "這牽涉到大量文書作業。"
+},
+{
+"w": "performance",
+"p": "n.",
+"zh": "績效；表現",
+"ex": "Her performance exceeded expectations.",
+"exZh": "她的表現超出預期。"
+},
+{
+"w": "permission",
+"p": "n.",
+"zh": "許可",
+"ex": "You need permission to access the server room.",
+"exZh": "進入機房需要許可。"
+},
+{
+"w": "personnel",
+"p": "n.",
+"zh": "人員；人事",
+"ex": "Only authorized personnel may enter.",
+"exZh": "僅限授權人員進入。"
+},
+{
+"w": "photocopy",
+"p": "v./n.",
+"zh": "影印",
+"ex": "Please photocopy the receipt for the file.",
+"exZh": "請影印收據存檔。"
+},
+{
+"w": "policy",
+"p": "n.",
+"zh": "政策",
+"ex": "The refund policy was updated in June.",
+"exZh": "退款政策於六月更新。"
+},
+{
+"w": "postpone",
+"p": "v.",
+"zh": "延後",
+"ex": "The audit has been postponed until August.",
+"exZh": "稽核已延後至八月。"
+},
+{
+"w": "premises",
+"p": "n.",
+"zh": "房舍；營業場所",
+"ex": "Smoking is prohibited on the premises.",
+"exZh": "場所內禁止吸菸。"
+},
+{
+"w": "prioritize",
+"p": "v.",
+"zh": "排定優先順序",
+"ex": "We need to prioritize the urgent requests.",
+"exZh": "我們需要把緊急請求排在前面。"
+},
+{
+"w": "procedure",
+"p": "n.",
+"zh": "程序",
+"ex": "Follow the standard procedure for returns.",
+"exZh": "退貨請依標準程序辦理。"
+},
+{
+"w": "productivity",
+"p": "n.",
+"zh": "生產力",
+"ex": "Productivity rose after the software upgrade.",
+"exZh": "軟體升級後生產力提升。"
+},
+{
+"w": "professional",
+"p": "adj./n.",
+"zh": "專業的；專業人士",
+"ex": "She maintained a professional tone throughout.",
+"exZh": "她全程保持專業語氣。"
+},
+{
+"w": "promptly",
+"p": "adv.",
+"zh": "迅速地；準時地",
+"ex": "Please respond promptly to client emails.",
+"exZh": "請迅速回覆客戶郵件。"
+},
+{
+"w": "punctual",
+"p": "adj.",
+"zh": "準時的",
+"ex": "He is always punctual for meetings.",
+"exZh": "他開會總是準時。"
+},
+{
+"w": "receipt",
+"p": "n.",
+"zh": "收據；收到",
+"ex": "Keep the receipt for reimbursement.",
+"exZh": "請保留收據以便報帳。"
+},
+{
+"w": "recruit",
+"p": "v./n.",
+"zh": "招募；新人",
+"ex": "We plan to recruit three engineers.",
+"exZh": "我們計畫招募三名工程師。"
+},
+{
+"w": "reference",
+"p": "n.",
+"zh": "參考；推薦人",
+"ex": "Please quote the reference number in your reply.",
+"exZh": "回覆時請註明參考編號。"
+},
+{
+"w": "reimburse",
+"p": "v.",
+"zh": "報銷；償還",
+"ex": "The company will reimburse travel costs.",
+"exZh": "公司將報銷差旅費。"
+},
+{
+"w": "relocate",
+"p": "v.",
+"zh": "搬遷",
+"ex": "The office will relocate downtown next year.",
+"exZh": "辦公室明年將搬到市中心。"
+},
+{
+"w": "reminder",
+"p": "n.",
+"zh": "提醒",
+"ex": "A reminder was sent two days before the deadline.",
+"exZh": "期限前兩天寄出了提醒。"
+},
+{
+"w": "require",
+"p": "v.",
+"zh": "需要；要求",
+"ex": "This form requires a supervisor's signature.",
+"exZh": "這份表格需要主管簽名。"
+},
+{
+"w": "reschedule",
+"p": "v.",
+"zh": "重新安排時間",
+"ex": "We had to reschedule the interview.",
+"exZh": "我們必須重新安排面試時間。"
+},
+{
+"w": "responsibility",
+"p": "n.",
+"zh": "責任",
+"ex": "Data accuracy is everyone's responsibility.",
+"exZh": "資料正確性是每個人的責任。"
+},
+{
+"w": "resume",
+"p": "n./v.",
+"zh": "履歷；恢復",
+"ex": "Attach your resume to the application.",
+"exZh": "請將履歷附在申請書中。"
+},
+{
+"w": "retrieve",
+"p": "v.",
+"zh": "取回；擷取",
+"ex": "You can retrieve deleted files within 30 days.",
+"exZh": "你可以在 30 天內取回刪除的檔案。"
+},
+{
+"w": "review",
+"p": "v./n.",
+"zh": "審查；檢討",
+"ex": "The contract is under review by legal.",
+"exZh": "合約正由法務審查中。"
+},
+{
+"w": "revise",
+"p": "v.",
+"zh": "修訂",
+"ex": "Please revise the figures on page two.",
+"exZh": "請修訂第二頁的數字。"
+},
+{
+"w": "routine",
+"p": "n./adj.",
+"zh": "例行公事；例行的",
+"ex": "Backups are part of our daily routine.",
+"exZh": "備份是我們每日的例行工作。"
+},
+{
+"w": "schedule",
+"p": "n./v.",
+"zh": "時程表；安排",
+"ex": "The schedule was tight but manageable.",
+"exZh": "時程很緊但還能應付。"
+},
+{
+"w": "sign",
+"p": "v.",
+"zh": "簽署",
+"ex": "Both parties must sign the agreement.",
+"exZh": "雙方都必須簽署協議。"
+},
+{
+"w": "staff",
+"p": "n.",
+"zh": "員工（集合）",
+"ex": "The entire staff was informed by email.",
+"exZh": "全體員工透過郵件獲知。"
+},
+{
+"w": "stationery",
+"p": "n.",
+"zh": "文具",
+"ex": "Order more stationery from the supply room.",
+"exZh": "請向補給室多訂些文具。"
+},
+{
+"w": "submit",
+"p": "v.",
+"zh": "提交",
+"ex": "Submit the form before the cutoff time.",
+"exZh": "請在截止時間前提交表格。"
+},
+{
+"w": "subordinate",
+"p": "n./adj.",
+"zh": "部屬；下級的",
+"ex": "He delegated the task to a subordinate.",
+"exZh": "他把任務交給一位部屬。"
+},
+{
+"w": "supervise",
+"p": "v.",
+"zh": "監督",
+"ex": "She supervises a team of twelve.",
+"exZh": "她監督一個十二人的團隊。"
+},
+{
+"w": "supervisor",
+"p": "n.",
+"zh": "主管",
+"ex": "Report any issues to your supervisor.",
+"exZh": "有任何問題請向主管回報。"
+},
+{
+"w": "supply",
+"p": "n./v.",
+"zh": "補給；供應",
+"ex": "The supply closet is next to the pantry.",
+"exZh": "補給櫃在茶水間旁邊。"
+},
+{
+"w": "task",
+"p": "n.",
+"zh": "任務",
+"ex": "Break the project into smaller tasks.",
+"exZh": "把專案拆成較小的任務。"
+},
+{
+"w": "temporary",
+"p": "adj.",
+"zh": "暫時的",
+"ex": "We hired temporary staff for the peak season.",
+"exZh": "我們為旺季雇用了臨時人員。"
+},
+{
+"w": "terminate",
+"p": "v.",
+"zh": "終止",
+"ex": "The lease was terminated in March.",
+"exZh": "租約於三月終止。"
+},
+{
+"w": "timeline",
+"p": "n.",
+"zh": "時間軸；時程",
+"ex": "The revised timeline gives us two extra weeks.",
+"exZh": "修訂後的時程多給我們兩週。"
+},
+{
+"w": "transfer",
+"p": "v./n.",
+"zh": "調職；轉移",
+"ex": "He requested a transfer to the Tokyo office.",
+"exZh": "他申請調到東京辦公室。"
+},
+{
+"w": "undertake",
+"p": "v.",
+"zh": "承擔；著手",
+"ex": "The firm undertook a major restructuring.",
+"exZh": "公司進行了一次重大重組。"
+},
+{
+"w": "urgent",
+"p": "adj.",
+"zh": "緊急的",
+"ex": "Mark the request as urgent if needed.",
+"exZh": "如有需要請將請求標記為緊急。"
+},
+{
+"w": "vacancy",
+"p": "n.",
+"zh": "職缺；空房",
+"ex": "There is a vacancy in the design team.",
+"exZh": "設計團隊有一個職缺。"
+},
+{
+"w": "verify",
+"p": "v.",
+"zh": "查證；核實",
+"ex": "Please verify the address before shipping.",
+"exZh": "出貨前請核實地址。"
+},
+{
+"w": "workflow",
+"p": "n.",
+"zh": "工作流程",
+"ex": "The new workflow eliminates two approval steps.",
+"exZh": "新流程省去兩個核准步驟。"
+},
+{
+"w": "workload",
+"p": "n.",
+"zh": "工作量",
+"ex": "Her workload increased after the merger.",
+"exZh": "合併後她的工作量增加了。"
+},
+{
+"w": "workplace",
+"p": "n.",
+"zh": "職場；工作場所",
+"ex": "Respect in the workplace is non-negotiable.",
+"exZh": "職場中的尊重沒有妥協空間。"
+}
+]
+}

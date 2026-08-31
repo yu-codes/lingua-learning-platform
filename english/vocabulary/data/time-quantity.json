@@ -1,0 +1,833 @@
+{
+"id": "time-quantity",
+"name": "時間與數量",
+"nameEn": "Time & Quantity",
+"words": [
+{
+"w": "abundance",
+"p": "n.",
+"zh": "大量",
+"ex": "There is an abundance of applicants.",
+"exZh": "申請者非常多。"
+},
+{
+"w": "aggregate",
+"p": "n./adj.",
+"zh": "總計",
+"ex": "The aggregate figure exceeds one million.",
+"exZh": "總計數字超過一百萬。"
+},
+{
+"w": "ahead of schedule",
+"p": "adv.",
+"zh": "提前",
+"ex": "The work finished ahead of schedule.",
+"exZh": "工作提前完成。"
+},
+{
+"w": "allotted",
+"p": "adj.",
+"zh": "分配到的",
+"ex": "Each speaker used the allotted time.",
+"exZh": "每位講者都用完分配到的時間。"
+},
+{
+"w": "alternate",
+"p": "adj.",
+"zh": "交替的",
+"ex": "Meetings are held on alternate Fridays.",
+"exZh": "會議隔週五舉行。"
+},
+{
+"w": "annual",
+"p": "adj.",
+"zh": "年度的",
+"ex": "The annual review takes place in March.",
+"exZh": "年度檢討於三月舉行。"
+},
+{
+"w": "approximate",
+"p": "adj.",
+"zh": "近似的",
+"ex": "These are approximate figures only.",
+"exZh": "這些只是近似數字。"
+},
+{
+"w": "average",
+"p": "n./adj.",
+"zh": "平均",
+"ex": "The average wait is eight minutes.",
+"exZh": "平均等候時間為八分鐘。"
+},
+{
+"w": "backdate",
+"p": "v.",
+"zh": "回溯日期",
+"ex": "The policy cannot be backdated.",
+"exZh": "該保單不能回溯生效。"
+},
+{
+"w": "biannual",
+"p": "adj.",
+"zh": "一年兩次的",
+"ex": "The biannual survey runs in June and December.",
+"exZh": "一年兩次的調查於六月與十二月進行。"
+},
+{
+"w": "bimonthly",
+"p": "adj.",
+"zh": "兩個月一次的",
+"ex": "The newsletter is bimonthly.",
+"exZh": "該電子報兩個月出刊一次。"
+},
+{
+"w": "biweekly",
+"p": "adj.",
+"zh": "兩週一次的",
+"ex": "Biweekly updates keep everyone informed.",
+"exZh": "兩週一次的更新讓大家掌握資訊。"
+},
+{
+"w": "century",
+"p": "n.",
+"zh": "世紀",
+"ex": "The tradition began last century.",
+"exZh": "該傳統始於上個世紀。"
+},
+{
+"w": "consecutively",
+"p": "adv.",
+"zh": "連續地",
+"ex": "Pages are numbered consecutively.",
+"exZh": "頁碼連續編號。"
+},
+{
+"w": "constant",
+"p": "adj.",
+"zh": "不變的",
+"ex": "Temperature was kept constant.",
+"exZh": "溫度維持不變。"
+},
+{
+"w": "count",
+"p": "n.",
+"zh": "計數",
+"ex": "The final count was 342.",
+"exZh": "最終計數為 342。"
+},
+{
+"w": "countdown",
+"p": "n.",
+"zh": "倒數",
+"ex": "The countdown to launch has begun.",
+"exZh": "上市倒數已經開始。"
+},
+{
+"w": "cumulative",
+"p": "adj.",
+"zh": "累計的",
+"ex": "The cumulative total reached 5,000.",
+"exZh": "累計總數達五千。"
+},
+{
+"w": "current",
+"p": "adj.",
+"zh": "目前的",
+"ex": "The current rate expires Friday.",
+"exZh": "目前的費率於週五到期。"
+},
+{
+"w": "daily",
+"p": "adj.",
+"zh": "每日的",
+"ex": "Daily backups run automatically.",
+"exZh": "每日備份自動執行。"
+},
+{
+"w": "decade",
+"p": "n.",
+"zh": "十年",
+"ex": "Prices doubled over the decade.",
+"exZh": "價格在這十年間翻倍。"
+},
+{
+"w": "delay period",
+"p": "n.",
+"zh": "延遲期間",
+"ex": "The delay period lasted three weeks.",
+"exZh": "延遲期間持續了三週。"
+},
+{
+"w": "delayed",
+"p": "adj.",
+"zh": "延遲的",
+"ex": "The response was delayed by a day.",
+"exZh": "回應延遲了一天。"
+},
+{
+"w": "double",
+"p": "v./adj.",
+"zh": "加倍",
+"ex": "Output doubled within two years.",
+"exZh": "產出兩年內翻倍。"
+},
+{
+"w": "elapsed",
+"p": "adj.",
+"zh": "經過的",
+"ex": "Elapsed time is shown on screen.",
+"exZh": "經過時間顯示在螢幕上。"
+},
+{
+"w": "eventually",
+"p": "adv.",
+"zh": "最終",
+"ex": "The issue was eventually resolved.",
+"exZh": "問題最終獲得解決。"
+},
+{
+"w": "excessively",
+"p": "adv.",
+"zh": "過度地",
+"ex": "The form is excessively long.",
+"exZh": "這份表格過度冗長。"
+},
+{
+"w": "extent",
+"p": "n.",
+"zh": "程度",
+"ex": "The extent of the damage is unclear.",
+"exZh": "損害的程度尚不明確。"
+},
+{
+"w": "fifty-fifty",
+"p": "adj.",
+"zh": "各半的",
+"ex": "Costs are split fifty-fifty.",
+"exZh": "成本各分擔一半。"
+},
+{
+"w": "foreseeable",
+"p": "adj.",
+"zh": "可預見的",
+"ex": "No change is expected in the foreseeable future.",
+"exZh": "可預見的未來不會有變動。"
+},
+{
+"w": "forthcoming",
+"p": "adj.",
+"zh": "即將到來的",
+"ex": "Details appear in the forthcoming report.",
+"exZh": "細節將出現在即將發布的報告中。"
+},
+{
+"w": "fortnight",
+"p": "n.",
+"zh": "兩週",
+"ex": "The results arrive within a fortnight.",
+"exZh": "結果將在兩週內送達。"
+},
+{
+"w": "fraction",
+"p": "n.",
+"zh": "一小部分",
+"ex": "Only a fraction of applicants qualified.",
+"exZh": "只有一小部分申請人符合資格。"
+},
+{
+"w": "frequency",
+"p": "n.",
+"zh": "頻率",
+"ex": "Delivery frequency was increased.",
+"exZh": "配送頻率增加了。"
+},
+{
+"w": "gradually",
+"p": "adv.",
+"zh": "逐步地",
+"ex": "Costs fell gradually over two years.",
+"exZh": "成本在兩年間逐步下降。"
+},
+{
+"w": "half",
+"p": "n.",
+"zh": "一半",
+"ex": "Half the seats were still empty.",
+"exZh": "一半的座位仍然空著。"
+},
+{
+"w": "half-yearly",
+"p": "adj.",
+"zh": "每半年的",
+"ex": "Half-yearly figures are published online.",
+"exZh": "每半年的數字在線上公布。"
+},
+{
+"w": "hourly",
+"p": "adj.",
+"zh": "每小時的",
+"ex": "Hourly readings are logged.",
+"exZh": "每小時的讀數都會記錄。"
+},
+{
+"w": "immediate",
+"p": "adj.",
+"zh": "立即的",
+"ex": "Immediate action was required.",
+"exZh": "需要立即行動。"
+},
+{
+"w": "imminently",
+"p": "adv.",
+"zh": "即將地",
+"ex": "A decision is expected imminently.",
+"exZh": "預計很快就會有決定。"
+},
+{
+"w": "increasingly",
+"p": "adv.",
+"zh": "日益地",
+"ex": "Buyers increasingly prefer online ordering.",
+"exZh": "買家日益偏好線上訂購。"
+},
+{
+"w": "increment",
+"p": "n.",
+"zh": "增量",
+"ex": "Salaries rise in fixed increments.",
+"exZh": "薪資以固定增量調升。"
+},
+{
+"w": "indefinite",
+"p": "adj.",
+"zh": "無限期的",
+"ex": "The suspension is indefinite.",
+"exZh": "停權為無限期。"
+},
+{
+"w": "indefinitely",
+"p": "adv.",
+"zh": "無限期地",
+"ex": "The project was postponed indefinitely.",
+"exZh": "該專案無限期延後。"
+},
+{
+"w": "infrequent",
+"p": "adj.",
+"zh": "不常發生的",
+"ex": "Faults are infrequent but costly.",
+"exZh": "故障不常發生但代價高昂。"
+},
+{
+"w": "initially",
+"p": "adv.",
+"zh": "起初",
+"ex": "Initially, only two staff were assigned.",
+"exZh": "起初只指派了兩名員工。"
+},
+{
+"w": "instantly",
+"p": "adv.",
+"zh": "立刻",
+"ex": "The alert appears instantly.",
+"exZh": "警示會立刻出現。"
+},
+{
+"w": "interim",
+"p": "adj.",
+"zh": "過渡期的",
+"ex": "An interim report is due in May.",
+"exZh": "過渡期報告於五月到期。"
+},
+{
+"w": "interim period",
+"p": "n.",
+"zh": "過渡期間",
+"ex": "An interim period allows adjustment.",
+"exZh": "過渡期間讓大家有時間適應。"
+},
+{
+"w": "intermittent",
+"p": "adj.",
+"zh": "間歇的",
+"ex": "Intermittent errors are hardest to trace.",
+"exZh": "間歇性錯誤最難追查。"
+},
+{
+"w": "interval",
+"p": "n.",
+"zh": "間隔",
+"ex": "Readings are taken at ten-minute intervals.",
+"exZh": "讀數每十分鐘取一次。"
+},
+{
+"w": "lately",
+"p": "adv.",
+"zh": "最近",
+"ex": "Demand has softened lately.",
+"exZh": "需求最近有所疲軟。"
+},
+{
+"w": "lengthen",
+"p": "v.",
+"zh": "延長",
+"ex": "Lead times lengthened over the summer.",
+"exZh": "前置時間在夏季拉長了。"
+},
+{
+"w": "lifetime",
+"p": "n.",
+"zh": "使用年限",
+"ex": "The lamp has a 20,000-hour lifetime.",
+"exZh": "該燈具使用年限為兩萬小時。"
+},
+{
+"w": "longevity",
+"p": "n.",
+"zh": "耐久性",
+"ex": "Product longevity affects total cost.",
+"exZh": "產品耐久性影響總成本。"
+},
+{
+"w": "majority",
+"p": "n.",
+"zh": "多數",
+"ex": "The majority favored the change.",
+"exZh": "多數人贊成這項變更。"
+},
+{
+"w": "maximum",
+"p": "n.",
+"zh": "最大值",
+"ex": "The maximum load is 500 kilograms.",
+"exZh": "最大負載為五百公斤。"
+},
+{
+"w": "meanwhile",
+"p": "adv.",
+"zh": "與此同時",
+"ex": "Meanwhile, testing continued.",
+"exZh": "與此同時測試仍在進行。"
+},
+{
+"w": "midway",
+"p": "adv.",
+"zh": "中途",
+"ex": "We changed course midway.",
+"exZh": "我們中途改變了方向。"
+},
+{
+"w": "minimum",
+"p": "n.",
+"zh": "最低限度",
+"ex": "A minimum order applies.",
+"exZh": "適用最低訂購量。"
+},
+{
+"w": "momentarily",
+"p": "adv.",
+"zh": "短暫地",
+"ex": "The screen flickered momentarily.",
+"exZh": "螢幕短暫閃爍了一下。"
+},
+{
+"w": "monthly",
+"p": "adj.",
+"zh": "每月的",
+"ex": "Monthly reports are due on the fifth.",
+"exZh": "每月報告於五號到期。"
+},
+{
+"w": "negligible",
+"p": "adj.",
+"zh": "微不足道的",
+"ex": "The difference is negligible.",
+"exZh": "差異微不足道。"
+},
+{
+"w": "numerical",
+"p": "adj.",
+"zh": "數字的",
+"ex": "Results are shown in numerical order.",
+"exZh": "結果依數字順序呈現。"
+},
+{
+"w": "occasionally",
+"p": "adv.",
+"zh": "偶爾",
+"ex": "The alarm occasionally triggers falsely.",
+"exZh": "警報偶爾會誤觸發。"
+},
+{
+"w": "onset",
+"p": "n.",
+"zh": "開始",
+"ex": "The onset of symptoms was gradual.",
+"exZh": "症狀的出現是漸進的。"
+},
+{
+"w": "onward",
+"p": "adv.",
+"zh": "之後",
+"ex": "From July onward, rates change.",
+"exZh": "七月之後費率會改變。"
+},
+{
+"w": "outset",
+"p": "n.",
+"zh": "一開始",
+"ex": "Risks were flagged at the outset.",
+"exZh": "風險在一開始就被指出。"
+},
+{
+"w": "overall",
+"p": "adj./adv.",
+"zh": "整體的",
+"ex": "Overall performance improved.",
+"exZh": "整體表現有所改善。"
+},
+{
+"w": "partial",
+"p": "adj.",
+"zh": "部分的",
+"ex": "A partial refund was issued.",
+"exZh": "已辦理部分退款。"
+},
+{
+"w": "peak",
+"p": "n.",
+"zh": "尖峰",
+"ex": "Demand peaks at midday.",
+"exZh": "需求在中午達到尖峰。"
+},
+{
+"w": "period",
+"p": "n.",
+"zh": "期間",
+"ex": "The trial period lasts 30 days.",
+"exZh": "試用期為三十天。"
+},
+{
+"w": "periodic",
+"p": "adj.",
+"zh": "定期的",
+"ex": "Periodic checks are mandatory.",
+"exZh": "定期檢查是強制的。"
+},
+{
+"w": "permanent",
+"p": "adj.",
+"zh": "永久的",
+"ex": "The position became permanent.",
+"exZh": "該職位轉為永久職。"
+},
+{
+"w": "persistently",
+"p": "adv.",
+"zh": "持續地",
+"ex": "Costs rose persistently all year.",
+"exZh": "成本整年持續上升。"
+},
+{
+"w": "plenty",
+"p": "n.",
+"zh": "充足",
+"ex": "There is plenty of time left.",
+"exZh": "還有充足的時間。"
+},
+{
+"w": "precedence",
+"p": "n.",
+"zh": "優先順序",
+"ex": "Safety takes precedence over speed.",
+"exZh": "安全優先於速度。"
+},
+{
+"w": "preceding",
+"p": "adj.",
+"zh": "前面的",
+"ex": "See the preceding paragraph.",
+"exZh": "請見前一段。"
+},
+{
+"w": "promptness",
+"p": "n.",
+"zh": "迅速",
+"ex": "Promptness is valued by clients.",
+"exZh": "客戶重視迅速回應。"
+},
+{
+"w": "punctually",
+"p": "adv.",
+"zh": "準時地",
+"ex": "The train departed punctually.",
+"exZh": "列車準時發車。"
+},
+{
+"w": "quantify",
+"p": "v.",
+"zh": "量化",
+"ex": "It is hard to quantify the benefit.",
+"exZh": "好處很難量化。"
+},
+{
+"w": "quarter",
+"p": "n.",
+"zh": "季",
+"ex": "Results improve each quarter.",
+"exZh": "業績逐季改善。"
+},
+{
+"w": "rarely",
+"p": "adv.",
+"zh": "罕見地",
+"ex": "The system rarely fails.",
+"exZh": "該系統罕有故障。"
+},
+{
+"w": "ratio",
+"p": "n.",
+"zh": "比率",
+"ex": "The staff-to-student ratio is one to twelve.",
+"exZh": "師生比為一比十二。"
+},
+{
+"w": "recently",
+"p": "adv.",
+"zh": "最近",
+"ex": "The policy was recently updated.",
+"exZh": "該政策最近已更新。"
+},
+{
+"w": "regularly",
+"p": "adv.",
+"zh": "定期地",
+"ex": "Filters are replaced regularly.",
+"exZh": "濾網定期更換。"
+},
+{
+"w": "remainder",
+"p": "n.",
+"zh": "其餘部分",
+"ex": "The remainder will ship next week.",
+"exZh": "其餘部分將於下週出貨。"
+},
+{
+"w": "remainder period",
+"p": "n.",
+"zh": "剩餘期間",
+"ex": "The remainder period covers two months.",
+"exZh": "剩餘期間涵蓋兩個月。"
+},
+{
+"w": "scarcely",
+"p": "adv.",
+"zh": "幾乎不",
+"ex": "There is scarcely any time left.",
+"exZh": "幾乎沒有時間了。"
+},
+{
+"w": "seasonally",
+"p": "adv.",
+"zh": "隨季節地",
+"ex": "Prices adjust seasonally.",
+"exZh": "價格隨季節調整。"
+},
+{
+"w": "seldom",
+"p": "adv.",
+"zh": "很少",
+"ex": "Complaints are seldom escalated.",
+"exZh": "客訴很少被升級處理。"
+},
+{
+"w": "semiannual",
+"p": "adj.",
+"zh": "半年一次的",
+"ex": "A semiannual audit is required.",
+"exZh": "需要進行半年一次的稽核。"
+},
+{
+"w": "sequential",
+"p": "adj.",
+"zh": "依序的",
+"ex": "Tasks must be sequential.",
+"exZh": "任務必須依序進行。"
+},
+{
+"w": "shortly",
+"p": "adv.",
+"zh": "不久後",
+"ex": "We will respond shortly.",
+"exZh": "我們將很快回覆。"
+},
+{
+"w": "simultaneously",
+"p": "adv.",
+"zh": "同時地",
+"ex": "Both systems run simultaneously.",
+"exZh": "兩套系統同時運行。"
+},
+{
+"w": "span",
+"p": "n./v.",
+"zh": "跨度",
+"ex": "The study spans twenty years.",
+"exZh": "該研究橫跨二十年。"
+},
+{
+"w": "sporadic",
+"p": "adj.",
+"zh": "零星的",
+"ex": "Sporadic outages were reported.",
+"exZh": "回報有零星中斷。"
+},
+{
+"w": "subsequently",
+"p": "adv.",
+"zh": "隨後",
+"ex": "The order was subsequently cancelled.",
+"exZh": "該訂單隨後被取消。"
+},
+{
+"w": "substantially",
+"p": "adv.",
+"zh": "大幅地",
+"ex": "Costs fell substantially.",
+"exZh": "成本大幅下降。"
+},
+{
+"w": "succeeding",
+"p": "adj.",
+"zh": "接下來的",
+"ex": "Succeeding chapters cover the method.",
+"exZh": "接下來的章節說明方法。"
+},
+{
+"w": "successive",
+"p": "adj.",
+"zh": "連續的",
+"ex": "Three successive quarters showed growth.",
+"exZh": "連續三季呈現成長。"
+},
+{
+"w": "sufficient quantity",
+"p": "n.",
+"zh": "足量",
+"ex": "We hold a sufficient quantity in stock.",
+"exZh": "我們有足量庫存。"
+},
+{
+"w": "sum",
+"p": "n.",
+"zh": "總和",
+"ex": "The sum of the parts exceeds the whole.",
+"exZh": "各部分的總和超過整體。"
+},
+{
+"w": "temporarily",
+"p": "adv.",
+"zh": "暫時地",
+"ex": "The line is temporarily out of service.",
+"exZh": "該線路暫時停用。"
+},
+{
+"w": "threefold",
+"p": "adj.",
+"zh": "三倍的",
+"ex": "The increase was threefold.",
+"exZh": "增加了三倍。"
+},
+{
+"w": "threshold value",
+"p": "n.",
+"zh": "門檻值",
+"ex": "Alerts trigger above the threshold value.",
+"exZh": "超過門檻值就會觸發警示。"
+},
+{
+"w": "throughout",
+"p": "prep.",
+"zh": "自始至終",
+"ex": "Quality stayed high throughout.",
+"exZh": "品質自始至終維持高水準。"
+},
+{
+"w": "timeframe",
+"p": "n.",
+"zh": "時間範圍",
+"ex": "The timeframe is tight but workable.",
+"exZh": "時間範圍緊湊但可行。"
+},
+{
+"w": "total",
+"p": "n./adj.",
+"zh": "總計",
+"ex": "The total came to 8,400 dollars.",
+"exZh": "總計為八千四百美元。"
+},
+{
+"w": "transitional",
+"p": "adj.",
+"zh": "過渡的",
+"ex": "A transitional phase lasts six months.",
+"exZh": "過渡階段為期六個月。"
+},
+{
+"w": "triple",
+"p": "v./adj.",
+"zh": "三倍",
+"ex": "Capacity will triple by 2030.",
+"exZh": "產能將於 2030 年前增為三倍。"
+},
+{
+"w": "twofold",
+"p": "adj.",
+"zh": "兩方面的",
+"ex": "The benefit is twofold.",
+"exZh": "好處有兩方面。"
+},
+{
+"w": "ultimately",
+"p": "adv.",
+"zh": "最終",
+"ex": "Ultimately, cost decided the outcome.",
+"exZh": "最終是成本決定了結果。"
+},
+{
+"w": "underestimate",
+"p": "v.",
+"zh": "低估",
+"ex": "We underestimated the setup time.",
+"exZh": "我們低估了設置時間。"
+},
+{
+"w": "upcoming",
+"p": "adj.",
+"zh": "即將到來的",
+"ex": "The upcoming release adds two features.",
+"exZh": "即將到來的版本新增兩項功能。"
+},
+{
+"w": "weekly",
+"p": "adj.",
+"zh": "每週的",
+"ex": "A weekly summary is circulated.",
+"exZh": "每週摘要會傳閱。"
+},
+{
+"w": "whole",
+"p": "n.",
+"zh": "整體",
+"ex": "The whole of the region was affected.",
+"exZh": "整個地區都受到影響。"
+},
+{
+"w": "yearly",
+"p": "adj.",
+"zh": "每年的",
+"ex": "Yearly maintenance is included.",
+"exZh": "含每年一次的保養。"
+}
+]
+}
